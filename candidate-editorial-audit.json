@@ -1,0 +1,101 @@
+{
+  "observedAt": "2026-06-02",
+  "criterion": "A hit is clearly relevant or usefully narrower or broader. A miss is clearly unrelated or lacks sufficient title-and-abstract evidence.",
+  "topics": {
+    "diabetes": {
+      "capture": "candidate-wave2-finalists-capture.json",
+      "methods": {
+        "keyword": { "missRecordIds": [] },
+        "semantic": { "missRecordIds": ["UY_90cb5df4691194f32bee1e536463eac3"] },
+        "hybrid": { "missRecordIds": ["UY_90cb5df4691194f32bee1e536463eac3"] }
+      },
+      "notes": {
+        "UY_90cb5df4691194f32bee1e536463eac3": "The title is only about chronic medication use and the record exposes no abstract establishing diabetes."
+      }
+    },
+    "human-rights": {
+      "capture": "candidate-finalists-capture.json",
+      "methods": {
+        "semantic": { "missRecordIds": [] }
+      },
+      "notes": {}
+    },
+    "climate-change": {
+      "capture": "candidate-finalists-capture.json",
+      "methods": {
+        "semantic": { "missRecordIds": ["UY_e34f9790286c547d7f2a2d5e314fa23c"] }
+      },
+      "notes": {
+        "UY_e34f9790286c547d7f2a2d5e314fa23c": "The title concerns social and project changes, and the record exposes no abstract establishing climate change."
+      }
+    },
+    "violence-against-women": {
+      "capture": "candidate-wave2-finalists-capture.json",
+      "methods": {
+        "semantic": {
+          "missRecordIds": [
+            "UY_1075191106af3ea18ca44a0915247f9e",
+            "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+            "UY_64449d45b896b0e4c546f2d8bc22f939",
+            "UY_829f568663bb9580a6235fecaf8b757f",
+            "UY_dd18c63fbd297db2542c5b43ea2623be",
+            "UY_eb5e2ffea5de563bc8060add83076d91"
+          ]
+        }
+      },
+      "notes": {
+        "UY_1075191106af3ea18ca44a0915247f9e": "The abstract concerns childhood violence in the media, not violence against women.",
+        "UY_212b00fa19a8d0cc7bd0970357b79cb4": "The title concerns social control over women and the record exposes no abstract establishing violence.",
+        "UY_64449d45b896b0e4c546f2d8bc22f939": "The title concerns adverse drug reactions in women, not violence.",
+        "UY_829f568663bb9580a6235fecaf8b757f": "The title concerns family, women and social control and the record exposes no abstract establishing violence.",
+        "UY_dd18c63fbd297db2542c5b43ea2623be": "The abstract concerns gender inequalities, not violence against women.",
+        "UY_eb5e2ffea5de563bc8060add83076d91": "The abstract concerns violence among secondary-school students, not violence against women."
+      }
+    },
+    "water-quality": {
+      "capture": "candidate-finalists-capture.json",
+      "methods": {
+        "semantic": {
+          "missRecordIds": [
+            "UY_04c8b5f41d3d490eea50834622492796",
+            "UY_3bf55bc4bb707e806d69416479de1620",
+            "UY_983b7a325fa99cbc0c2589d5f67254bf",
+            "UY_c69af362dc71f4f2ec9450719444f221"
+          ]
+        }
+      },
+      "notes": {
+        "UY_04c8b5f41d3d490eea50834622492796": "The record concerns heating sanitary water, not water quality.",
+        "UY_3bf55bc4bb707e806d69416479de1620": "The title concerns hydrological data and long-memory processes, not water quality.",
+        "UY_983b7a325fa99cbc0c2589d5f67254bf": "Quality refers to the rule of law, not water.",
+        "UY_c69af362dc71f4f2ec9450719444f221": "Quality refers to voice over IP, not water."
+      }
+    },
+    "breast-cancer": {
+      "capture": "candidate-breast-cancer-capture.json",
+      "methods": {
+        "semantic": {
+          "missRecordIds": [
+            "UY_16a47cff47e9525a0ba47f60c755e811",
+            "UY_23f74c9df532d5488132e2f3883b3a6a",
+            "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+            "UY_7396746296ab129324e996c9c6983c2d",
+            "UY_7488a3ee2f5ec9c79cc7b49a09524e46",
+            "UY_8e895c9dc794d25a915cb887567ae49b",
+            "UY_959bc3e981f64043f83da664b008d568",
+            "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+            "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+            "UY_c6de508cdd5c893499020c6bffd28ff9",
+            "UY_d1fc141f7f994f52d600b79d89df38b0",
+            "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+            "UY_e77262bb72b201408fe7924582fc08b4",
+            "UY_e78c65dafc57abbaf281b06f83121bd4",
+            "UY_f87a09dc890232dbe1f902fa9c11a948",
+            "UY_fb0c587324ff0b517f8b5674439c063a"
+          ]
+        }
+      },
+      "notes": {}
+    }
+  }
+}

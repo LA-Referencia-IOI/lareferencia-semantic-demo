@@ -1,0 +1,1811 @@
+{
+  "observedAt": "2026-06-02",
+  "topics": [
+    {
+      "id": "breast-cancer",
+      "title": "Breast cancer",
+      "controlPt": "câncer de mama",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "breast cancer",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.86
+            },
+            {
+              "position": 2,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.85
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.84
+            },
+            {
+              "position": 4,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.83
+            },
+            {
+              "position": 5,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.83
+            },
+            {
+              "position": 6,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.83
+            },
+            {
+              "position": 7,
+              "recordId": "UY_a11a885619e36c45329a007899405b79",
+              "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "UY_f284f8173fabda67d37cca81e851854c",
+              "title": "Assessing Adherence to Adjuvant Hormone Therapy in Breast Cancer Patients in Routine Clinical Practice",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.82
+            },
+            {
+              "position": 10,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.82
+            }
+          ],
+          "results": {
+            "keyword": [
+              {
+                "position": 1,
+                "recordId": "UY_216bfc17ea76532bbb80b61af5d9d457",
+                "title": "PSYCHOSOCIAL VARIABLES ASSOCIATED WITH HEALTH RELATED QUALITY OF LIFE IN WOMEN WITH BREAST CANCER POST-SURGERY: A SYSTEMATIC REVIEW"
+              },
+              {
+                "position": 2,
+                "recordId": "UY_d1610cb67e22a7263ce17cc832f525af",
+                "title": "Concerns about cancer recurrence in Mexican women breast cancer survivors. Psychometric properties of the CARS scale"
+              },
+              {
+                "position": 3,
+                "recordId": "UY_7e2f7915dd06c9cb152e478e58bd83b0",
+                "title": "Successive bilateral breast cancer"
+              },
+              {
+                "position": 4,
+                "recordId": "UY_6de2bd0256fa0764f2384efcde9016cc",
+                "title": "Influence of Self-efficacy on Uncertainty and Quality of Life of Women with Breast Cancer. Integrative Review"
+              },
+              {
+                "position": 5,
+                "recordId": "Deposita_cd66a7b09d5b7d184f77ecbe840f75d3",
+                "title": "Avaliação postural através da biofotogrametria computadorizada em pacientes submetidas ao tratamento cirúrgico do câncer da mama"
+              },
+              {
+                "position": 6,
+                "recordId": "UY_41036ac4edc0b6da56ff9b670477ea0c",
+                "title": "Breast Fibroadenoma Association: Hodgkin's Disease and Bilateral Inflammatory Breast Cancer: Aetiopathogenic considerations regarding a case"
+              },
+              {
+                "position": 7,
+                "recordId": "UY_440842f15eeae1781a49ab71c225cf51",
+                "title": "Multicentricity in breast cancer. 4 cases"
+              },
+              {
+                "position": 8,
+                "recordId": "UY_e28245b5e5c3f309ef06dc7bee77940b",
+                "title": "Metastatic tumor in the breast: primitive: gastric cancer"
+              },
+              {
+                "position": 9,
+                "recordId": "UY_8a9231309639d00e3761c81522b70264",
+                "title": "Selective axillary dissection in cancer of breast: sentinel node technique"
+              },
+              {
+                "position": 10,
+                "recordId": "UY_de364efc2c1b87481a51097cf6204c20",
+                "title": "HEALTH RELATED QUALITY OF LIFE OF URUGUAYAN WOMEN WITH BREAST CANCER"
+              }
+            ],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.86
+              },
+              {
+                "position": 2,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.85
+              },
+              {
+                "position": 3,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.84
+              },
+              {
+                "position": 4,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.83
+              },
+              {
+                "position": 5,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.83
+              },
+              {
+                "position": 6,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.83
+              },
+              {
+                "position": 7,
+                "recordId": "UY_a11a885619e36c45329a007899405b79",
+                "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+                "score": 0.82
+              },
+              {
+                "position": 8,
+                "recordId": "UY_f284f8173fabda67d37cca81e851854c",
+                "title": "Assessing Adherence to Adjuvant Hormone Therapy in Breast Cancer Patients in Routine Clinical Practice",
+                "score": 0.82
+              },
+              {
+                "position": 9,
+                "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+                "title": "Diagnóstico radiológico de cáncer de mama",
+                "score": 0.82
+              },
+              {
+                "position": 10,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.82
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_216bfc17ea76532bbb80b61af5d9d457",
+                "title": "PSYCHOSOCIAL VARIABLES ASSOCIATED WITH HEALTH RELATED QUALITY OF LIFE IN WOMEN WITH BREAST CANCER POST-SURGERY: A SYSTEMATIC REVIEW",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_d1610cb67e22a7263ce17cc832f525af",
+                "title": "Concerns about cancer recurrence in Mexican women breast cancer survivors. Psychometric properties of the CARS scale",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_7e2f7915dd06c9cb152e478e58bd83b0",
+                "title": "Successive bilateral breast cancer",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_6de2bd0256fa0764f2384efcde9016cc",
+                "title": "Influence of Self-efficacy on Uncertainty and Quality of Life of Women with Breast Cancer. Integrative Review",
+                "score": 0.02
+              },
+              {
+                "position": 8,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.02
+              },
+              {
+                "position": 9,
+                "recordId": "Deposita_cd66a7b09d5b7d184f77ecbe840f75d3",
+                "title": "Avaliação postural através da biofotogrametria computadorizada em pacientes submetidas ao tratamento cirúrgico do câncer da mama",
+                "score": 0.02
+              },
+              {
+                "position": 10,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.02
+              }
+            ]
+          }
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "cancer du sein",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+              "title": "Ovarian cancer",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+              "title": "Enfermedad de Paget del seno",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+              "title": "Operaciones por cáncer de duodeno",
+              "score": 0.79
+            }
+          ],
+          "results": {
+            "keyword": [
+              {
+                "position": 1,
+                "recordId": "Deposita_76698c4c5846ac2fc682bb7f0024a27c",
+                "title": "From organizational silence to structured debate about work : effects on the safety and on the organization."
+              },
+              {
+                "position": 2,
+                "recordId": "UY_87adf6671c4489f00d23aa94ee94f89c",
+                "title": "Assessing the accuracy of imputation in the Gyr breed using different SNP panels."
+              },
+              {
+                "position": 3,
+                "recordId": "UY_aabff5d7badc00286ea0006aadc8e76b",
+                "title": "Terapia centrada en la solución como herramienta para el tratamiento de síntomas depresivos en pacientes y/o familiares de pacientes con diagnóstico de cáncer activo: revisión sistemática"
+              },
+              {
+                "position": 4,
+                "recordId": "UY_670dfaa58a6907d193d2cddb1abd2737",
+                "title": "Nc886 is epigenetically repressed in prostate cancer and acts as a tumor suppressor through the inhibition of cell growth"
+              },
+              {
+                "position": 5,
+                "recordId": "UY_68c7854c93dddd963157cf020470e4e2",
+                "title": "Hormona liberadora de la hormona luteinizante (LHRH): potencial agente de oncología molecular"
+              },
+              {
+                "position": 6,
+                "recordId": "UY_5bb6339edf8cacca8021ee226e1b693a",
+                "title": "vtRNA2-1/nc886 produces a small RNA that contributes to its tumor suppression action through the microRNA pathway in prostate cancer"
+              },
+              {
+                "position": 7,
+                "recordId": "Deposita_f74134c27885fdfebf579e571a3d5aa5",
+                "title": "The collection of taxes and the enforcement of fundamental rights - legal-comparative analysis between the Portuguese and Brazilian systems."
+              },
+              {
+                "position": 8,
+                "recordId": "UY_5b2d10f12e638ab2b90464b08ac4b24c",
+                "title": "COGNITION AND LANGUAGE IN CHILDREN CRI-DU-CHAT AND DOWN. A COMPARATIVE STUDY PROGRESS"
+              },
+              {
+                "position": 9,
+                "recordId": "UY_cd6fefc37e9a9196ae1b31e4c5246be5",
+                "title": "The War of Canudos in Brazilian magazines published in Europe: the case of the Revue du Brésil (Paris, 1896-1898)"
+              },
+              {
+                "position": 10,
+                "recordId": "Deposita_45a07ed4ebba44fa8d05c5179a665c75",
+                "title": "Une dynamique regionale fondee sur la diversification industrielle: l’expérience de la région de Caxias do Sul (Brésil)"
+              }
+            ],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+                "title": "Ovarian cancer",
+                "score": 0.81
+              },
+              {
+                "position": 2,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.8
+              },
+              {
+                "position": 3,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 4,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.8
+              },
+              {
+                "position": 5,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 6,
+                "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+                "title": "Tratamiento quirúrgico del cáncer de estómago",
+                "score": 0.8
+              },
+              {
+                "position": 7,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.79
+              },
+              {
+                "position": 8,
+                "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+                "title": "Enfermedad de Paget del seno",
+                "score": 0.79
+              },
+              {
+                "position": 9,
+                "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+                "title": "Diagnóstico radiológico del cáncer de mama",
+                "score": 0.79
+              },
+              {
+                "position": 10,
+                "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+                "title": "Operaciones por cáncer de duodeno",
+                "score": 0.79
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "Deposita_76698c4c5846ac2fc682bb7f0024a27c",
+                "title": "From organizational silence to structured debate about work : effects on the safety and on the organization.",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+                "title": "Ovarian cancer",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_87adf6671c4489f00d23aa94ee94f89c",
+                "title": "Assessing the accuracy of imputation in the Gyr breed using different SNP panels.",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_aabff5d7badc00286ea0006aadc8e76b",
+                "title": "Terapia centrada en la solución como herramienta para el tratamiento de síntomas depresivos en pacientes y/o familiares de pacientes con diagnóstico de cáncer activo: revisión sistemática",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_670dfaa58a6907d193d2cddb1abd2737",
+                "title": "Nc886 is epigenetically repressed in prostate cancer and acts as a tumor suppressor through the inhibition of cell growth",
+                "score": 0.02
+              },
+              {
+                "position": 8,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.02
+              },
+              {
+                "position": 9,
+                "recordId": "UY_68c7854c93dddd963157cf020470e4e2",
+                "title": "Hormona liberadora de la hormona luteinizante (LHRH): potencial agente de oncología molecular",
+                "score": 0.02
+              },
+              {
+                "position": 10,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.02
+              }
+            ]
+          }
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Brustkrebs",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+              "title": "Tratamiento quirúrgico del cáncer de pulmón",
+              "score": 0.76
+            },
+            {
+              "position": 2,
+              "recordId": "UY_8e895c9dc794d25a915cb887567ae49b",
+              "title": "Radioterapia de los tumores malignos primitivos del hueso",
+              "score": 0.76
+            },
+            {
+              "position": 3,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.76
+            },
+            {
+              "position": 4,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.75
+            },
+            {
+              "position": 5,
+              "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+              "title": "El tratamiento de los tumores de los huesos",
+              "score": 0.75
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7488a3ee2f5ec9c79cc7b49a09524e46",
+              "title": "Importancia de la broncoscopía en la cirugía del cáncer del pulmón",
+              "score": 0.75
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.75
+            },
+            {
+              "position": 8,
+              "recordId": "UY_d1fc141f7f994f52d600b79d89df38b0",
+              "title": "Tratamiento radiante y químico del cáncer de pulmón",
+              "score": 0.75
+            },
+            {
+              "position": 9,
+              "recordId": "UY_23f74c9df532d5488132e2f3883b3a6a",
+              "title": "Bronchus adenoma",
+              "score": 0.75
+            }
+          ],
+          "results": {
+            "keyword": [],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+                "title": "Tratamiento quirúrgico del cáncer de pulmón",
+                "score": 0.76
+              },
+              {
+                "position": 2,
+                "recordId": "UY_8e895c9dc794d25a915cb887567ae49b",
+                "title": "Radioterapia de los tumores malignos primitivos del hueso",
+                "score": 0.76
+              },
+              {
+                "position": 3,
+                "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+                "title": "Tratamiento quirúrgico del cáncer de estómago",
+                "score": 0.76
+              },
+              {
+                "position": 4,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.75
+              },
+              {
+                "position": 5,
+                "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+                "title": "El tratamiento de los tumores de los huesos",
+                "score": 0.75
+              },
+              {
+                "position": 6,
+                "recordId": "UY_7488a3ee2f5ec9c79cc7b49a09524e46",
+                "title": "Importancia de la broncoscopía en la cirugía del cáncer del pulmón",
+                "score": 0.75
+              },
+              {
+                "position": 7,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.75
+              },
+              {
+                "position": 8,
+                "recordId": "UY_d1fc141f7f994f52d600b79d89df38b0",
+                "title": "Tratamiento radiante y químico del cáncer de pulmón",
+                "score": 0.75
+              },
+              {
+                "position": 9,
+                "recordId": "UY_23f74c9df532d5488132e2f3883b3a6a",
+                "title": "Bronchus adenoma",
+                "score": 0.75
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+                "title": "Tratamiento quirúrgico del cáncer de pulmón",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_8e895c9dc794d25a915cb887567ae49b",
+                "title": "Radioterapia de los tumores malignos primitivos del hueso",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+                "title": "Tratamiento quirúrgico del cáncer de estómago",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+                "title": "El tratamiento de los tumores de los huesos",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_7488a3ee2f5ec9c79cc7b49a09524e46",
+                "title": "Importancia de la broncoscopía en la cirugía del cáncer del pulmón",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_d1fc141f7f994f52d600b79d89df38b0",
+                "title": "Tratamiento radiante y químico del cáncer de pulmón",
+                "score": 0.01
+              },
+              {
+                "position": 8,
+                "recordId": "UY_23f74c9df532d5488132e2f3883b3a6a",
+                "title": "Bronchus adenoma",
+                "score": 0.01
+              },
+              {
+                "position": 9,
+                "recordId": "UY_1535f361deb7f172abf84de40eb249f1",
+                "title": "Las Calcificaciones de los Tumores Malignos",
+                "score": 0.01
+              },
+              {
+                "position": 10,
+                "recordId": "UY_8a2b384597ac2ebca41d987b69ec24dd",
+                "title": "Determination of “borderline resectable” pancreatic cancer – A global assessment of 30 shades of grey",
+                "score": 0.01
+              }
+            ]
+          }
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "tumore al seno",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_7396746296ab129324e996c9c6983c2d",
+              "title": "Tumores incluidos en el ligamento ancho",
+              "score": 0.79
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c6de508cdd5c893499020c6bffd28ff9",
+              "title": "Large benign breast tumors",
+              "score": 0.79
+            },
+            {
+              "position": 4,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+              "title": "Enfermedad de Paget del seno",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+              "title": "El tratamiento de los tumores de los huesos",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_e77262bb72b201408fe7924582fc08b4",
+              "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_fb0c587324ff0b517f8b5674439c063a",
+              "title": "Ewing tumor",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.78
+            }
+          ],
+          "results": {
+            "keyword": [
+              {
+                "position": 1,
+                "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+                "title": "Enfermedad de Paget del seno"
+              },
+              {
+                "position": 2,
+                "recordId": "UY_c6de508cdd5c893499020c6bffd28ff9",
+                "title": "Large benign breast tumors"
+              },
+              {
+                "position": 3,
+                "recordId": "UY_459592de42169efba0f659fad4627a47",
+                "title": "Reconstructive surgery in the aftermath of mastectomy"
+              },
+              {
+                "position": 4,
+                "recordId": "UY_e77262bb72b201408fe7924582fc08b4",
+                "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary"
+              },
+              {
+                "position": 5,
+                "recordId": "UY_603e56cecbe5865aea7cdcac17d6b4e7",
+                "title": "Diagnóstico y tratamiento de la enfermedad de Paget del seno"
+              },
+              {
+                "position": 6,
+                "recordId": "UY_d9abce7253fbb03ab27939f36d460b1b",
+                "title": "Mucocele de Seno Maxilar: revisión a propósito de un caso"
+              },
+              {
+                "position": 7,
+                "recordId": "UY_0696dec737b15927617460b288d998d4",
+                "title": "Informe final del proyecto: Dentro de la cabeza de los gigantes: un análisis comparativo de las estructuras craneales internas en xenartros"
+              },
+              {
+                "position": 8,
+                "recordId": "UY_afbe4a2a09e2fa9e0e57b08fd9ef0f79",
+                "title": "El constitucionalismo latinoamericano y la protección de los derechos indígenas"
+              },
+              {
+                "position": 9,
+                "recordId": "UY_bbb2df06a2b4acfdb7cca5a07cc220c0",
+                "title": "Cuerpo esqueletizado identificado por análisis morfológico del seno frontal y características del material de osteosíntesis – relato de caso pericial"
+              },
+              {
+                "position": 10,
+                "recordId": "UY_7b30b922e6bcaf2ff5b52115b4b1f395",
+                "title": "Nuestra experiencia con el neumoperitoneo preoperatorio en el tratamiento de las eventraciones"
+              }
+            ],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.79
+              },
+              {
+                "position": 2,
+                "recordId": "UY_7396746296ab129324e996c9c6983c2d",
+                "title": "Tumores incluidos en el ligamento ancho",
+                "score": 0.79
+              },
+              {
+                "position": 3,
+                "recordId": "UY_c6de508cdd5c893499020c6bffd28ff9",
+                "title": "Large benign breast tumors",
+                "score": 0.79
+              },
+              {
+                "position": 4,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.79
+              },
+              {
+                "position": 5,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.78
+              },
+              {
+                "position": 6,
+                "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+                "title": "Enfermedad de Paget del seno",
+                "score": 0.78
+              },
+              {
+                "position": 7,
+                "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+                "title": "El tratamiento de los tumores de los huesos",
+                "score": 0.78
+              },
+              {
+                "position": 8,
+                "recordId": "UY_e77262bb72b201408fe7924582fc08b4",
+                "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary",
+                "score": 0.78
+              },
+              {
+                "position": 9,
+                "recordId": "UY_fb0c587324ff0b517f8b5674439c063a",
+                "title": "Ewing tumor",
+                "score": 0.78
+              },
+              {
+                "position": 10,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.78
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_c6de508cdd5c893499020c6bffd28ff9",
+                "title": "Large benign breast tumors",
+                "score": 0.03
+              },
+              {
+                "position": 2,
+                "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+                "title": "Enfermedad de Paget del seno",
+                "score": 0.03
+              },
+              {
+                "position": 3,
+                "recordId": "UY_e77262bb72b201408fe7924582fc08b4",
+                "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary",
+                "score": 0.03
+              },
+              {
+                "position": 4,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_7396746296ab129324e996c9c6983c2d",
+                "title": "Tumores incluidos en el ligamento ancho",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_459592de42169efba0f659fad4627a47",
+                "title": "Reconstructive surgery in the aftermath of mastectomy",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 8,
+                "recordId": "UY_603e56cecbe5865aea7cdcac17d6b4e7",
+                "title": "Diagnóstico y tratamiento de la enfermedad de Paget del seno",
+                "score": 0.02
+              },
+              {
+                "position": 9,
+                "recordId": "UY_959bc3e981f64043f83da664b008d568",
+                "title": "Tratamiento del cáncer del cuerpo uterino",
+                "score": 0.02
+              },
+              {
+                "position": 10,
+                "recordId": "UY_d9abce7253fbb03ab27939f36d460b1b",
+                "title": "Mucocele de Seno Maxilar: revisión a propósito de un caso",
+                "score": 0.02
+              }
+            ]
+          }
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "乳腺癌",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+              "title": "Carcinoma de mama y embarazo",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+              "title": "Lung cancer",
+              "score": 0.81
+            },
+            {
+              "position": 9,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.8
+            }
+          ],
+          "results": {
+            "keyword": [],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.83
+              },
+              {
+                "position": 2,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.82
+              },
+              {
+                "position": 3,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.82
+              },
+              {
+                "position": 4,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.81
+              },
+              {
+                "position": 5,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.81
+              },
+              {
+                "position": 6,
+                "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+                "title": "Carcinoma de mama y embarazo",
+                "score": 0.81
+              },
+              {
+                "position": 7,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.81
+              },
+              {
+                "position": 8,
+                "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+                "title": "Lung cancer",
+                "score": 0.81
+              },
+              {
+                "position": 9,
+                "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+                "title": "Diagnóstico radiológico de cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 10,
+                "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+                "title": "Diagnóstico radiológico del cáncer de mama",
+                "score": 0.8
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+                "title": "Carcinoma de mama y embarazo",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.01
+              },
+              {
+                "position": 8,
+                "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+                "title": "Diagnóstico radiológico de cáncer de mama",
+                "score": 0.01
+              },
+              {
+                "position": 9,
+                "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+                "title": "Diagnóstico radiológico del cáncer de mama",
+                "score": 0.01
+              },
+              {
+                "position": 10,
+                "recordId": "UY_29fbe01b8e468ac7d74a54e75b5f90d3",
+                "title": "Aspectos físicos de imagenología en cáncer de mama",
+                "score": 0.01
+              }
+            ]
+          }
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "乳がん",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+              "title": "Lung cancer",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+              "title": "Carcinoma de mama y embarazo",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+              "title": "Tratamiento quirúrgico del cáncer de pulmón",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_a11a885619e36c45329a007899405b79",
+              "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+              "score": 0.79
+            }
+          ],
+          "results": {
+            "keyword": [],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.81
+              },
+              {
+                "position": 2,
+                "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+                "title": "Lung cancer",
+                "score": 0.81
+              },
+              {
+                "position": 3,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.81
+              },
+              {
+                "position": 4,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.8
+              },
+              {
+                "position": 5,
+                "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+                "title": "Carcinoma de mama y embarazo",
+                "score": 0.8
+              },
+              {
+                "position": 6,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 7,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.79
+              },
+              {
+                "position": 8,
+                "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+                "title": "Tratamiento quirúrgico del cáncer de pulmón",
+                "score": 0.79
+              },
+              {
+                "position": 9,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.79
+              },
+              {
+                "position": 10,
+                "recordId": "UY_a11a885619e36c45329a007899405b79",
+                "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+                "score": 0.79
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+                "title": "Lung cancer",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+                "title": "Carcinoma de mama y embarazo",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+                "title": "About breast cancer",
+                "score": 0.01
+              },
+              {
+                "position": 8,
+                "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+                "title": "Tratamiento quirúrgico del cáncer de pulmón",
+                "score": 0.01
+              },
+              {
+                "position": 9,
+                "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+                "title": "Elección de tratamiento en el cáncer de la mama",
+                "score": 0.01
+              },
+              {
+                "position": 10,
+                "recordId": "UY_a11a885619e36c45329a007899405b79",
+                "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+                "score": 0.01
+              }
+            ]
+          }
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "سرطان الثدي",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+              "title": "Ovarian cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+              "title": "Operaciones por cáncer de duodeno",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_16a47cff47e9525a0ba47f60c755e811",
+              "title": "Stomach cancer",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.79
+            }
+          ],
+          "results": {
+            "keyword": [],
+            "semantic": [
+              {
+                "position": 1,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.82
+              },
+              {
+                "position": 2,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 3,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.8
+              },
+              {
+                "position": 4,
+                "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+                "title": "Ovarian cancer",
+                "score": 0.8
+              },
+              {
+                "position": 5,
+                "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+                "title": "Operaciones por cáncer de duodeno",
+                "score": 0.8
+              },
+              {
+                "position": 6,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.8
+              },
+              {
+                "position": 7,
+                "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+                "title": "Diagnóstico radiológico del cáncer de mama",
+                "score": 0.79
+              },
+              {
+                "position": 8,
+                "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+                "title": "Diagnóstico radiológico de cáncer de mama",
+                "score": 0.79
+              },
+              {
+                "position": 9,
+                "recordId": "UY_16a47cff47e9525a0ba47f60c755e811",
+                "title": "Stomach cancer",
+                "score": 0.79
+              },
+              {
+                "position": 10,
+                "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+                "title": "Tratamiento quirúrgico del cáncer de estómago",
+                "score": 0.79
+              }
+            ],
+            "hybrid": [
+              {
+                "position": 1,
+                "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+                "title": "Mammary gland cancer",
+                "score": 0.02
+              },
+              {
+                "position": 2,
+                "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+                "title": "Diagnóstico del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 3,
+                "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+                "title": "Tratamiento del cáncer de mama",
+                "score": 0.02
+              },
+              {
+                "position": 4,
+                "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+                "title": "Ovarian cancer",
+                "score": 0.02
+              },
+              {
+                "position": 5,
+                "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+                "title": "Operaciones por cáncer de duodeno",
+                "score": 0.02
+              },
+              {
+                "position": 6,
+                "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+                "title": "Diagnóstico y tratamiento de los tumores de la mama",
+                "score": 0.02
+              },
+              {
+                "position": 7,
+                "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+                "title": "Diagnóstico radiológico del cáncer de mama",
+                "score": 0.01
+              },
+              {
+                "position": 8,
+                "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+                "title": "Diagnóstico radiológico de cáncer de mama",
+                "score": 0.01
+              },
+              {
+                "position": 9,
+                "recordId": "UY_16a47cff47e9525a0ba47f60c755e811",
+                "title": "Stomach cancer",
+                "score": 0.01
+              },
+              {
+                "position": 10,
+                "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+                "title": "Tratamiento quirúrgico del cáncer de estómago",
+                "score": 0.01
+              }
+            ]
+          }
+        }
+      ],
+      "depositaCount": 3
+    }
+  ],
+  "records": {
+    "UY_216bfc17ea76532bbb80b61af5d9d457": {
+      "title": "PSYCHOSOCIAL VARIABLES ASSOCIATED WITH HEALTH RELATED QUALITY OF LIFE IN WOMEN WITH BREAST CANCER POST-SURGERY: A SYSTEMATIC REVIEW",
+      "abstract": "Breast cancer is a malignant tumor that starts from cells of the breast. A malignant tumor is a group of cancer cells that develops, invading surrounding tissue, or expands as metastases towards remote areas of the body (American Cancer Society, 2009). The aim of the present study of systematic literature review was to identify among existing scientific bibliography, papers studying the effect of psychosocial factors (such as coping strategies or depressive symptomatology, which psychosocial interventions could improve) on HRQL outcomes in post-surgery women with breast cancer. The review portrayed several limitations in research, providing suggestions for future studies. The studies were organized bearing the following criteria in mind: either by the variables of interest included on their titles, or else by the expressed aim of associating any of the variables to HRQL.We describe for each study revised and included: its participants, main procedures, and most apparent results. Implications are discussed facing future prospects of psychosocial interventions. The findings of the present review suggest that women with breast cancer are vulnerable while their HRQL may be affected, they could suffer psychological distress, and/or develop depressive symptoms. Certain coping styles, as well as specific sociodemographic, clinical, and psychosocial factors are associated to a better adjustment to the desease.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_216bfc17ea76532bbb80b61af5d9d457/Description"
+    },
+    "UY_41036ac4edc0b6da56ff9b670477ea0c": {
+      "title": "Breast Fibroadenoma Association: Hodgkin's Disease and Bilateral Inflammatory Breast Cancer: Aetiopathogenic considerations regarding a case",
+      "abstract": "One case of a 42 year old woman wlth such an association is presented. Sorne aspects of the oncogenesis are discussed, emphasizing the appearence of a second tumor in patients with a Hodgkin disease and the relationship between fibroadenoma and breast cancer.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_41036ac4edc0b6da56ff9b670477ea0c/Description"
+    },
+    "Deposita_cd66a7b09d5b7d184f77ecbe840f75d3": {
+      "title": "Avaliação postural através da biofotogrametria computadorizada em pacientes submetidas ao tratamento cirúrgico do câncer da mama",
+      "abstract": "Introdução: O câncer de mama é a enfermidade maligna mais incidente entre as mulheres e é o tipo de câncer mais encontrado na população brasileira. Dentre as possíveis complicações advindas do câncer e de seu tratamento, estão as alterações posturais. Apesar da relevância da postura na realização das atividades de vida diária e no risco de complicações funcionais e álgicas decorrentes de uma alteração postural, poucos estudos abordam essa problemática. Objetivo: Avaliar o alinhamento postural de pacientes submetidas à cirurgia para tratamento de câncer de mama e analisar os fatores demográficos e clínicos associados às alterações posturais após a intervenção cirúrgica. Métodos: Foi realizado um estudo transversal em uma amostra composta por 111 pacientes com idade de 57,3 ± 12,2 anos (média ± desvio padrão) e período pós-operatório de 23,3 ± 19,45 meses, que compareceram a revisão anual no Setor de Fisioterapia do Instituto Nacional do Câncer (INCA). Para a avaliação postural foi utilizada a biofotogrametria computadorizada nas vistas anterior, lateral direita e esquerda. A quantificação dos dados foi realizada empregando o software de avaliação postural (SAPO). Os ângulos posturais foram comparados de acordo com: faixa etária, estadiamento histopatológico do tumor, tipo de tratamento cirúrgico, abordagem axilar, presença de quimioterapia neoadjuvante e tempo de pós-operatório. Resultados: Houve efeito significativo de características clínicas e demográficas sobre o alinhamento postural. A faixa etária e a abordagem axilar influenciaram principalmente o posicionamento ântero-posterior e lateral da cabeça, enquanto o tratamento quimioterápico neoadjuvante foi associado a diferenças no alinhamento ântero-posterior do tronco e corpo e na orientação lateral dos ombros. Conclusão: Características clínicas e a idade estão associadas a alterações posturais em pacientes com uma média de dois anos após tratamento cirúrgico do câncer de mama. Os resultados do presente estudo são relevantes para a elaboração de estratégias para otimizar a reabilitação em mulheres submetidas ao tratamento cirúrgico desse tipo de câncer.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_cd66a7b09d5b7d184f77ecbe840f75d3/Description"
+    },
+    "UY_d1610cb67e22a7263ce17cc832f525af": {
+      "title": "Concerns about cancer recurrence in Mexican women breast cancer survivors. Psychometric properties of the CARS scale",
+      "abstract": "Fear of recurrence is one of the main affectations of cancer survivors. In Latin-American exist a lack of evidence on the subject and of valid instruments to measure it. The objective of this study was to determine the psychometric properties of the Concerns About Recurrence Scale in Mexican breast cancer survivors. An instrumental study was carried out with 200 women breast cancer survivors with a mean age of 53 years old and a mean survival of 52.5 months. A confirmatory factor analysis of the original version of the scale identified four factors that explained 77 % of the variance and satisfactory goodness of fit indicators: CFI = .967, TLI = .957, SRMR = .035, RMSEA = .071 as well as high internal consistency α = .945. Significant associations were also identified between general fear subscale, anxiety subscale of the HADS and total HADS score (r = .638 and r = .607; p = .01). The CARS presented adequate validity, reliability and factorial structure. It is recommended for usage in clinical care and research with Mexican breast cancer survivors.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d1610cb67e22a7263ce17cc832f525af/Description"
+    },
+    "UY_6de2bd0256fa0764f2384efcde9016cc": {
+      "title": "Influence of Self-efficacy on Uncertainty and Quality of Life of Women with Breast Cancer. Integrative Review",
+      "abstract": "Introduction: Breast cancer is a very aggressive disease that negatively impacts quality of life, due to multiple physical, psychological, and aesthetic changes, constant uncertainty and fear of death, which deteriorate self-esteem, self-management capacity, emotions, self-efficacy and sense of hope of affected women. Objective: To determine the influence of self-efficacy in the uncertainty and in the quality of life of women with breast cancer. Materials and Method: A review of the scientific literature was carried out in the main databases, from 2015 to 2020, of full-text articles, using the following descriptors: \"breast cancer\" \"uncertainty\" quality of life \"and \"Self-efficacy\", following the guidelines established by the Cochrane Manual and the PRISMA report. Results: Twenty articles that met the inclusion criteria were selected. The following categories addressed in the research are presented as findings: \"Deterioration of the quality of life of women due to breast cancer\"; \"Uncertainty as a psychological stressor that affects quality of life\" and \"Self-efficacy as a facilitative factor for well-being and coping\". Conclusions: Uncertainty emerged as a psychological stressor that deteriorates the integral well-being of the affected women, since it negatively influences the psychological, social and physical domains of quality of life. A positive association between self-efficacy with well-being and coping strategies was identified among women with breast cancer, since self-efficacy reduces the perception of ambiguity and uncertainty.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_6de2bd0256fa0764f2384efcde9016cc/Description"
+    },
+    "UY_7e2f7915dd06c9cb152e478e58bd83b0": {
+      "title": "Successive bilateral breast cancer",
+      "abstract": "A total of 921 breast cancers were studied in the \"Hospital de Clínicas\" during a 20-year period, since 1953 until 1973. The incidence found far the simultaneous bilateral breast- cancer was 0,65 %, while the incidence for the successive bilateral cancer was 1,3 %.&nbsp;Histopathologic studies showed that in most cases tumors in both breasts were different from each other.The second tumor occurred on the average 12 months after treatment of the first, and they generally arrived at the hospital in a more advanced evolutive stage. Based upon these data, behaviour to be observed concerning the remnant breast after radical mastectomy is analyzed, and it is found that prophylactic contralateral mastectomy is not justified.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7e2f7915dd06c9cb152e478e58bd83b0/Description"
+    },
+    "UY_e28245b5e5c3f309ef06dc7bee77940b": {
+      "title": "Metastatic tumor in the breast: primitive: gastric cancer",
+      "abstract": "A case is described of metastatic cancer of the&nbsp;breast, secondary to a gastric adenocarcinoma, coinciding&nbsp;with a scirrhous carcinoma of the opposite breast&nbsp;( first case published in our country).&nbsp;The histopathological coincidence between the primary&nbsp;tumor (studied in autopsy) and the mammary&nbsp;metastasis ( analyzed after surgical remo val), confirmed&nbsp;the gastric origin of the latter. The more remarkable&nbsp;points of the clinico-patrological facts of these secondary&nbsp;tumors are described, and emphasis is placed on&nbsp;the dire necessity of an early diagnosis to avoid unnecessary&nbsp;radical surgical removal.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e28245b5e5c3f309ef06dc7bee77940b/Description"
+    },
+    "UY_440842f15eeae1781a49ab71c225cf51": {
+      "title": "Multicentricity in breast cancer. 4 cases",
+      "abstract": "The authors refer to the conversy which exists intreatment of breast cancer, involving classic procedures-which, as a matter of principie involves excisionof the whole mamma- vis-á-vis segmentary resectionof breast.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_440842f15eeae1781a49ab71c225cf51/Description"
+    },
+    "UY_8a9231309639d00e3761c81522b70264": {
+      "title": "Selective axillary dissection in cancer of breast: sentinel node technique",
+      "abstract": "The paper reports initial experience with thetechnique involving identification of sentinel lymph node in selective management of axilla in patientssuffering from breast cancer.Identification rate (95 % ) and predictive accuracyvalue (95 % ) validates efficiency of procedureas adequate for prediction of Axillary statusin breast carcinoma.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_8a9231309639d00e3761c81522b70264/Description"
+    },
+    "UY_5dcf090f25a925a97edb6be3394fe9b9": {
+      "title": "About breast cancer",
+      "abstract": "Presented at session 12th June 1957",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5dcf090f25a925a97edb6be3394fe9b9/Description"
+    },
+    "UY_de364efc2c1b87481a51097cf6204c20": {
+      "title": "HEALTH RELATED QUALITY OF LIFE OF URUGUAYAN WOMEN WITH BREAST CANCER",
+      "abstract": "There is an extensive body of scientific literature that studies the relationship between Breast Cancer and Quality of Life. However, studies in Uruguay are still emerging. The aim of this study was to characterize a sample of Uruguayan women with Breast Cancer receiving post-surgical attention at the National Cancer Institute. Thirty-four women completed a Clinical and Socio-demographic form designed ad hoc for this investigation. Health Related Quality of Life was assessed by the MOS-SF-36 V. 2.0. questionnaire. The sample’s mean age was 56,06 years. Most women had received Chemotherapy (73,5%), Radiotherapy (64,7%) or the combination of both (58,8%). Fifty-three percent had undergone Modified Radical Mastectomy. Significant correlations emerged between clinical and socio-demographic variables and SF-36 subscales. Our findings suggest that the type of surgery and adjuvant treatment undergone may have significant impact on these women’s Health Related Quality of Life.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_de364efc2c1b87481a51097cf6204c20/Description"
+    },
+    "UY_c91c46d70036658d6a848ea26f130b21": {
+      "title": "Mammary gland cancer",
+      "abstract": "Panel discussions clearly indicate that the anamnesisand examination are valuable elements for the diagnosisof mammary gland canear, evaluating its diagnosticefficiency in a 94%.The diagnostic is confirmad by the severa! complementaryexaminations requested as per a defined algorhythm,according to the clínica! stage obtained asper T.N.M. classification",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c91c46d70036658d6a848ea26f130b21/Description"
+    },
+    "UY_537c85bb53a4a187175d21131a0182fb": {
+      "title": "Tratamiento del cáncer de mama",
+      "abstract": "En el Departamento de Oncología Mamaria, dirigido por elDr. Raúl Leborgne, en el Instituto de Radiología, Hospital Pe­reira Rossell, Montevideo, se registran un promedio anual de 135 casos nuevos de cáncer de mama con vistas a tratamiento",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_537c85bb53a4a187175d21131a0182fb/Description"
+    },
+    "UY_a2b93a47dea2483414f49db89c9331ac": {
+      "title": "Diagnóstico y tratamiento de los tumores de la mama",
+      "abstract": "Trataremos de presentar, de la manera más concisa posible, una revista de los conocimientos y conceptos actuales sobre el tema, confrontándolo con nuestro propio criterio y experiencia, obtenidos a través de 25 años de labor, realizada en su mayor parte en el Instituto de Radiología; allí hemos actuado, además, en constante consulta con los radioterapeutas.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a2b93a47dea2483414f49db89c9331ac/Description"
+    },
+    "UY_7fa32bf3a066b426a3acbdeb880519f7": {
+      "title": "Elección de tratamiento en el cáncer de la mama",
+      "abstract": "Diferencias importantes de una enferma a otra y multipli­cidad de recursos terapéuticos hacen que la elección de trata­miento requiera el doble conocimiento: 1) de los fundamentosy resultados de estos recursos; y 2) de la enferma en vistas ala indicación.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7fa32bf3a066b426a3acbdeb880519f7/Description"
+    },
+    "UY_69d7e98bd35b7be67b871cdb597b1746": {
+      "title": "Diagnóstico del cáncer de mama",
+      "abstract": "Tres hechos permiten plantear en forma clara los proble­mas de diagnóstico en el cáncer de la mama..",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_69d7e98bd35b7be67b871cdb597b1746/Description"
+    },
+    "UY_a11a885619e36c45329a007899405b79": {
+      "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+      "abstract": "El cáncer de la mama y el cáncer de la próstata constituyenlos únicos ejemplos conocidos de neoplasias influenciables porhormonas, en la especie humana. &nbsp; Incluye discusión en pdf adjunto, páginas 88-96",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a11a885619e36c45329a007899405b79/Description"
+    },
+    "UY_f284f8173fabda67d37cca81e851854c": {
+      "title": "Assessing Adherence to Adjuvant Hormone Therapy in Breast Cancer Patients in Routine Clinical Practice",
+      "abstract": "Background: Adjuvant hormone therapy (HT) in patients with hormone receptor-positive breast cancer (BC) increases overall survival (OS). A lack of adherence to adjuvant endocrine therapy is common, 31.0-73.0% of women discontinue endocrine treatment before 5 years. The aim of the study was to assess adherence to HT in routine clinical practice in patients assisted at the Clinical Oncology Department of the Hospital de Clinicas - Universidad de la Republica, Uruguay. Methods: Patients treated with HT for stage 0-III BC between 2017 and 2019 were included. The medication possession (MPR) rate was calculated using pharmacy records, and the Morisky-Green Scale was applied to assess adherence. Adherent patients were those with MPR ≥ 0.80 and who correctly answered the Morisky-Green treatment adherence questionnaire. The association of adherence with polypharmacy, treatment, and patient characteristics was assessed using simple logistic models. The associations between qualitative variables and adherence were assessed using simple logistic regression model or Fisher's exact test. The association between quantitative variables and adherence was assessed using the Student's t-test. The odds ratio (OR) for non-adherence to treatment and its 95% confidence interval were estimated. Results: Totally, 118 patients were included; 65.2% were treated with aromatase inhibitors (AIs), 36.0% presenting polypharmacy. The adherence rate at the end of 2 years was 81.0 %; and it was associated with age (P = 0.03, OR = 0.96 for non-adherence), with adherent and non-adherent patients having a mean age of 65.0 and 60.3 years, respectively; however, adherence was not associated with polypharmacy, territory of origin, marital status, living alone, level of education, occupation, or stage. The adherence profile was similar for both drugs, but homemakers and retired women showed greater adherence to AI. Conclusions: Adherence to HT was assessed in real life, with 19.0% of the patients not adhering to the treatment, despite the known benefit for OS, being a well-tolerated treatment, and being provided free of charge. Older patients were associated with being more adherent. The results show the need of the Pharmacy Service and Department of Clinical Oncology Medical Oncology combining efforts to develop coordinated strategies and interventions to increase adherence, given the impact that this may have on patients' OS.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_f284f8173fabda67d37cca81e851854c/Description"
+    },
+    "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92": {
+      "title": "Diagnóstico radiológico de cáncer de mama",
+      "abstract": "Creemos de interés contribuir con algunos documentos al tema que hoy se discute. y que pretenden tan sólo consignar el valor de la radiología en el diagnóstico precoz del cáncer de mama.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_dbab88eb3b7340ba3c5a1dbbf8be9f92/Description"
+    },
+    "UY_959bc3e981f64043f83da664b008d568": {
+      "title": "Tratamiento del cáncer del cuerpo uterino",
+      "abstract": "Veamos ahora el resultado de la experiencia disciplinada y honesta del director del Instituto de Radiología y Centro de Lucha Contra el Cáncer del Hospital Pereira Roseell.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_959bc3e981f64043f83da664b008d568/Description"
+    },
+    "Deposita_76698c4c5846ac2fc682bb7f0024a27c": {
+      "title": "From organizational silence to structured debate about work : effects on the safety and on the organization.",
+      "abstract": "Cette thèse s’inscrit dans le champ de la sécurité des organisations. Son objet concerne le développement d’une culture de sécurité, avec comme postulat le fait que la sécurité se fait avec la participation des travailleurs de tous niveaux hiérarchiques de l’organisation. Une recherche fondée sur ce principe a été conduite au sein de deux entreprises de distribution d’énergie en France. Comme beaucoup d’autres, ces entreprises sont axées sur une culture managériale de la sécurité où la sur-procéduralisation, le contrôle des « mauvais comportements » et les sanctions prennent le pas sur le travail réel. Comme conséquence, on constate le développement du « silence organisationnel », les travailleurs étant conduits à ne plus remonter les difficultés ou contradictions vécues sur le terrain, ou à remonter des situations à faible impact. Le retour d’expérience se trouve donc affaibli, voire inefficace. Pour gérer le silence organisationnel et ses conséquences, cette recherche a expérimenté des espaces de débat sur le travail réel entre salariés relevant de différents échelons de l’entreprise. Dès que certaines conditions sont respectées, ces espaces peuvent apporter de nombreuses contributions pour les personnes concernées et pour l’organisation locale. Pour qu’ils soient durables, il faut que ses membres disposent d’un certain pouvoir d’agir pour régler certaines des situations débattues localement, et qu’ils puissent communiquer avec d’autres espaces lorsque les ressources locales s’avèrent insuffisantes. Ainsi, les espaces de débat ne doivent pas être isolés au sein des échelons hiérarchiques, mais doivent être interconnectés en vue de définir le pouvoir d’agir et l’autonomie de chacun d’entre eux. Cette réflexion met en lumière le principe de subsidiarité, qui nous enseigne que chaque situation doit être traitée au niveau pertinent le plus bas de l’organisation. Cette thèse défend donc l’idée que pour traiter le silence organisationnel et développer une culture de sécurité, il est nécessaire de développer le « débat structuré sur le travail » – ou des espaces de débat organisés par le principe de subsidiarité – dans différents échelons de l’entreprise. Quelles sont les contributions réelles du débat structuré sur le travail ? Et ses conditions de mise en place ? Autant de questions auxquelles cette thèse tente de répondre par la construction de dispositifs de débat au sein de l’organisation et par une analyse fine du contenu des ces débats. Les résultats remettent en cause la vision classique de la sécurité basée sur des analyses centrées uniquement sur les situations conflictuelles passées, pour mettre en lumière l’articulation entre l’expérience passée, le débat actuel et les situations futures probables. L’approche mise en oeuvre au cours de ces 3 années a permis de développer une organisation plus résiliente, c’est-à-dire une organisation capable de maintenir un état stable en dépit des perturbations inhérentes à tout système de travail. Cette recherche nous invite à repenser la manière de manager les organisations actuelles. Même si le point de départ de la recherche concernait des questions de sécurité, le développement du débat structuré sur le travail a permis dans le même temps de traiter des questions de santé des travailleurs, de qualité du travail et de performance du système.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_76698c4c5846ac2fc682bb7f0024a27c/Description"
+    },
+    "UY_aabff5d7badc00286ea0006aadc8e76b": {
+      "title": "Terapia centrada en la solución como herramienta para el tratamiento de síntomas depresivos en pacientes y/o familiares de pacientes con diagnóstico de cáncer activo: revisión sistemática",
+      "abstract": "El presente trabajo consiste en una revisión sistemática con el objetivo de conocer cómo la Terapia Centrada en la Solución (TCS) podría colaborar como herramienta para el tratamiento de los síntomas depresivos en pacientes y/o familiares de pacientes con diagnóstico de cáncer. Según la Organización Mundial de la Salud (en adelante OMS, 2022) el cáncer es la principal causa de muerte en el mundo, siendo la causa de defunción de casi uno de cada seis de todos los fallecimientos. El modelo predictivo de McNamara (2006), estima que la población pasible de recibir asistencia paliativa es el 0.5% de la población adulta de un país y según la Organización Mundial de la Salud (2020) un 34% de los pacientes en cuidados paliativos tienen algún tipo de cáncer. Ferlay et al. (2020) proyectan un crecimiento exponencial de los casos de pacientes con cáncer en los próximos años, estimándose en más de 28 millones de casos nuevos cada año en el 2040, donde casi dos tercios de esos casos ocurrirán en países menos desarrollados. Aunque el Global Burden of Disease Study (2015) reporta que la incidencia de depresión es de un 4,4% en la población general, Pitman et al. (2018) estiman que dichos porcentajes oscilan entre un 13% y un 20% en pacientes con cáncer. Según Palma y Taboada (2010) estos valores trepan a un 45% en los pacientes con cáncer en etapa terminal, sosteniendo que la depresión constituye un factor de riesgo independiente de mortalidad en cuidados paliativos. Esto último, se ve respaldado en una revisión sistemática y un meta-análisis de estudios de cohortes donde Wang et. al. (2020) reportan que la depresión y la ansiedad se asocian con un riesgo significativamente mayor de incidencia de cáncer, una mayor mortalidad específica por cáncer y un aumento en la mortalidad por otras causas en pacientes oncológicos. Riedl et al. (2022) reportan que el riesgo de que un paciente con cáncer sufra depresión clínica durante el primer año después del diagnóstico es del 15 % al 20 %, es decir, uno de cada cinco o seis pacientes diagnosticados.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_aabff5d7badc00286ea0006aadc8e76b/Description"
+    },
+    "UY_87adf6671c4489f00d23aa94ee94f89c": {
+      "title": "Assessing the accuracy of imputation in the Gyr breed using different SNP panels.",
+      "abstract": "Abstract: The aim of this study was to evaluate the accuracy of imputation in a Gyr population using two medium-density panels (Bos taurus - Bos indicus) and to test whether the inclusion of the Nellore breed increases the imputation accuracy in the Gyr population. The database consisted of 289 Gyr females from Brazil genotyped with the GGP Bovine LDv4 chip containing 30 000 SNPs and 158 Gyr females from Colombia genotyped with the GGP indicus chip containing 35 000 SNPs. A customized chip was created that contained the information of 9109 SNPs (9K) to test the imputation accuracy in Gyr populations; 604 Nellore animals with information of LD SNPs tested in the scenarios were included in the reference population. Four scenarios were tested:LD9K_30KGIR, LD9K_35INDGIR, LD9K_30KGIR_NEL, and LD9K_35INDGIR_NEL. Principal component analysis (PCA) was computed for the genomic matrix and sample-specific imputation accuracies were calculated usingPearson?s correlation (CS) and the concordance rate (CR) for imputed genotypes. The results of PCA of the Colombian and Brazilian Gyr populations demonstrated the genomic relationship between the two populations. The CS and CR ranged from 0.88 to 0.94 and from 0.93 to 0.96, respectively. Among the scenarios tested,the highest CS (0.94) was observed for the LD9K_30KGIR scenario. The present results highlight the importance of the choice of chip for imputation in the Gyr breed. However, the variation in SNPs may reduce the imputation accuracy even when the chip of the Bos indicus subspecies is used.Résumé : Le but de cette étude était d?évaluer la justesse de l?imputation au sein d?une population de bovins de race Gir à partir de deux puces de génotypage de densité moyenne (Bos taurus ? Bos indicus) et de déterminer si l?inclusion de la race Nellore accroissait la précision de l?imputation chez la population de Girs. La base de données comprenait 289 femelles du Brésil génotypées avec la puce GGP Bovine LDv4, laquelle compte 30 000 SNP, et 158 femelles de Colombie génotypées avec la puce GGP indicus, laquelle compte 35 000 SNP. Une puce surmesure totalisant 9109 SNP (9K) a été produite pour mesurer la justesse de l?imputation chez les populations de Girs. De plus, 604 bovins de race Nellore fournissant de l?information sur le LD des SNP testés ont été inclus dans la population de référence. Quatre scénarios ont été testés : LD9K_30KGIR, LD9K_35INDGIR,LD9K_30KGIR_NEL et LD9K_35INDGIR_NEL. Une analyse en composantes principales (PCA) a été réalisée à l?aide de la matrice génomique, la justesse de l?imputation pour chaque échantillon a été calculée à l?aide d?une corrélation de Pearson (CS) et le taux de concordance (CR) a été calculé pour les génotypes imputés. Les résultats de l?analyse PCA chez les populations colombiennes et brésiliennes ont démontré la relation génomique entre les deux populations. Les valeurs de CS et de CR variaient respectivement entre 0,88 et 0,94, ainsi qu?entre 0,93 et 0,96. Parmi les scénarios testés, la plus forte valeur de CS (0,94) a été obtenuedans le scénario LD9K_30KGIR. Les résultats obtenus montrent l?importance du choix de la puce en vue de ?imputation chez les bovins de race Gir. Cependant, la variation dans les SNP peut réduire la justesse de l?imputation même lorsque la puce de la sous-espèces Bos indicus est employée.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_87adf6671c4489f00d23aa94ee94f89c/Description"
+    },
+    "UY_670dfaa58a6907d193d2cddb1abd2737": {
+      "title": "Nc886 is epigenetically repressed in prostate cancer and acts as a tumor suppressor through the inhibition of cell growth",
+      "abstract": "Background: Nc886 is a 102 bp non-coding RNA transcript initially classified as a microRNA precursor (Pre-miR-886), later as a divergent homologue of the vault RNAs (vtRNA 2-1) and more recently as a novel type of RNA (nc886). Although nc886/vtRNA2-1/Pre-miR-886 identity is still controversial, it was shown to be epigenetically controlled, presenting both tumor suppressor and oncogenic function in different cancers. Here, we study for the first time the role of nc886 in prostate cancer. Methods: Nc886 promoter methylation status and its correlation with patient clinical parameters or DNMTs levels were evaluated in TCGA and specific GEO prostate tissue datasets. Nc886 level was measured by RT-qPCR to compare normal/neoplastic prostate cells from radical prostatectomies and cell lines, and to assess nc886 response to demethylating agents. The effect of nc886 recovery in cell proliferation (in vitro and in vivo) and invasion (in vitro) was evaluated using lentiviral transduced DU145 and LNCaP cell lines. The association between the expression of nc886 and selected genes was analyzed in the TCGA-PRAD cohort. Results: Nc886 promoter methylation increases in tumor vs. normal prostate tissue, as well as in metastatic vs. normal prostate tissue. Additionally, nc886 promoter methylation correlates with prostate cancer clinical staging, including biochemical recurrence, Clinical T-value and Gleason score. Nc886 transcript is downregulated in tumor vs. normal tissue -in agreement with its promoter methylation status- and increases upon demethylating treatment. In functional studies, the overexpression of nc886 in the LNCaP and DU145 cell line leads to a decreased in vitro cell proliferation and invasion, as well as a reduced in vivo cell growth in NUDE-mice tumor xenografts. Finally, nc886 expression associates with the prostate cancer cell cycle progression gene signature in TCGA-PRAD. Conclusions: Our data suggest a tumor suppressor role for nc886 in the prostate, whose expression is epigenetically silenced in cancer leading to an increase in cell proliferation and invasion. Nc886 might hold clinical value in prostate cancer due to its association with clinical parameters and with a clinically validated gene signature.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_670dfaa58a6907d193d2cddb1abd2737/Description"
+    },
+    "UY_68c7854c93dddd963157cf020470e4e2": {
+      "title": "Hormona liberadora de la hormona luteinizante (LHRH): potencial agente de oncología molecular",
+      "abstract": "La hormona liberadora de la hormona luteinizante es un decapéptido producido por el hipotálamo y posee un rol fundamental en la regulación del eje pituitario/gonadal y en el ciclo ovárico. Es capaz de unirse a receptores específicos sobre las células gonadales para regular la síntesis y secreción de las hormonas gonadotróficas, las hormonas luteinizante y folículo estimulante. A su vez, se ha comprobado que receptores específicos de la hormona liberadora de la hormona luteinizante se encuentran sobreexpresados en cáncer mama, próstata, ovárico, entre otros; lo cual ha permitido su utilización, tanto de análogos como agonistas, en terapia para estas neoplasias, principalmente en cáncer de próstata y mama. Por lo anterior, nos planteamos desarrollar y optimizar la marcación con el radionucléido emisor gamma, el 99m-Tecnecio, del péptido LHRH, a modo de evaluar su potencial empleo como agente de imagen molecular en oncología. Para esto, el HYNIC-GSG-LHRH fue adquirido comercialmente. La marcación con 99mTc fue realizada a 50 ºC en presencia de diferentes co-ligandos incluyendo Tricina, Ácido etilendiaminodiacético, Tricina/Ácido etilendiaminodiacético y Tricina/Ácido Nicotínico. Las condiciones de marcación (pH, concentración de coligandos, concentración de agente reductor (cloruro de estaño), temperatura y tiempo de reacción fueron optimizadas en orden, para estandarizar el procedimiento. Se evaluaron las purezas radioquímicas por HPLC. Tanto los coeficientes de partición (Log P) y la estabilidad in vitro fueron determinadas a modo de obtener un agente de imagen estable y de alta pureza radioquímica. Se realizaron estudios biológicos in vitro de afinidad en distintas líneas celulares humanas de mama y próstata (MDA-MB-231, MCF-7 y MDA-MB-435) y próstata (PC3, LnCap y Du-145), así como su perfil de biodistribución en modelos murinos; a modo de obtener una aproximación al comportamiento biológico del nuevo radiotrazador. Logramos marcar el conjugado HYNIC-GSG-LHRH con 99m-Tecnecio, empleando altas actividades específicas usando como co-ligandos tanto Tricina como la mezcla Tricina/Ácido Nicotínico, obteniendo altas purezas radioquímicas (> 95%), alta estabilidad in vitro y baja lipofilicidad (Log P de -2,5 ± 0,05 y -2,82 ± 0,04, empleando Tricina y Tricina/Ácido Nicotínico, respectivamente). El conjugado [99mTc]-HYNIC-GSG-LHRH/Tricina-Ácido Nicotínico reveló elevada afinidad de unión específica por los receptores de la hormona liberadora de la hormona luteinizante expresados en las líneas celulares de mama y próstata. Se observó que el complejo radiomarcado presenta un perfil de biodistribución óptimo para ser empleado como potencial agente de imagen.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_68c7854c93dddd963157cf020470e4e2/Description"
+    },
+    "UY_5bb6339edf8cacca8021ee226e1b693a": {
+      "title": "vtRNA2-1/nc886 produces a small RNA that contributes to its tumor suppression action through the microRNA pathway in prostate cancer",
+      "abstract": "vtRNA2-1 is a vault RNA initially classified as microRNA precursor hsa-mir-886 and recently proposed as “nc886”, a new type of non-coding RNA involved in cancer progression acting as an oncogene and tumor suppressor gene in different tissues. We have shown that vtRNA2-1/nc886 is epigenetically repressed in neoplastic cells, increasing cell proliferation and invasion in prostate tissue. Here we investigate the ability of vtRNA2-1/nc886 to produce small-RNAs and their biological effect in prostate cells. The interrogation of public small-RNA transcriptomes of prostate and other tissues uncovered two small RNAs, snc886-3p and snc886-5p, derived from vtRNA2-1/nc886 (previously hsa-miR-886-3p and hsa-miR-886-5p). Re-analysis of PAR-CLIP and knockout of microRNA biogenesis enzymes data showed that these small RNAs are products of DICER, independent of DROSHA, and associate with Argonaute proteins, satisfying microRNA attributes. In addition, the overexpression of snc886-3p provokes the downregulation of mRNAs bearing sequences complementary to its “seed” in their 3′-UTRs. Microarray and in vitro functional assays in DU145, LNCaP and PC3 cell lines revealed that snc886-3p reduced cell cycle progression and increases apoptosis, like its precursor vtRNA2-1/nc886. Finally, we found a list of direct candidate targets genes of snc886-3p upregulated and associated with disease condition and progression in PRAD-TCGA data. Overall, our findings suggest that vtRNA2-1/nc886 and its processed product snc886-3p are synthesized in prostate cells, exerting a tumor suppressor action",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5bb6339edf8cacca8021ee226e1b693a/Description"
+    },
+    "Deposita_f74134c27885fdfebf579e571a3d5aa5": {
+      "title": "The collection of taxes and the enforcement of fundamental rights - legal-comparative analysis between the Portuguese and Brazilian systems.",
+      "abstract": "Esta pesquisa tem como objetivo o estudo da cobrança de tributos em face da efetivação dos direitos fundamentais, numa análise jurídico e também comparativa entre os ordenamentos de Portugal e do Brasil. Será abordado o retrospecto histórico das cobranças tributárias nas terras brasileiras a partir do seu inicial encontro com os portugueses até os dias atuais. Segue-se na análise dos princípios, dos direitos fundamentais, da sua evolução, característica e classificação, seus conflitos, do princípio da reserva do possível, do princípio da razoabilidade e da proporcionalidade, dos deveres fundamentais, da distinção entre direitos fundamentais e direitos humanos, do princípio da dignidade da pessoa humana, e dos métodos e princípios de interpretação constitucional. Na sequência, esquadrinham-se os direitos fundamentais no ordenamento jurídico de Portugal, com foco no direito ao mínimo existencial e aos direitos fundamentais individuais, voltando-se para a jurisprudência do Tribunal Constitucional, e para a base legislativa advinda da União Europeia. Segue-se na avaliação dos direitos fundamentais no Brasil, a legitimidade ativa para sua demanda, o controle de convencionalidade, e a jurisprudência do Supremo Tribunal Federal, com o aprofundamento na investigação de vários julgados relacionados a temática, as súmulas vinculantes. Procura-se estabelecer as concepções de direito tributário, as significações do conceito de sistema tributário e de tributo. São expostas as principais características do sistema tributário do Brasil, as peculiaridades da sua hierarquia de normas em matérias tributárias, as espécies tributárias, e a repartição de receitas. Entabula-se também o sistema tributário de Portugal, suas espécies tributárias, a divisão entre a tributação sobre o consumo, rendimentos e patrimônio, os aspectos associados à União Europeia, numa abordagem tributária constitucional. Posteriormente, designase a situação do conflito entre a arrecadação dos tributos e a efetivação do orçamento, passando pela avaliação de sintonia entre a instituição e a cobrança, a política fiscal, as finanças públicas, o orçamento em Brasil e Portugal, e a arrecadação tributária como meio de efetivação do princípio da dignidade da pessoa. Delineiam-se as versões do conceito e estado, do estado fiscal, e vistoria-se a real necessidade das obrigações estatais frente aos direitos sociais, a figura atual dos contribuintes, a situação da proteção do contribuinte, a visão do estado como um inimigo, e a justiça fiscal. Exploram-se alguns exemplos de outros países, examina-se o poder vinculado do estado para cobrar e a não discricionariedade, o princípio da supremacia do interesse público no Brasil e em Portugal, o dever fundamental de pagar tributos, e a narrativa sobre o estado que erra na área tributária. Expõem-se a execução fiscal em Portugal, pontuando-se a situação estatística das dívidas dos portugueses, o sigilo da dívida tributária, os princípios que estruturam o processo tributário, o ato administrativo da liquidação tributária, as taxas judiciárias, os tribunais tributários especializados, a legitimidade ativa para a cobrança tributária, a representação da fazenda pública, os pressupostos formais do título executivo, a citação, as possíveis formas de defesas do contribuinte, em especial a Reclamação Graciosa, as Reclamações Graciosas Necessárias, a Revisão dos Atos Tributários, o Processo de Impugnação Judicial, a Ação Administrativa, a Ação de Reconhecimento de um Direito ou Interesse em Matéria Tributária, e a Oposição à Execução Fiscal. Aborda-se também o requerimento de dação em pagamento, a solicitação do pagamento em prestações, a resolução alternativa de litígios em matéria tributária, a penhora na execução fiscal, a penhora do direito de habitação/moradia frente aos direitos fundamentais, a verificação e graduação de créditos, a venda dos bens penhorados, a suspensão e a extinção da execução fiscal, as Reclamações contra as decisões do órgão execucional, a Intimação para um procedimento, os processos para a derrogação do sigilo bancário, os recursos contra os atos jurisdicionais, os recursos dos despachos interlocutórios na impugnação, a revisão de sentença e a providências cautelares. Ao fim, o trabalho dedica-se à execução fiscal no Brasil, indicando-se dados sobre a ineficiência da execução fiscal, o conceito de processo, os princípios constitucionais do processo civil, os princípios destacáveis às execuções em geral, a posição do Supremo Tribunal Federal sobre a execução fiscal em face dos direitos fundamentais. São tecidas considerações sobre a desjudicialização parcial da execução fiscal, o princípio da executoriedade, o princípio da autotutela, a representação da fazenda pública em juízo, o objeto da cobrança em dívida ativa, a citação judicial, os valores ínfimos, a discussão administrativa prévia da dívida ativa, as defesas possíveis do contribuinte, em destaque a exceção de pré-executividade, embargos, ação declaratória, ação anulatória, mandado de segurança, os privilégios do crédito tributário, o pagamento, a penhora, a impenhorabilidade do bem de família, a suspensão e a extinção, e os casos de danos morais. Por derradeiro, seguem as conclusões sobre a pesquisa.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_f74134c27885fdfebf579e571a3d5aa5/Description"
+    },
+    "UY_cd6fefc37e9a9196ae1b31e4c5246be5": {
+      "title": "The War of Canudos in Brazilian magazines published in Europe: the case of the Revue du Brésil (Paris, 1896-1898)",
+      "abstract": "The War of Canudos took place at the end of the 19th century, when the insertion of the young Brazilian Republic in the world economic market coincided with the expansion of the periodical press. The war, as a discursive event, acquired great relevance thanks to the technological advances that contributed to globalizing the press. In this context, international publications such as the Revue du Brésil (Paris, 1896-1898) and the Revista Moderna (Paris, 1897) were created. These magazines operated as mediators of Brazilian symbolic and cultural products in Paris. This paper analyzes the Revue du Brésil and maintains that Canudos, as a significant number of critics have already analyzed, did concern the Republic of Brazil. The international rewritings of the event shaped the conformation of the republican regime. Therefore, on a world scale, war can be rethought as a conflict governed by written mediations.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_cd6fefc37e9a9196ae1b31e4c5246be5/Description"
+    },
+    "UY_5b2d10f12e638ab2b90464b08ac4b24c": {
+      "title": "COGNITION AND LANGUAGE IN CHILDREN CRI-DU-CHAT AND DOWN. A COMPARATIVE STUDY PROGRESS",
+      "abstract": "Human Genetics offers the possibility of understanding certain diseases that were practically unknown until recently, such as Cri-du-Chat, Fragile X and Prader-Willi among others. Discovering the genetic etiology of a complex disease is important, but not a substitute for the information required for the rehabilitation of those affected. Currently there is no restorative treatment for Cri-du-Chat (CDC) and Down syndrome (DS). The purpose of this paper is to understand the cognitive and linguistic functioning of these patients, and to analyze the ways in which these factors contribute to improve their academic and personal performance. In this article, the author presents (O: THE AUTHORS PRESENT, SI FUERAN DOS O MÁS AUTORES) a comparative study of the behaviour patterns observed in DS and CDC. To achieve this objective we review recent literature taking into account the etiology, diagnosis, evolution of the disease, and intervention techniques, among other aspects. A significant outcome is the fact that the levels of knowledge about CDC syndrome are still very low compared to those achieved through research on DS, particularly in cognitive and linguistic areas.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5b2d10f12e638ab2b90464b08ac4b24c/Description"
+    },
+    "Deposita_45a07ed4ebba44fa8d05c5179a665c75": {
+      "title": "Une dynamique regionale fondee sur la diversification industrielle: l’expérience de la région de Caxias do Sul (Brésil)",
+      "abstract": "La thèse traite du développement économique de la région de Caxias do Sul, Brésil, qui présente des particularités au regard des expériences recueillies par la littérature en matière d’économie régionale. Le développement de la région de Caxias do Sul témoigne du rôle essentiel de la diversification industrielle en tant que fondement d’une croissance relativement stable durant la décennie 1990 considérée comme difficille au Brésil. Bien que n’étant pas envisagé comme l’unique facteur à l’origine du dynamisme de cette région, la diversification de l’industrie permet une plus grande flexibilité face aux adversités survenues dans un contexte économique instable et hautement compétitif. L’espace en question est une région industrielle diversifiée et dynamique, relativement éloignée du « cœur industriel » du pays. La région intègre neuf communes, avec une superficie de 4000 km² approximativement, dont la population se situe aux environs de 600 000 habitants, issue en majorité de l’immigration italienne du XIXe Siècle. L’intérêt d’étudier cette région à la lumière du développement local consiste à mettre en évidence la diversification industrielle et le rôle de l’endogène dans le processus d’intégration économique mondiale. Inscrite dans l’histoire économique de cette région, la diversification d’activités se présente comme un atout régional face aux incertitudes et aux risques qui règnent dans le monde de l’économie.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_45a07ed4ebba44fa8d05c5179a665c75/Description"
+    },
+    "UY_b539576b2b7d209f0d79aaf1b4b375dc": {
+      "title": "Ovarian cancer",
+      "abstract": "Ovarían cancer constitutes a process which the GeneralSurgeon frequently comes accross and whichrequires solution in the best manner possible.Ovarían cancer constitutes a process which the GeneralSurgeon frequently comes accross and whichrequires solution in the best manner possible.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_b539576b2b7d209f0d79aaf1b4b375dc/Description"
+    },
+    "UY_f87a09dc890232dbe1f902fa9c11a948": {
+      "title": "Tratamiento quirúrgico del cáncer de estómago",
+      "abstract": "El tema que nos toca desarrollar es, por una parte, untema trillado; por otra parte, un tema \"maldito\" que deja mala todos, al neoplasma, a la medicina, a la cirugía y al cirujano.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_f87a09dc890232dbe1f902fa9c11a948/Description"
+    },
+    "UY_b8627c5fb5eefa54e333354a344ef911": {
+      "title": "Enfermedad de Paget del seno",
+      "abstract": "Observ. Nº 1. - Enferma de 45 años; hace un año notó un nódulo pequeño en el seno izquierdo, nódulo que aumentó progresivamente. Hace cuatro meses ulceró la piel; ulceración vegetante que sangra con facilidad. El examen evidencia: un tumor ulcerado de 7 cm. de diámetro, implantado en el pezón que ha desaparecido totalmente; piel de naranja en cuadrantes internos; no adhiere a los planos profundos; un ganglio palpable en vértice axilar y otro sobre la pared costal; bocio desde hace 7 a 8 años. La amputación de mama hecha según la técnica de Halsted muestra gruesas adenopatías axilares y el examen anatornovatológico de la pieza evidencia: tumor en media naranja que levanta la piel, indurada y edematosa a ese nivel; en corte longitudinal es una enorme masa, tumor sólido que profundiza en la glándula unos 5 cm.; el examen histológico pone de manifiesto un epitelioma sólido encefaloideo a células claras. La piel, a nivel del tumor que le adhiere muestra lesiones epidérmicas análogas a las de la enfermedad de Paget (falta la lesión eczematosa extendida). El Bach. Enrique Castro que realizó el examen cree que se trata de un tumor glandular que infiltra la epidermis por su profundidad. La enferma fallece 5 años después de operada.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_b8627c5fb5eefa54e333354a344ef911/Description"
+    },
+    "UY_4a017dc6d2aaaf9afc86cf36f755f386": {
+      "title": "Diagnóstico radiológico del cáncer de mama",
+      "abstract": "Uno de los métodos auxiliares más eficaces en el diagnós­tico de las afecciones mamarias es el examen radiográfico.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_4a017dc6d2aaaf9afc86cf36f755f386/Description"
+    },
+    "UY_bbaf8d03d17ddb06bd4de5338f589e74": {
+      "title": "Operaciones por cáncer de duodeno",
+      "abstract": "Los canceres de duodeno pueden ser primitivos de la pareddel órgano u originarse en la región ampular.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_bbaf8d03d17ddb06bd4de5338f589e74/Description"
+    },
+    "UY_e78c65dafc57abbaf281b06f83121bd4": {
+      "title": "Tratamiento quirúrgico del cáncer de pulmón",
+      "abstract": "Agradezco a las autoridades del Décimo Tercer CongresoUruguayo de Cirugía la distinción que he recibido, valorándoladebidamente, al confiárseme el relato sobre \"Tratamiento quirúrgico del cáncer de pulmón\".",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e78c65dafc57abbaf281b06f83121bd4/Description"
+    },
+    "UY_8e895c9dc794d25a915cb887567ae49b": {
+      "title": "Radioterapia de los tumores malignos primitivos del hueso",
+      "abstract": "La elección del tratamiento de les tumores óseos dependefundamentalmente del tipo histológico de tumor.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_8e895c9dc794d25a915cb887567ae49b/Description"
+    },
+    "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb": {
+      "title": "El tratamiento de los tumores de los huesos",
+      "abstract": "El capítulo del tratamiento de los tumores de los huesostiene íntimas conexiones con los que han sido considerados ya:histopatología, clasificación, cuadro clínico, radiografía, etc.; to­dos desembocan en él llevando consigo datos sin cuya existenciasería vana toda tentativa de prescripción terapéutica.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb/Description"
+    },
+    "UY_7488a3ee2f5ec9c79cc7b49a09524e46": {
+      "title": "Importancia de la broncoscopía en la cirugía del cáncer del pulmón",
+      "abstract": "Los datos aportados por la broncoscopia en el neoplasma depulmón, son la consecuencia de la histopatología del proceso yde las alteraciones dinámicas que provoca.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7488a3ee2f5ec9c79cc7b49a09524e46/Description"
+    },
+    "UY_d1fc141f7f994f52d600b79d89df38b0": {
+      "title": "Tratamiento radiante y químico del cáncer de pulmón",
+      "abstract": "La gran frecuencia del cáncer de pulmón asociada a la re­lativa ineficacia de nuestros mejores métodos de tratamiento, determinan que el mismo constituya, en el momento presente, uno de nuestros problemas más formidables.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d1fc141f7f994f52d600b79d89df38b0/Description"
+    },
+    "UY_1535f361deb7f172abf84de40eb249f1": {
+      "title": "Las Calcificaciones de los Tumores Malignos",
+      "abstract": "Otro signo de extraordinario valor diagnóstico son las calcificaciones.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_1535f361deb7f172abf84de40eb249f1/Description"
+    },
+    "UY_23f74c9df532d5488132e2f3883b3a6a": {
+      "title": "Bronchus adenoma",
+      "abstract": "Description of clínica! and diagnostica! aspects and treatment of bro'nchial adenomas. Case material consists of 5 patients.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_23f74c9df532d5488132e2f3883b3a6a/Description"
+    },
+    "UY_8a2b384597ac2ebca41d987b69ec24dd": {
+      "title": "Determination of “borderline resectable” pancreatic cancer – A global assessment of 30 shades of grey",
+      "abstract": "Background: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with a poor prognosis. Accurate preoperative assessment using computed tomography (CT) to determine resectability is crucial in ensuring patients are offered the most appropriate therapeutic strategy. Despite the use of classification guidelines, any interobserver variability between reviewing surgeons and radiologists may confound decisions influencing patient treatment pathways. Methods: In this multicentre observational study, an international group of 96 clinicians (42 hepatopancreatobiliary surgeons and 54 radiologists) were surveyed and asked to report 30 pancreatic CT scans of pancreatic cancer deemed borderline at respective multidisciplinary meetings (MDM). The degree of interobserver agreement in resectability among radiologists and surgeons was assessed and subgroup regression analysis was performed. Results: Interobserver variability between reviewers was high with no unanimous agreement. Overall interobserver agreement was fair with a kappa value of 0.32 with a higher rate of agreement among radiologists over surgeons. Conclusion: Interobserver variability among radiologists and surgeons globally is high, calling into question the consistency of clinical decision making for patients with PDAC and suggesting that central review may be required for studies of neoadjuvant or adjuvant approaches in future as well as ongoing quality control initiatives, even amongst experts in the field.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_8a2b384597ac2ebca41d987b69ec24dd/Description"
+    },
+    "UY_d9abce7253fbb03ab27939f36d460b1b": {
+      "title": "Mucocele de Seno Maxilar: revisión a propósito de un caso",
+      "abstract": "El Mucocele del seno maxilar es una formación quística benigna originada en el interior del mismo, limitado por un epitelio (mucosa sinusal) con un contenido de moco. Es una patología poco frecuente que puede causar grandes dificultades a la hora de resolver su terapéutica, sobre todo en aquellos casos que invaden la órbita llevando a una exoftalmia. El presente estudio reporta el caso de un mucocele de seno maxilar derecho, en una paciente de sexo femenino de 68 años. Al examen clínico se visualizaba una deformación por vestibular desde el área de la pieza dentaria 12 a la 16. Al examen imagenológico se observaba el seno maxilar ocupado con límites cercanos a la órbita. Se realizó una biopsia exéresis, con resultado histopatológico de Mucocele de seno maxilar. Se discute su presentación y tratamiento clásico.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d9abce7253fbb03ab27939f36d460b1b/Description"
+    },
+    "UY_c6de508cdd5c893499020c6bffd28ff9": {
+      "title": "Large benign breast tumors",
+      "abstract": "Presented at the session of October 26, 1932.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c6de508cdd5c893499020c6bffd28ff9/Description"
+    },
+    "UY_459592de42169efba0f659fad4627a47": {
+      "title": "Reconstructive surgery in the aftermath of mastectomy",
+      "abstract": "The different situations requiring repair procedures in the surgery of breast tumors, are discussed",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_459592de42169efba0f659fad4627a47/Description"
+    },
+    "UY_e77262bb72b201408fe7924582fc08b4": {
+      "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary",
+      "abstract": "Presented at session 20th September 1950",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e77262bb72b201408fe7924582fc08b4/Description"
+    },
+    "UY_603e56cecbe5865aea7cdcac17d6b4e7": {
+      "title": "Diagnóstico y tratamiento de la enfermedad de Paget del seno",
+      "abstract": "Tres observaciones de enfermedad de Paget del seno que corresponden a tres tipos clínicos evidentemente diferentes. sirven de base a esta contribución al tema oficial. La resumimos muy brevemente a continuación",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_603e56cecbe5865aea7cdcac17d6b4e7/Description"
+    },
+    "UY_0696dec737b15927617460b288d998d4": {
+      "title": "Informe final del proyecto: Dentro de la cabeza de los gigantes: un análisis comparativo de las estructuras craneales internas en xenartros",
+      "abstract": "La megafauna pleistocena de América del Sur muestra gran diversidad de mamíferos de varias toneladas. Asimismo, presenta las peculiaridades taxonómica y ecológica de incluir numerosos xenartros gigantes. Los estudios acerca de su paleobiología han tenido un gran desarrollo gracias a herramientas conceptuales y analíticas como la biomecánica y la biología del tamaño, que permitieron inferir, entre otras, sus preferencias dietarias. Tecnologías como las tomografías computadas han complementado estos estudios aportando nuevos enfoques y desafíos, permitiendo analizar estructuras internas que de otra forma serían difíciles de estudiar, como el cerebro, el oído interno y los senos craneales. Estudios recientes en marsupiales extintos evidenciaron que los senos craneales constituyen una gran oportunidad para el estudio de la diversidad intra e interespecífica, así como también para explicar características morfológicas, fisiológicas y ecológicas, como la relación entre el tamaño de los senos, el cerebro y la musculatura masticatoria. La observación preliminar de una correlación similar de estas estructuras en xenartros fósiles es la base para un estudio comparativo a gran escala de su desarrollo y su correlación con hábitos alimenticios, comunicación o dimorfismo sexual en el grupo. El estudio de la integración entre estas estructuras craneales permitirá obtener una visión innovadora sobre los cambios producidos en este grupo a nivel del cráneo y su relación con aspectos ecológicos y sistemáticos.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_0696dec737b15927617460b288d998d4/Description"
+    },
+    "UY_afbe4a2a09e2fa9e0e57b08fd9ef0f79": {
+      "title": "El constitucionalismo latinoamericano y la protección de los derechos indígenas",
+      "abstract": "La construcción del núcleo social de América Latina es un proceso histórico de transculturación que se&nbsp;inicia con la colonización europea de estas tierras y continúa hasta nuestros días. El resultado: una sociedad&nbsp;heterogénea en grado sumo, un singular compuesto de raíces históricas, culturas y etnias. El gran caudillo&nbsp;latinoamericano Simón Bolívar, en su Discurso de Angostura (1819), señaló la heterogeneidad de Hispanoamérica cuando al referirse al origen de estos pueblos sentenció, «Es imposible asignar con propiedad a qué familia humana pertenecemos... el europeo se ha mezclado con el americano y con el africano, y éste se ha&nbsp;mezclado con el indio y con el europeo. Nacidos todos en el seno de una misma madre, nuestros padres difieren en origen y en sangre...».",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_afbe4a2a09e2fa9e0e57b08fd9ef0f79/Description"
+    },
+    "UY_7396746296ab129324e996c9c6983c2d": {
+      "title": "Tumores incluidos en el ligamento ancho",
+      "abstract": "Este trabajo no fué publicado por no haberse enviado los originales",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7396746296ab129324e996c9c6983c2d/Description"
+    },
+    "UY_bbb2df06a2b4acfdb7cca5a07cc220c0": {
+      "title": "Cuerpo esqueletizado identificado por análisis morfológico del seno frontal y características del material de osteosíntesis – relato de caso pericial",
+      "abstract": "La odontología legal resulta fundamental para a identificación de víctimas en descomposición avanzada, carbonizadas o esqueletizadas. Este trabajo relata un caso de identificación humana, por medio de análisis morfológico del seno frontal y material de osteosíntesis. Un cuerpo esqueletizado fue sometido a examen antropológico, evidenciándose la existencia de tres placas de osteosíntesis en ambas regiones periorbitarias. Parientes de la supuesta víctima aportaron radiografías ante-mortem, en las que se aprecia una sola placa de osteosíntesis. Empero, tras la realización de exámenes imagenológicos del esqueleto, con la misma incidencia de los efectuados ante-mortem, se constató una clara semejanza morfológica del seno frontal y de la única placa de osteosíntesis presente en las imágenes ante-mortem y post-mortem. Así, fue posible identificar positivamente a la víctima, allanando el camino a la investigación criminal y realzando el rol de las imágenes radiográficas y caracteres anatómicos en el proceso de identificación humana.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_bbb2df06a2b4acfdb7cca5a07cc220c0/Description"
+    },
+    "UY_7b30b922e6bcaf2ff5b52115b4b1f395": {
+      "title": "Nuestra experiencia con el neumoperitoneo preoperatorio en el tratamiento de las eventraciones",
+      "abstract": "Ya nos ocupamos de este tema en el curso del corriente aüo, en el seno de nuestra Sociedad de Cirugía, en colaboración con el doctor José Abdala. Ahora con motivo del relato a este Congreso del Dr. Rafael García Capurro, hemos querido contribuir al mismo con un modesto informe para reactualizar nuestra experiencia con el Neumoperitoneo Progresivo Preoperatorio, procedimiento que venimos utilizando desde 1947, en la Clínica Quirúrgica del Prof. Clivio V. Nario, y en la práctica privada, con excelentes resultados y en total acuerdo con lo que sostiene y preconiza el doctor lvan Goñi Moreno, de la Argentina, autor del método.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7b30b922e6bcaf2ff5b52115b4b1f395/Description"
+    },
+    "UY_fb0c587324ff0b517f8b5674439c063a": {
+      "title": "Ewing tumor",
+      "abstract": "Presented at session 28th July 1943",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_fb0c587324ff0b517f8b5674439c063a/Description"
+    },
+    "UY_4826f048f1ee744473927e9d91b554c7": {
+      "title": "Carcinoma de mama y embarazo",
+      "abstract": "La asociación de cáncer de mama y embarazo, pese a suescasa frecuencia, plantea una serie de problemas de conductamuy difíciles de encasillar en normas más o menos precisas.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_4826f048f1ee744473927e9d91b554c7/Description"
+    },
+    "UY_16a47cff47e9525a0ba47f60c755e811": {
+      "title": "Stomach cancer",
+      "abstract": "There are two basic positions in dealing with the problem of digestive cancer.",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_16a47cff47e9525a0ba47f60c755e811/Description"
+    },
+    "UY_303b6f8665e5b2ca3c430b7fb41b2add": {
+      "title": "Lung cancer",
+      "abstract": "Presented at session 22nd August 1956",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_303b6f8665e5b2ca3c430b7fb41b2add/Description"
+    },
+    "UY_29fbe01b8e468ac7d74a54e75b5f90d3": {
+      "title": "Aspectos físicos de imagenología en cáncer de mama",
+      "abstract": "",
+      "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_29fbe01b8e468ac7d74a54e75b5f90d3/Description"
+    }
+  }
+}

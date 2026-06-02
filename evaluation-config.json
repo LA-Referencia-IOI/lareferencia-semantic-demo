@@ -1,0 +1,67 @@
+{
+  "baseUrl": "https://search.lareferencia.info/vufind",
+  "sources": ["Uruguay", "Ridi", "Deposita"],
+  "topics": [
+    {
+      "id": "distance-education",
+      "title": "Distance education",
+      "summary": "Remote teaching, virtual learning environments and distance tutoring.",
+      "controlPt": "educação a distância",
+      "queries": [
+        ["English", "en", "distance education", "ltr"],
+        ["French", "fr", "enseignement à distance", "ltr"],
+        ["German", "de", "Fernunterricht", "ltr"],
+        ["Italian", "it", "istruzione a distanza", "ltr"],
+        ["Chinese", "zh", "远程教育", "ltr"],
+        ["Japanese", "ja", "遠隔教育", "ltr"]
+      ]
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "summary": "Diabetes care, prevention, treatment and related health research.",
+      "controlPt": "diabetes",
+      "queries": [
+        ["English", "en", "diabetes", "ltr"],
+        ["French", "fr", "diabète", "ltr"],
+        ["German", "de", "Diabetes", "ltr"],
+        ["Italian", "it", "diabete", "ltr"],
+        ["Chinese", "zh", "糖尿病", "ltr"],
+        ["Japanese", "ja", "糖尿病", "ltr"]
+      ]
+    },
+    {
+      "id": "human-rights",
+      "title": "Human rights",
+      "summary": "Rights, fundamental guarantees, public policy and social justice.",
+      "controlPt": "direitos humanos",
+      "queries": [
+        ["English", "en", "human rights", "ltr"],
+        ["French", "fr", "droits humains", "ltr"],
+        ["German", "de", "Menschenrechte", "ltr"],
+        ["Italian", "it", "diritti umani", "ltr"],
+        ["Chinese", "zh", "人权", "ltr"],
+        ["Japanese", "ja", "人権", "ltr"]
+      ]
+    },
+    {
+      "id": "climate-change",
+      "title": "Climate change",
+      "summary": "Climate impacts, adaptation, mitigation and environmental change.",
+      "controlPt": "mudanças climáticas",
+      "queries": [
+        ["English", "en", "climate change", "ltr"],
+        ["French", "fr", "changement climatique", "ltr"],
+        ["German", "de", "Klimawandel", "ltr"],
+        ["Italian", "it", "cambiamento climatico", "ltr"],
+        ["Chinese", "zh", "气候变化", "ltr"],
+        ["Japanese", "ja", "気候変動", "ltr"]
+      ]
+    }
+  ],
+  "englishQueries": [
+    ["English", "en", "online learning", "ltr", "distance-education"],
+    ["English", "en", "remote learning", "ltr", "distance-education"],
+    ["English", "en", "virtual education", "ltr", "distance-education"]
+  ]
+}

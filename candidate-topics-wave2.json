@@ -1,0 +1,74 @@
+{
+  "baseUrl": "https://search.lareferencia.info/vufind",
+  "languages": [
+    ["English", "en", "ltr"],
+    ["French", "fr", "ltr"],
+    ["German", "de", "ltr"],
+    ["Italian", "it", "ltr"],
+    ["Chinese", "zh", "ltr"],
+    ["Japanese", "ja", "ltr"],
+    ["Arabic", "ar", "rtl"]
+  ],
+  "topics": [
+    {
+      "id": "breast-cancer",
+      "title": "Breast cancer",
+      "controlPt": "câncer de mama",
+      "queries": ["breast cancer", "cancer du sein", "Brustkrebs", "tumore al seno", "乳腺癌", "乳がん", "سرطان الثدي"]
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "controlPt": "diabetes",
+      "queries": ["diabetes", "diabète", "Diabetes", "diabete", "糖尿病", "糖尿病", "داء السكري"]
+    },
+    {
+      "id": "autism",
+      "title": "Autism",
+      "controlPt": "autismo",
+      "queries": ["autism", "autisme", "Autismus", "autismo", "自闭症", "自閉症", "التوحد"]
+    },
+    {
+      "id": "tuberculosis",
+      "title": "Tuberculosis",
+      "controlPt": "tuberculose",
+      "queries": ["tuberculosis", "tuberculose", "Tuberkulose", "tubercolosi", "结核病", "結核", "السل"]
+    },
+    {
+      "id": "violence-against-women",
+      "title": "Violence against women",
+      "controlPt": "violência contra a mulher",
+      "queries": ["violence against women", "violence contre les femmes", "Gewalt gegen Frauen", "violenza contro le donne", "针对妇女的暴力", "女性に対する暴力", "العنف ضد المرأة"]
+    },
+    {
+      "id": "open-access",
+      "title": "Open access",
+      "controlPt": "acesso aberto",
+      "queries": ["open access", "libre accès", "Open Access", "accesso aperto", "开放获取", "オープンアクセス", "الوصول المفتوح"]
+    },
+    {
+      "id": "antimicrobial-resistance",
+      "title": "Antimicrobial resistance",
+      "controlPt": "resistência antimicrobiana",
+      "queries": ["antimicrobial resistance", "résistance aux antimicrobiens", "antimikrobielle Resistenz", "resistenza antimicrobica", "抗微生物药物耐药性", "薬剤耐性", "مقاومة مضادات الميكروبات"]
+    },
+    {
+      "id": "dengue",
+      "title": "Dengue",
+      "controlPt": "dengue",
+      "queries": ["dengue", "dengue", "Dengue", "dengue", "登革热", "デング熱", "حمى الضنك"]
+    },
+    {
+      "id": "deforestation",
+      "title": "Deforestation",
+      "controlPt": "desmatamento",
+      "queries": ["deforestation", "déforestation", "Entwaldung", "deforestazione", "森林砍伐", "森林破壊", "إزالة الغابات"]
+    },
+    {
+      "id": "maternal-health",
+      "title": "Maternal health",
+      "controlPt": "saúde materna",
+      "queries": ["maternal health", "santé maternelle", "Müttergesundheit", "salute materna", "孕产妇健康", "母子保健", "صحة الأم"]
+    }
+  ]
+}

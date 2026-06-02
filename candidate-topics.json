@@ -1,0 +1,86 @@
+{
+  "baseUrl": "https://search.lareferencia.info/vufind",
+  "languages": [
+    ["English", "en", "ltr"],
+    ["French", "fr", "ltr"],
+    ["German", "de", "ltr"],
+    ["Italian", "it", "ltr"],
+    ["Chinese", "zh", "ltr"],
+    ["Japanese", "ja", "ltr"],
+    ["Arabic", "ar", "rtl"]
+  ],
+  "topics": [
+    {
+      "id": "climate-change",
+      "title": "Climate change",
+      "controlPt": "mudanças climáticas",
+      "queries": ["climate change", "changement climatique", "Klimawandel", "cambiamento climatico", "气候变化", "気候変動", "تغير المناخ"]
+    },
+    {
+      "id": "inclusive-education",
+      "title": "Inclusive education",
+      "controlPt": "educação inclusiva",
+      "queries": ["inclusive education", "éducation inclusive", "inklusive Bildung", "educazione inclusiva", "融合教育", "インクルーシブ教育", "التعليم الشامل"]
+    },
+    {
+      "id": "artificial-intelligence",
+      "title": "Artificial intelligence",
+      "controlPt": "inteligência artificial",
+      "queries": ["artificial intelligence", "intelligence artificielle", "künstliche Intelligenz", "intelligenza artificiale", "人工智能", "人工知能", "الذكاء الاصطناعي"]
+    },
+    {
+      "id": "renewable-energy",
+      "title": "Renewable energy",
+      "controlPt": "energia renovável",
+      "queries": ["renewable energy", "énergie renouvelable", "erneuerbare Energie", "energia rinnovabile", "可再生能源", "再生可能エネルギー", "الطاقة المتجددة"]
+    },
+    {
+      "id": "food-security",
+      "title": "Food security",
+      "controlPt": "segurança alimentar",
+      "queries": ["food security", "sécurité alimentaire", "Ernährungssicherheit", "sicurezza alimentare", "粮食安全", "食料安全保障", "الأمن الغذائي"]
+    },
+    {
+      "id": "gender-equality",
+      "title": "Gender equality",
+      "controlPt": "igualdade de gênero",
+      "queries": ["gender equality", "égalité des genres", "Geschlechtergleichheit", "uguaglianza di genere", "性别平等", "ジェンダー平等", "المساواة بين الجنسين"]
+    },
+    {
+      "id": "digital-literacy",
+      "title": "Digital literacy",
+      "controlPt": "alfabetização digital",
+      "queries": ["digital literacy", "littératie numérique", "digitale Kompetenz", "alfabetizzazione digitale", "数字素养", "デジタルリテラシー", "محو الأمية الرقمية"]
+    },
+    {
+      "id": "human-rights",
+      "title": "Human rights",
+      "controlPt": "direitos humanos",
+      "queries": ["human rights", "droits humains", "Menschenrechte", "diritti umani", "人权", "人権", "حقوق الإنسان"]
+    },
+    {
+      "id": "public-health",
+      "title": "Public health",
+      "controlPt": "saúde pública",
+      "queries": ["public health", "santé publique", "öffentliche Gesundheit", "salute pubblica", "公共卫生", "公衆衛生", "الصحة العامة"]
+    },
+    {
+      "id": "water-quality",
+      "title": "Water quality",
+      "controlPt": "qualidade da água",
+      "queries": ["water quality", "qualité de l'eau", "Wasserqualität", "qualità dell'acqua", "水质", "水質", "جودة المياه"]
+    },
+    {
+      "id": "sustainable-development",
+      "title": "Sustainable development",
+      "controlPt": "desenvolvimento sustentável",
+      "queries": ["sustainable development", "développement durable", "nachhaltige Entwicklung", "sviluppo sostenibile", "可持续发展", "持続可能な開発", "التنمية المستدامة"]
+    },
+    {
+      "id": "childhood-obesity",
+      "title": "Childhood obesity",
+      "controlPt": "obesidade infantil",
+      "queries": ["childhood obesity", "obésité infantile", "Adipositas im Kindesalter", "obesità infantile", "儿童肥胖", "小児肥満", "سمنة الأطفال"]
+    }
+  ]
+}

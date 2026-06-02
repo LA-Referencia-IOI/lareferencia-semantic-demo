@@ -1,0 +1,1622 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multilingual Search Pilot | LA Referencia</title>
+    <meta
+      name="description"
+      content="A guided comparison of keyword, semantic and hybrid multilingual search over a LA Referencia subset."
+    />
+    <style>
+      :root {
+        --ink: #152b39;
+        --muted: #587180;
+        --surface: #ffffff;
+        --surface-soft: #f5f8f7;
+        --line: #d9e5e4;
+        --teal: #007f80;
+        --teal-dark: #005e62;
+        --teal-soft: #dff4f0;
+        --orange: #e2743b;
+        --orange-soft: #fff0e7;
+        --yellow: #f5bd42;
+        --blue: #275d84;
+        --blue-soft: #e9f2f7;
+        --shadow: 0 18px 45px rgba(18, 54, 67, 0.1);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 95% 4%, rgba(245, 189, 66, 0.16), transparent 17rem),
+          radial-gradient(circle at 8% 16%, rgba(0, 127, 128, 0.11), transparent 22rem),
+          var(--surface-soft);
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        line-height: 1.55;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: min(1180px, calc(100% - 36px));
+        margin: 0 auto;
+      }
+
+      .site-header {
+        padding: 24px 0 10px;
+      }
+
+      .brand {
+        display: inline-flex;
+        max-width: 100%;
+        align-items: center;
+        gap: 16px;
+        color: var(--teal-dark);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0.13em;
+        overflow-wrap: anywhere;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+
+      .brand-logo {
+        flex: 0 0 auto;
+        width: 218px;
+        height: auto;
+      }
+
+      .hero {
+        display: grid;
+        min-height: 580px;
+        align-items: center;
+        gap: 54px;
+        grid-template-columns: minmax(0, 1.05fr) minmax(380px, 0.95fr);
+        padding: 62px 0 72px;
+      }
+
+      .hero > * {
+        min-width: 0;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--teal-dark);
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .eyebrow::before {
+        width: 26px;
+        height: 3px;
+        background: var(--orange);
+        content: "";
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        max-width: 760px;
+        margin-bottom: 20px;
+        font-size: clamp(3.2rem, 8vw, 6.8rem);
+        letter-spacing: -0.085em;
+        line-height: 0.91;
+      }
+
+      h1 em {
+        color: var(--teal);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 1.03em;
+        font-weight: 500;
+        letter-spacing: -0.1em;
+      }
+
+      .hero-copy {
+        max-width: 680px;
+        color: var(--muted);
+        font-size: 1.1rem;
+      }
+
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 9px;
+        min-height: 46px;
+        padding: 0 18px;
+        border: 1px solid var(--teal);
+        border-radius: 999px;
+        color: #ffffff;
+        background: var(--teal);
+        font-size: 0.88rem;
+        font-weight: 800;
+        text-decoration: none;
+        transition:
+          transform 160ms ease,
+          background 160ms ease,
+          box-shadow 160ms ease;
+      }
+
+      .button:hover,
+      .button:focus-visible {
+        background: var(--teal-dark);
+        box-shadow: 0 8px 20px rgba(0, 94, 98, 0.2);
+        transform: translateY(-2px);
+      }
+
+      .button.secondary {
+        color: var(--teal-dark);
+        background: transparent;
+      }
+
+      .button.secondary:hover,
+      .button.secondary:focus-visible {
+        color: #ffffff;
+        background: var(--teal-dark);
+      }
+
+      .search-window {
+        min-width: 0;
+        max-width: 100%;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: var(--surface);
+        box-shadow: var(--shadow);
+        transform: rotate(1.5deg);
+      }
+
+      .window-bar {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        padding: 15px 18px;
+        border-bottom: 1px solid var(--line);
+        background: #fbfdfd;
+      }
+
+      .dot {
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background: var(--line);
+      }
+
+      .dot:nth-child(1) {
+        background: var(--orange);
+      }
+
+      .dot:nth-child(2) {
+        background: var(--yellow);
+      }
+
+      .dot:nth-child(3) {
+        background: var(--teal);
+      }
+
+      .window-url {
+        margin-left: 8px;
+        color: var(--muted);
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.68rem;
+        overflow-wrap: anywhere;
+      }
+
+      .window-content {
+        padding: 20px;
+      }
+
+      .demo-input {
+        padding: 11px 14px;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        background: var(--surface-soft);
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.92rem;
+        font-weight: 800;
+        overflow-wrap: anywhere;
+      }
+
+      .mock-columns {
+        display: grid;
+        gap: 8px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        margin-top: 16px;
+      }
+
+      .mock-column {
+        min-height: 190px;
+        padding: 12px;
+        border: 1px solid var(--line);
+        border-radius: 11px;
+      }
+
+      .mock-column.featured {
+        border-color: var(--teal);
+        background: var(--teal-soft);
+      }
+
+      .mock-column small {
+        display: block;
+        margin-bottom: 12px;
+        color: var(--teal-dark);
+        font-size: 0.61rem;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .mock-result {
+        margin-bottom: 9px;
+        padding: 8px;
+        border-radius: 7px;
+        color: var(--muted);
+        background: rgba(255, 255, 255, 0.76);
+        font-size: 0.67rem;
+        line-height: 1.35;
+      }
+
+      .empty-state {
+        color: var(--muted);
+        font-size: 0.72rem;
+      }
+
+      .section {
+        padding: 86px 0;
+      }
+
+      .section-heading {
+        display: grid;
+        gap: 22px;
+        grid-template-columns: minmax(0, 0.95fr) minmax(280px, 0.65fr);
+        margin-bottom: 34px;
+      }
+
+      h2 {
+        margin-bottom: 0;
+        font-size: clamp(2.3rem, 5vw, 4.7rem);
+        letter-spacing: -0.07em;
+        line-height: 0.97;
+      }
+
+      .section-intro {
+        align-self: end;
+        margin-bottom: 4px;
+        color: var(--muted);
+      }
+
+      .method-grid {
+        display: grid;
+        gap: 16px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .problem-grid {
+        display: grid;
+        gap: 16px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .problem-card {
+        padding: 22px;
+        border-top: 4px solid var(--orange);
+        border-radius: 16px;
+        background: rgba(255, 255, 255, 0.76);
+      }
+
+      .problem-card h3 {
+        color: var(--teal-dark);
+      }
+
+      .problem-card p {
+        margin-bottom: 0;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .method-card,
+      .subset-card,
+      .topic-group {
+        border: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.88);
+      }
+
+      .method-card {
+        padding: 25px;
+        border-radius: 20px;
+      }
+
+      .method-card.featured {
+        color: #ffffff;
+        border-color: var(--teal);
+        background: var(--teal);
+      }
+
+      .method-number {
+        display: inline-flex;
+        width: 34px;
+        height: 34px;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 31px;
+        border-radius: 50%;
+        color: var(--teal-dark);
+        background: var(--teal-soft);
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.8rem;
+        font-weight: 800;
+      }
+
+      .featured .method-number {
+        background: #ffffff;
+      }
+
+      h3 {
+        margin-bottom: 9px;
+        font-size: 1.24rem;
+        letter-spacing: -0.025em;
+      }
+
+      .method-card p,
+      .topic-header p,
+      .methodology p {
+        margin-bottom: 0;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .featured p {
+        color: rgba(255, 255, 255, 0.82);
+      }
+
+      .subset-section {
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.42);
+      }
+
+      .subset-layout {
+        display: grid;
+        align-items: center;
+        gap: 26px;
+        grid-template-columns: minmax(230px, 0.55fr) minmax(0, 1fr);
+      }
+
+      .subset-card {
+        padding: 30px;
+        border-radius: 20px;
+      }
+
+      .subset-card strong {
+        display: block;
+        color: var(--teal-dark);
+        font-size: clamp(3rem, 7vw, 5.8rem);
+        letter-spacing: -0.1em;
+        line-height: 0.92;
+      }
+
+      .subset-card span {
+        display: block;
+        margin-top: 10px;
+        color: var(--muted);
+        font-size: 0.84rem;
+        font-weight: 800;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .subset-copy {
+        color: var(--muted);
+        font-size: 1.04rem;
+      }
+
+      .experiment {
+        border-bottom: 1px solid var(--line);
+      }
+
+      .topic-stack {
+        display: grid;
+        min-width: 0;
+        gap: 22px;
+      }
+
+      .topic-group {
+        min-width: 0;
+        padding: 23px;
+        border-radius: 20px;
+      }
+
+      .topic-header {
+        display: grid;
+        min-width: 0;
+        gap: 12px;
+        grid-template-columns: minmax(0, 1fr) auto;
+        margin-bottom: 18px;
+      }
+
+      .topic-header h3 {
+        margin-bottom: 2px;
+        font-size: 1.7rem;
+        letter-spacing: -0.055em;
+      }
+
+      .control-panel {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+        justify-content: end;
+      }
+
+      .control-copy {
+        width: 100%;
+        color: var(--muted);
+        font-size: 0.71rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-align: right;
+        text-transform: uppercase;
+      }
+
+      .control-query {
+        color: var(--teal-dark);
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.89rem;
+        font-weight: 800;
+      }
+
+      .small-link {
+        color: var(--teal-dark);
+        font-size: 0.76rem;
+        font-weight: 800;
+      }
+
+      .query-grid {
+        display: grid;
+        min-width: 0;
+        gap: 12px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .query-card {
+        display: flex;
+        min-width: 0;
+        flex-direction: column;
+        padding: 17px;
+        border: 1px solid var(--line);
+        border-radius: 15px;
+        background: var(--surface);
+      }
+
+      .query-top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+      }
+
+      .tag {
+        display: inline-flex;
+        padding: 4px 8px;
+        border-radius: 999px;
+        color: var(--teal-dark);
+        background: var(--teal-soft);
+        font-size: 0.63rem;
+        font-weight: 900;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .query {
+        margin: 18px 0 14px;
+        overflow-wrap: anywhere;
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 1.1rem;
+        font-weight: 800;
+        line-height: 1.3;
+      }
+
+      .metric-grid {
+        display: grid;
+        gap: 7px;
+      }
+
+      .metric-row {
+        display: grid;
+        align-items: center;
+        gap: 6px;
+        grid-template-columns: minmax(0, 1fr) auto;
+        padding: 7px 8px;
+        border-radius: 8px;
+        color: var(--muted);
+        background: var(--surface-soft);
+        font-size: 0.72rem;
+      }
+
+      .metric-row strong {
+        color: var(--ink);
+      }
+
+      .metric-row.semantic {
+        color: var(--teal-dark);
+        background: var(--teal-soft);
+      }
+
+      .semantic-gain {
+        margin-top: 9px;
+        color: var(--orange);
+        font-size: 0.74rem;
+        font-weight: 900;
+      }
+
+      .semantic-gain-value {
+        margin-left: 3px;
+        font-size: 1.02rem;
+        line-height: 1;
+      }
+
+      .distance-profile {
+        display: grid;
+        gap: 7px;
+        margin-top: 11px;
+        padding: 9px;
+        border: 1px solid rgba(35, 128, 131, 0.18);
+        border-radius: 9px;
+        background: rgba(222, 242, 237, 0.35);
+      }
+
+      .distance-profile-label {
+        color: var(--teal-dark);
+        font-size: 0.69rem;
+        font-weight: 900;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .distance-bands {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+
+      .distance-band {
+        display: inline-flex;
+        padding: 2px 6px;
+        border-radius: 999px;
+        font-size: 0.64rem;
+        font-weight: 900;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .distance-band.miss {
+        color: #7b421f;
+        background: var(--orange-soft);
+      }
+
+      .query-actions {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px;
+        margin-top: 15px;
+      }
+
+      .open-query {
+        color: var(--teal-dark);
+        font-size: 0.78rem;
+        font-weight: 900;
+      }
+
+      details {
+        margin-top: 14px;
+        color: var(--muted);
+        font-size: 0.76rem;
+      }
+
+      summary {
+        cursor: pointer;
+        color: var(--teal-dark);
+        font-weight: 800;
+      }
+
+      .review-method {
+        margin-top: 13px;
+      }
+
+      .review-method h5 {
+        margin: 0 0 5px;
+        color: var(--ink);
+        font-size: 0.73rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .review-method ol {
+        display: grid;
+        gap: 5px;
+        margin: 0;
+        padding-left: 20px;
+      }
+
+      .review-item {
+        padding-left: 3px;
+      }
+
+      .judgment {
+        display: inline-flex;
+        margin-left: 5px;
+        padding: 1px 5px;
+        border-radius: 999px;
+        font-size: 0.61rem;
+        font-weight: 900;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+      }
+
+      .judgment.relevant {
+        color: var(--teal-dark);
+        background: var(--teal-soft);
+      }
+
+      .judgment.partial {
+        color: #714915;
+        background: #fff2c8;
+      }
+
+      .judgment.out {
+        color: #7b421f;
+        background: var(--orange-soft);
+      }
+
+      .review-note {
+        display: block;
+        color: var(--muted);
+        font-size: 0.69rem;
+      }
+
+      .abstract-excerpt {
+        display: block;
+        margin-top: 3px;
+        color: #49626a;
+        font-size: 0.69rem;
+        font-style: italic;
+      }
+
+      .distance-details {
+        padding: 9px;
+        border-radius: 9px;
+        background: rgba(222, 242, 237, 0.35);
+      }
+
+      .distance-key {
+        margin: 9px 0;
+        font-size: 0.69rem;
+      }
+
+      .distance-list {
+        display: grid;
+        gap: 8px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .distance-list li {
+        padding-top: 8px;
+        border-top: 1px solid rgba(35, 128, 131, 0.16);
+      }
+
+      .distance-title {
+        display: block;
+        margin-top: 4px;
+        color: var(--ink);
+        font-size: 0.72rem;
+        font-weight: 800;
+      }
+
+      .matrix-panel {
+        min-width: 0;
+        max-width: 100%;
+        margin-top: 16px;
+        padding: 14px;
+        overflow: hidden;
+        border: 1px solid rgba(35, 128, 131, 0.18);
+        border-radius: 12px;
+        background: rgba(222, 242, 237, 0.22);
+      }
+
+      .matrix-copy {
+        max-width: 760px;
+        margin: 0 0 8px;
+        font-size: 0.74rem;
+      }
+
+      .matrix-legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px 12px;
+        margin-bottom: 10px;
+        color: var(--muted);
+        font-size: 0.68rem;
+        font-weight: 800;
+      }
+
+      .matrix-legend span {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      .matrix-legend i {
+        width: 12px;
+        height: 12px;
+        border-radius: 4px;
+      }
+
+      .matrix-scroll {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+
+      .coincidence-matrix {
+        width: 100%;
+        min-width: 700px;
+        border-collapse: separate;
+        border-spacing: 4px;
+        table-layout: fixed;
+      }
+
+      .coincidence-matrix th {
+        padding: 6px 3px;
+        color: var(--muted);
+        font-size: 0.65rem;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+      }
+
+      .coincidence-matrix th:first-child {
+        width: 118px;
+        text-align: left;
+      }
+
+      .coincidence-matrix td {
+        padding: 8px 4px;
+        border-radius: 7px;
+        color: var(--ink);
+        background: rgba(255, 255, 255, 0.72);
+        font-size: 0.78rem;
+        font-weight: 900;
+        text-align: center;
+      }
+
+      .coincidence-matrix td.diagonal {
+        background: #e5ebea;
+      }
+
+      .phrasing-grid {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .methodology {
+        color: #68452d;
+        background: var(--orange-soft);
+      }
+
+      .methodology-layout {
+        display: grid;
+        gap: 26px;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 0.6fr);
+      }
+
+      .methodology-card {
+        padding: 22px;
+        border-left: 4px solid var(--orange);
+        background: rgba(255, 255, 255, 0.55);
+      }
+
+      .methodology-card h3 {
+        color: #5f341b;
+      }
+
+      .methodology a {
+        color: #6f3518;
+        font-weight: 800;
+      }
+
+      .credits {
+        border-top: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.58);
+      }
+
+      .credits-layout {
+        display: grid;
+        gap: 24px;
+        grid-template-columns: minmax(0, 0.72fr) minmax(280px, 1fr);
+      }
+
+      .credits-copy {
+        padding: 23px;
+        border-left: 4px solid var(--teal);
+        background: rgba(255, 255, 255, 0.82);
+      }
+
+      .credits-copy p {
+        margin-bottom: 15px;
+        color: var(--muted);
+      }
+
+      .credits-copy p:last-child {
+        margin-bottom: 0;
+      }
+
+      .credits-copy a {
+        color: var(--teal-dark);
+        font-weight: 800;
+      }
+
+      .source-list {
+        display: grid;
+        gap: 8px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .source-list li {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid rgba(226, 116, 59, 0.2);
+      }
+
+      .footer {
+        padding: 30px 0 48px;
+        color: var(--muted);
+        font-size: 0.8rem;
+      }
+
+      .footer-inner {
+        display: grid;
+        gap: 22px;
+      }
+
+      .footer-copy {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+      }
+
+      .footer a {
+        color: var(--teal-dark);
+        font-weight: 800;
+      }
+
+      .footer-logos {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 22px 30px;
+        padding-top: 22px;
+        border-top: 1px solid var(--line);
+      }
+
+      .footer-logo-link {
+        display: inline-flex;
+        align-items: center;
+      }
+
+      .footer-logo {
+        display: block;
+        width: auto;
+        max-width: min(100%, 270px);
+        height: 44px;
+        object-fit: contain;
+      }
+
+      .footer-logo.coar {
+        height: 42px;
+      }
+
+      .footer-logo.ioi {
+        height: 54px;
+      }
+
+      @media (max-width: 980px) {
+        .hero {
+          min-height: auto;
+          grid-template-columns: 1fr;
+          padding-top: 48px;
+        }
+
+        .search-window {
+          max-width: 680px;
+          transform: none;
+        }
+
+        .query-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 720px) {
+        .brand {
+          align-items: flex-start;
+          font-size: 0.72rem;
+          letter-spacing: 0.1em;
+        }
+
+        .section {
+          padding: 68px 0;
+        }
+
+        .section-heading,
+        .method-grid,
+        .problem-grid,
+        .subset-layout,
+        .methodology-layout,
+        .credits-layout,
+        .phrasing-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .mock-columns {
+          grid-template-columns: 1fr;
+        }
+
+        .mock-column {
+          min-height: auto;
+        }
+
+        .topic-header {
+          grid-template-columns: 1fr;
+        }
+
+        .control-panel {
+          justify-content: start;
+        }
+
+        .control-copy {
+          text-align: left;
+        }
+
+        .footer-copy {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell">
+        <a class="brand" href="https://www.lareferencia.info/" target="_blank" rel="noreferrer">
+          <img
+            class="brand-logo"
+            src="./assets/lareferencia.png"
+            alt="LA Referencia"
+          />
+          <span>Multilingual discovery</span>
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero shell">
+        <div>
+          <span class="eyebrow">Multilingual scholarly discovery</span>
+          <h1>Search in your <em>language.</em> Discover research across languages.</h1>
+          <p class="hero-copy">
+            Scholarly knowledge is published in many languages. Yet relevant work can remain
+            invisible when discovery depends on exact words. This guided pilot compares
+            keyword, semantic and hybrid retrieval over a LA Referencia subset.
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="#idea">Understand the idea <span aria-hidden="true">↓</span></a>
+            <a class="button secondary" href="#topics">Explore the live queries</a>
+          </div>
+        </div>
+
+        <div class="search-window" aria-label="Illustration of three search rankings">
+          <div class="window-bar">
+            <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+            <span class="window-url">search.lareferencia.info</span>
+          </div>
+          <div class="window-content">
+            <div class="demo-input" lang="zh">远程教育 <span aria-hidden="true">·</span> distance education</div>
+            <div class="mock-columns">
+              <div class="mock-column">
+                <small>Keyword</small>
+                <span class="empty-state">No literal matches</span>
+              </div>
+              <div class="mock-column featured">
+                <small>Semantic</small>
+                <div class="mock-result">Educación a distancia vía videoconferencia</div>
+                <div class="mock-result">Ensino remoto em debate</div>
+                <div class="mock-result">Gestión de la tutoría telemática…</div>
+              </div>
+              <div class="mock-column">
+                <small>Hybrid</small>
+                <div class="mock-result">Educación a distancia vía videoconferencia</div>
+                <div class="mock-result">Ensino remoto em debate</div>
+                <div class="mock-result">Enseñanza en la virtualidad…</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="idea">
+        <div class="shell">
+          <div class="section-heading">
+            <h2>Knowledge is multilingual. Discovery often is not.</h2>
+            <p class="section-intro">
+              The barrier is not research quality. It is visibility: useful work can be missed
+              simply because the query and the record use different words or languages.
+            </p>
+          </div>
+          <div class="problem-grid">
+            <article class="problem-card">
+              <h3>Exact-word bias</h3>
+              <p>
+                Keyword matching is literal. It can miss related work expressed with different
+                terminology, regional phrasing or discipline-specific language.
+              </p>
+            </article>
+            <article class="problem-card">
+              <h3>Language silos</h3>
+              <p>
+                Equivalent ideas become disconnected when a search only retrieves records that
+                share the language and wording of the original query.
+              </p>
+            </article>
+            <article class="problem-card">
+              <h3>Uneven visibility</h3>
+              <p>
+                When discovery tools favour dominant languages, relevant scholarship in other
+                languages becomes harder for global audiences to find and use.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="shell">
+          <div class="section-heading">
+            <h2>Search by meaning, not only by words.</h2>
+            <p class="section-intro">
+              Semantic multilingual search compares meaning across languages and phrasing. It
+              complements keyword search: it does not translate documents, and proximity of
+              meaning does not guarantee relevance.
+            </p>
+          </div>
+          <div class="method-grid">
+            <article class="method-card">
+              <span class="method-number">01</span>
+              <h3>Keyword Search</h3>
+              <p>
+                Finds literal terms in indexed metadata. It is useful for precise known terms,
+                especially when the query and the record share vocabulary and language.
+              </p>
+            </article>
+            <article class="method-card featured">
+              <span class="method-number">02</span>
+              <h3>Semantic Search</h3>
+              <p>
+                Retrieves nearby meanings within a shared multilingual space, even when the
+                query and the record use different languages or phrasing.
+              </p>
+            </article>
+            <article class="method-card">
+              <span class="method-number">03</span>
+              <h3>Hybrid Search</h3>
+              <p>
+                Combines literal and semantic rankings. It can preserve exact-term precision
+                while adding meaning-based discovery.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section subset-section">
+        <div class="shell subset-layout">
+          <div class="subset-card">
+            <strong id="subset-total">30,063</strong>
+            <span>records in the pilot subset</span>
+          </div>
+          <div>
+            <span class="eyebrow">A bounded experiment</span>
+            <p class="subset-copy">
+              This is a pilot over an indexed subset, not an evaluation of the complete LA
+              Referencia network. Deposita is used as a thematic control set: it confirms that
+              each selected topic is represented before multilingual queries are tested without
+              repository filters.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section experiment" id="topics">
+        <div class="shell">
+          <div class="section-heading">
+            <h2>Four topics, twenty-four live queries.</h2>
+            <p class="section-intro">
+              Each topic starts with an original Portuguese phrase verified in Deposita. Every
+              multilingual card opens the unfiltered three-column comparison over the pilot
+              subset.
+            </p>
+          </div>
+          <div class="topic-stack" id="topic-stack"></div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="shell">
+          <div class="section-heading">
+            <h2>Try simple English phrasing.</h2>
+            <p class="section-intro">
+              Semantic search can also reduce exact-word bias within one language. These
+              simple alternatives use the same editorial review as the multilingual examples.
+            </p>
+          </div>
+          <div class="phrasing-grid" id="phrasing-grid"></div>
+        </div>
+      </section>
+
+      <section class="section methodology" id="methodology">
+        <div class="shell">
+          <div class="section-heading">
+            <h2>Interpret the pilot with care.</h2>
+            <p class="section-intro">
+              Editorial review makes the comparison auditable without presenting an exploratory
+              prototype as a comprehensive benchmark.
+            </p>
+          </div>
+          <div class="methodology-layout">
+            <article class="methodology-card">
+              <h3>How the scores were produced</h3>
+              <p>
+                On <strong id="observation-date">2 June 2026</strong>, the first ten visible results in each column
+                were reviewed from their titles and abstracts when the title alone was not
+                sufficient. Relevance is topic-specific and editorial: it is not taken from the
+                similarity score alone. A result is marked
+                <strong>highly relevant</strong>, <strong>related</strong> or
+                <strong>miss</strong>. Both relevant grades count as hits. Only clearly
+                unrelated results count as misses. Positions not returned are shown separately.
+              </p>
+              <p>
+                The detail disclosures also show <strong>nDCG@10</strong>, which rewards
+                relevant documents near the top of a ranking. Rankings may change as the index,
+                model or ranking logic evolves.
+              </p>
+              <p>
+                For multilingual semantic results, the page also explains clear misses. The
+                review details show the model similarity score when Semantic Search exposes it.
+                Similarity is not editorial relevance or confidence.
+              </p>
+              <p>
+                Each topic includes a semantic top-10 coincidence matrix. It counts shared
+                record identifiers for each pair of languages. The matrix describes ranking
+                stability and discovery breadth; it is not treated as a quality score.
+              </p>
+            </article>
+            <article class="methodology-card">
+              <h3>Subset composition</h3>
+              <ul class="source-list" id="source-list"></ul>
+              <p>
+                Deposita selects the topics; it does not filter the public demonstration links.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section credits" id="credits">
+        <div class="shell credits-layout">
+          <div>
+            <span class="eyebrow">Credits</span>
+            <h2>Built from shared work.</h2>
+          </div>
+          <article class="credits-copy">
+            <p>
+              This guided demo is based on work by the LA Referencia team within the project
+              <em>Expansion and innovation of the federated Open Science infrastructure in
+              Latin America</em>, funded by
+              <a
+                href="https://www.lareferencia.info/es/component/k2/item/324-la-referencia-recibe-fondo-ioi"
+                target="_blank"
+                rel="noreferrer"
+                >Invest in Open Infrastructure (IOI) ↗</a
+              >.
+            </p>
+            <p>
+              Its conceptual framing is informed by
+              <a
+                href="https://coar-repositories.org/news-updates/can-semantic-multilingual-search-for-scholarly-content-improve-the-accessibility-of-research-outputs-across-languages-a-coar-proposal/"
+                target="_blank"
+                rel="noreferrer"
+                ><em>Enhancing Visibility Across Languages: Semantic Multilingual Search for
+                Scholarly Content</em> ↗</a
+              >, Lautaro Matas on behalf of COAR · Version 1.0 · 6 November 2025.
+            </p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="shell footer-inner">
+        <div class="footer-copy">
+          <span>Guided pilot · live comparisons from a LA Referencia subset</span>
+          <a href="https://www.lareferencia.info/" target="_blank" rel="noreferrer">
+            Visit LA Referencia <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+        <div class="footer-logos" aria-label="Project organisations">
+          <a
+            class="footer-logo-link"
+            href="https://www.lareferencia.info/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img class="footer-logo" src="./assets/lareferencia.png" alt="LA Referencia" />
+          </a>
+          <a
+            class="footer-logo-link"
+            href="https://coar-repositories.org/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img class="footer-logo coar" src="./assets/coar.jpg" alt="COAR" />
+          </a>
+          <a
+            class="footer-logo-link"
+            href="https://investinopen.org/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              class="footer-logo ioi"
+              src="./assets/ioi-logo-dark.svg"
+              alt="Invest in Open Infrastructure"
+            />
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="./demo-data.js"></script>
+    <script>
+      (() => {
+        "use strict";
+
+        const data = window.DEMO_DATA;
+        const methods = ["keyword", "semantic", "hybrid"];
+        const methodLabels = {
+          keyword: "Keyword",
+          semantic: "Semantic",
+          hybrid: "Hybrid",
+        };
+
+        const escapeHtml = (value) =>
+          String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+
+        const formatNumber = (value) => new Intl.NumberFormat("en-US").format(value);
+        const formatDate = (value) =>
+          new Intl.DateTimeFormat("en-GB", {
+            day: "numeric",
+            month: "long",
+            year: "numeric",
+            timeZone: "UTC",
+          }).format(new Date(`${value}T00:00:00Z`));
+        const excerpt = (value, limit = 360) =>
+          value.length > limit ? `${value.slice(0, limit).trim()}…` : value;
+
+        const summarize = (rows) => ({
+          returned: rows.length,
+          hits: rows.filter((row) => row.judgment > 0).length,
+          misses: rows.filter((row) => row.judgment === 0).length,
+          notReturned: 10 - rows.length,
+        });
+
+        const ndcgAt10 = (rows) => {
+          const gains = Array.from({ length: 10 }, (_, index) => rows[index]?.judgment ?? 0);
+          const dcg = gains.reduce(
+            (total, judgment, index) => total + (2 ** judgment - 1) / Math.log2(index + 2),
+            0,
+          );
+          const ideal = [...gains].sort((a, b) => b - a);
+          const idcg = ideal.reduce(
+            (total, judgment, index) => total + (2 ** judgment - 1) / Math.log2(index + 2),
+            0,
+          );
+          return idcg ? dcg / idcg : 0;
+        };
+
+        const judgment = (value) => {
+          if (value === 2) return ["relevant", "Highly relevant"];
+          if (value === 1) return ["partial", "Related"];
+          return ["out", "Miss"];
+        };
+
+        const semanticMisses = (rows) => rows.filter((row) => row.judgment === 0);
+
+        const renderMetric = (method, rows) => {
+          const score = summarize(rows);
+          return `
+            <div class="metric-row ${method === "semantic" ? "semantic" : ""}">
+              <span>${methodLabels[method]} · ${score.returned} returned</span>
+              <strong>${score.hits}/10 hits · ${score.misses} misses · ${score.notReturned} not returned</strong>
+            </div>
+          `;
+        };
+
+        const renderReview = (method, rows) => {
+          const score = summarize(rows);
+          const list = rows.length
+            ? rows
+                .map((row) => {
+                  const [className, label] = judgment(row.judgment);
+                  const record = data.records[row.recordId];
+                  return `
+                    <li class="review-item">
+                      ${escapeHtml(row.title)}
+                      <span class="judgment ${className}">${label}</span>
+                      ${typeof row.score === "number" ? `<span class="review-note">Model similarity score · ${row.score.toFixed(2)}</span>` : ""}
+                      ${row.judgment < 2 ? `<span class="review-note">Editorial basis · ${row.reviewBasis === "title+abstract" ? "title + abstract" : "title only"}</span>` : ""}
+                      ${row.note ? `<span class="review-note">${escapeHtml(row.note)}</span>` : ""}
+                      ${row.judgment < 2 && record?.abstract ? `<span class="abstract-excerpt">Abstract evidence · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
+                    </li>
+                  `;
+                })
+                .join("")
+            : '<li class="review-item">No results returned.</li>';
+
+          return `
+            <div class="review-method">
+              <h5>${methodLabels[method]} · ${score.hits}/10 hits · ${score.misses} misses · ${score.notReturned} not returned · nDCG@10 ${ndcgAt10(rows).toFixed(2)}</h5>
+              <ol>${list}</ol>
+            </div>
+          `;
+        };
+
+        const renderDistanceProfile = (rows) => {
+          const misses = semanticMisses(rows);
+          return `
+            <div class="distance-profile">
+              <span class="distance-profile-label">Semantic misses · ${misses.length} explained</span>
+              <div class="distance-bands">
+                <span class="distance-band miss">${misses.length} clearly unrelated</span>
+              </div>
+            </div>
+          `;
+        };
+
+        const renderDistanceDetails = (rows) => {
+          const misses = semanticMisses(rows);
+          const list = misses.length
+            ? misses
+                .map((row) => {
+                  const record = data.records[row.recordId];
+                  return `
+                    <li>
+                      <span class="distance-band miss">Miss</span>
+                      <span class="distance-title">${escapeHtml(row.title)}</span>
+                      <span class="review-note">${escapeHtml(row.note)}</span>
+                      ${record?.abstract ? `<span class="abstract-excerpt">Abstract evidence · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
+                    </li>
+                  `;
+                })
+                .join("")
+            : "<li>No clearly unrelated semantic results.</li>";
+
+          return `
+            <details class="distance-details">
+              <summary>Explain the semantic misses</summary>
+              <p class="distance-key">
+                Only clearly unrelated results appear here. Broader or narrower useful records
+                count as hits under the public metric.
+              </p>
+              <ul class="distance-list">${list}</ul>
+            </details>
+          `;
+        };
+
+        const renderCoincidenceMatrix = (topic) => {
+          const overlap = (left, right) => {
+            const ids = new Set(left.results.semantic.map((row) => row.recordId));
+            return right.results.semantic.filter((row) => ids.has(row.recordId)).length;
+          };
+          const heatmapColor = (shared) =>
+            [
+              "#d9674f",
+              "#e47a55",
+              "#ed8f59",
+              "#f2a45e",
+              "#f3ba69",
+              "#f1cf75",
+              "#d7d978",
+              "#b4d675",
+              "#8fcd70",
+              "#69c16b",
+              "#43b568",
+            ][shared];
+          const headings = topic.queries
+            .map((item) => `<th scope="col">${escapeHtml(item.language)}</th>`)
+            .join("");
+          const rows = topic.queries
+            .map(
+              (left) => `
+                <tr>
+                  <th scope="row">${escapeHtml(left.language)}</th>
+                  ${topic.queries
+                    .map((right) => {
+                      if (left === right) {
+                        return `<td class="diagonal" aria-label="${escapeHtml(left.language)} compared with itself: not applicable"></td>`;
+                      }
+                      const shared = overlap(left, right);
+                      return `<td style="background: ${heatmapColor(shared)}" aria-label="${escapeHtml(left.language)} and ${escapeHtml(right.language)}: ${shared} shared semantic top 10 records">${shared}</td>`;
+                    })
+                    .join("")}
+                </tr>
+              `,
+            )
+            .join("");
+          return `
+            <section class="matrix-panel">
+              <h4>Semantic top 10 coincidence matrix</h4>
+              <p class="matrix-copy">
+                Each cell counts shared record identifiers between two language rankings.
+                This describes ranking stability and discovery breadth, not relevance quality.
+              </p>
+              <div class="matrix-legend" aria-label="Heat map legend">
+                <span><i style="background: ${heatmapColor(2)}"></i>0–4 · lower coincidence</span>
+                <span><i style="background: ${heatmapColor(5)}"></i>5–6 · middle range</span>
+                <span><i style="background: ${heatmapColor(8)}"></i>7–10 · higher coincidence</span>
+              </div>
+              <div class="matrix-scroll">
+                <table class="coincidence-matrix">
+                  <thead><tr><th scope="col">Language</th>${headings}</tr></thead>
+                  <tbody>${rows}</tbody>
+                </table>
+              </div>
+            </section>
+          `;
+        };
+
+        const renderQuery = (item, options = {}) => {
+          const semantic = summarize(item.results.semantic);
+          const keyword = summarize(item.results.keyword);
+          const gain = semantic.hits - keyword.hits;
+
+          return `
+            <article class="query-card">
+              <div class="query-top">
+                <span class="tag">${escapeHtml(item.language)}</span>
+                <span aria-hidden="true">↗</span>
+              </div>
+              <div
+                class="query"
+                lang="${escapeHtml(item.languageCode)}"
+                dir="${escapeHtml(item.direction)}"
+              >${escapeHtml(item.text)}</div>
+              <div class="metric-grid">
+                ${methods.map((method) => renderMetric(method, item.results[method])).join("")}
+              </div>
+              <div class="semantic-gain">
+                Semantic gain @10 ·
+                <span class="semantic-gain-value">${gain >= 0 ? "+" : ""}${gain}</span>
+              </div>
+              ${options.explainSemanticDistance ? renderDistanceProfile(item.results.semantic) : ""}
+              <div class="query-actions">
+                <a
+                  class="open-query"
+                  data-public-query
+                  href="${escapeHtml(item.combinedUrl)}"
+                  target="_blank"
+                  rel="noreferrer"
+                >Open the three columns ↗</a>
+              </div>
+              <details>
+                <summary>Review the editorial judgments</summary>
+                ${methods.map((method) => renderReview(method, item.results[method])).join("")}
+              </details>
+              ${options.explainSemanticDistance ? renderDistanceDetails(item.results.semantic) : ""}
+            </article>
+          `;
+        };
+
+        const renderTopic = (topic) => `
+          <section class="topic-group" id="${escapeHtml(topic.id)}">
+            <div class="topic-header">
+              <div>
+                <h3>${escapeHtml(topic.title)}</h3>
+                <p>${escapeHtml(topic.summary)}</p>
+              </div>
+              <div class="control-panel">
+                <span class="control-copy">Portuguese control · ${topic.control.depositaCount} records in Deposita</span>
+                <span class="control-query" lang="pt">${escapeHtml(topic.control.queryPt)}</span>
+                <a
+                  class="small-link"
+                  data-control-link
+                  href="${escapeHtml(topic.control.depositaUrl)}"
+                  target="_blank"
+                  rel="noreferrer"
+                >Verify in Deposita ↗</a>
+                <a
+                  class="small-link"
+                  data-public-query
+                  href="${escapeHtml(topic.control.combinedUrl)}"
+                  target="_blank"
+                  rel="noreferrer"
+                >Open Portuguese baseline ↗</a>
+              </div>
+            </div>
+            <div class="query-grid">
+              ${topic.queries
+                .map((item) => renderQuery(item, { explainSemanticDistance: true }))
+                .join("")}
+            </div>
+            ${renderCoincidenceMatrix(topic)}
+          </section>
+        `;
+
+        document.getElementById("subset-total").textContent = formatNumber(data.subsetTotal);
+        document.getElementById("observation-date").textContent = formatDate(data.observedAt);
+        document.getElementById("topic-stack").innerHTML = data.topics.map(renderTopic).join("");
+        document.getElementById("phrasing-grid").innerHTML = data.englishQueries
+          .map(renderQuery)
+          .join("");
+        document.getElementById("source-list").innerHTML = Object.entries(data.sources)
+          .map(
+            ([source, count]) =>
+              `<li><span>${escapeHtml(source)}</span><strong>${formatNumber(count)}</strong></li>`,
+          )
+          .join("");
+      })();
+    </script>
+  </body>
+</html>

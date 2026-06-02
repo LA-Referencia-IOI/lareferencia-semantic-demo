@@ -1,0 +1,21 @@
+{
+  "name": "lareferencia-semantic-search-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "python3 -m http.server 4173 --bind 127.0.0.1",
+    "verify": "node scripts/verify-workspace.mjs",
+    "public:refresh": "node scripts/run-public-workflow.mjs --capture",
+    "public:rebuild": "node scripts/run-public-workflow.mjs --rebuild",
+    "public:judgments": "node scripts/seed-judgments.mjs",
+    "public:review-queue": "node scripts/report-review-queue.mjs",
+    "public:build": "node scripts/build-demo-data.mjs",
+    "public:validate": "node scripts/validate-demo-data.mjs",
+    "research:screen:wave1": "node scripts/screen-candidate-topics.mjs ../candidate-topics.json ../candidate-screen-capture.json",
+    "research:screen:wave2": "node scripts/screen-candidate-topics.mjs ../candidate-topics-wave2.json ../candidate-screen-wave2.json",
+    "research:capture:wave1": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-capture.json ../candidate-finalists-capture.json human-rights water-quality gender-equality childhood-obesity climate-change inclusive-education",
+    "research:capture:wave2": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-wave2.json ../candidate-wave2-finalists-capture.json diabetes violence-against-women open-access deforestation",
+    "research:capture:breast-cancer": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-wave2.json ../candidate-breast-cancer-capture.json breast-cancer",
+    "research:report": "node scripts/report-candidate-topics.mjs"
+  }
+}

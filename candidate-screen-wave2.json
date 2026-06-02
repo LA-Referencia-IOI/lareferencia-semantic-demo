@@ -1,0 +1,4408 @@
+{
+  "observedAt": "2026-06-02",
+  "topics": [
+    {
+      "id": "breast-cancer",
+      "title": "Breast cancer",
+      "controlPt": "câncer de mama",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "breast cancer",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.86
+            },
+            {
+              "position": 2,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.85
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.84
+            },
+            {
+              "position": 4,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.83
+            },
+            {
+              "position": 5,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.83
+            },
+            {
+              "position": 6,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.83
+            },
+            {
+              "position": 7,
+              "recordId": "UY_a11a885619e36c45329a007899405b79",
+              "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "UY_f284f8173fabda67d37cca81e851854c",
+              "title": "Assessing Adherence to Adjuvant Hormone Therapy in Breast Cancer Patients in Routine Clinical Practice",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.82
+            },
+            {
+              "position": 10,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.82
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "cancer du sein",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+              "title": "Ovarian cancer",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+              "title": "Enfermedad de Paget del seno",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+              "title": "Operaciones por cáncer de duodeno",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Brustkrebs",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+              "title": "Tratamiento quirúrgico del cáncer de pulmón",
+              "score": 0.76
+            },
+            {
+              "position": 2,
+              "recordId": "UY_8e895c9dc794d25a915cb887567ae49b",
+              "title": "Radioterapia de los tumores malignos primitivos del hueso",
+              "score": 0.76
+            },
+            {
+              "position": 3,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.76
+            },
+            {
+              "position": 4,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.75
+            },
+            {
+              "position": 5,
+              "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+              "title": "El tratamiento de los tumores de los huesos",
+              "score": 0.75
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7488a3ee2f5ec9c79cc7b49a09524e46",
+              "title": "Importancia de la broncoscopía en la cirugía del cáncer del pulmón",
+              "score": 0.75
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.75
+            },
+            {
+              "position": 8,
+              "recordId": "UY_d1fc141f7f994f52d600b79d89df38b0",
+              "title": "Tratamiento radiante y químico del cáncer de pulmón",
+              "score": 0.75
+            },
+            {
+              "position": 9,
+              "recordId": "UY_23f74c9df532d5488132e2f3883b3a6a",
+              "title": "Bronchus adenoma",
+              "score": 0.75
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "tumore al seno",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_7396746296ab129324e996c9c6983c2d",
+              "title": "Tumores incluidos en el ligamento ancho",
+              "score": 0.79
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c6de508cdd5c893499020c6bffd28ff9",
+              "title": "Large benign breast tumors",
+              "score": 0.79
+            },
+            {
+              "position": 4,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_959bc3e981f64043f83da664b008d568",
+              "title": "Tratamiento del cáncer del cuerpo uterino",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b8627c5fb5eefa54e333354a344ef911",
+              "title": "Enfermedad de Paget del seno",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_dcb8b9d7b9c2e0fe11f4dc91fccdfacb",
+              "title": "El tratamiento de los tumores de los huesos",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_e77262bb72b201408fe7924582fc08b4",
+              "title": "Tumor of the breast due to hyperfolliculinemia in a hysterectomy that conserved an ovary",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_fb0c587324ff0b517f8b5674439c063a",
+              "title": "Ewing tumor",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "乳腺癌",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+              "title": "Carcinoma de mama y embarazo",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+              "title": "Lung cancer",
+              "score": 0.81
+            },
+            {
+              "position": 9,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "乳がん",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_303b6f8665e5b2ca3c430b7fb41b2add",
+              "title": "Lung cancer",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_4826f048f1ee744473927e9d91b554c7",
+              "title": "Carcinoma de mama y embarazo",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5dcf090f25a925a97edb6be3394fe9b9",
+              "title": "About breast cancer",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_e78c65dafc57abbaf281b06f83121bd4",
+              "title": "Tratamiento quirúrgico del cáncer de pulmón",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_7fa32bf3a066b426a3acbdeb880519f7",
+              "title": "Elección de tratamiento en el cáncer de la mama",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_a11a885619e36c45329a007899405b79",
+              "title": "Tratamiento hormonal del cáncer mamario en la mujer",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "سرطان الثدي",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_69d7e98bd35b7be67b871cdb597b1746",
+              "title": "Diagnóstico del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_537c85bb53a4a187175d21131a0182fb",
+              "title": "Tratamiento del cáncer de mama",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_b539576b2b7d209f0d79aaf1b4b375dc",
+              "title": "Ovarian cancer",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_bbaf8d03d17ddb06bd4de5338f589e74",
+              "title": "Operaciones por cáncer de duodeno",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_a2b93a47dea2483414f49db89c9331ac",
+              "title": "Diagnóstico y tratamiento de los tumores de la mama",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4a017dc6d2aaaf9afc86cf36f755f386",
+              "title": "Diagnóstico radiológico del cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_dbab88eb3b7340ba3c5a1dbbf8be9f92",
+              "title": "Diagnóstico radiológico de cáncer de mama",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_16a47cff47e9525a0ba47f60c755e811",
+              "title": "Stomach cancer",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_f87a09dc890232dbe1f902fa9c11a948",
+              "title": "Tratamiento quirúrgico del cáncer de estómago",
+              "score": 0.79
+            }
+          ]
+        }
+      ],
+      "depositaCount": 3
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "controlPt": "diabetes",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "diabetes",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+              "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblastos de embriones de rata",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+              "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.82
+            },
+            {
+              "position": 7,
+              "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+              "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+              "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "UY_c610f871be076dff0379ba6906387347",
+              "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+              "score": 0.82
+            },
+            {
+              "position": 10,
+              "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+              "title": "Atención integral de enfermería al diabético tipo 2",
+              "score": 0.82
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "diabète",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.8
+            },
+            {
+              "position": 2,
+              "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+              "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.79
+            },
+            {
+              "position": 4,
+              "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+              "title": "Atención integral de enfermería al diabético tipo 2",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_53780f4775bfdd509cddbc0451a8e853",
+              "title": "Enfermedad de Charcot de pie y tobillo en pacientes con diabetes Mellitus: análisis de las causas de re consultas en una Unidad de pie diabético hospitalaria",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+              "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblastos de embriones de rata",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_40926e021fe562ec566d9d09e45a4392",
+              "title": "Diabetes Mellitus tipo 1 y salud bucal: una comparación entre niños diabéticos y no diabéticos uruguayos",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+              "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+              "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Diabetes",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+              "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblastos de embriones de rata",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+              "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.82
+            },
+            {
+              "position": 7,
+              "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+              "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+              "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "UY_c610f871be076dff0379ba6906387347",
+              "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+              "score": 0.82
+            },
+            {
+              "position": 10,
+              "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+              "title": "Atención integral de enfermería al diabético tipo 2",
+              "score": 0.82
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "diabete",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+              "title": "Atención integral de enfermería al diabético tipo 2",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+              "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+              "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_cb63ddf9cd19c54ca5fb217a0f7a4103",
+              "title": "Deep phlegmons of the sole of the foot in the diabetic",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+              "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+              "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "糖尿病",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+              "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_dd47a1c53830d881645281d9e8462b4e",
+              "title": "Tendencias en la utilización de medicamentos, control glicémico y frecuencia de hipoglicemias en el período 2006-2013.",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_53780f4775bfdd509cddbc0451a8e853",
+              "title": "Enfermedad de Charcot de pie y tobillo en pacientes con diabetes Mellitus: análisis de las causas de re consultas en una Unidad de pie diabético hospitalaria",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_c610f871be076dff0379ba6906387347",
+              "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+              "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c17574d9773e5e0e6bcc1f88b07a033f",
+              "title": "Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfu...",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "糖尿病",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+              "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+              "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+              "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_dd47a1c53830d881645281d9e8462b4e",
+              "title": "Tendencias en la utilización de medicamentos, control glicémico y frecuencia de hipoglicemias en el período 2006-2013.",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_53780f4775bfdd509cddbc0451a8e853",
+              "title": "Enfermedad de Charcot de pie y tobillo en pacientes con diabetes Mellitus: análisis de las causas de re consultas en una Unidad de pie diabético hospitalaria",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_c610f871be076dff0379ba6906387347",
+              "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+              "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+              "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c17574d9773e5e0e6bcc1f88b07a033f",
+              "title": "Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfu...",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "داء السكري",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+              "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+              "score": 0.75
+            },
+            {
+              "position": 2,
+              "recordId": "UY_53780f4775bfdd509cddbc0451a8e853",
+              "title": "Enfermedad de Charcot de pie y tobillo en pacientes con diabetes Mellitus: análisis de las causas de re consultas en una Unidad de pie diabético hospitalaria",
+              "score": 0.75
+            },
+            {
+              "position": 3,
+              "recordId": "UY_dd47a1c53830d881645281d9e8462b4e",
+              "title": "Tendencias en la utilización de medicamentos, control glicémico y frecuencia de hipoglicemias en el período 2006-2013.",
+              "score": 0.75
+            },
+            {
+              "position": 4,
+              "recordId": "UY_90cb5df4691194f32bee1e536463eac3",
+              "title": "El uso crónico de medicamentos",
+              "score": 0.75
+            },
+            {
+              "position": 5,
+              "recordId": "UY_68bad39012682924eeed7c8ca29923c2",
+              "title": "The impact of ICT in health promotion",
+              "score": 0.75
+            },
+            {
+              "position": 6,
+              "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+              "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+              "score": 0.75
+            }
+          ]
+        }
+      ],
+      "depositaCount": 4
+    },
+    {
+      "id": "autism",
+      "title": "Autism",
+      "controlPt": "autismo",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "autism",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_844812e1917d3c208ea391b140a742b5",
+              "title": "Experiencias de las psicomotricistas en el abordaje de niños con diagnóstico de Autismo",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "Deposita_983918b0f4c56bd780d77621535d5b37",
+              "title": "Autismo: Conhecendo esse mundo",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_5f24d212c30f276a11a1c5c445c95e69",
+              "title": "Preferencias terminológicas acerca del autismo según participantes de un MOOC sobre inclusión educativa",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_f39ae7bb83fd6aa6554145ad37b36d54",
+              "title": "Autismo. Algunos elementos para pensar el objeto autista, y el objeto transicional",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_1fc1db5037e798ed73b41eac4bf306ea",
+              "title": "Socioemotional competency interventions in adolescents with autism spectrum diagnosis: A systematic review",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_acb3ba31b70c9454873b3ff014600cb4",
+              "title": "Trauma dentario en un paciente con trastorno del espectro autista. Reporte de caso clínico.",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_2f724f7d78382f735b3a20fac69fa4a0",
+              "title": "Comunico, logo existo: o protagonismo da linguagem e a metarrepresentação do autismo no horizonte da democracia documentária",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_06c55f97509a2801ef1212ef05084284",
+              "title": "El método psicoanalítico: su aplicación en el diagnóstico y tratamiento del autismo en la infancia",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "autisme",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_844812e1917d3c208ea391b140a742b5",
+              "title": "Experiencias de las psicomotricistas en el abordaje de niños con diagnóstico de Autismo",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "Deposita_983918b0f4c56bd780d77621535d5b37",
+              "title": "Autismo: Conhecendo esse mundo",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_f39ae7bb83fd6aa6554145ad37b36d54",
+              "title": "Autismo. Algunos elementos para pensar el objeto autista, y el objeto transicional",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_5f24d212c30f276a11a1c5c445c95e69",
+              "title": "Preferencias terminológicas acerca del autismo según participantes de un MOOC sobre inclusión educativa",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_acb3ba31b70c9454873b3ff014600cb4",
+              "title": "Trauma dentario en un paciente con trastorno del espectro autista. Reporte de caso clínico.",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_06c55f97509a2801ef1212ef05084284",
+              "title": "El método psicoanalítico: su aplicación en el diagnóstico y tratamiento del autismo en la infancia",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3513da21a84e4f505a1bfaef610bf44a",
+              "title": "El uso de recursos musicales en la comunicación de niños con trastornos de espectro autista",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "Deposita_6bd78c0f488bd43d7bf09df97618053c",
+              "title": "Transtorno do Espectro Autista: Direitos Fundamentais",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Autismus",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Deposita_983918b0f4c56bd780d77621535d5b37",
+              "title": "Autismo: Conhecendo esse mundo",
+              "score": 0.8
+            },
+            {
+              "position": 2,
+              "recordId": "UY_5f24d212c30f276a11a1c5c445c95e69",
+              "title": "Preferencias terminológicas acerca del autismo según participantes de un MOOC sobre inclusión educativa",
+              "score": 0.79
+            },
+            {
+              "position": 3,
+              "recordId": "UY_f39ae7bb83fd6aa6554145ad37b36d54",
+              "title": "Autismo. Algunos elementos para pensar el objeto autista, y el objeto transicional",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_2f724f7d78382f735b3a20fac69fa4a0",
+              "title": "Comunico, logo existo: o protagonismo da linguagem e a metarrepresentação do autismo no horizonte da democracia documentária",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_844812e1917d3c208ea391b140a742b5",
+              "title": "Experiencias de las psicomotricistas en el abordaje de niños con diagnóstico de Autismo",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_1fc1db5037e798ed73b41eac4bf306ea",
+              "title": "Socioemotional competency interventions in adolescents with autism spectrum diagnosis: A systematic review",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_acb3ba31b70c9454873b3ff014600cb4",
+              "title": "Trauma dentario en un paciente con trastorno del espectro autista. Reporte de caso clínico.",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_d8a8c47b8dcea86cebcce22b349b3975",
+              "title": "Challenges of social interaction of people with autism in the job market",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "autismo",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Deposita_983918b0f4c56bd780d77621535d5b37",
+              "title": "Autismo: Conhecendo esse mundo",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5f24d212c30f276a11a1c5c445c95e69",
+              "title": "Preferencias terminológicas acerca del autismo según participantes de un MOOC sobre inclusión educativa",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_844812e1917d3c208ea391b140a742b5",
+              "title": "Experiencias de las psicomotricistas en el abordaje de niños con diagnóstico de Autismo",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_f39ae7bb83fd6aa6554145ad37b36d54",
+              "title": "Autismo. Algunos elementos para pensar el objeto autista, y el objeto transicional",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_2f724f7d78382f735b3a20fac69fa4a0",
+              "title": "Comunico, logo existo: o protagonismo da linguagem e a metarrepresentação do autismo no horizonte da democracia documentária",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_acb3ba31b70c9454873b3ff014600cb4",
+              "title": "Trauma dentario en un paciente con trastorno del espectro autista. Reporte de caso clínico.",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "Deposita_6bd78c0f488bd43d7bf09df97618053c",
+              "title": "Transtorno do Espectro Autista: Direitos Fundamentais",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_1fc1db5037e798ed73b41eac4bf306ea",
+              "title": "Socioemotional competency interventions in adolescents with autism spectrum diagnosis: A systematic review",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "自闭症",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1cff21c68cc0bb40d6a1d886b3bafaf0",
+              "title": "Discapacidad en la niñez y la adolescencia : una visión desde el cuidado de enfermería",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_166ea8d630414a4df5bf3e114ed36361",
+              "title": "Infancia y discapacidad: una mirada desde las ciencias sociales en clave de derechos",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_238da73596ea9db2cfca494bd64de1bf",
+              "title": "Aproximación a la identificación de alumnos con discapacidad en educación primaria",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_0d3f7e114e41efd64baac846d6f21327",
+              "title": "Inclusión educativa y discapacidad en enseñanza secundaria",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_844812e1917d3c208ea391b140a742b5",
+              "title": "Experiencias de las psicomotricistas en el abordaje de niños con diagnóstico de Autismo",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_56131c0343e3d98a23d178d13f1634b8",
+              "title": "Disability and care dependency of older adults",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_83c3a36cb3577ef6368a9969449456a2",
+              "title": "El trastorno por déficit de atención con hiperactividad",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "Deposita_1e01f7384b957af769e50856fa132d54",
+              "title": "Desenhando outras realidades com crianças",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "自閉症",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_0d3f7e114e41efd64baac846d6f21327",
+              "title": "Inclusión educativa y discapacidad en enseñanza secundaria",
+              "score": 0.77
+            },
+            {
+              "position": 2,
+              "recordId": "Deposita_1e01f7384b957af769e50856fa132d54",
+              "title": "Desenhando outras realidades com crianças",
+              "score": 0.77
+            },
+            {
+              "position": 3,
+              "recordId": "UY_6a0a70c6ebb26065ed291a95f3ed3cdb",
+              "title": "Behavior analytic interventions for individuals with autism spectrum disorders",
+              "score": 0.77
+            },
+            {
+              "position": 4,
+              "recordId": "UY_1cff21c68cc0bb40d6a1d886b3bafaf0",
+              "title": "Discapacidad en la niñez y la adolescencia : una visión desde el cuidado de enfermería",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_cdbc6ebfe9c5e9db51ac2ecbb48dc1d0",
+              "title": "Tecnologías de la lengua y de la comunicación en la Educación Especial pública en niños con parálisis cerebral",
+              "score": 0.76
+            },
+            {
+              "position": 6,
+              "recordId": "Deposita_d0ce4f3f5559ac841c374c9b4eab0dbd",
+              "title": "A Presença e o reconhecimento da criança autista - Enlaces entre análise de discurso e psicanálise",
+              "score": 0.76
+            },
+            {
+              "position": 7,
+              "recordId": "UY_166ea8d630414a4df5bf3e114ed36361",
+              "title": "Infancia y discapacidad: una mirada desde las ciencias sociales en clave de derechos",
+              "score": 0.76
+            },
+            {
+              "position": 8,
+              "recordId": "UY_238da73596ea9db2cfca494bd64de1bf",
+              "title": "Aproximación a la identificación de alumnos con discapacidad en educación primaria",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "Deposita_ebdc904ab2ff0c26c1cc1578f3d9e41a",
+              "title": "Pessoas com deficiência e representação social: um olhar sobre os livros didáticos",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_83c3a36cb3577ef6368a9969449456a2",
+              "title": "El trastorno por déficit de atención con hiperactividad",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "التوحد",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_83c3a36cb3577ef6368a9969449456a2",
+              "title": "El trastorno por déficit de atención con hiperactividad",
+              "score": 0.76
+            }
+          ]
+        }
+      ],
+      "depositaCount": 7
+    },
+    {
+      "id": "tuberculosis",
+      "title": "Tuberculosis",
+      "controlPt": "tuberculose",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "tuberculosis",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_64faba05347d9257b3ad9489dfa71133",
+              "title": "Tuberculosis of the breast",
+              "score": 0.85
+            },
+            {
+              "position": 2,
+              "recordId": "UY_003a607cd324c31b7bd98195caf6ea1c",
+              "title": "Tratamiento médico de la tuberculosis vertebral",
+              "score": 0.84
+            },
+            {
+              "position": 3,
+              "recordId": "UY_b9a1338d1d2379d6283b51f009455744",
+              "title": "Clinical and epidemiological features of tuberculosis isolated from critically ill patients",
+              "score": 0.84
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c2d306f7c816fefe9ae06cffa1fb5ba9",
+              "title": "La resección en el tratamiento de la tuberculosis",
+              "score": 0.84
+            },
+            {
+              "position": 5,
+              "recordId": "UY_e0d8a8970f8dc69f96c1a39d7ea2ffeb",
+              "title": "Tratamiento quirúrgico de la tuberculosis vertebral: La artrodesis vertebral",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_e64d764fa8e9689327558785f531d91e",
+              "title": "Caracterización bioquímica y funcional de dos sustratos de la Ser/Thr quinasa PknG de Mycobacterium tuberculosis",
+              "score": 0.82
+            },
+            {
+              "position": 7,
+              "recordId": "UY_96a2a60c95a446b2aa68dbe1e080d17d",
+              "title": "Prevalencia de tuberculosis latente en estudiantes de la Licenciatura en Enfermería de la Universidad Autónoma de Querétaro, México",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "UY_571e6ffa37956026c8ad793529499fea",
+              "title": "Tuberculosis of the mammary gland",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "UY_6fbfd217f327cfa86a5515130ad55de9",
+              "title": "Situación epidemiológica de la tuberculosis en Maldonado-Uruguay, período 2012-2016",
+              "score": 0.81
+            },
+            {
+              "position": 10,
+              "recordId": "UY_9aa29e4e33b0926d9042f947d592bad9",
+              "title": "Rv2577 of mycobacterium tuberculosis Is a virulence factor with dual phosphatase and phosphodiesterase functions",
+              "score": 0.81
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "tuberculose",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_64faba05347d9257b3ad9489dfa71133",
+              "title": "Tuberculosis of the breast",
+              "score": 0.84
+            },
+            {
+              "position": 2,
+              "recordId": "UY_003a607cd324c31b7bd98195caf6ea1c",
+              "title": "Tratamiento médico de la tuberculosis vertebral",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c2d306f7c816fefe9ae06cffa1fb5ba9",
+              "title": "La resección en el tratamiento de la tuberculosis",
+              "score": 0.83
+            },
+            {
+              "position": 4,
+              "recordId": "UY_b9a1338d1d2379d6283b51f009455744",
+              "title": "Clinical and epidemiological features of tuberculosis isolated from critically ill patients",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_e0d8a8970f8dc69f96c1a39d7ea2ffeb",
+              "title": "Tratamiento quirúrgico de la tuberculosis vertebral: La artrodesis vertebral",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_e64d764fa8e9689327558785f531d91e",
+              "title": "Caracterización bioquímica y funcional de dos sustratos de la Ser/Thr quinasa PknG de Mycobacterium tuberculosis",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_571e6ffa37956026c8ad793529499fea",
+              "title": "Tuberculosis of the mammary gland",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_96a2a60c95a446b2aa68dbe1e080d17d",
+              "title": "Prevalencia de tuberculosis latente en estudiantes de la Licenciatura en Enfermería de la Universidad Autónoma de Querétaro, México",
+              "score": 0.81
+            },
+            {
+              "position": 9,
+              "recordId": "UY_c2363494d94976dc0801955bf77b48e1",
+              "title": "Stenosing tuberculous enteritis, occlusion",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c99cfd148a8e65935580925359b9e233",
+              "title": "Pneumoperitoneum caused by tuberculosis",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Tuberkulose",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_64faba05347d9257b3ad9489dfa71133",
+              "title": "Tuberculosis of the breast",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_22acde866e7428e356f2ecd3c2409e9c",
+              "title": "Esclerosis Tuberosa. Su repercusión en la cavidad Bucal Presentación de dos casos clínicos",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c2d306f7c816fefe9ae06cffa1fb5ba9",
+              "title": "La resección en el tratamiento de la tuberculosis",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_571e6ffa37956026c8ad793529499fea",
+              "title": "Tuberculosis of the mammary gland",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_003a607cd324c31b7bd98195caf6ea1c",
+              "title": "Tratamiento médico de la tuberculosis vertebral",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_8ee7b3c513c8fc1f6c8e540417d3e244",
+              "title": "Report on Simultaneous and Spontaneous Bilateral Pneumothorax and Analysis of a Case of Tuberous Sclerosis: an´alisis de un caso de una paciente portadora de esclerosis tuberosa",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_e0d8a8970f8dc69f96c1a39d7ea2ffeb",
+              "title": "Tratamiento quirúrgico de la tuberculosis vertebral: La artrodesis vertebral",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_0daa348e70d30d2c7806828a0087adaf",
+              "title": "Situación epidemiológica de la tuberculosis en Uruguay enero 2008 diciembre 2014",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "UY_c2363494d94976dc0801955bf77b48e1",
+              "title": "Stenosing tuberculous enteritis, occlusion",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_e64d764fa8e9689327558785f531d91e",
+              "title": "Caracterización bioquímica y funcional de dos sustratos de la Ser/Thr quinasa PknG de Mycobacterium tuberculosis",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "tubercolosi",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_23fc72b4ad81c4d24357e58ea8ec5082",
+              "title": "Tuberculosis of the central nervous system in cattle in Paraíba, Brazil. [Tuberculose no sistema nervoso central de bovinos na Paraíba.]",
+              "score": 0.78
+            },
+            {
+              "position": 2,
+              "recordId": "UY_003a607cd324c31b7bd98195caf6ea1c",
+              "title": "Tratamiento médico de la tuberculosis vertebral",
+              "score": 0.77
+            },
+            {
+              "position": 3,
+              "recordId": "UY_0daa348e70d30d2c7806828a0087adaf",
+              "title": "Situación epidemiológica de la tuberculosis en Uruguay enero 2008 diciembre 2014",
+              "score": 0.77
+            },
+            {
+              "position": 4,
+              "recordId": "UY_64faba05347d9257b3ad9489dfa71133",
+              "title": "Tuberculosis of the breast",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_c2d306f7c816fefe9ae06cffa1fb5ba9",
+              "title": "La resección en el tratamiento de la tuberculosis",
+              "score": 0.76
+            },
+            {
+              "position": 6,
+              "recordId": "UY_22acde866e7428e356f2ecd3c2409e9c",
+              "title": "Esclerosis Tuberosa. Su repercusión en la cavidad Bucal Presentación de dos casos clínicos",
+              "score": 0.76
+            },
+            {
+              "position": 7,
+              "recordId": "UY_c2363494d94976dc0801955bf77b48e1",
+              "title": "Stenosing tuberculous enteritis, occlusion",
+              "score": 0.76
+            },
+            {
+              "position": 8,
+              "recordId": "UY_01ac81c2933b29e180e34d5beb56a4c1",
+              "title": "Identification and culture of proliferative cells in abnormal Taenia solium larvae: Role in the development of racemose neurocysticercosis",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3deca2d4ed96ad052560707d23a69177",
+              "title": "The tuberculous bladder enervation",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_69532ed2a7c07000c6b7692158f3a47d",
+              "title": "Utilidad de GeneXpert MTB/RIF Ultra para el diagnóstico de tuberculosis pulmonar. Estudio en población Uruguaya, enero-diciembre de 2021",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "结核病",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Deposita_9e86088d6f786a03c137110e198c467e",
+              "title": "Planejamento estrutural, síntese e avaliação farmacológica de inéditos tiazóis para tratamento do Câncer e das Doenças Negligenciadas",
+              "score": 0.75
+            },
+            {
+              "position": 2,
+              "recordId": "UY_c2d306f7c816fefe9ae06cffa1fb5ba9",
+              "title": "La resección en el tratamiento de la tuberculosis",
+              "score": 0.75
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "結核",
+          "rows": []
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "السل",
+          "rows": []
+        }
+      ],
+      "depositaCount": 1
+    },
+    {
+      "id": "violence-against-women",
+      "title": "Violence against women",
+      "controlPt": "violência contra a mulher",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "violence against women",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_309dc9715e64673de390d5550638c568",
+              "title": "Gender conceptions and violence against women",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_9f67c5110fb995b319f53396dbc54724",
+              "title": "Violencia basada en el género y el rol del Poder Judicial",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_ded8699ccc57f907f9e85c8dd0fff429",
+              "title": "Marriage as a protective factor against intimate partner violence suffered by women. Exploring mechanisms",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "violence contre les femmes",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_309dc9715e64673de390d5550638c568",
+              "title": "Gender conceptions and violence against women",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_3da0a6fd4aee107f05bebd919e998005",
+              "title": "Guía para la cobertura periodística de femicidios y violencia basada en género",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_9f67c5110fb995b319f53396dbc54724",
+              "title": "Violencia basada en el género y el rol del Poder Judicial",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Gewalt gegen Frauen",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_9f67c5110fb995b319f53396dbc54724",
+              "title": "Violencia basada en el género y el rol del Poder Judicial",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_309dc9715e64673de390d5550638c568",
+              "title": "Gender conceptions and violence against women",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_8fab170b156fe2a899c6eaa6887fb656",
+              "title": "Estudio de la violencia doméstica cuando es ejercida por policías",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "violenza contro le donne",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_309dc9715e64673de390d5550638c568",
+              "title": "Gender conceptions and violence against women",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_9f67c5110fb995b319f53396dbc54724",
+              "title": "Violencia basada en el género y el rol del Poder Judicial",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3da0a6fd4aee107f05bebd919e998005",
+              "title": "Guía para la cobertura periodística de femicidios y violencia basada en género",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "针对妇女的暴力",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_8fab170b156fe2a899c6eaa6887fb656",
+              "title": "Estudio de la violencia doméstica cuando es ejercida por policías",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3da0a6fd4aee107f05bebd919e998005",
+              "title": "Guía para la cobertura periodística de femicidios y violencia basada en género",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_9f67c5110fb995b319f53396dbc54724",
+              "title": "Violencia basada en el género y el rol del Poder Judicial",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "女性に対する暴力",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_64449d45b896b0e4c546f2d8bc22f939",
+              "title": "Reacciones Adversas a medicamentos en mujeres",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3da0a6fd4aee107f05bebd919e998005",
+              "title": "Guía para la cobertura periodística de femicidios y violencia basada en género",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_8fab170b156fe2a899c6eaa6887fb656",
+              "title": "Estudio de la violencia doméstica cuando es ejercida por policías",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "العنف ضد المرأة",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_eb5e2ffea5de563bc8060add83076d91",
+              "title": "La violencia en la enseñanza media",
+              "score": 0.8
+            },
+            {
+              "position": 2,
+              "recordId": "UY_1075191106af3ea18ca44a0915247f9e",
+              "title": "La violencia en la agenda mediática",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_34c11abfa297c43c05269ae0126caba7",
+              "title": "La violencia contra las mujeres en la agenda pública. Aportes en clave interdisciplinar",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_70117d9486ff39bc49bc422c32611075",
+              "title": "Relato de Caso Clínico: Violencia doméstica contra una paciente portadora de Síndrome de Down",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_4610f6ef4b75750ec952bf9b2794b400",
+              "title": "La violencia de género, el papel de los movimientos feministas y los posibles abordajes jurídicos",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_64449d45b896b0e4c546f2d8bc22f939",
+              "title": "Reacciones Adversas a medicamentos en mujeres",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_829f568663bb9580a6235fecaf8b757f",
+              "title": "El control social, la familia y las mujeres",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_48c897b9fc2ee7f512cf393a0add6543",
+              "title": "Violencia de género y/o violencia doméstica: Modelos de intervención",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_dd18c63fbd297db2542c5b43ea2623be",
+              "title": "Desigualdades de género en Uruguay",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_212b00fa19a8d0cc7bd0970357b79cb4",
+              "title": "Aportes para la comprensión del fenómeno del control social sobre las mujeres",
+              "score": 0.78
+            }
+          ]
+        }
+      ],
+      "depositaCount": 1
+    },
+    {
+      "id": "open-access",
+      "title": "Open access",
+      "controlPt": "acesso aberto",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "open access",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.85
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_84615ccb1251858a3bc3474981cf77b5",
+              "title": "Ciência aberta para editores científicos",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+              "title": "El derecho a la información",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.82
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_6193d13cf6b1625e6d8eae1364520faa",
+              "title": "Tópicos sobre dados abertos para editores científicos",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_6baeca1aa73a809b86be4f5a0c32ba47",
+              "title": "Abertura e compartilhamento de dados de pesquisa subjacentes a artigos científicos: questões do direito autoral",
+              "score": 0.81
+            },
+            {
+              "position": 10,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.81
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "libre accès",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+              "title": "El derecho a la información",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b0814e38042752cf8be6a62f5bf5a4bb",
+              "title": "Los derechos de autor en internet",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_b0800a87d0c1564b6501933595c4c22f",
+              "title": "Abuso del derecho de información",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_8bb5e78794614549b6e1fcf459b69638",
+              "title": "Informação Científica acessível como Sistema Hipermídia",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_67c5b086fd17deed112191686b3be1c4",
+              "title": "Autorización de Acceso en MIDP 3.0",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "Ridi_cfc84dc18a2409b25b291560b09805c5",
+              "title": "Internet access and use: concepts, measures and analytic model / abstract",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Open Access",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.85
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_84615ccb1251858a3bc3474981cf77b5",
+              "title": "Ciência aberta para editores científicos",
+              "score": 0.83
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+              "title": "El derecho a la información",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.82
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.82
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_6193d13cf6b1625e6d8eae1364520faa",
+              "title": "Tópicos sobre dados abertos para editores científicos",
+              "score": 0.82
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_6baeca1aa73a809b86be4f5a0c32ba47",
+              "title": "Abertura e compartilhamento de dados de pesquisa subjacentes a artigos científicos: questões do direito autoral",
+              "score": 0.81
+            },
+            {
+              "position": 10,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.81
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "accesso aperto",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_84615ccb1251858a3bc3474981cf77b5",
+              "title": "Ciência aberta para editores científicos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_750b9e5187b93a83e8f50743b35aeb5d",
+              "title": "Folio : plataforma aberta para biblioteca",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+              "title": "El derecho a la información",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_469d6221a3566679c1b2abdae44cb213",
+              "title": "Acceso a los mercados internacionales de capital",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_b5e93bea61c9a8d7f6dc61bcf728ce7b",
+              "title": "Acesso aberto e os critérios para avaliação dos programas de pós-graduação no Brasil",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_67c5b086fd17deed112191686b3be1c4",
+              "title": "Autorización de Acceso en MIDP 3.0",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "开放获取",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "Ridi_84615ccb1251858a3bc3474981cf77b5",
+              "title": "Ciência aberta para editores científicos",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_6193d13cf6b1625e6d8eae1364520faa",
+              "title": "Tópicos sobre dados abertos para editores científicos",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_161b5ec449f512089cbedc257dbeaf4e",
+              "title": "Serviços de difusão de políticas para o acesso aberto: Sherpa/Juliet, Melibea e ROARMAP",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_750b9e5187b93a83e8f50743b35aeb5d",
+              "title": "Folio : plataforma aberta para biblioteca",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_0c52c735c129978566039eec9b1006ee",
+              "title": "La ciudad disponible: acceso a la vivienda y al suelo urbano en los realojos por compra de vivienda usada",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "オープンアクセス",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "Ridi_161b5ec449f512089cbedc257dbeaf4e",
+              "title": "Serviços de difusão de políticas para o acesso aberto: Sherpa/Juliet, Melibea e ROARMAP",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "Ridi_60f344dd70fce8795dabc5cd813a4cc4",
+              "title": "Acessibilidade digital na produção científica indexada pelo Portal Oasisbr",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_6193d13cf6b1625e6d8eae1364520faa",
+              "title": "Tópicos sobre dados abertos para editores científicos",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "Ridi_750b9e5187b93a83e8f50743b35aeb5d",
+              "title": "Folio : plataforma aberta para biblioteca",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "الوصول المفتوح",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "Ridi_84615ccb1251858a3bc3474981cf77b5",
+              "title": "Ciência aberta para editores científicos",
+              "score": 0.8
+            },
+            {
+              "position": 2,
+              "recordId": "Ridi_817e07de2f69185d40de0a9d5aa3863e",
+              "title": "Visualização de Dados Governamentais Abertos: aportes para análise de plataformas",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+              "title": "El derecho a la información",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "Ridi_218d36f2b9fc5684f99b9f6fb1b8e777",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "Ridi_6bcd9a383ee3f778176589e5708da222",
+              "title": "Uso de software livre para disseminação e análise de dados abertos governamentais",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "Ridi_ab1608b1ae627a13c4b459b6171ab47e",
+              "title": "Réplica - Acesso livre: caminho para maximizar a visibilidade da pesquisa [Documentos e debates]",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "Ridi_e68f55cfe75d930111fde744c20de792",
+              "title": "October 10th: worldwide Open Access Day [Editor's Viewpoint]",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+              "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "Ridi_6193d13cf6b1625e6d8eae1364520faa",
+              "title": "Tópicos sobre dados abertos para editores científicos",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "Ridi_6baeca1aa73a809b86be4f5a0c32ba47",
+              "title": "Abertura e compartilhamento de dados de pesquisa subjacentes a artigos científicos: questões do direito autoral",
+              "score": 0.79
+            }
+          ]
+        }
+      ],
+      "depositaCount": 2
+    },
+    {
+      "id": "antimicrobial-resistance",
+      "title": "Antimicrobial resistance",
+      "controlPt": "resistência antimicrobiana",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "antimicrobial resistance",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.87
+            },
+            {
+              "position": 2,
+              "recordId": "UY_045d1f88d4877325db189016f25c8976",
+              "title": "MEGARes: an antimicrobial resistance database for high throughput sequencing.",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c6ab382d3d51e31fbefdf451d24f6632",
+              "title": "Characterization of the microbial resistome in conventional and \"raised without antibiotics\" beef and dairy production systems.",
+              "score": 0.82
+            },
+            {
+              "position": 4,
+              "recordId": "UY_3e5062354aad657a7690f9748e6fb40d",
+              "title": "Resistencia a antimicrobianos de importancia crítica en enterobacterias aisladas de terneros, aves y cerdos en producción en Uruguay, y pollitos importados de Brasil",
+              "score": 0.82
+            },
+            {
+              "position": 5,
+              "recordId": "UY_869e1fee546b021de2b0c8180b4e963d",
+              "title": "Resistencia antimicrobiana en los diferentes sistemas productivos bovinos del Uruguay : estimación de la prevalencia e identificación de factores asociados",
+              "score": 0.82
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_a4145dff30823f0364872777cd0f6ffc",
+              "title": "Informe final del proyecto: Estrategia proteómica shotgun para el diagnóstico de infecciones bacterianas y la identificación de marcadores de resistencia a antibióticos: Validación...",
+              "score": 0.81
+            },
+            {
+              "position": 9,
+              "recordId": "UY_88efdf8a211104f22130127927c7e940",
+              "title": "Adaptation mechanisms in the evolution of moss defenses to microbes",
+              "score": 0.81
+            },
+            {
+              "position": 10,
+              "recordId": "UY_00662283bda2573136dfe74f2c71a222",
+              "title": "Informe final del proyecto: ¿Que estamos comiendo? Búsqueda de mecanismos de resistencia en alimentos congelados.",
+              "score": 0.81
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "résistance aux antimicrobiens",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.86
+            },
+            {
+              "position": 2,
+              "recordId": "UY_708f3105e47d702c63e384074e099e9b",
+              "title": "Uso racional de piperacilina tazobactam",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_3e5062354aad657a7690f9748e6fb40d",
+              "title": "Resistencia a antimicrobianos de importancia crítica en enterobacterias aisladas de terneros, aves y cerdos en producción en Uruguay, y pollitos importados de Brasil",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_a4145dff30823f0364872777cd0f6ffc",
+              "title": "Informe final del proyecto: Estrategia proteómica shotgun para el diagnóstico de infecciones bacterianas y la identificación de marcadores de resistencia a antibióticos: Validación...",
+              "score": 0.81
+            },
+            {
+              "position": 6,
+              "recordId": "UY_896afdf20bf8c8198a304a5807d97d16",
+              "title": "Multiple antimicrobial resistance in Enterobacteriaceae isolated from a Sea Lion (Otaria flavescens) specimen from Isla de Lobos, Uruguay: a case report",
+              "score": 0.81
+            },
+            {
+              "position": 7,
+              "recordId": "UY_00662283bda2573136dfe74f2c71a222",
+              "title": "Informe final del proyecto: ¿Que estamos comiendo? Búsqueda de mecanismos de resistencia en alimentos congelados.",
+              "score": 0.81
+            },
+            {
+              "position": 8,
+              "recordId": "UY_869e1fee546b021de2b0c8180b4e963d",
+              "title": "Resistencia antimicrobiana en los diferentes sistemas productivos bovinos del Uruguay : estimación de la prevalencia e identificación de factores asociados",
+              "score": 0.81
+            },
+            {
+              "position": 9,
+              "recordId": "UY_7377ebbc285025918b790d917ee218b2",
+              "title": "Estudio de metabolitos antibacterinos de la flora medicinal nativa de Uruguay",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.8
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "antimikrobielle Resistenz",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_045d1f88d4877325db189016f25c8976",
+              "title": "MEGARes: an antimicrobial resistance database for high throughput sequencing.",
+              "score": 0.79
+            },
+            {
+              "position": 3,
+              "recordId": "UY_9092b9a8b40f4097a927810c70ff1f19",
+              "title": "Robustez mutacional de virus ARN",
+              "score": 0.79
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c6ab382d3d51e31fbefdf451d24f6632",
+              "title": "Characterization of the microbial resistome in conventional and \"raised without antibiotics\" beef and dairy production systems.",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_16899093dd894e78b11abdf2efcf62e9",
+              "title": "Prevalence and Factors Associated with Anthelmintic Resistance in Gastrointestinal Nematodes of Cattle: A Systematic Review and Meta-analysis.",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_b5e1d62240f53ec021b5a60e339380ba",
+              "title": "Phenotypic and genotypic survey of antibiotic resistance in Salmonella enterica isolates from dairy farms in Uruguay",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_86a1b93c8e40faf5ac94f0943814db58",
+              "title": "Investigating effects of tulathromycin metaphylaxis on the fecal resistome and microbiome of commercial feedlot cattle early in the feeding period.",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "UY_138e80a13c3e3d35ae842a35afc688ad",
+              "title": "Antibiotic resistance of Staphylococcus aureus associated with subclinical and clinical mastitis in Uruguay during an eight-year period.",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "resistenza antimicrobica",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.87
+            },
+            {
+              "position": 2,
+              "recordId": "UY_3e5062354aad657a7690f9748e6fb40d",
+              "title": "Resistencia a antimicrobianos de importancia crítica en enterobacterias aisladas de terneros, aves y cerdos en producción en Uruguay, y pollitos importados de Brasil",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_896afdf20bf8c8198a304a5807d97d16",
+              "title": "Multiple antimicrobial resistance in Enterobacteriaceae isolated from a Sea Lion (Otaria flavescens) specimen from Isla de Lobos, Uruguay: a case report",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_869e1fee546b021de2b0c8180b4e963d",
+              "title": "Resistencia antimicrobiana en los diferentes sistemas productivos bovinos del Uruguay : estimación de la prevalencia e identificación de factores asociados",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_045d1f88d4877325db189016f25c8976",
+              "title": "MEGARes: an antimicrobial resistance database for high throughput sequencing.",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "UY_708f3105e47d702c63e384074e099e9b",
+              "title": "Uso racional de piperacilina tazobactam",
+              "score": 0.8
+            },
+            {
+              "position": 9,
+              "recordId": "UY_a4145dff30823f0364872777cd0f6ffc",
+              "title": "Informe final del proyecto: Estrategia proteómica shotgun para el diagnóstico de infecciones bacterianas y la identificación de marcadores de resistencia a antibióticos: Validación...",
+              "score": 0.8
+            },
+            {
+              "position": 10,
+              "recordId": "UY_00662283bda2573136dfe74f2c71a222",
+              "title": "Informe final del proyecto: ¿Que estamos comiendo? Búsqueda de mecanismos de resistencia en alimentos congelados.",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "抗微生物药物耐药性",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_07818e3e38d9daf1957291f8079f68fe",
+              "title": "Evolución del consumo de antibióticos y de la susceptibilidad antimicrobiana en el Centro Hospitalario Pereira Rossell en la era de Staphylococcus aureus resistente a meticilina",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_fefe06c72b28085027427d8b4e9f50fd",
+              "title": "Colitis pseudomembranosa y su asociación a distintos antibióticos",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_708f3105e47d702c63e384074e099e9b",
+              "title": "Uso racional de piperacilina tazobactam",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_5220cc8d684ac11935f250fdb34ec737",
+              "title": "Duración de los tratamientos antibióticos: cada vez menos",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_d9bfe8cdf6c64b8583681d188b6db97c",
+              "title": "Duración de los tratamientos antibióticos : cada vez menos",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_a4145dff30823f0364872777cd0f6ffc",
+              "title": "Informe final del proyecto: Estrategia proteómica shotgun para el diagnóstico de infecciones bacterianas y la identificación de marcadores de resistencia a antibióticos: Validación...",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_88efdf8a211104f22130127927c7e940",
+              "title": "Adaptation mechanisms in the evolution of moss defenses to microbes",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_101b787f1cc86a6f82f4480b3264b9ee",
+              "title": "¿Cuál es la duración óptima del tratamiento antibiótico de la neumonia?",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "薬剤耐性",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_64449d45b896b0e4c546f2d8bc22f939",
+              "title": "Reacciones Adversas a medicamentos en mujeres",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_f093ae16e456a6f1d1a26a177c3c2524",
+              "title": "Variabilidad de la respuesta terapéutica. Generalidades.",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_90cb5df4691194f32bee1e536463eac3",
+              "title": "El uso crónico de medicamentos",
+              "score": 0.79
+            },
+            {
+              "position": 4,
+              "recordId": "UY_79d0915c387dc16874cc14e8d424c431",
+              "title": "Variabilidad genética en aislados clínicos de Mycobacterium tuberculosis resistentes a medicamentos antituberculosos de primera y segunda línea",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_5dcef59136c450173b65e7aafaaa19e8",
+              "title": "Prevención, control y tratamiento de las periodontopatías.Seguridad de la farmacoterapia local y sistémica",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_43fdf6a7f987f260649f2c07c57dad43",
+              "title": "Reacciones adversas a medicamentos en una unidad de cuidados intensivos pediátrica",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_269e7dcb464c025d1a5a03c128942514",
+              "title": "Reacciones adversas a medicamentos biológicos : importancia de su farmacovigilancia",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_06bcb64f5301f89d62a8554b79ba7e84",
+              "title": "Reacciones adversas a medicamentos biológicos : importancia de su farmacovigilancia.",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_63ebcbc723f982d33bbe70b796271ae7",
+              "title": "Influencia del sexo en la respuesta farmacocinética de los medicamentos",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "مقاومة مضادات الميكروبات",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_c10e7af8449805af2dfd0fee7366cd95",
+              "title": "Resistencia antimicrobiana : un problema mundial",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_88efdf8a211104f22130127927c7e940",
+              "title": "Adaptation mechanisms in the evolution of moss defenses to microbes",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a4145dff30823f0364872777cd0f6ffc",
+              "title": "Informe final del proyecto: Estrategia proteómica shotgun para el diagnóstico de infecciones bacterianas y la identificación de marcadores de resistencia a antibióticos: Validación...",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_e7ce9207b95c52262d6e1393e169740d",
+              "title": "Detección y caracterización de plásmidos asociados a resistencia a antibióticos en muestras de Península Fildes (Isla Rey Jorge)",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_fc2ddd0b239c4febc92f8865b271fe3f",
+              "title": "Resistencia de malezas a los herbicidas: conceptos y pautas para su prevención. [Ficha Técnica].",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_708f3105e47d702c63e384074e099e9b",
+              "title": "Uso racional de piperacilina tazobactam",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_045d1f88d4877325db189016f25c8976",
+              "title": "MEGARes: an antimicrobial resistance database for high throughput sequencing.",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_3e5062354aad657a7690f9748e6fb40d",
+              "title": "Resistencia a antimicrobianos de importancia crítica en enterobacterias aisladas de terneros, aves y cerdos en producción en Uruguay, y pollitos importados de Brasil",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_b284197ad3073fc27c63d446d667285c",
+              "title": "Prevalencia de la resistencia bacteriana en flora bucal en niños de 4 a 8 años",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_a6e79a8dba198315e79464018521a735",
+              "title": "Resistencia a sulfamidas y los integrones de clase 1",
+              "score": 0.78
+            }
+          ]
+        }
+      ],
+      "depositaCount": 0
+    },
+    {
+      "id": "dengue",
+      "title": "Dengue",
+      "controlPt": "dengue",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "dengue",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_eeac8c836a0aa49196afd8bcf414b7f2",
+              "title": "El dengue, salud y conocimiento científico mirado por otros ojos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_77ee08df3dd01cbb30745f2ee33118be",
+              "title": "Caracterización clínica de dengue con signos de alarma y dengue grave en adultos. Hospital Roosevelt, Guatemala",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_139869e4d7775bfc75404a96535e1725",
+              "title": "Série histórica dos casos de dengue no estado do Rio Grande do Norte, Brasil",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_42565ac9f35a45aff15e93aef5dcb5db",
+              "title": "Monitoring the Paraguayan epidemiological dengue surveillance system (2009-2011) using Benford's law",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_ab12b8a7836fe98f92bdc9ecc3b997ca",
+              "title": "Vigilancia y lucha antivectorial en la enfermedad del Dengue. Papel del profesional de la salud en la Atención Primaria",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7d9d9fe4fb3c04e1516c6633559211ed",
+              "title": "Unraveling the unparalleled 2024 epidemic of Dengue in the Americas",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4137b1d84c406095493190624d0f1389",
+              "title": "Applying fuzzy logic to assess the biogeographical risk of dengue in South America",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_98e559eb74aa1f384ba1ace0c39c8dc2",
+              "title": "Epidemiologically relevant container types, indices of abundance and risk conditions for aedes aegypti in Salto (Uruguay), a city under threat of dengue disease",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_239f025af159968e16aae2df7fba2d72",
+              "title": "Desarrollo de inhibidores de sistemas proteína-ligando : estudio del caso de metiltransferasas",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_2b8e7aaa9545cd6d61b46fbe19f64bd8",
+              "title": "Fotografía de Daniel Caselli",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "dengue",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_eeac8c836a0aa49196afd8bcf414b7f2",
+              "title": "El dengue, salud y conocimiento científico mirado por otros ojos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_77ee08df3dd01cbb30745f2ee33118be",
+              "title": "Caracterización clínica de dengue con signos de alarma y dengue grave en adultos. Hospital Roosevelt, Guatemala",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_139869e4d7775bfc75404a96535e1725",
+              "title": "Série histórica dos casos de dengue no estado do Rio Grande do Norte, Brasil",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_42565ac9f35a45aff15e93aef5dcb5db",
+              "title": "Monitoring the Paraguayan epidemiological dengue surveillance system (2009-2011) using Benford's law",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_ab12b8a7836fe98f92bdc9ecc3b997ca",
+              "title": "Vigilancia y lucha antivectorial en la enfermedad del Dengue. Papel del profesional de la salud en la Atención Primaria",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7d9d9fe4fb3c04e1516c6633559211ed",
+              "title": "Unraveling the unparalleled 2024 epidemic of Dengue in the Americas",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4137b1d84c406095493190624d0f1389",
+              "title": "Applying fuzzy logic to assess the biogeographical risk of dengue in South America",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_98e559eb74aa1f384ba1ace0c39c8dc2",
+              "title": "Epidemiologically relevant container types, indices of abundance and risk conditions for aedes aegypti in Salto (Uruguay), a city under threat of dengue disease",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_239f025af159968e16aae2df7fba2d72",
+              "title": "Desarrollo de inhibidores de sistemas proteína-ligando : estudio del caso de metiltransferasas",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_2b8e7aaa9545cd6d61b46fbe19f64bd8",
+              "title": "Fotografía de Daniel Caselli",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Dengue",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_eeac8c836a0aa49196afd8bcf414b7f2",
+              "title": "El dengue, salud y conocimiento científico mirado por otros ojos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_77ee08df3dd01cbb30745f2ee33118be",
+              "title": "Caracterización clínica de dengue con signos de alarma y dengue grave en adultos. Hospital Roosevelt, Guatemala",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_139869e4d7775bfc75404a96535e1725",
+              "title": "Série histórica dos casos de dengue no estado do Rio Grande do Norte, Brasil",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_42565ac9f35a45aff15e93aef5dcb5db",
+              "title": "Monitoring the Paraguayan epidemiological dengue surveillance system (2009-2011) using Benford's law",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_ab12b8a7836fe98f92bdc9ecc3b997ca",
+              "title": "Vigilancia y lucha antivectorial en la enfermedad del Dengue. Papel del profesional de la salud en la Atención Primaria",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7d9d9fe4fb3c04e1516c6633559211ed",
+              "title": "Unraveling the unparalleled 2024 epidemic of Dengue in the Americas",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4137b1d84c406095493190624d0f1389",
+              "title": "Applying fuzzy logic to assess the biogeographical risk of dengue in South America",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_98e559eb74aa1f384ba1ace0c39c8dc2",
+              "title": "Epidemiologically relevant container types, indices of abundance and risk conditions for aedes aegypti in Salto (Uruguay), a city under threat of dengue disease",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_239f025af159968e16aae2df7fba2d72",
+              "title": "Desarrollo de inhibidores de sistemas proteína-ligando : estudio del caso de metiltransferasas",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_2b8e7aaa9545cd6d61b46fbe19f64bd8",
+              "title": "Fotografía de Daniel Caselli",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "dengue",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_eeac8c836a0aa49196afd8bcf414b7f2",
+              "title": "El dengue, salud y conocimiento científico mirado por otros ojos",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_77ee08df3dd01cbb30745f2ee33118be",
+              "title": "Caracterización clínica de dengue con signos de alarma y dengue grave en adultos. Hospital Roosevelt, Guatemala",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_139869e4d7775bfc75404a96535e1725",
+              "title": "Série histórica dos casos de dengue no estado do Rio Grande do Norte, Brasil",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_42565ac9f35a45aff15e93aef5dcb5db",
+              "title": "Monitoring the Paraguayan epidemiological dengue surveillance system (2009-2011) using Benford's law",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_ab12b8a7836fe98f92bdc9ecc3b997ca",
+              "title": "Vigilancia y lucha antivectorial en la enfermedad del Dengue. Papel del profesional de la salud en la Atención Primaria",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_7d9d9fe4fb3c04e1516c6633559211ed",
+              "title": "Unraveling the unparalleled 2024 epidemic of Dengue in the Americas",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_4137b1d84c406095493190624d0f1389",
+              "title": "Applying fuzzy logic to assess the biogeographical risk of dengue in South America",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_98e559eb74aa1f384ba1ace0c39c8dc2",
+              "title": "Epidemiologically relevant container types, indices of abundance and risk conditions for aedes aegypti in Salto (Uruguay), a city under threat of dengue disease",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_239f025af159968e16aae2df7fba2d72",
+              "title": "Desarrollo de inhibidores de sistemas proteína-ligando : estudio del caso de metiltransferasas",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_2b8e7aaa9545cd6d61b46fbe19f64bd8",
+              "title": "Fotografía de Daniel Caselli",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "登革热",
+          "rows": []
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "デング熱",
+          "rows": []
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "حمى الضنك",
+          "rows": []
+        }
+      ],
+      "depositaCount": 2
+    },
+    {
+      "id": "deforestation",
+      "title": "Deforestation",
+      "controlPt": "desmatamento",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "deforestation",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.84
+            },
+            {
+              "position": 2,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_521a251432c5780cfed4f1a9a24187e3",
+              "title": "De la afectación como área natural protegida",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_b32560c0974307634da09782e5050946",
+              "title": "The law is spider's web: An assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the \"Forest Law\".",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_f4eeaa913a33723bce24e2931f3d02fe",
+              "title": "The law is spider’s web: an assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the “Forest Law”",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_58f58ba644a2237d0bc164881cb23611",
+              "title": "Controls of forage selective defoliation by sheep in arid rangelands",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_0a746474170e5be441394df714ebc1f4",
+              "title": "Efectos iniciales de la aforestación sobre la calidad del agua de escurrimiento en una cuenca del Río Tacuarembó",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "déforestation",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.83
+            },
+            {
+              "position": 2,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.79
+            },
+            {
+              "position": 5,
+              "recordId": "UY_521a251432c5780cfed4f1a9a24187e3",
+              "title": "De la afectación como área natural protegida",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_f4eeaa913a33723bce24e2931f3d02fe",
+              "title": "The law is spider’s web: an assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the “Forest Law”",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_b32560c0974307634da09782e5050946",
+              "title": "The law is spider's web: An assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the \"Forest Law\".",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_58f58ba644a2237d0bc164881cb23611",
+              "title": "Controls of forage selective defoliation by sheep in arid rangelands",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_b0c382d15c171c8ba565043d18719fa5",
+              "title": "Patrón de defoliación de comunidades de campo natural bajo dos ofertas de forraje",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Entwaldung",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.8
+            },
+            {
+              "position": 2,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_521a251432c5780cfed4f1a9a24187e3",
+              "title": "De la afectación como área natural protegida",
+              "score": 0.77
+            },
+            {
+              "position": 4,
+              "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+              "title": "El efecto invernadero y el clima",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.76
+            },
+            {
+              "position": 6,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.76
+            },
+            {
+              "position": 7,
+              "recordId": "UY_60604d7f52a1022eded4470bf3c53dcf",
+              "title": "El vegetal en el diseño del paisaje",
+              "score": 0.76
+            },
+            {
+              "position": 8,
+              "recordId": "UY_ca1757b7b880ea65aaf9af57816806df",
+              "title": "Conclusions",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "UY_51fd5e8a42ed55b15e71a4c9c2a2c10a",
+              "title": "Editorial",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_59c1a67d80c47e8efb8716b42dd56548",
+              "title": "Editorial",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "deforestazione",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.82
+            },
+            {
+              "position": 2,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.82
+            },
+            {
+              "position": 3,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.81
+            },
+            {
+              "position": 4,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.81
+            },
+            {
+              "position": 5,
+              "recordId": "UY_521a251432c5780cfed4f1a9a24187e3",
+              "title": "De la afectación como área natural protegida",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_0a746474170e5be441394df714ebc1f4",
+              "title": "Efectos iniciales de la aforestación sobre la calidad del agua de escurrimiento en una cuenca del Río Tacuarembó",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_f4eeaa913a33723bce24e2931f3d02fe",
+              "title": "The law is spider’s web: an assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the “Forest Law”",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_b32560c0974307634da09782e5050946",
+              "title": "The law is spider's web: An assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the \"Forest Law\".",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_7577cdc03ba0bf7f9e588c9cdfd84ae0",
+              "title": "¿Quién habla de forestación? : polisemia ambiental y conflictos sociales en Uruguay",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "森林砍伐",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.84
+            },
+            {
+              "position": 2,
+              "recordId": "UY_90cc2ee3e8f24feee309769fda67bf6d",
+              "title": "Arboles de decisión y series de tiempo.",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_6b2f0f27f90316717e290a96b9697d3d",
+              "title": "Taladro de los forestales.",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_c2cc38691d1ed6990a871e2439e9728f",
+              "title": "Hand-held mechanical device improves thinning efficiency of peach trees.",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "UY_d9f8e930dcbcb917051d17b2836f3c05",
+              "title": "Ganado e invasión del bosque nativo por árboles exóticos: desde la facilitación al control.",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_795c4568a1b9413e71f35fa1d0df207b",
+              "title": "CS-TRD : A cross-section tree ring detection method",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "森林破壊",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_d9f8e930dcbcb917051d17b2836f3c05",
+              "title": "Ganado e invasión del bosque nativo por árboles exóticos: desde la facilitación al control.",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_f4eeaa913a33723bce24e2931f3d02fe",
+              "title": "The law is spider’s web: an assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the “Forest Law”",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.77
+            },
+            {
+              "position": 6,
+              "recordId": "UY_294b1efeafc3ae0c24545472bb7f594f",
+              "title": "Rompiendo el techo de rendimiento del cultivo de arroz.",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_b32560c0974307634da09782e5050946",
+              "title": "The law is spider's web: An assessment of illegal deforestation in the Argentine Dry Chaco ten years after the enactment of the \"Forest Law\".",
+              "score": 0.76
+            },
+            {
+              "position": 8,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "UY_9302cf3ae66d610624e0ce0e3344bfe8",
+              "title": "Influencia de la vegetación en la mitigación del ruido : Estudio de una forestación.",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_521a251432c5780cfed4f1a9a24187e3",
+              "title": "De la afectación como área natural protegida",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "إزالة الغابات",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_6b5df44e9626a9a9fded32a5b2e549f1",
+              "title": "Los árboles y el bosque",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_2f0488f728eb48d2095b3d3ab1bbdf23",
+              "title": "Uso sostenible del campo natural.",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_d9f8e930dcbcb917051d17b2836f3c05",
+              "title": "Ganado e invasión del bosque nativo por árboles exóticos: desde la facilitación al control.",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_64ef7026d256d36381e232c7bd68f2c1",
+              "title": "Producción y manejo de pasturas.",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_294b1efeafc3ae0c24545472bb7f594f",
+              "title": "Rompiendo el techo de rendimiento del cultivo de arroz.",
+              "score": 0.77
+            },
+            {
+              "position": 6,
+              "recordId": "UY_d9cabf76a916328551d34effc767fd05",
+              "title": "Land privatization and deforestation in a commodity production frontier.",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_5338e264234b6eae7a24191b2a2e8170",
+              "title": "El accionar de la forestación en la costa del balneario La Floresta",
+              "score": 0.76
+            },
+            {
+              "position": 8,
+              "recordId": "UY_f35d7800f8087cc90328d2e30260d321",
+              "title": "Managing an invasive weed species, parthenium hysterophorus, with suppressive plant species in australian grasslands.",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "UY_0fd9a48b59a7bc1499827294908921b9",
+              "title": "An approach to subroutine elimination",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_6735fab28f50840fe96702552a90912f",
+              "title": "Mejoramientos de campo: especies y manejo. [Ficha Técnica].",
+              "score": 0.76
+            }
+          ]
+        }
+      ],
+      "depositaCount": 2
+    },
+    {
+      "id": "maternal-health",
+      "title": "Maternal health",
+      "controlPt": "saúde materna",
+      "queries": [
+        {
+          "language": "English",
+          "languageCode": "en",
+          "direction": "ltr",
+          "text": "maternal health",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_aa33a880a5cb042f38bee6c2d5429a85",
+              "title": "Breastfeeding Practices and Care Among Mothers in a Primary Health Facility",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_b186bf780896e61c06849f9de1a7e38a",
+              "title": "Accompanying Breastfeeding with eHealth: Integrative Review",
+              "score": 0.81
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a5caeaf48ca237c99779c7a9e29d80d0",
+              "title": "Morbilidad Materna Extremadamente Grave: un paso clave para reducir la muerte materna",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_fda9e859300a1b3f5384818e65cdc7f5",
+              "title": "Incorporando la bioética ambiental a los cuidados materno-perinatales para disminuir los riesgos de la pan-sindemia en el proceso reproductivo",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_c60749757273f141c8b56b6aed5d5ec6",
+              "title": "Cuidados prenatales y salud del recién nacido: Evidencia para Uruguay",
+              "score": 0.8
+            },
+            {
+              "position": 6,
+              "recordId": "UY_0771dc3fcf0261ae2834e26ea0090717",
+              "title": "HEALTHCARE ASSISTANCE IN EARLY PREGNANCY AND EARLY MOTHERHOOD. HEALTH PROFESSIONAL´S PERSPECTIVES WHO ARE SERVING AT A HEALTH CENTER IN MONTEVIDEO",
+              "score": 0.8
+            },
+            {
+              "position": 7,
+              "recordId": "UY_801592a7a7e42896b5e4bb77ed5e590d",
+              "title": "Humanización de los cuidados en salud, Maternidad Pública de Rocha, 2014-2016",
+              "score": 0.8
+            },
+            {
+              "position": 8,
+              "recordId": "Deposita_d097cbffbdf005cabba4d3228a36bd79",
+              "title": "Análise do perfil epidemiológico e da qualidade dos registros de óbitos maternos no município de Campina Grande – PB",
+              "score": 0.79
+            },
+            {
+              "position": 9,
+              "recordId": "Deposita_af289cfb9dccdcbbf90b847f8ca1f2cd",
+              "title": "Pesquisas em temas de ciências da saúde",
+              "score": 0.79
+            },
+            {
+              "position": 10,
+              "recordId": "UY_45ae747ddd3da6360bc735a32df71130",
+              "title": "Nivel de conocimiento sobre nutrición gestacional: estudio observacional en una población de puérperas",
+              "score": 0.79
+            }
+          ]
+        },
+        {
+          "language": "French",
+          "languageCode": "fr",
+          "direction": "ltr",
+          "text": "santé maternelle",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_aa33a880a5cb042f38bee6c2d5429a85",
+              "title": "Breastfeeding Practices and Care Among Mothers in a Primary Health Facility",
+              "score": 0.81
+            },
+            {
+              "position": 2,
+              "recordId": "UY_c60749757273f141c8b56b6aed5d5ec6",
+              "title": "Cuidados prenatales y salud del recién nacido: Evidencia para Uruguay",
+              "score": 0.8
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a5caeaf48ca237c99779c7a9e29d80d0",
+              "title": "Morbilidad Materna Extremadamente Grave: un paso clave para reducir la muerte materna",
+              "score": 0.8
+            },
+            {
+              "position": 4,
+              "recordId": "UY_45ae747ddd3da6360bc735a32df71130",
+              "title": "Nivel de conocimiento sobre nutrición gestacional: estudio observacional en una población de puérperas",
+              "score": 0.8
+            },
+            {
+              "position": 5,
+              "recordId": "UY_fda9e859300a1b3f5384818e65cdc7f5",
+              "title": "Incorporando la bioética ambiental a los cuidados materno-perinatales para disminuir los riesgos de la pan-sindemia en el proceso reproductivo",
+              "score": 0.79
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b186bf780896e61c06849f9de1a7e38a",
+              "title": "Accompanying Breastfeeding with eHealth: Integrative Review",
+              "score": 0.79
+            },
+            {
+              "position": 7,
+              "recordId": "Deposita_d097cbffbdf005cabba4d3228a36bd79",
+              "title": "Análise do perfil epidemiológico e da qualidade dos registros de óbitos maternos no município de Campina Grande – PB",
+              "score": 0.79
+            },
+            {
+              "position": 8,
+              "recordId": "UY_0771dc3fcf0261ae2834e26ea0090717",
+              "title": "HEALTHCARE ASSISTANCE IN EARLY PREGNANCY AND EARLY MOTHERHOOD. HEALTH PROFESSIONAL´S PERSPECTIVES WHO ARE SERVING AT A HEALTH CENTER IN MONTEVIDEO",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "Deposita_af289cfb9dccdcbbf90b847f8ca1f2cd",
+              "title": "Pesquisas em temas de ciências da saúde",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c99a62ef96cf2153e0d09b7485914d42",
+              "title": "Seguridad del uso de medicamentos durante la lactancia",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "German",
+          "languageCode": "de",
+          "direction": "ltr",
+          "text": "Müttergesundheit",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_aa33a880a5cb042f38bee6c2d5429a85",
+              "title": "Breastfeeding Practices and Care Among Mothers in a Primary Health Facility",
+              "score": 0.78
+            },
+            {
+              "position": 2,
+              "recordId": "UY_9fb0aac22fef6646b01ea836a4c3745c",
+              "title": "Las mujeres rurales y el uso de plantas medicinales para el cuidado de la salud",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_45ae747ddd3da6360bc735a32df71130",
+              "title": "Nivel de conocimiento sobre nutrición gestacional: estudio observacional en una población de puérperas",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_b186bf780896e61c06849f9de1a7e38a",
+              "title": "Accompanying Breastfeeding with eHealth: Integrative Review",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_556657652640f7770c508c17da5d6cc3",
+              "title": "Stress, psychological distress, psychological well-being and life satisfaction according to work modalities in mothers of families",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+              "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_a73509d2162e7a13885e8f59ca1b37f5",
+              "title": "Mujeres-Madres-Usuarias de pasta base de cocaína : la maternidad en cuestión",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "UY_a5caeaf48ca237c99779c7a9e29d80d0",
+              "title": "Morbilidad Materna Extremadamente Grave: un paso clave para reducir la muerte materna",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_a2421ba806c66c0c1112e384dfe2b684",
+              "title": "Mammary gland cytodiagnosis",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "Italian",
+          "languageCode": "it",
+          "direction": "ltr",
+          "text": "salute materna",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_fda9e859300a1b3f5384818e65cdc7f5",
+              "title": "Incorporando la bioética ambiental a los cuidados materno-perinatales para disminuir los riesgos de la pan-sindemia en el proceso reproductivo",
+              "score": 0.78
+            },
+            {
+              "position": 2,
+              "recordId": "UY_aa33a880a5cb042f38bee6c2d5429a85",
+              "title": "Breastfeeding Practices and Care Among Mothers in a Primary Health Facility",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a5caeaf48ca237c99779c7a9e29d80d0",
+              "title": "Morbilidad Materna Extremadamente Grave: un paso clave para reducir la muerte materna",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_26894baa97ff7a45cb281700fd6e3605",
+              "title": "Relatos de feministas sobre sus figuras maternantes. Legados para una vida vivible",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_d928ed686f487dc5fd431ba226570cc3",
+              "title": "Movimentos psíquicos de grávidas de primeiro filho frente à maternidade",
+              "score": 0.77
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b186bf780896e61c06849f9de1a7e38a",
+              "title": "Accompanying Breastfeeding with eHealth: Integrative Review",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_a73509d2162e7a13885e8f59ca1b37f5",
+              "title": "Mujeres-Madres-Usuarias de pasta base de cocaína : la maternidad en cuestión",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_eeae9355de86552c2dbf78ea802a3c4a",
+              "title": "“La madre de nosotros”. Maternidad, maternalismo y Estado en el Uruguay del Novecientos",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "UY_6a9e955954d54a27d6ffc14d0e7dfe2f",
+              "title": "Por la salud moral de la nación: maternidad, socialismo e intervención social durante las primeras décadas del siglo XX en la ciudad de Buenos Aires",
+              "score": 0.77
+            },
+            {
+              "position": 10,
+              "recordId": "UY_b8c0a626ecbcf8e2a02a5f9adb00df27",
+              "title": "Cuerpo y salud : otras miradas, otras preguntas",
+              "score": 0.77
+            }
+          ]
+        },
+        {
+          "language": "Chinese",
+          "languageCode": "zh",
+          "direction": "ltr",
+          "text": "孕产妇健康",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_f523bc2f826347b8fa763e88b83e9c81",
+              "title": "¿Se utilizan las dosis correctas de hierro y ácido fólico durante el embarazo?",
+              "score": 0.79
+            },
+            {
+              "position": 2,
+              "recordId": "UY_c60749757273f141c8b56b6aed5d5ec6",
+              "title": "Cuidados prenatales y salud del recién nacido: Evidencia para Uruguay",
+              "score": 0.79
+            },
+            {
+              "position": 3,
+              "recordId": "UY_f7614b92fcdc871da4e6bd00be385891",
+              "title": "Prevención de las disgnacias desde el nacimiento: ¿es posible?",
+              "score": 0.78
+            },
+            {
+              "position": 4,
+              "recordId": "UY_c99a62ef96cf2153e0d09b7485914d42",
+              "title": "Seguridad del uso de medicamentos durante la lactancia",
+              "score": 0.78
+            },
+            {
+              "position": 5,
+              "recordId": "UY_36c65508151a0ca8a0d7372756ac85ec",
+              "title": "Ondansetrón y embarazo: alerta de seguridad y recomendaciones de uso de antieméticos durante el embarazo",
+              "score": 0.78
+            },
+            {
+              "position": 6,
+              "recordId": "UY_b47bc2d786899f94bb484bfd7eb3f952",
+              "title": "Protocolo de actuación para la atención y seguimiento de mujeres embarazadasque presentan infección por Zika, Área de Salud Santa Rosa, Guatemala",
+              "score": 0.78
+            },
+            {
+              "position": 7,
+              "recordId": "UY_cf44138235012b19499601a928d9a456",
+              "title": "Perfil de consumo de medicamentos en mujeres embarazadas asistidas en el Centro Hospitalario Pereira Rossell y el Hospital de Clínicas",
+              "score": 0.78
+            },
+            {
+              "position": 8,
+              "recordId": "UY_71c5759fabbe3ea9ff9342e6d99b7a67",
+              "title": "Salud laboral en el escenario productivo actual",
+              "score": 0.78
+            },
+            {
+              "position": 9,
+              "recordId": "UY_6e593f167d10265f008f3503c9a2a3b0",
+              "title": "Perfil de uso de hierro y ácido fólico en embarazadas asistidas en el Centros Universitarios de Montevideo",
+              "score": 0.78
+            },
+            {
+              "position": 10,
+              "recordId": "UY_0d1f495bc2534dfce381ccf30ccb7627",
+              "title": "Efectos del período de gestación en el desarrollo infantil",
+              "score": 0.78
+            }
+          ]
+        },
+        {
+          "language": "Japanese",
+          "languageCode": "ja",
+          "direction": "ltr",
+          "text": "母子保健",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_791544ae2fa4de9f55d26ade484cf209",
+              "title": "Cuidado humano en el binomio madre e hijo desde la cosmovisión de Madeleine Leininger",
+              "score": 0.78
+            },
+            {
+              "position": 2,
+              "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+              "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_f3b8efda24c77c7a0a5de647c939d1f4",
+              "title": "Cuidados en la parición. [Ficha Técnica].",
+              "score": 0.77
+            },
+            {
+              "position": 4,
+              "recordId": "UY_9147b3aabe657902cf21ba042b3b7070",
+              "title": "Hypocretins, sleep, and maternal behavior",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "UY_879eb0048c4c8fd8d1feee2287eba03f",
+              "title": "Construcción de sentidos en torno a la noción de Calidad de Cuidado en mujeres madres con hijos de hasta dos años de vida : estudio cualitativo en un Centro de Salud Pública de Pri...",
+              "score": 0.77
+            },
+            {
+              "position": 6,
+              "recordId": "UY_c60749757273f141c8b56b6aed5d5ec6",
+              "title": "Cuidados prenatales y salud del recién nacido: Evidencia para Uruguay",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_fe4eaf72897c080610872ac1c279eb27",
+              "title": "Uso de método anticonceptivo previo al embarazo, asesoramiento y preferencia posterior en puérperas del Hospital de Clínicas.",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_ba936bc56037a16f5a362c0349c03068",
+              "title": "Mesa de diálogo : políticas de salud y cuidados. Una mirada desde el género",
+              "score": 0.76
+            },
+            {
+              "position": 9,
+              "recordId": "UY_3cf4b9244b138211dc27bc3ac69dda4c",
+              "title": "Supply kits for antenatal and childbirth care: a systematic review",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_a2fb1b710194e1154abebdb2c07a6866",
+              "title": "Bases conceptuales para un cambio de modelo de atención de enfermería a la salud de la mujer: actualización en enfermería gineco-obstétrica en las diferentes etapas del ciclo vital",
+              "score": 0.76
+            }
+          ]
+        },
+        {
+          "language": "Arabic",
+          "languageCode": "ar",
+          "direction": "rtl",
+          "text": "صحة الأم",
+          "rows": [
+            {
+              "position": 1,
+              "recordId": "UY_465d1ac05f3c3c92b65bc24d319d1294",
+              "title": "X-ray of the breast",
+              "score": 0.78
+            },
+            {
+              "position": 2,
+              "recordId": "UY_aa33a880a5cb042f38bee6c2d5429a85",
+              "title": "Breastfeeding Practices and Care Among Mothers in a Primary Health Facility",
+              "score": 0.78
+            },
+            {
+              "position": 3,
+              "recordId": "UY_a5caeaf48ca237c99779c7a9e29d80d0",
+              "title": "Morbilidad Materna Extremadamente Grave: un paso clave para reducir la muerte materna",
+              "score": 0.77
+            },
+            {
+              "position": 4,
+              "recordId": "UY_b8c0a626ecbcf8e2a02a5f9adb00df27",
+              "title": "Cuerpo y salud : otras miradas, otras preguntas",
+              "score": 0.77
+            },
+            {
+              "position": 5,
+              "recordId": "Deposita_af289cfb9dccdcbbf90b847f8ca1f2cd",
+              "title": "Pesquisas em temas de ciências da saúde",
+              "score": 0.77
+            },
+            {
+              "position": 6,
+              "recordId": "UY_c91c46d70036658d6a848ea26f130b21",
+              "title": "Mammary gland cancer",
+              "score": 0.77
+            },
+            {
+              "position": 7,
+              "recordId": "UY_9147b3aabe657902cf21ba042b3b7070",
+              "title": "Hypocretins, sleep, and maternal behavior",
+              "score": 0.77
+            },
+            {
+              "position": 8,
+              "recordId": "UY_b186bf780896e61c06849f9de1a7e38a",
+              "title": "Accompanying Breastfeeding with eHealth: Integrative Review",
+              "score": 0.77
+            },
+            {
+              "position": 9,
+              "recordId": "UY_a73509d2162e7a13885e8f59ca1b37f5",
+              "title": "Mujeres-Madres-Usuarias de pasta base de cocaína : la maternidad en cuestión",
+              "score": 0.76
+            },
+            {
+              "position": 10,
+              "recordId": "UY_c60749757273f141c8b56b6aed5d5ec6",
+              "title": "Cuidados prenatales y salud del recién nacido: Evidencia para Uruguay",
+              "score": 0.76
+            }
+          ]
+        }
+      ],
+      "depositaCount": 1
+    }
+  ]
+}
