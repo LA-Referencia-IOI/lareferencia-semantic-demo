@@ -19,7 +19,13 @@ for (const script of scripts) {
 
 const html = await readFile(new URL("index.html", root), "utf8");
 const requiredHtml = [
+  '<script src="./i18n/en.js"></script>',
+  '<script src="./i18n/es.js"></script>',
+  '<script src="./i18n/pt.js"></script>',
   '<script src="./demo-data.js"></script>',
+  'data-lang-link="en"',
+  'data-lang-link="es"',
+  'data-lang-link="pt"',
   'id="topic-stack"',
   'id="phrasing-grid"',
   'id="source-list"',
@@ -42,6 +48,10 @@ console.log("\n==> static assets: ok");
 
 run("demo data invariants", process.execPath, [
   new URL("validate-demo-data.mjs", scriptsUrl).pathname,
+]);
+
+run("i18n invariants", process.execPath, [
+  new URL("validate-i18n.mjs", scriptsUrl).pathname,
 ]);
 
 console.log("\nWorkspace verification: ok");

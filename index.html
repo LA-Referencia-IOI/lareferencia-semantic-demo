@@ -60,6 +60,13 @@
         padding: 24px 0 10px;
       }
 
+      .header-shell {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 22px;
+      }
+
       .brand {
         display: inline-flex;
         max-width: 100%;
@@ -78,6 +85,31 @@
         flex: 0 0 auto;
         width: 218px;
         height: auto;
+      }
+
+      .language-switcher {
+        display: inline-flex;
+        flex: 0 0 auto;
+        align-items: center;
+        gap: 5px;
+        padding: 4px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.78);
+      }
+
+      .language-link {
+        padding: 5px 9px;
+        border-radius: 999px;
+        color: var(--muted);
+        font-size: 0.72rem;
+        font-weight: 900;
+        text-decoration: none;
+      }
+
+      .language-link[aria-current="true"] {
+        color: #ffffff;
+        background: var(--teal);
       }
 
       .hero {
@@ -479,16 +511,6 @@
         justify-content: end;
       }
 
-      .control-copy {
-        width: 100%;
-        color: var(--muted);
-        font-size: 0.71rem;
-        font-weight: 800;
-        letter-spacing: 0.08em;
-        text-align: right;
-        text-transform: uppercase;
-      }
-
       .control-query {
         color: var(--teal-dark);
         font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -655,6 +677,12 @@
         margin-top: 13px;
       }
 
+      .review-context {
+        margin: 8px 0 0;
+        color: var(--muted);
+        font-size: 0.72rem;
+      }
+
       .review-method h5 {
         margin: 0 0 5px;
         color: var(--ink);
@@ -758,31 +786,15 @@
       }
 
       .matrix-copy {
-        max-width: 760px;
+        max-width: none;
         margin: 0 0 8px;
         font-size: 0.74rem;
       }
 
-      .matrix-legend {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 7px 12px;
-        margin-bottom: 10px;
-        color: var(--muted);
-        font-size: 0.68rem;
-        font-weight: 800;
-      }
-
-      .matrix-legend span {
-        display: inline-flex;
-        align-items: center;
-        gap: 5px;
-      }
-
-      .matrix-legend i {
-        width: 12px;
-        height: 12px;
-        border-radius: 4px;
+      @media (min-width: 980px) {
+        .matrix-copy {
+          white-space: nowrap;
+        }
       }
 
       .matrix-scroll {
@@ -977,6 +989,11 @@
       }
 
       @media (max-width: 720px) {
+        .header-shell {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
         .brand {
           align-items: flex-start;
           font-size: 0.72rem;
@@ -1013,10 +1030,6 @@
           justify-content: start;
         }
 
-        .control-copy {
-          text-align: left;
-        }
-
         .footer-copy {
           display: block;
         }
@@ -1025,54 +1038,67 @@
   </head>
   <body>
     <header class="site-header">
-      <div class="shell">
+      <div class="shell header-shell">
         <a class="brand" href="https://www.lareferencia.info/" target="_blank" rel="noreferrer">
           <img
             class="brand-logo"
             src="./assets/lareferencia.png"
             alt="LA Referencia"
           />
-          <span>Multilingual discovery</span>
+          <span data-i18n="ui.brandLabel">Multilingual discovery</span>
         </a>
+        <nav
+          class="language-switcher"
+          aria-label="Page language"
+          data-i18n-attr="aria-label:ui.languageSwitcher"
+        >
+          <a class="language-link" data-lang-link="en" href="?lang=en">English</a>
+          <a class="language-link" data-lang-link="es" href="?lang=es">Español</a>
+          <a class="language-link" data-lang-link="pt" href="?lang=pt">Português</a>
+        </nav>
       </div>
     </header>
 
     <main>
       <section class="hero shell">
         <div>
-          <span class="eyebrow">Multilingual scholarly discovery</span>
-          <h1>Search in your <em>language.</em> Discover research across languages.</h1>
-          <p class="hero-copy">
+          <span class="eyebrow" data-i18n="hero.eyebrow">Multilingual scholarly discovery</span>
+          <h1 data-i18n-html="hero.titleHtml">Search in your <em>language.</em> Discover research across languages.</h1>
+          <p class="hero-copy" data-i18n="hero.copy">
             Scholarly knowledge is published in many languages. Yet relevant work can remain
             invisible when discovery depends on exact words. This guided pilot compares
             keyword, semantic and hybrid retrieval over a LA Referencia subset.
           </p>
           <div class="hero-actions">
-            <a class="button" href="#idea">Understand the idea <span aria-hidden="true">↓</span></a>
-            <a class="button secondary" href="#topics">Explore the live queries</a>
+            <a class="button" href="#idea"><span data-i18n="hero.primaryCta">Understand the idea</span> <span aria-hidden="true">↓</span></a>
+            <a class="button secondary" href="#topics" data-i18n="hero.secondaryCta">Explore the live queries</a>
           </div>
         </div>
 
-        <div class="search-window" aria-label="Illustration of three search rankings">
+        <div
+          class="search-window"
+          aria-label="Illustration of three search rankings"
+          data-i18n-attr="aria-label:hero.searchWindowAria"
+        >
           <div class="window-bar">
             <span class="dot"></span><span class="dot"></span><span class="dot"></span>
             <span class="window-url">search.lareferencia.info</span>
           </div>
           <div class="window-content">
-            <div class="demo-input" lang="zh">远程教育 <span aria-hidden="true">·</span> distance education</div>
+            <div class="demo-input" lang="zh">远程教育 <span aria-hidden="true">·</span> <span data-i18n="hero.demoInputSuffix">distance education</span></div>
             <div class="mock-columns">
               <div class="mock-column">
-                <small>Keyword</small>
-                <span class="empty-state">No literal matches</span>
+                <small data-i18n="labels.methods.keyword">Keyword</small>
+                <span class="empty-state" data-i18n="hero.noLiteralMatches">No literal matches</span>
               </div>
               <div class="mock-column featured">
-                <small>Semantic</small>
+                <small data-i18n="labels.methods.semantic">Semantic</small>
                 <div class="mock-result">Educación a distancia vía videoconferencia</div>
                 <div class="mock-result">Ensino remoto em debate</div>
                 <div class="mock-result">Gestión de la tutoría telemática…</div>
               </div>
               <div class="mock-column">
-                <small>Hybrid</small>
+                <small data-i18n="labels.methods.hybrid">Hybrid</small>
                 <div class="mock-result">Educación a distancia vía videoconferencia</div>
                 <div class="mock-result">Ensino remoto em debate</div>
                 <div class="mock-result">Enseñanza en la virtualidad…</div>
@@ -1085,30 +1111,30 @@
       <section class="section" id="idea">
         <div class="shell">
           <div class="section-heading">
-            <h2>Knowledge is multilingual. Discovery often is not.</h2>
-            <p class="section-intro">
+            <h2 data-i18n="problem.heading">Knowledge is multilingual. Discovery often is not.</h2>
+            <p class="section-intro" data-i18n="problem.intro">
               The barrier is not research quality. It is visibility: useful work can be missed
               simply because the query and the record use different words or languages.
             </p>
           </div>
           <div class="problem-grid">
             <article class="problem-card">
-              <h3>Exact-word bias</h3>
-              <p>
+              <h3 data-i18n="problem.cards.0.title">Exact-word bias</h3>
+              <p data-i18n="problem.cards.0.copy">
                 Keyword matching is literal. It can miss related work expressed with different
                 terminology, regional phrasing or discipline-specific language.
               </p>
             </article>
             <article class="problem-card">
-              <h3>Language silos</h3>
-              <p>
+              <h3 data-i18n="problem.cards.1.title">Language silos</h3>
+              <p data-i18n="problem.cards.1.copy">
                 Equivalent ideas become disconnected when a search only retrieves records that
                 share the language and wording of the original query.
               </p>
             </article>
             <article class="problem-card">
-              <h3>Uneven visibility</h3>
-              <p>
+              <h3 data-i18n="problem.cards.2.title">Uneven visibility</h3>
+              <p data-i18n="problem.cards.2.copy">
                 When discovery tools favour dominant languages, relevant scholarship in other
                 languages becomes harder for global audiences to find and use.
               </p>
@@ -1120,8 +1146,8 @@
       <section class="section">
         <div class="shell">
           <div class="section-heading">
-            <h2>Search by meaning, not only by words.</h2>
-            <p class="section-intro">
+            <h2 data-i18n="searchMethods.heading">Search by meaning, not only by words.</h2>
+            <p class="section-intro" data-i18n="searchMethods.intro">
               Semantic multilingual search compares meaning across languages and phrasing. It
               complements keyword search: it does not translate documents, and proximity of
               meaning does not guarantee relevance.
@@ -1130,24 +1156,24 @@
           <div class="method-grid">
             <article class="method-card">
               <span class="method-number">01</span>
-              <h3>Keyword Search</h3>
-              <p>
+              <h3 data-i18n="searchMethods.cards.keyword.title">Keyword Search</h3>
+              <p data-i18n="searchMethods.cards.keyword.copy">
                 Finds literal terms in indexed metadata. It is useful for precise known terms,
                 especially when the query and the record share vocabulary and language.
               </p>
             </article>
             <article class="method-card featured">
               <span class="method-number">02</span>
-              <h3>Semantic Search</h3>
-              <p>
+              <h3 data-i18n="searchMethods.cards.semantic.title">Semantic Search</h3>
+              <p data-i18n="searchMethods.cards.semantic.copy">
                 Retrieves nearby meanings within a shared multilingual space, even when the
                 query and the record use different languages or phrasing.
               </p>
             </article>
             <article class="method-card">
               <span class="method-number">03</span>
-              <h3>Hybrid Search</h3>
-              <p>
+              <h3 data-i18n="searchMethods.cards.hybrid.title">Hybrid Search</h3>
+              <p data-i18n="searchMethods.cards.hybrid.copy">
                 Combines literal and semantic rankings. It can preserve exact-term precision
                 while adding meaning-based discovery.
               </p>
@@ -1160,11 +1186,11 @@
         <div class="shell subset-layout">
           <div class="subset-card">
             <strong id="subset-total">30,063</strong>
-            <span>records in the pilot subset</span>
+            <span data-i18n="subset.label">records in the pilot subset</span>
           </div>
           <div>
-            <span class="eyebrow">A bounded experiment</span>
-            <p class="subset-copy">
+            <span class="eyebrow" data-i18n="subset.eyebrow">A bounded experiment</span>
+            <p class="subset-copy" data-i18n="subset.copy">
               This is a pilot over an indexed subset, not an evaluation of the complete LA
               Referencia network. Deposita is used as a thematic control set: it confirms that
               each selected topic is represented before multilingual queries are tested without
@@ -1177,8 +1203,8 @@
       <section class="section experiment" id="topics">
         <div class="shell">
           <div class="section-heading">
-            <h2>Four topics, twenty-four live queries.</h2>
-            <p class="section-intro">
+            <h2 data-i18n="topicsSection.heading">Four topics, twenty-four live queries.</h2>
+            <p class="section-intro" data-i18n="topicsSection.intro">
               Each topic starts with an original Portuguese phrase verified in Deposita. Every
               multilingual card opens the unfiltered three-column comparison over the pilot
               subset.
@@ -1191,8 +1217,8 @@
       <section class="section">
         <div class="shell">
           <div class="section-heading">
-            <h2>Try simple English phrasing.</h2>
-            <p class="section-intro">
+            <h2 data-i18n="phrasing.heading">Try simple English phrasing.</h2>
+            <p class="section-intro" data-i18n="phrasing.intro">
               Semantic search can also reduce exact-word bias within one language. These
               simple alternatives use the same editorial review as the multilingual examples.
             </p>
@@ -1204,44 +1230,21 @@
       <section class="section methodology" id="methodology">
         <div class="shell">
           <div class="section-heading">
-            <h2>Interpret the pilot with care.</h2>
-            <p class="section-intro">
+            <h2 data-i18n="methodology.heading">Interpret the pilot with care.</h2>
+            <p class="section-intro" data-i18n="methodology.intro">
               Editorial review makes the comparison auditable without presenting an exploratory
               prototype as a comprehensive benchmark.
             </p>
           </div>
           <div class="methodology-layout">
             <article class="methodology-card">
-              <h3>How the scores were produced</h3>
-              <p>
-                On <strong id="observation-date">2 June 2026</strong>, the first ten visible results in each column
-                were reviewed from their titles and abstracts when the title alone was not
-                sufficient. Relevance is topic-specific and editorial: it is not taken from the
-                similarity score alone. A result is marked
-                <strong>highly relevant</strong>, <strong>related</strong> or
-                <strong>miss</strong>. Both relevant grades count as hits. Only clearly
-                unrelated results count as misses. Positions not returned are shown separately.
-              </p>
-              <p>
-                The detail disclosures also show <strong>nDCG@10</strong>, which rewards
-                relevant documents near the top of a ranking. Rankings may change as the index,
-                model or ranking logic evolves.
-              </p>
-              <p>
-                For multilingual semantic results, the page also explains clear misses. The
-                review details show the model similarity score when Semantic Search exposes it.
-                Similarity is not editorial relevance or confidence.
-              </p>
-              <p>
-                Each topic includes a semantic top-10 coincidence matrix. It counts shared
-                record identifiers for each pair of languages. The matrix describes ranking
-                stability and discovery breadth; it is not treated as a quality score.
-              </p>
+              <h3 data-i18n="methodology.scoresTitle">How the scores were produced</h3>
+              <div id="methodology-score-copy"></div>
             </article>
             <article class="methodology-card">
-              <h3>Subset composition</h3>
+              <h3 data-i18n="methodology.compositionTitle">Subset composition</h3>
               <ul class="source-list" id="source-list"></ul>
-              <p>
+              <p data-i18n="methodology.compositionCopy">
                 Deposita selects the topics; it does not filter the public demonstration links.
               </p>
             </article>
@@ -1252,10 +1255,10 @@
       <section class="section credits" id="credits">
         <div class="shell credits-layout">
           <div>
-            <span class="eyebrow">Credits</span>
-            <h2>Built from shared work.</h2>
+            <span class="eyebrow" data-i18n="credits.eyebrow">Credits</span>
+            <h2 data-i18n="credits.heading">Built from shared work.</h2>
           </div>
-          <article class="credits-copy">
+          <article class="credits-copy" id="credits-copy">
             <p>
               This guided demo is based on work by the LA Referencia team within the project
               <em>Expansion and innovation of the federated Open Science infrastructure in
@@ -1285,12 +1288,12 @@
     <footer class="footer">
       <div class="shell footer-inner">
         <div class="footer-copy">
-          <span>Guided pilot · live comparisons from a LA Referencia subset</span>
+          <span data-i18n="footer.copy">Guided pilot · live comparisons from a LA Referencia subset</span>
           <a href="https://www.lareferencia.info/" target="_blank" rel="noreferrer">
-            Visit LA Referencia <span aria-hidden="true">↗</span>
+            <span data-i18n="footer.visit">Visit LA Referencia</span> <span aria-hidden="true">↗</span>
           </a>
         </div>
-        <div class="footer-logos" aria-label="Project organisations">
+        <div class="footer-logos" aria-label="Project organisations" data-i18n-attr="aria-label:footer.logosAria">
           <a
             class="footer-logo-link"
             href="https://www.lareferencia.info/"
@@ -1323,6 +1326,9 @@
       </div>
     </footer>
 
+    <script src="./i18n/en.js"></script>
+    <script src="./i18n/es.js"></script>
+    <script src="./i18n/pt.js"></script>
     <script src="./demo-data.js"></script>
     <script>
       (() => {
@@ -1330,11 +1336,41 @@
 
         const data = window.DEMO_DATA;
         const methods = ["keyword", "semantic", "hybrid"];
-        const methodLabels = {
-          keyword: "Keyword",
-          semantic: "Semantic",
-          hybrid: "Hybrid",
+        const supportedLanguages = ["en", "es", "pt"];
+        const defaultLanguage = "en";
+        const requestedLanguage = new URLSearchParams(window.location.search).get("lang");
+        const currentLanguage = supportedLanguages.includes(requestedLanguage)
+          ? requestedLanguage
+          : defaultLanguage;
+        const localeByLanguage = {
+          en: "en-GB",
+          es: "es-ES",
+          pt: "pt-BR",
         };
+        const fallbackMessages = window.I18N?.[defaultLanguage] ?? {};
+        const messages = window.I18N?.[currentLanguage] ?? fallbackMessages;
+
+        const getPath = (source, path) =>
+          path.split(".").reduce((value, key) => value?.[key], source);
+
+        const interpolate = (value, replacements = {}) =>
+          String(value).replace(/\{(\w+)\}/g, (_, key) => replacements[key] ?? `{${key}}`);
+
+        const t = (path, replacements) => {
+          const value = getPath(messages, path) ?? getPath(fallbackMessages, path) ?? path;
+          return typeof value === "string" ? interpolate(value, replacements) : value;
+        };
+
+        const tList = (path, replacements) => {
+          const value = getPath(messages, path) ?? getPath(fallbackMessages, path) ?? [];
+          return Array.isArray(value) ? value.map((item) => interpolate(item, replacements)) : [];
+        };
+
+        const languageName = (item) => t(`languages.${item.languageCode}`) || item.language;
+        const topicCopy = (topic, field) => t(`topics.${topic.id}.${field}`) || topic[field];
+        const methodLabels = Object.fromEntries(
+          methods.map((method) => [method, t(`labels.methods.${method}`)]),
+        );
 
         const escapeHtml = (value) =>
           String(value)
@@ -1344,9 +1380,10 @@
             .replace(/"/g, "&quot;")
             .replace(/'/g, "&#039;");
 
-        const formatNumber = (value) => new Intl.NumberFormat("en-US").format(value);
+        const formatNumber = (value) =>
+          new Intl.NumberFormat(localeByLanguage[currentLanguage]).format(value);
         const formatDate = (value) =>
-          new Intl.DateTimeFormat("en-GB", {
+          new Intl.DateTimeFormat(localeByLanguage[currentLanguage], {
             day: "numeric",
             month: "long",
             year: "numeric",
@@ -1354,6 +1391,53 @@
           }).format(new Date(`${value}T00:00:00Z`));
         const excerpt = (value, limit = 360) =>
           value.length > limit ? `${value.slice(0, limit).trim()}…` : value;
+
+        const setLanguageLinks = () => {
+          document.querySelectorAll("[data-lang-link]").forEach((link) => {
+            const lang = link.dataset.langLink;
+            const url = new URL(window.location.href);
+            url.searchParams.set("lang", lang);
+            url.hash = window.location.hash;
+            link.href = `${url.pathname}${url.search}${url.hash}`;
+            if (lang === currentLanguage) {
+              link.setAttribute("aria-current", "true");
+            } else {
+              link.removeAttribute("aria-current");
+            }
+          });
+        };
+
+        const applyStaticTranslations = () => {
+          document.documentElement.lang = currentLanguage;
+          document.title = t("meta.title");
+          document
+            .querySelector('meta[name="description"]')
+            ?.setAttribute("content", t("meta.description"));
+
+          document.querySelectorAll("[data-i18n]").forEach((node) => {
+            node.textContent = t(node.dataset.i18n);
+          });
+          document.querySelectorAll("[data-i18n-html]").forEach((node) => {
+            node.innerHTML = t(node.dataset.i18nHtml);
+          });
+          document.querySelectorAll("[data-i18n-attr]").forEach((node) => {
+            node.dataset.i18nAttr.split(";").forEach((entry) => {
+              const [attribute, path] = entry.split(":");
+              if (attribute && path) node.setAttribute(attribute, t(path));
+            });
+          });
+
+          document.getElementById("methodology-score-copy").innerHTML = tList(
+            "methodology.scoresParagraphs",
+            { date: formatDate(data.observedAt) },
+          )
+            .map((paragraph) => `<p>${paragraph}</p>`)
+            .join("");
+          document.getElementById("credits-copy").innerHTML = tList("credits.paragraphs")
+            .map((paragraph) => `<p>${paragraph}</p>`)
+            .join("");
+          setLanguageLinks();
+        };
 
         const summarize = (rows) => ({
           returned: rows.length,
@@ -1377,9 +1461,9 @@
         };
 
         const judgment = (value) => {
-          if (value === 2) return ["relevant", "Highly relevant"];
-          if (value === 1) return ["partial", "Related"];
-          return ["out", "Miss"];
+          if (value === 2) return ["relevant", t("labels.judgments.relevant")];
+          if (value === 1) return ["partial", t("labels.judgments.partial")];
+          return ["out", t("labels.judgments.miss")];
         };
 
         const semanticMisses = (rows) => rows.filter((row) => row.judgment === 0);
@@ -1388,8 +1472,8 @@
           const score = summarize(rows);
           return `
             <div class="metric-row ${method === "semantic" ? "semantic" : ""}">
-              <span>${methodLabels[method]} · ${score.returned} returned</span>
-              <strong>${score.hits}/10 hits · ${score.misses} misses · ${score.notReturned} not returned</strong>
+              <span>${methodLabels[method]}</span>
+              <strong>${score.hits}/10 ${t("labels.hits")}</strong>
             </div>
           `;
         };
@@ -1405,19 +1489,19 @@
                     <li class="review-item">
                       ${escapeHtml(row.title)}
                       <span class="judgment ${className}">${label}</span>
-                      ${typeof row.score === "number" ? `<span class="review-note">Model similarity score · ${row.score.toFixed(2)}</span>` : ""}
-                      ${row.judgment < 2 ? `<span class="review-note">Editorial basis · ${row.reviewBasis === "title+abstract" ? "title + abstract" : "title only"}</span>` : ""}
+                      ${typeof row.score === "number" ? `<span class="review-note">${t("labels.modelSimilarityScore")} · ${row.score.toFixed(2)}</span>` : ""}
+                      ${row.judgment < 2 ? `<span class="review-note">${t("labels.editorialBasis")} · ${row.reviewBasis === "title+abstract" ? t("labels.titleAbstract") : t("labels.titleOnly")}</span>` : ""}
                       ${row.note ? `<span class="review-note">${escapeHtml(row.note)}</span>` : ""}
-                      ${row.judgment < 2 && record?.abstract ? `<span class="abstract-excerpt">Abstract evidence · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
+                      ${row.judgment < 2 && record?.abstract ? `<span class="abstract-excerpt">${t("labels.abstractEvidence")} · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
                     </li>
                   `;
                 })
                 .join("")
-            : '<li class="review-item">No results returned.</li>';
+            : `<li class="review-item">${t("labels.noResultsReturned")}</li>`;
 
           return `
             <div class="review-method">
-              <h5>${methodLabels[method]} · ${score.hits}/10 hits · ${score.misses} misses · ${score.notReturned} not returned · nDCG@10 ${ndcgAt10(rows).toFixed(2)}</h5>
+              <h5>${methodLabels[method]} · ${score.hits}/10 ${t("labels.hits")} · nDCG@10 ${ndcgAt10(rows).toFixed(2)}</h5>
               <ol>${list}</ol>
             </div>
           `;
@@ -1427,9 +1511,9 @@
           const misses = semanticMisses(rows);
           return `
             <div class="distance-profile">
-              <span class="distance-profile-label">Semantic misses · ${misses.length} explained</span>
+              <span class="distance-profile-label">${t("labels.semanticMisses")} · ${misses.length} ${t("labels.explained")}</span>
               <div class="distance-bands">
-                <span class="distance-band miss">${misses.length} clearly unrelated</span>
+                <span class="distance-band miss">${misses.length} ${t("labels.clearlyUnrelated")}</span>
               </div>
             </div>
           `;
@@ -1443,22 +1527,21 @@
                   const record = data.records[row.recordId];
                   return `
                     <li>
-                      <span class="distance-band miss">Miss</span>
+                      <span class="distance-band miss">${t("labels.judgments.miss")}</span>
                       <span class="distance-title">${escapeHtml(row.title)}</span>
                       <span class="review-note">${escapeHtml(row.note)}</span>
-                      ${record?.abstract ? `<span class="abstract-excerpt">Abstract evidence · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
+                      ${record?.abstract ? `<span class="abstract-excerpt">${t("labels.abstractEvidence")} · ${escapeHtml(excerpt(record.abstract))}</span>` : ""}
                     </li>
                   `;
                 })
                 .join("")
-            : "<li>No clearly unrelated semantic results.</li>";
+            : `<li>${t("labels.noSemanticMisses")}</li>`;
 
           return `
             <details class="distance-details">
-              <summary>Explain the semantic misses</summary>
+              <summary>${t("labels.explainSemanticMisses")}</summary>
               <p class="distance-key">
-                Only clearly unrelated results appear here. Broader or narrower useful records
-                count as hits under the public metric.
+                ${t("labels.semanticMissesKey")}
               </p>
               <ul class="distance-list">${list}</ul>
             </details>
@@ -1485,20 +1568,20 @@
               "#43b568",
             ][shared];
           const headings = topic.queries
-            .map((item) => `<th scope="col">${escapeHtml(item.language)}</th>`)
+            .map((item) => `<th scope="col">${escapeHtml(languageName(item))}</th>`)
             .join("");
           const rows = topic.queries
             .map(
               (left) => `
                 <tr>
-                  <th scope="row">${escapeHtml(left.language)}</th>
+                  <th scope="row">${escapeHtml(languageName(left))}</th>
                   ${topic.queries
                     .map((right) => {
                       if (left === right) {
-                        return `<td class="diagonal" aria-label="${escapeHtml(left.language)} compared with itself: not applicable"></td>`;
+                        return `<td class="diagonal" aria-label="${escapeHtml(t("labels.matrixDiagonalAria", { language: languageName(left) }))}"></td>`;
                       }
                       const shared = overlap(left, right);
-                      return `<td style="background: ${heatmapColor(shared)}" aria-label="${escapeHtml(left.language)} and ${escapeHtml(right.language)}: ${shared} shared semantic top 10 records">${shared}</td>`;
+                      return `<td style="background: ${heatmapColor(shared)}" aria-label="${escapeHtml(t("labels.matrixCellAria", { left: languageName(left), right: languageName(right), shared }))}">${shared}</td>`;
                     })
                     .join("")}
                 </tr>
@@ -1507,19 +1590,11 @@
             .join("");
           return `
             <section class="matrix-panel">
-              <h4>Semantic top 10 coincidence matrix</h4>
-              <p class="matrix-copy">
-                Each cell counts shared record identifiers between two language rankings.
-                This describes ranking stability and discovery breadth, not relevance quality.
-              </p>
-              <div class="matrix-legend" aria-label="Heat map legend">
-                <span><i style="background: ${heatmapColor(2)}"></i>0–4 · lower coincidence</span>
-                <span><i style="background: ${heatmapColor(5)}"></i>5–6 · middle range</span>
-                <span><i style="background: ${heatmapColor(8)}"></i>7–10 · higher coincidence</span>
-              </div>
+              <h4>${t("labels.matrixTitle")}</h4>
+              <p class="matrix-copy">${t("labels.matrixCopy")}</p>
               <div class="matrix-scroll">
                 <table class="coincidence-matrix">
-                  <thead><tr><th scope="col">Language</th>${headings}</tr></thead>
+                  <thead><tr><th scope="col">${t("labels.matrixLanguageHeader")}</th>${headings}</tr></thead>
                   <tbody>${rows}</tbody>
                 </table>
               </div>
@@ -1535,7 +1610,7 @@
           return `
             <article class="query-card">
               <div class="query-top">
-                <span class="tag">${escapeHtml(item.language)}</span>
+                <span class="tag">${escapeHtml(languageName(item))}</span>
                 <span aria-hidden="true">↗</span>
               </div>
               <div
@@ -1547,7 +1622,7 @@
                 ${methods.map((method) => renderMetric(method, item.results[method])).join("")}
               </div>
               <div class="semantic-gain">
-                Semantic gain @10 ·
+                ${t("labels.semanticGain")} ·
                 <span class="semantic-gain-value">${gain >= 0 ? "+" : ""}${gain}</span>
               </div>
               ${options.explainSemanticDistance ? renderDistanceProfile(item.results.semantic) : ""}
@@ -1558,10 +1633,13 @@
                   href="${escapeHtml(item.combinedUrl)}"
                   target="_blank"
                   rel="noreferrer"
-                >Open the three columns ↗</a>
+                >${t("labels.openLiveExample")} ↗</a>
               </div>
               <details>
-                <summary>Review the editorial judgments</summary>
+                <summary>${t("labels.reviewJudgments")}</summary>
+                <p class="review-context">
+                  ${t("labels.reviewContext")}
+                </p>
                 ${methods.map((method) => renderReview(method, item.results[method])).join("")}
               </details>
               ${options.explainSemanticDistance ? renderDistanceDetails(item.results.semantic) : ""}
@@ -1573,11 +1651,10 @@
           <section class="topic-group" id="${escapeHtml(topic.id)}">
             <div class="topic-header">
               <div>
-                <h3>${escapeHtml(topic.title)}</h3>
-                <p>${escapeHtml(topic.summary)}</p>
+                <h3>${escapeHtml(topicCopy(topic, "title"))}</h3>
+                <p>${escapeHtml(topicCopy(topic, "summary"))}</p>
               </div>
               <div class="control-panel">
-                <span class="control-copy">Portuguese control · ${topic.control.depositaCount} records in Deposita</span>
                 <span class="control-query" lang="pt">${escapeHtml(topic.control.queryPt)}</span>
                 <a
                   class="small-link"
@@ -1585,14 +1662,14 @@
                   href="${escapeHtml(topic.control.depositaUrl)}"
                   target="_blank"
                   rel="noreferrer"
-                >Verify in Deposita ↗</a>
+                >${t("labels.verifyDeposita")} ↗</a>
                 <a
                   class="small-link"
                   data-public-query
                   href="${escapeHtml(topic.control.combinedUrl)}"
                   target="_blank"
                   rel="noreferrer"
-                >Open Portuguese baseline ↗</a>
+                >${t("labels.openPortugueseBaseline")} ↗</a>
               </div>
             </div>
             <div class="query-grid">
@@ -1604,8 +1681,8 @@
           </section>
         `;
 
+        applyStaticTranslations();
         document.getElementById("subset-total").textContent = formatNumber(data.subsetTotal);
-        document.getElementById("observation-date").textContent = formatDate(data.observedAt);
         document.getElementById("topic-stack").innerHTML = data.topics.map(renderTopic).join("");
         document.getElementById("phrasing-grid").innerHTML = data.englishQueries
           .map(renderQuery)
