@@ -845,6 +845,61 @@
         grid-template-columns: repeat(3, minmax(0, 1fr));
       }
 
+      .companion-section {
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+        background:
+          radial-gradient(circle at 92% 16%, rgba(0, 127, 128, 0.1), transparent 18rem),
+          rgba(255, 255, 255, 0.48);
+      }
+
+      .companion-panel {
+        display: grid;
+        gap: 28px;
+        grid-template-columns: minmax(0, 0.9fr) minmax(300px, 0.6fr);
+        padding: 30px;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: rgba(255, 255, 255, 0.88);
+        box-shadow: 0 14px 36px rgba(18, 54, 67, 0.07);
+      }
+
+      .companion-copy {
+        max-width: 760px;
+      }
+
+      .companion-copy p {
+        color: var(--muted);
+      }
+
+      .companion-points {
+        display: grid;
+        gap: 10px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .companion-points li {
+        padding: 12px 14px;
+        border: 1px solid rgba(0, 127, 128, 0.14);
+        border-radius: 14px;
+        color: var(--muted);
+        background: rgba(223, 244, 240, 0.42);
+        font-size: 0.9rem;
+      }
+
+      .companion-points strong {
+        color: var(--teal-dark);
+      }
+
+      .companion-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 22px;
+      }
+
       .methodology {
         color: #68452d;
         background: var(--orange-soft);
@@ -1008,6 +1063,7 @@
         .method-grid,
         .problem-grid,
         .subset-layout,
+        .companion-panel,
         .methodology-layout,
         .credits-layout,
         .phrasing-grid {
@@ -1224,6 +1280,38 @@
             </p>
           </div>
           <div class="phrasing-grid" id="phrasing-grid"></div>
+        </div>
+      </section>
+
+      <section class="section companion-section" id="long-query-demo">
+        <div class="shell">
+          <article class="companion-panel">
+            <div class="companion-copy">
+              <span class="eyebrow" data-i18n="longQuery.eyebrow">Companion experiment</span>
+              <h2 data-i18n="longQuery.heading">What happens when queries become more specific?</h2>
+              <p data-i18n="longQuery.copy">
+                A companion page follows the same topics through three query formulations: the short
+                topic query, a first longer phrase that may separate semantically across languages,
+                and a second phrase designed to recover convergence.
+              </p>
+              <div class="companion-actions">
+                <a class="button" href="./long-query-demo.html" data-i18n="longQuery.cta">
+                  Open the long-query companion
+                </a>
+              </div>
+            </div>
+            <ul class="companion-points">
+              <li data-i18n-html="longQuery.points.0">
+                <strong>Short query:</strong> starts from the public demo baseline.
+              </li>
+              <li data-i18n-html="longQuery.points.1">
+                <strong>Long phrase 1:</strong> tests whether extra context improves semantic focus.
+              </li>
+              <li data-i18n-html="longQuery.points.2">
+                <strong>Long phrase 2:</strong> tests whether a clearer anchor improves convergence.
+              </li>
+            </ul>
+          </article>
         </div>
       </section>
 

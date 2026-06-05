@@ -82,6 +82,18 @@ window.I18N.en = {
     intro:
       "Semantic search can also reduce exact-word bias within one language. These simple alternatives use the same editorial review as the multilingual examples.",
   },
+  longQuery: {
+    eyebrow: "Companion experiment",
+    heading: "What happens when queries become more specific?",
+    copy:
+      "A companion page follows the same topics through three query formulations: the short topic query, a first longer phrase that may separate semantically across languages, and a second phrase designed to recover convergence.",
+    cta: "Open the long-query companion",
+    points: [
+      "<strong>Short query:</strong> starts from the public demo baseline.",
+      "<strong>Long phrase 1:</strong> tests whether extra context improves semantic focus.",
+      "<strong>Long phrase 2:</strong> tests whether a clearer anchor improves convergence.",
+    ],
+  },
   methodology: {
     heading: "Interpret the pilot with care.",
     intro:

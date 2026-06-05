@@ -1,0 +1,254 @@
+{
+  "version": "v3",
+  "baseUrl": "https://search.lareferencia.info/vufind",
+  "languages": [
+    { "language": "English", "languageCode": "en", "direction": "ltr" },
+    { "language": "French", "languageCode": "fr", "direction": "ltr" },
+    { "language": "German", "languageCode": "de", "direction": "ltr" },
+    { "language": "Italian", "languageCode": "it", "direction": "ltr" },
+    { "language": "Chinese", "languageCode": "zh", "direction": "ltr" },
+    { "language": "Japanese", "languageCode": "ja", "direction": "ltr" }
+  ],
+  "topics": [
+    {
+      "id": "distance-education",
+      "title": "Distance education",
+      "sourceEvidence": [
+        {
+          "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+          "title": "Educación a distancia vía videoconferencia"
+        },
+        {
+          "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+          "title": "Gestión de la tutoría telemática en educación a distancia"
+        },
+        {
+          "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+          "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia"
+        }
+      ],
+      "variants": [
+        {
+          "id": "divergent",
+          "label": "Subfield phrase",
+          "representativePhrase": "distance tutoring in virtual learning environments",
+          "rationale": "This phrase asks for a narrower educational subfield: tutoring inside virtual learning environments. Across languages, it may separate between tutoring, virtual classroom design, videoconference teaching and broader online-learning records.",
+          "semanticSeparation": "Distance-education records often use overlapping but not identical language: tutoring, videoconference, virtual learning environments, online learning, higher education, and learning platforms. A phrase centered on tutoring can make some languages privilege support practices while others privilege virtual-environment records.",
+          "separationCauses": [
+            "Tutoring and learner support may dominate in some language versions.",
+            "Virtual learning environment wording can pull toward platform or classroom-design records.",
+            "Distance-education records may also be indexed through videoconference or online-learning vocabulary."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "distance tutoring in virtual learning environments" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "tutorat à distance dans des environnements virtuels d'apprentissage" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Fernbetreuung in virtuellen Lernumgebungen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "tutoraggio a distanza in ambienti virtuali di apprendimento" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "虚拟学习环境中的远程辅导" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境における遠隔指導" }
+          ]
+        },
+        {
+          "id": "balanced",
+          "label": "Anchored phrase",
+          "representativePhrase": "distance education with online tutoring in virtual learning environments",
+          "rationale": "This phrase keeps the broad distance-education anchor and then adds online tutoring and virtual learning environments as a setting. It is intended to keep the subfield visible without losing the shared topic.",
+          "semanticSeparation": "Adding the explicit distance-education anchor can reduce separation by keeping tutoring and virtual-environment records tied to the same educational mode.",
+          "separationCauses": [
+            "The distance-education anchor keeps results from drifting toward generic virtual learning.",
+            "Online tutoring remains present but is less likely to dominate the whole ranking.",
+            "The phrase still allows records about virtual classrooms, platforms and videoconference when they are tied to distance education."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "distance education with online tutoring in virtual learning environments" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "enseignement à distance avec tutorat en ligne dans des environnements virtuels d'apprentissage" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Fernunterricht mit Online-Betreuung in virtuellen Lernumgebungen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "educazione a distanza con tutoraggio online in ambienti virtuali di apprendimento" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "虚拟学习环境中的在线辅导与远程教育" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境におけるオンライン指導を伴う遠隔教育" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "sourceEvidence": [
+        {
+          "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+          "title": "Atención integral de enfermería al diabético tipo 2"
+        },
+        {
+          "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+          "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde"
+        },
+        {
+          "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+          "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México."
+        }
+      ],
+      "variants": [
+        {
+          "id": "divergent",
+          "label": "Care phrase",
+          "representativePhrase": "type 2 diabetes nursing care, glycemic control and complications",
+          "rationale": "This phrase combines a disease, a professional practice and clinical outcomes. It can retrieve relevant diabetes records, but the nursing-care wording can also pull some languages toward general nursing or health-care records.",
+          "semanticSeparation": "Diabetes can separate into nursing care, glycemic control, diabetic foot, oral health, monitoring, medication effects and vascular complications. When the phrase includes care terminology, some languages may privilege the professional-care branch while others privilege diabetes-specific complications.",
+          "separationCauses": [
+            "Nursing-care terms can retrieve general care records that are not diabetes-centered.",
+            "Glycemic-control terms may pull toward monitoring, insulin or medication-effect records.",
+            "Complications can point to diabetic foot, vascular disease, oral health or broader metabolic studies."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "type 2 diabetes nursing care, glycemic control and complications" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "soins infirmiers du diabète de type 2, contrôle glycémique et complications" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Pflege bei Typ-2-Diabetes, Blutzuckerkontrolle und Komplikationen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "assistenza infermieristica per il diabete di tipo 2, controllo glicemico e complicanze" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "2型糖尿病护理、血糖控制和并发症" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病の看護ケア、血糖コントロール、合併症" }
+          ]
+        },
+        {
+          "id": "balanced",
+          "label": "Disease-anchored phrase",
+          "representativePhrase": "type 2 diabetes, glycemic control and diabetic complications",
+          "rationale": "This phrase keeps type 2 diabetes explicit and removes broad care terminology. It focuses on glycemic control and diabetic complications as disease-specific facets.",
+          "semanticSeparation": "Keeping the disease anchor explicit can reduce drift toward generic care while still allowing several diabetes subfields to appear.",
+          "separationCauses": [
+            "The repeated diabetes anchor helps separate diabetes complications from general complications.",
+            "Without nursing-care wording, fewer results are expected to drift toward unrelated care records.",
+            "Remaining separation can still reflect valid diabetes branches such as diabetic foot, monitoring and vascular complications."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "type 2 diabetes, glycemic control and diabetic complications" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "diabète de type 2, contrôle glycémique et complications diabétiques" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Typ-2-Diabetes, Blutzuckerkontrolle und diabetische Komplikationen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diabete di tipo 2, controllo glicemico e complicanze diabetiche" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "2型糖尿病、血糖控制和糖尿病并发症" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病、血糖コントロール、糖尿病合併症" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "human-rights",
+      "title": "Human rights",
+      "sourceEvidence": [
+        {
+          "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+          "title": "El derecho a la información"
+        },
+        {
+          "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+          "title": "Contaminación sonora y derechos humanos."
+        },
+        {
+          "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+          "title": "Naciones Unidas, derechos humanos y democracia internacional"
+        }
+      ],
+      "variants": [
+        {
+          "id": "divergent",
+          "label": "Conceptual phrase",
+          "representativePhrase": "human rights, dignity and democratic justice",
+          "rationale": "This phrase combines a broad rights topic with dignity and democratic justice. It can surface highly relevant records but may separate by legal theory, constitutional doctrine, social rights or democratic institutions.",
+          "semanticSeparation": "Human-rights language can separate by emphasis. Some languages may pull toward dignity and constitutional rights, while others emphasize democratic institutions, justice, social rights or public guarantees.",
+          "separationCauses": [
+            "Dignity is often connected to constitutional theory and fundamental-rights doctrine.",
+            "Democratic justice can point toward institutions, courts, social justice or political guarantees.",
+            "The topic is broad, so high relevance can coexist with lower shared record identifiers."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "human rights, dignity and democratic justice" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "droits humains, dignité et justice démocratique" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Menschenrechte, Würde und demokratische Gerechtigkeit" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diritti umani, dignità e giustizia democratica" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "人权、尊严与民主正义" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権、尊厳、民主的正義" }
+          ]
+        },
+        {
+          "id": "balanced",
+          "label": "Rights-anchored phrase",
+          "representativePhrase": "human rights and democratic institutions",
+          "rationale": "This phrase keeps human rights as the central anchor and uses democratic institutions as a common public-law setting. It avoids loading the query with several abstract legal concepts at once.",
+          "semanticSeparation": "A narrower rights-and-institutions frame may reduce conceptual drift while still retrieving records about democratic governance, international human-rights systems and public guarantees.",
+          "separationCauses": [
+            "The human-rights anchor stays central in each language version.",
+            "Democratic institutions is a more concrete setting than democratic justice.",
+            "Some separation can remain between international systems, courts, protest, democracy and public administration."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "human rights and democratic institutions" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "droits humains et institutions démocratiques" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Menschenrechte und demokratische Institutionen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diritti umani e istituzioni democratiche" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "人权与民主制度" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権と民主的制度" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate-change",
+      "title": "Climate change",
+      "sourceEvidence": [
+        {
+          "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+          "title": "An assessment of priorities in handling climate change impacts on infrastructures"
+        },
+        {
+          "recordId": "UY_13b364e947eb97132e99015b17654365",
+          "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countri"
+        },
+        {
+          "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+          "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh"
+        }
+      ],
+      "variants": [
+        {
+          "id": "divergent",
+          "label": "Broad impact phrase",
+          "representativePhrase": "climate change impacts on ecosystems and communities",
+          "rationale": "This phrase combines climate-change impacts with ecosystems and communities. The word communities can point to ecological communities in some contexts and human communities in others.",
+          "semanticSeparation": "Climate-change phrases can split between ecological-impact records and records about adaptation, infrastructure, settlements or social exposure. Ambiguous community wording can increase that split.",
+          "separationCauses": [
+            "Communities can mean ecological communities or human communities.",
+            "Ecosystem wording can pull toward climate variability and environmental impact records.",
+            "Social wording can pull toward adaptation, settlements, vulnerability or infrastructure records."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "climate change impacts on ecosystems and communities" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "impacts du changement climatique sur les écosystèmes et les communautés" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Auswirkungen des Klimawandels auf Ökosysteme und Gemeinschaften" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "impatti del cambiamento climatico sugli ecosistemi e sulle comunità" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "气候变化对生态系统和社区的影响" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と地域社会に与える影響" }
+          ]
+        },
+        {
+          "id": "balanced",
+          "label": "Disambiguated phrase",
+          "representativePhrase": "climate change impacts on ecosystems and human settlements",
+          "rationale": "This phrase keeps climate-change impacts as the anchor and replaces ambiguous communities with human settlements. It makes the social side more explicit while keeping ecosystems visible.",
+          "semanticSeparation": "Disambiguating communities as human settlements can reduce drift toward generic community or environmental records, while preserving the ecological-social contrast.",
+          "separationCauses": [
+            "Human settlements gives the social side a clearer target.",
+            "Ecosystems remains explicit, so ecological-impact records are still expected.",
+            "Remaining separation can reflect different climate-impact pathways rather than unrelated retrieval."
+          ],
+          "queries": [
+            { "language": "English", "languageCode": "en", "direction": "ltr", "text": "climate change impacts on ecosystems and human settlements" },
+            { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "impacts du changement climatique sur les écosystèmes et les établissements humains" },
+            { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Auswirkungen des Klimawandels auf Ökosysteme und menschliche Siedlungen" },
+            { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "impatti del cambiamento climatico sugli ecosistemi e sugli insediamenti umani" },
+            { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "气候变化对生态系统和人类住区的影响" },
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と人間の居住地に与える影響" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2158 @@
+{
+  "distance-education": {
+    "Ridi_f1d3095f0eb278b068f41ed466bf8d29": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_a49459c17b467e4644495ef17743413f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_6556e4befe1ede108dabaab95b5b198f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b26ac32155ab971977bd26894c1bdbd9": {
+      "judgment": 2,
+      "note": "",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_5d70934ae70430c5642d894da4fa5a54": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_06cdd28fb957103e19328d5cc3b061d7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_ec6249920b5e906f9d2899cfadb4bffa": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_113b5b6c1bb82fd4ffcc793e92ff5e4d": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ac8ce99e7e1c63ef4c0027b9b7abe04c": {
+      "judgment": 0,
+      "note": "Higher education is visible, but distance education is not established.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_2e3126ea40321f43959af43abdd8e736": {
+      "judgment": 0,
+      "note": "The title concerns technological education, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_224e3e52c5ff6cc7d62008b6ca0433d7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9bcd81748c02d2ff7d1ba53f2d21b53f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9d6be1f154f629a871a0d908a411cbaa": {
+      "judgment": 0,
+      "note": "The abstract confirms a telework and human-resources focus, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e074fb995b79c398f8d163bcf5237006": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_154abe3e5eb7b1521d3edfc6ed61b03c": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_9ab339afe9f51a091343d46d6475c56e": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_7aa76508e449a7307cb7ac9e57327233": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6123a7c42b48390cf7d811987a27a845": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_438f9cab9685537c9e64e21302a97d50": {
+      "judgment": 0,
+      "note": "Teacher training is visible, but distance education is not established.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_d640e8a4925f877c3cfed19ab593c4f5": {
+      "judgment": 0,
+      "note": "The abstract concerns Portuguese-teacher identity, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_76698c4c5846ac2fc682bb7f0024a27c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_01d2d94a42b9273b5089d28cb61824f1": {
+      "judgment": 0,
+      "note": "Distance refers to algebraic curves, not education delivery.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a4d0b0933a236e22a503d008a2cd7f0a": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e500c751e2fc8cbe4034e0672d31b6d5": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_658715201fd99d364da1b92d6276f3ce": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f4689cb2cd398584aeda670441ef4525": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ffb13dddf5a0babbb43831bf3e91fb31": {
+      "judgment": 1,
+      "note": "The abstract describes emergency remote teaching and online learning, but the record is narrower than the general topic.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f67e3194eacfff90b436e28369f0c012": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_532642bda01b39d6b2f10a552762be1f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_42dffcb9ddff927a262f9ff166f505fc": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_10a524b70db889e69b75bc36755f27bb": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f74134c27885fdfebf579e571a3d5aa5": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_00a3a0ab17b0bb1841cdfea8693a1b11": {
+      "judgment": 0,
+      "note": "The title concerns public information, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_a5440e2de8facebe64994f534f4c01ff": {
+      "judgment": 0,
+      "note": "The title concerns pedagogy, but distance education is not established.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_bfa169640bfe22e00b95ea0e1b859a37": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_15a95eae66ea5823d1081d835a295c54": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f369fee6264bb417b282ba632d898e16": {
+      "judgment": 0,
+      "note": "The title concerns optics teaching, but distance education is not established.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_b4b33016d031cb22d9b20dd157abd187": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_4b0d41dfb0716fba611688f08be379a3": {
+      "judgment": 0,
+      "note": "The title concerns information philosophy, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_dbbd0a8c94b34b9e548da2c460964668": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c2d5a86dee383cfee08da86725197352": {
+      "judgment": 0,
+      "note": "The title is about teaching quality and the record exposes no abstract establishing distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title-only"
+    },
+    "Ridi_8d1c8eef1f5a757da37b931b72d15661": {
+      "judgment": 1,
+      "note": "Distance training is related, but narrower than the educational topic.",
+      "source": "editorial-override",
+      "reviewBasis": "title-only"
+    },
+    "UY_3ea7181f3196724783fa8fb98195c005": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_7d94a2dff2920a6c10d600056d357f7b": {
+      "judgment": 0,
+      "note": "The abstract describes public educational materials about COVID-19, not distance education.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_81c3946802fb9b0637a5576d450ceb4b": {
+      "judgment": 0,
+      "note": "The title concerns AI for education, but distance education is not established.",
+      "source": "editorial-override",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_976e7c66b569a71840f2e8f1765799f5": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_4c1390299ee199e6574d81db86aa9b5e": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f56fda30ad2386085e7289e1d5a7a4a5": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_33b87dfc08bf52d8a45758b2a7ebd487": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_bbe0694704e62891376e6ee8e5d4bccb": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d9adc769b7f073d8914aef8701a5eb5a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9a9fd700dc3b82f6cc164a789fbf1c33": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d772d019977fcda201719f88b6f450d7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_42c07f5abef32fec9daf00ed5fdad175": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_64168130568b51b611d7f02fcd286827": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_8fe7e4198a51b09491be18c697a2d8d6": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_47dfaa7aaa957b37c259e5844415b08d": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_900ae6a4efa9b1486949b95e1507c4dd": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_30b6c987ab83bb3f3384a4fbfe8750e3": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_261cd5eaf1b415644a0eb24a34df9fff": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_4d953a82b6167176537b72f21c495730": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_00e8b2e840b67a689926282d848f5c8e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_e4e9815ad76c6fc220d85cc9e364ebdd": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e90958162f42dbe8a664ea0761231ae2": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_668026daac62e3e34631ce453f4aacf3": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_087a4e581443bb6608acb6ea409436c5": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_db58fb90e07a65ae9d1ae5f193e2d56a": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2852ab212d707b0974acaa3274f87c26": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2f540807af5685c9b004266ae4998bda": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6266643151414287a23fc448433285d0": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f79bca1d28f7ebe041b686121ecb82c2": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_9ec9785f53ce00a3739ec9816cf27e37": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_aa21da36f4b6416bbb247a8b96518d0c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_d64cbdbb08e6dc955dd55239b1c9a038": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_111de8cfd2e078bc2cdaafda41020e7d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c2133ed8cfd25d362137f9ede1cc2a47": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_45362c0f589b31ca9a8ef89dcedcb6b9": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cf46dd6e44bc7d9cdd9826a3e1f465ce": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_21d768eb18b8313d92bd5ef5111e80a3": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e37dd98208701932e33101c2a14331ad": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9497658e546f575474d3c4b7b322e72f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1939fdc63320e1365e81b06f08f14272": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_4cff6fc65aedfcb9a5e31b2f76f8a089": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_fda6987d7ae04d1248bfbd28631b85d7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ab37db92a9d0de3f692e7edd0297ad0e": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_dc2e169ab378b2f18db1867aa57c4249": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2787ee9919e112ba77934eecb42c1052": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_b79258a6636553517a66e599713ced5f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_a581f00b4443ddc35f1df4d5da157fae": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_3dffba39cde2d6de74d6f15afcd4fd77": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3c463e6c86b3e7cb157cf552e6ada502": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1f100c0fd9541798d03fa09cc104679f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_6fea5f22d35dc0188d9644864ec4735c": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b772477a167108ee9b4f5c7eb5e0f2bc": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a92746d731a1b6d7a078d80b69505bf2": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_473f71bada9dcedbb21a414d3f58b651": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_04920adbc0300fd132dfe4320a05a4b2": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3766b44d4afbe287677e82e2afc9ef37": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_772dc4f7621bd725f8ce9244d6ff32e2": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_665d901f48e8473ee33430d6fa87c5ee": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_91a6b1f6055d5ac8196e349ca7a593fa": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a distance education focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e472d8ea62b539f999dec034483bbd3a": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_896eb76e6116276d2006c557b59bce03": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_05cf91e7bae4970bc300455cabdf5a5f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    }
+  },
+  "diabetes": {
+    "UY_c6e56080f93b9c936c6bdc22834b6d38": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a5557b048af3ff62e94b4990afb6a41f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_01f1f0f00722753a8973117fcb923761": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_df4a953a47c6b0b9a5c16138f960a9dd": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_40926e021fe562ec566d9d09e45a4392": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_7e04be072f33bec72c9cf4d4313d1438": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5ec70c720615d1019f3830df55586682": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e3737831e13c2e92e1252efef4486f8f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_fa3676d4869e4dbc922ca7aa807dfc96": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6f687a935ae9133d07bf8d561d19db6d": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5e8f3a0a489b4ffdc990322c27d06cef": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_32a02465662baad1f8c3a5c873bce919": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a2f6abb1b19777a036a172eaae094328": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_a0c2e97af2f604adeb74bf5d3f1964a9": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_291c7b02a2958908b5c007b49f6e747c": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c610f871be076dff0379ba6906387347": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_954c4102430d205045f54590dff8fc7f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9bda3ec709a12be367b316d04a834b99": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_53780f4775bfdd509cddbc0451a8e853": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_59bd956264f4e9b892255ab42e85a2ea": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cb63ddf9cd19c54ca5fb217a0f7a4103": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_dd47a1c53830d881645281d9e8462b4e": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c17574d9773e5e0e6bcc1f88b07a033f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_6b08a2edf03664ab42402ec0a9ce71ab": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9bc87965525db879df4d5308a1263d70": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9b2b4d3ec96dd3968496283943d6d20e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_58434c286714f68e2eee63ab4b8c5f36": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a934915f852f3232e80ebac8331a506e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_73ea6669708a575b9a455d8a405249f7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d386a54cd1312cfa2d301c1e1e2f886a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_35e803efd27fe946b272e1f5ee2a164f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_76698c4c5846ac2fc682bb7f0024a27c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f74134c27885fdfebf579e571a3d5aa5": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_8fe7e4198a51b09491be18c697a2d8d6": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_4d953a82b6167176537b72f21c495730": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_30b6c987ab83bb3f3384a4fbfe8750e3": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_261cd5eaf1b415644a0eb24a34df9fff": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6eec44eee6d07d2f73990a146b840a08": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_41e37c37044d963d6c2563113912248a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e7393ce83bd261f6f0b5f4e2dead7166": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f7005c9cb2ad037348c2abb1dc427610": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_215e2b9d7203adfdff5b03d50ef3a19f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_91dbef3ebc56e04aad43f5cef9681209": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_d5d80acb627886df6c07dd6c4c963b53": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_973fbaa8bf4bee112fb0f71099fe020d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f01b9a9108500c9c3458f8ac09e1a888": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_16b22190062bca83c608d9be39cbd93d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cb7273a3e8ce9e77b1023b9fc2cbc6f7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a4dda43a2dcfa2e5b2b520855e58124f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f7fb85cecce112d4327403f7582232a1": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_f6312057481d5d71c8fdbf19afcc50af": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_59e646f491e619dba5ca2934065457da": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_46a23b80b39abbf34730aee25ddb031e": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_debcb8d7aeeaaa9ec9fb8df2e0f349d6": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f8d9fca7180f7c480c43b2f64b2ac14d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_fcac50019600623b23de0cd5f4d42053": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_9e75832cb485bfeb9ca96fe5158465e3": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_98390dafe8e0135ad5e27cd1863ff35d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_63c781fe6ffbe1ee5b578fbe8fea0f19": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5256dec1f180b8c9199a5e6c8b7eaceb": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_38acf3dca3c9165088f9b81f89187787": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_509005bcb848421a10bd49ebe191ca32": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6358236ede709d4cb7280ffb259352e5": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_bb092ee131042e2dcf29a509a43bfcac": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_4aed639e6a0b71b472f76da70a731eba": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_7dd8628e9353d4441441a94dd728b00e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c1d7edc2a58b90c261c474acab05b311": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_01c16355f45e07402a01fc363face792": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_e7643df25c8875b33935aa6935bba7e8": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_9cec113181d0f07d5781bfaee1f12b8d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_4a52d7dd9b7cc5c81e776070ff04d1d7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_43987ec1d6bf48063d796fe94c454839": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2249cad30c3fd93823d435e9320dba23": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5c1cca6a393ce6459d9bcebc5df6f285": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_1635ab529af1664e7bbcdb63be102a1d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a diabetes focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    }
+  },
+  "human-rights": {
+    "Deposita_60b440815117f4408e5aadf0271d6ea3": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_39a49e6a7e021b629eb5e8aabe61aa5f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_51866e47a7de63167e30e03fe27f3420": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_ded4f043c37b1d84487a7ee3742b70e7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_e8c28b0baea4b765bf08aa05977cada5": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_52e4c8bbbb9a695d6a57f07496c16ad8": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_8e5ddabdd3e44da411062752200a2951": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_4e72b4ef8b9e033f38afb5a05964e859": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5934653201fbf42594d451ec87996bdf": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ba09f0f7dc4a82f3104dd05c12587b7b": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_fee8099c9d23b2d61bc6ae58044382eb": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_57b78b543514cb37c011470c5653eee0": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d09db2c41bab6988948928faa1b5e35f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_f0355c2b13de3943e31e18e8a5129f32": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_adb1debe28bbfee55f42e9b1661bb332": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b0800a87d0c1564b6501933595c4c22f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_95ffcdbe83c9a4c015a54f2fcbc63d80": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_9cb5ef142d5a68c078cf8869eb67bef5": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e8ad0d85ef8bf6b5264c3b213acdf556": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_81c2ecad4982627a55997a27741f02d6": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_f74134c27885fdfebf579e571a3d5aa5": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_c2cbe206b7429e56de63d103e4b876da": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1788355ab93191291ecbd99d04fcaa05": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Ridi_47dfaa7aaa957b37c259e5844415b08d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_49eb7c2889feaea6d91c3488720656db": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_76698c4c5846ac2fc682bb7f0024a27c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_bf58dc5eb13f795b9282c5df11263a94": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_8dfdffcbcdda81588a49226c5f44cb8f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1982aae06fc3a95d3c1d512dcacdf7ea": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_261cd5eaf1b415644a0eb24a34df9fff": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b4385f6c4d9894f495d47f1640f154d7": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_30f0461d1b6daec2f720ddf60cb60c23": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3869302e997a1624c158ea916ae2e210": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_c3a9b525c03ecd7473ae21706c54e758": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_3152d0e63d6ebde7f837822e423ccc80": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_47bab31c8f39bb35ab51bfb388368b4d": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b1c82d4f468e225b1f8e6b8e428515c7": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_2b0c686c33637b44776c4e52b2b58fd2": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_aec13b9a492c30031f85d1633c21df74": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_75c5457e70aed2fe6e729ca1d57f5c3d": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a544218a57c7a0db796ea0f8e78563bb": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_553bfd8b45acc7e28695bce2e31331b9": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e9b171867bad3479d5cd3cb944afeb6b": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3f95a1d345f29015718d3947d9e4d959": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b43b30e5c9a8952e89045a29c30945bd": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_bc545c0705386759e5929fcb4c07a225": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_e84627817f970fbfc4c64e13aa16f412": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_c94f883daad472483186c67f7e5aef86": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1d5c421a36f5e07865bef29edaf3600e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_9077951daec801080bf7b262eba89a1a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_49c05a87973fa6a1201aef28225def5f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_d5d80acb627886df6c07dd6c4c963b53": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_215e2b9d7203adfdff5b03d50ef3a19f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_16b22190062bca83c608d9be39cbd93d": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_91dbef3ebc56e04aad43f5cef9681209": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cb7273a3e8ce9e77b1023b9fc2cbc6f7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a4dda43a2dcfa2e5b2b520855e58124f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b25dc42a47aee48fb45e3dd619f9c7ee": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_05ce12ca6947ef12b7504f0e9617f3c0": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6cd4427ce1d65be4a8657eebca0fd16e": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2ad5107cf7f0770369269df52318cdbe": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_a6f146a47af2ba3c72658ab7746556dd": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3cee65e2ee34847f08a6b78bac4e6ced": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b9e436e3533046710e1811283bddd745": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_4d1bc33de2eec62617b9fc2124342269": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_347ce31f17be2b5528d1108f9e2f1232": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_75aef88f4040167738229aa8bf73b899": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3cd12b22d801132f608e22931abe1567": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_14da41a23627606919357dd21368c946": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e3f916bf6e53b57afa7f07eb8e33569b": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a498ecc0d9b9ada122ce69ff5e53198c": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_20ca1d59fec524eb07ad391ab67f9450": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e7615281ca2e13f3d5f25424ea342dd7": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b13e439c807db68c795012f3bf00f55f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_fba38bbc546ce05f7f24e064715e3c97": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_9fb871ab1494fda2eaea5cf44d9f4338": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_b5e93bea61c9a8d7f6dc61bcf728ce7b": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_087b21c512ec2d4de9c66947f5c0571f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9df9c9208a141290fad676152c0831f7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1025a0d75ad8bf41c38a45f83f768b6d": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_db78687d3958c7c6da26e978b749d85b": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_85327ad11f2aeada212554cb4b92ed6a": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3d3cb33f56435b9465bcddbc3e284c43": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_fc9248fb09b5a9d09293061df4dac16e": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_284b162178b0b133bb40e28e8ba0d4ce": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_c34e0c1015f8b0b122236c7ab5cb5067": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_ab0595d6c77b0695a60bfb11707a1a77": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_08798b4a878e16e37aacb4e530edb3dc": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_358f7498a4d46e25a061431cc83e6305": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3bb5d407307abc1037d4a3edac74a88d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f367222f274c4fcb6f2bad91ec05298f": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_a5440e2de8facebe64994f534f4c01ff": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_73ec6316e4c74eb0b39f5c9e9cf524e3": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_d640e8a4925f877c3cfed19ab593c4f5": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_f098a145251de5c8122d12bb36394c87": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_4d7453f0e3c77fba88b343f0ca8d142b": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_bfa169640bfe22e00b95ea0e1b859a37": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_71efa50d3dc6594814e4e7b1e961a808": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_3ccb383e17f3835cdc5be472674a3fc3": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_df4d0e5ab4d956ea044eefff90bd4761": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d66df611075ec293d92af80ff7178c09": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_3d2574e6abac6bd27879c53d242cd046": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_7948d95e10643a6294dd114c1194c87f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a human rights focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    }
+  },
+  "climate-change": {
+    "UY_9dd0730cd220ed453ed54070fca2d1e1": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ced67ee7099935a3c18fca5b749d24c4": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_8e3a82eef2568f41ba386c714b4870d7": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_16a5faf9594d676854b3776057d7ed73": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_93d7a7e45bcf25948de07262cc69c838": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_c3a87f7fc6683b9fd69de4a5a82e499d": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b5181488e31aa57e0904c6a899db384b": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1cd13456e14c911503d0353d620990c8": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_8aa4d052b3dd577dbdfbaf126051760c": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_97758a5e94f4397087680b40fc664e26": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_ae99a25900d88ac35f79795e1047b5ec": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9cd00621e5336520be0fa8cfae45e044": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_97b3ee1f58fa57c8291964e87c83f26b": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_67c2a96342030e2584e0c96e5499f9ab": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_7f2899717ddfe9925bfcf2c579e7e9a9": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_754b1e121730c48ad15abc943519ce40": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_13b364e947eb97132e99015b17654365": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5055ee0c9ffdfab032e19bfeb8052eab": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d222dff5a50925ec431eafa9ce8c8d2c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_4d953a82b6167176537b72f21c495730": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_54257d3b1aa442786b4bcee50a8440f4": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1982aae06fc3a95d3c1d512dcacdf7ea": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e8bd0f6831ad6af9de3466b4324092f8": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_38c3c205ae4ffdc22e68d58d82cbe17d": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e34f9790286c547d7f2a2d5e314fa23c": {
+      "judgment": 0,
+      "note": "The title concerns social and project changes, and the record exposes no abstract establishing climate change.",
+      "source": "editorial-override",
+      "reviewBasis": "title-only"
+    },
+    "UY_d834b7fb861582a019bdad182c83e19f": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_38ea26594bb53b146f688d9bb86a109a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_21290ef1e7206a2b1d5bb02fdb092dbd": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6aeaaa7fd958388c3a838a899e9901ee": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_79a32e41de674f2ac2365dade3139bca": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_9984b38c61e6e1cd0405fb97ec9b451c": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_414073b5ba5ea3925961498ed328b567": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_110504eb813897ea7dbcc1962a4b4dac": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_4aed639e6a0b71b472f76da70a731eba": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a34f9e9311eb67c92dd41929a3fec280": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_8db45bbdc86f7bfbdc5e3c04d6aa1b0a": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_7e1520e9a426848a939c3a709d587bf8": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b98722ee9702e7be1163efc2c90efac8": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_db044326d84a8bd5e9ba15b5bb5ef872": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f52304fd1c0c0a5b8e166c2a54775b27": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_40aeb25e51ef6a3add6dc4d240199640": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_2ba650bf73e706237fa8812e5ab80404": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1a3ef88611835e68b57f7ce0c7284a86": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_1f7574151a897305385d2e58e68d565f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_7e1d7b2e2d2c759c62e49de57f8e4bcf": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b7f58af157e45ff7b1682f5b0db931ef": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_f7551344cd516b3afc95870f55af4564": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a609bc6d5e9cfaeb01f1f3910de1f93e": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e6af8c8dd9e801e34f15e034735b63ab": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_76698c4c5846ac2fc682bb7f0024a27c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_f74134c27885fdfebf579e571a3d5aa5": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Ridi_47dfaa7aaa957b37c259e5844415b08d": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_261cd5eaf1b415644a0eb24a34df9fff": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cbfb997e93cbf54ddb6e1c629b9ecbb1": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_8fe7e4198a51b09491be18c697a2d8d6": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b2c356751026916ab50170e4034f1e87": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "Deposita_d5d80acb627886df6c07dd6c4c963b53": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_215e2b9d7203adfdff5b03d50ef3a19f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_91dbef3ebc56e04aad43f5cef9681209": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "Deposita_16b22190062bca83c608d9be39cbd93d": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_cb7273a3e8ce9e77b1023b9fc2cbc6f7": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_a4dda43a2dcfa2e5b2b520855e58124f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_b25dc42a47aee48fb45e3dd619f9c7ee": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5102470589881be10abdeb38778e3168": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_0063fd4769f0c6c67ce198ad29eafe65": {
+      "judgment": 1,
+      "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_aedb462d769817d46268f264acf8d898": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_e9e7029894b03dc7e23372259f2dbc57": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title-only"
+    },
+    "UY_bf2d953b0ce8805d88592f4b4a2bca64": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_87adf6671c4489f00d23aa94ee94f89c": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_6e72d71cc67c2e1c996cb32921635707": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_426f72de17ee38fae9e31192b0d9a095": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_d8764b02fc84517d58bfc7207636a65f": {
+      "judgment": 0,
+      "note": "The title and abstract do not establish a climate change focus.",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_5e7a2a1a611d04e8ce8ecb98464cd549": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_0fbd467a2d2a2923318f1f0a8cb154d0": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    },
+    "UY_f34d0321e04a6fe6e07bed43ffcdc4d0": {
+      "judgment": 2,
+      "note": "",
+      "source": "title+abstract-rule",
+      "reviewBasis": "title+abstract"
+    }
+  }
+}

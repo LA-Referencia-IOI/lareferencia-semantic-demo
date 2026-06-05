@@ -13,6 +13,10 @@ The demo compares three retrieval methods over an indexed LA Referencia subset:
 Semantic retrieval does not translate documents and does not guarantee relevance. The visible page
 is a guided pilot, not a benchmark for the complete LA Referencia network.
 
+The interface is available in English, Spanish and Portuguese. The translated interface does not
+change the captured evidence: queries, result titles, abstracts, editorial notes and metrics remain
+the same across languages.
+
 ## Indexed Subset
 
 The current captured snapshot was observed on `2026-06-02`.
@@ -72,7 +76,8 @@ Judgments are topic-specific:
 | `1` | Usefully narrower, broader or partially relevant | Hit |
 | `0` | Clearly unrelated, or insufficient title-and-abstract evidence | Miss |
 
-Missing ranks are shown separately as `not returned`. They are not editorial misses.
+Missing ranks are not editorial misses. The public card metric focuses on hits out of the top ten
+reviewed positions.
 
 Rules and explicit overrides live in `scripts/seed-judgments.mjs`. Every partial hit and miss is
 listed in `evaluation-review-queue.md` for manual inspection.
@@ -81,13 +86,12 @@ listed in `evaluation-review-queue.md` for manual inspection.
 
 For each query and method:
 
-- `returned`: actual number of retrieved records, up to ten;
 - `hits @10`: rows with judgment `1` or `2`;
-- `misses @10`: rows with judgment `0`;
-- `not returned`: unfilled positions up to ten;
 - `semantic gain @10`: semantic hits minus keyword hits.
 
 The detail disclosure also shows `nDCG@10`, derived from graded judgments `0`, `1` and `2`.
+Clearly unrelated rows remain visible inside the editorial details and semantic miss explanations,
+but they are not shown as a separate headline metric.
 
 ## Coincidence Matrix
 
@@ -107,3 +111,18 @@ The matrix describes ranking stability and discovery breadth. It is not a releva
 - Rankings may change after index, model or ranking updates.
 - Similarity score is a model signal, not editorial relevance or confidence.
 - High coincidence across languages can repeat the same irrelevant records.
+
+## Research-Only Long Query Evidence
+
+`LONG_QUERY_EXPERIMENT.md` evaluates whether one representative long phrase per topic, expressed in
+the same six public languages, maintains or improves semantic relevance and cross-language ranking
+stability. This evidence is captured and judged separately from `demo-data.js`.
+
+The research-only V2 experiment captures only Keyword Search and Semantic Search. Keyword is a
+contextual relevance reference; Semantic Search is the focus. For each topic, the generated payload
+stores the original semantic matrix recalculated from the current `demo-data.js` plus the new
+long-query semantic matrix, so the companion page can compare both without loading the public demo
+data dynamically.
+
+It should be treated as candidate material until the review queue is inspected and a public
+integration design is chosen.

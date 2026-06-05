@@ -82,6 +82,18 @@ window.I18N.pt = {
     intro:
       "A busca semântica também pode reduzir o viés de palavra exata dentro de um mesmo idioma. Estas alternativas simples usam a mesma revisão editorial dos exemplos multilíngues.",
   },
+  longQuery: {
+    eyebrow: "Experimento complementar",
+    heading: "O que acontece quando as consultas ficam mais específicas?",
+    copy:
+      "Uma página complementar acompanha os mesmos temas por três formulações: a consulta curta do tema, uma primeira frase mais longa que pode se separar semanticamente entre idiomas e uma segunda frase desenhada para recuperar convergência.",
+    cta: "Abrir o companion de consultas longas",
+    points: [
+      "<strong>Consulta curta:</strong> parte da linha de base da demo pública.",
+      "<strong>Frase longa 1:</strong> testa se o contexto adicional melhora o foco semântico.",
+      "<strong>Frase longa 2:</strong> testa se uma âncora mais clara melhora a convergência.",
+    ],
+  },
   methodology: {
     heading: "Interprete o piloto com cuidado.",
     intro:

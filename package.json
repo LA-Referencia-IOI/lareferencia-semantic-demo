@@ -16,6 +16,8 @@
     "research:capture:wave1": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-capture.json ../candidate-finalists-capture.json human-rights water-quality gender-equality childhood-obesity climate-change inclusive-education",
     "research:capture:wave2": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-wave2.json ../candidate-wave2-finalists-capture.json diabetes violence-against-women open-access deforestation",
     "research:capture:breast-cancer": "node scripts/capture-candidate-finalists.mjs ../candidate-screen-wave2.json ../candidate-breast-cancer-capture.json breast-cancer",
+    "research:long-queries": "node scripts/run-long-query-experiment.mjs && node scripts/validate-long-query-experiment.mjs",
+    "research:long-queries:validate": "node scripts/validate-long-query-experiment.mjs",
     "research:report": "node scripts/report-candidate-topics.mjs"
   }
 }

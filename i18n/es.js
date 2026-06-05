@@ -82,6 +82,18 @@ window.I18N.es = {
     intro:
       "La búsqueda semántica también puede reducir el sesgo de palabra exacta dentro de un mismo idioma. Estas alternativas simples usan la misma revisión editorial que los ejemplos multilingües.",
   },
+  longQuery: {
+    eyebrow: "Experimento complementario",
+    heading: "¿Qué ocurre cuando las consultas se vuelven más específicas?",
+    copy:
+      "Una página complementaria sigue los mismos temas a través de tres formulaciones: la consulta corta del tema, una primera frase más larga que puede separarse semánticamente entre idiomas y una segunda frase diseñada para recuperar convergencia.",
+    cta: "Abrir el companion de consultas largas",
+    points: [
+      "<strong>Consulta corta:</strong> parte de la línea base de la demo pública.",
+      "<strong>Frase larga 1:</strong> prueba si el contexto adicional mejora el foco semántico.",
+      "<strong>Frase larga 2:</strong> prueba si un anclaje más claro mejora la convergencia.",
+    ],
+  },
   methodology: {
     heading: "Interpreta el piloto con cuidado.",
     intro:

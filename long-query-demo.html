@@ -1,0 +1,1504 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Narrative Long Query Experiment | LA Referencia</title>
+    <meta
+      name="description"
+      content="A research-only companion demo explaining how specific multilingual semantic queries can improve topical focus while changing cross-language convergence."
+    />
+    <style>
+      :root {
+        --ink: #152b39;
+        --muted: #587180;
+        --surface: #ffffff;
+        --surface-soft: #f5f8f7;
+        --line: #d9e5e4;
+        --teal: #007f80;
+        --teal-dark: #005e62;
+        --teal-soft: #dff4f0;
+        --orange: #e2743b;
+        --orange-soft: #fff0e7;
+        --yellow: #f5bd42;
+        --blue: #275d84;
+        --blue-soft: #e9f2f7;
+        --shadow: 0 18px 45px rgba(18, 54, 67, 0.1);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 95% 4%, rgba(245, 189, 66, 0.16), transparent 17rem),
+          radial-gradient(circle at 8% 16%, rgba(0, 127, 128, 0.11), transparent 22rem),
+          var(--surface-soft);
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        line-height: 1.55;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: min(1180px, calc(100% - 36px));
+        margin: 0 auto;
+      }
+
+      .site-header {
+        padding: 24px 0 10px;
+      }
+
+      .header-shell,
+      .footer-copy {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 22px;
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 16px;
+        color: var(--teal-dark);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0.13em;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+
+      .brand-logo {
+        width: 218px;
+        height: auto;
+      }
+
+      .small-link,
+      .footer a {
+        color: var(--teal-dark);
+        font-size: 0.78rem;
+        font-weight: 900;
+      }
+
+      .hero {
+        display: grid;
+        min-height: 520px;
+        align-items: center;
+        gap: 54px;
+        grid-template-columns: minmax(0, 1.05fr) minmax(360px, 0.95fr);
+        padding: 62px 0 72px;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--teal-dark);
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .eyebrow::before {
+        width: 26px;
+        height: 3px;
+        background: var(--orange);
+        content: "";
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        max-width: 790px;
+        margin-bottom: 20px;
+        font-size: clamp(3.2rem, 8vw, 6.8rem);
+        letter-spacing: -0.085em;
+        line-height: 0.91;
+      }
+
+      h1 em {
+        color: var(--teal);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 1.03em;
+        font-weight: 500;
+        letter-spacing: -0.1em;
+      }
+
+      h2 {
+        margin-bottom: 0;
+        font-size: clamp(2.3rem, 5vw, 4.7rem);
+        letter-spacing: -0.07em;
+        line-height: 0.97;
+      }
+
+      h3 {
+        margin-bottom: 9px;
+        font-size: 1.28rem;
+        letter-spacing: -0.025em;
+      }
+
+      .hero-copy,
+      .section-intro,
+      .method-card p,
+      .topic-copy,
+      .methodology p,
+      .review-note {
+        color: var(--muted);
+      }
+
+      .hero-copy {
+        max-width: 690px;
+        font-size: 1.1rem;
+      }
+
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      .button {
+        display: inline-flex;
+        min-height: 46px;
+        align-items: center;
+        justify-content: center;
+        gap: 9px;
+        padding: 0 18px;
+        border: 1px solid var(--teal);
+        border-radius: 999px;
+        color: #ffffff;
+        background: var(--teal);
+        font-size: 0.88rem;
+        font-weight: 800;
+        text-decoration: none;
+      }
+
+      .button.secondary {
+        color: var(--teal-dark);
+        background: transparent;
+      }
+
+      .hypothesis-card {
+        padding: 24px;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: var(--surface);
+        box-shadow: var(--shadow);
+        transform: rotate(1.5deg);
+      }
+
+      .hypothesis-card h3 {
+        color: var(--teal-dark);
+      }
+
+      .score-strip {
+        display: grid;
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .score-strip span {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 10px 12px;
+        border-radius: 10px;
+        background: var(--surface-soft);
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 800;
+      }
+
+      .score-strip strong {
+        color: var(--teal-dark);
+      }
+
+      .section {
+        padding: 86px 0;
+      }
+
+      .section-heading {
+        display: grid;
+        gap: 22px;
+        grid-template-columns: minmax(0, 0.95fr) minmax(280px, 0.65fr);
+        margin-bottom: 34px;
+      }
+
+      .method-grid,
+      .topic-grid,
+      .query-grid,
+      .matrix-grid,
+      .metric-grid {
+        display: grid;
+        gap: 16px;
+      }
+
+      .method-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .query-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .matrix-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .metric-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        margin: 22px 0;
+      }
+
+      .method-card,
+      .topic-group,
+      .variant-card,
+      .query-card,
+      .matrix-card,
+      .evidence-card,
+      .metric-card,
+      .methodology {
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: rgba(255, 255, 255, 0.82);
+        box-shadow: 0 12px 32px rgba(18, 54, 67, 0.06);
+      }
+
+      .method-card,
+      .variant-card,
+      .query-card,
+      .matrix-card,
+      .evidence-card,
+      .metric-card,
+      .methodology {
+        padding: 22px;
+      }
+
+      .method-card {
+        border-top: 4px solid var(--orange);
+      }
+
+      .method-card.featured {
+        border-top-color: var(--teal);
+        background: linear-gradient(180deg, rgba(223, 244, 240, 0.72), rgba(255, 255, 255, 0.88));
+      }
+
+      .topic-group {
+        overflow: hidden;
+      }
+
+      .topic-header {
+        padding: 28px 28px 10px;
+        background: rgba(255, 255, 255, 0.68);
+      }
+
+      .topic-header > div {
+        max-width: 760px;
+      }
+
+      .topic-body {
+        padding: 28px;
+      }
+
+      .story-flow {
+        display: grid;
+        gap: 28px;
+      }
+
+      .story-step {
+        position: relative;
+        display: grid;
+        gap: 16px;
+      }
+
+      .step-label {
+        display: inline-flex;
+        width: fit-content;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 10px;
+        border-radius: 999px;
+        background: var(--teal-soft);
+        color: var(--teal-dark);
+        font-size: 0.72rem;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .step-label::before {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--orange);
+        content: "";
+      }
+
+      .story-copy {
+        max-width: 860px;
+        margin-bottom: 0;
+        color: var(--muted);
+      }
+
+      .result-panel {
+        padding: 22px;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: linear-gradient(135deg, rgba(223, 244, 240, 0.76), rgba(255, 255, 255, 0.9));
+      }
+
+      .comparison-strip {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        margin-bottom: 22px;
+      }
+
+      .comparison-card {
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.82);
+      }
+
+      .comparison-card span {
+        display: block;
+        color: var(--muted);
+        font-size: 0.72rem;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .comparison-card strong {
+        display: block;
+        margin-top: 5px;
+        color: var(--teal-dark);
+        font-size: 1.45rem;
+        font-weight: 900;
+        letter-spacing: -0.04em;
+      }
+
+      .variant-card {
+        display: grid;
+        gap: 18px;
+        align-content: start;
+      }
+
+      .variant-card.short {
+        border-top: 4px solid var(--blue);
+      }
+
+      .variant-card.divergent {
+        border-top: 4px solid var(--orange);
+      }
+
+      .variant-card.balanced {
+        border-top: 4px solid var(--teal);
+      }
+
+      .variant-kicker {
+        color: var(--teal-dark);
+        font-size: 0.74rem;
+        font-weight: 900;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .evidence-card {
+        width: 100%;
+        margin: 0 0 26px;
+      }
+
+      .evidence-card h3,
+      .evidence-card .topic-copy {
+        text-align: left;
+      }
+
+      .evidence-card .topic-copy {
+        max-width: 860px;
+      }
+
+      .phrase {
+        display: block;
+        width: fit-content;
+        max-width: 100%;
+        margin: 14px auto 0;
+        padding: 10px 12px;
+        border-radius: 12px;
+        background: var(--teal-soft);
+        color: var(--teal-dark);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.9rem;
+        font-weight: 800;
+        overflow-wrap: anywhere;
+      }
+
+      .source-list {
+        counter-reset: source-record;
+        display: grid;
+        gap: 12px;
+        grid-template-columns: 1fr;
+        margin: 18px 0 0;
+        padding-left: 0;
+        list-style: none;
+      }
+
+      .source-list li {
+        counter-increment: source-record;
+        display: grid;
+        gap: 4px 12px;
+        grid-template-columns: auto minmax(0, 1fr);
+        padding: 14px 16px;
+        border: 1px solid rgba(21, 43, 57, 0.08);
+        border-radius: 16px;
+        background: rgba(245, 248, 247, 0.82);
+        color: var(--muted);
+      }
+
+      .source-list li::before {
+        display: inline-flex;
+        width: 30px;
+        height: 30px;
+        align-items: center;
+        justify-content: center;
+        grid-row: span 2;
+        border-radius: 999px;
+        background: var(--teal-soft);
+        color: var(--teal-dark);
+        content: counter(source-record);
+        font-size: 0.78rem;
+        font-weight: 900;
+      }
+
+      .source-record-link {
+        width: fit-content;
+        max-width: 100%;
+        color: var(--teal-dark);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.9rem;
+        font-weight: 800;
+        text-decoration: none;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      }
+
+      .source-record-link:hover,
+      .source-record-link:focus {
+        color: var(--orange);
+        text-decoration: underline;
+      }
+
+      .source-title {
+        color: var(--muted);
+      }
+
+      .query-text {
+        color: var(--teal-dark);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        overflow-wrap: anywhere;
+      }
+
+      .phrase-set {
+        display: grid;
+        gap: 8px;
+        width: 100%;
+        margin: 18px 0 0;
+      }
+
+      .phrase-row {
+        display: grid;
+        align-items: center;
+        gap: 16px;
+        grid-template-columns: 146px minmax(0, 1fr);
+        padding: 9px 11px;
+        border: 1px solid rgba(21, 43, 57, 0.08);
+        border-radius: 14px;
+        background: rgba(245, 248, 247, 0.8);
+      }
+
+      .phrase-language {
+        color: var(--teal-dark);
+        font-size: 0.74rem;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .phrase-text {
+        color: var(--ink);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.82rem;
+        overflow-wrap: anywhere;
+      }
+
+      .metric-card strong {
+        display: block;
+        color: var(--teal-dark);
+        font-size: 2.1rem;
+        letter-spacing: -0.06em;
+        line-height: 1;
+      }
+
+      .metric-card span {
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .metric-card.delta strong {
+        color: var(--orange);
+      }
+
+      .query-card {
+        display: grid;
+        gap: 14px;
+      }
+
+      .query-meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .language {
+        color: var(--teal-dark);
+        font-size: 0.78rem;
+        font-weight: 900;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .code {
+        padding: 4px 8px;
+        border-radius: 999px;
+        background: var(--surface-soft);
+        color: var(--muted);
+        font-size: 0.72rem;
+        font-weight: 900;
+        text-transform: uppercase;
+      }
+
+      .query-text {
+        min-height: 68px;
+        padding: 14px;
+        border-radius: 14px;
+        background: var(--surface-soft);
+        font-size: 0.92rem;
+        line-height: 1.45;
+      }
+
+      .metric-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        background: var(--surface-soft);
+        color: var(--muted);
+        font-size: 0.84rem;
+        font-weight: 800;
+      }
+
+      .metric-row.semantic {
+        background: var(--teal-soft);
+        color: var(--teal-dark);
+      }
+
+      .metric-row strong {
+        color: var(--ink);
+      }
+
+      details {
+        border-top: 1px solid var(--line);
+        padding-top: 12px;
+      }
+
+      summary {
+        cursor: pointer;
+        color: var(--teal-dark);
+        font-size: 0.82rem;
+        font-weight: 900;
+      }
+
+      .review-table {
+        display: grid;
+        gap: 10px;
+        margin-top: 12px;
+      }
+
+      .review-item {
+        padding: 12px;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.72);
+      }
+
+      .review-item h4 {
+        margin-bottom: 6px;
+        font-size: 0.94rem;
+      }
+
+      .review-item p {
+        margin-bottom: 0;
+        color: var(--muted);
+        font-size: 0.8rem;
+      }
+
+      .badge {
+        display: inline-flex;
+        margin-right: 6px;
+        padding: 2px 7px;
+        border-radius: 999px;
+        background: var(--orange-soft);
+        color: var(--orange);
+        font-size: 0.72rem;
+        font-weight: 900;
+      }
+
+      .badge.hit {
+        background: var(--teal-soft);
+        color: var(--teal-dark);
+      }
+
+      .badge.partial {
+        background: #fff7d8;
+        color: #7c5b05;
+      }
+
+      .matrix-card {
+        overflow-x: auto;
+      }
+
+      .matrix-card h4 {
+        margin-bottom: 6px;
+      }
+
+      .matrix-note {
+        margin-bottom: 14px;
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
+      .separation-card {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: 1fr;
+        margin: 0;
+        padding: 22px;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: linear-gradient(135deg, rgba(255, 240, 231, 0.72), rgba(255, 255, 255, 0.88));
+      }
+
+      .separation-card h4 {
+        margin-bottom: 8px;
+      }
+
+      .separation-card p {
+        margin-bottom: 0;
+        color: var(--muted);
+      }
+
+      .pair-list {
+        display: grid;
+        gap: 10px;
+      }
+
+      .cause-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+
+      .cause-chip {
+        padding: 7px 10px;
+        border: 1px solid rgba(226, 116, 59, 0.22);
+        border-radius: 999px;
+        color: #7b4328;
+        background: rgba(255, 240, 231, 0.72);
+        font-size: 0.78rem;
+        font-weight: 800;
+      }
+
+      .pair-item {
+        display: grid;
+        align-items: center;
+        gap: 10px;
+        grid-template-columns: 86px minmax(120px, 1fr) 52px;
+        padding: 9px 10px;
+        border: 1px solid rgba(21, 43, 57, 0.08);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.75);
+      }
+
+      .pair-languages,
+      .pair-value {
+        color: var(--teal-dark);
+        font-size: 0.78rem;
+        font-weight: 900;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+      }
+
+      .pair-track {
+        height: 10px;
+        overflow: hidden;
+        border-radius: 999px;
+        background: #e5ebea;
+      }
+
+      .pair-fill {
+        display: block;
+        height: 100%;
+        min-width: 8px;
+        border-radius: inherit;
+      }
+
+      .focus-evidence {
+        display: grid;
+        gap: 12px;
+      }
+
+      .editorial-summary,
+      .focus-reading {
+        padding: 14px 16px;
+        border: 1px solid rgba(0, 127, 128, 0.16);
+        border-radius: 16px;
+        background: rgba(223, 244, 240, 0.52);
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .editorial-summary strong,
+      .focus-reading strong {
+        color: var(--teal-dark);
+      }
+
+      .theme-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+        margin-top: 10px;
+      }
+
+      .theme-chip {
+        padding: 5px 8px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.75);
+        color: var(--teal-dark);
+        font-size: 0.72rem;
+        font-weight: 900;
+      }
+
+      .focus-columns {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: 1fr;
+      }
+
+      .focus-column {
+        display: grid;
+        gap: 10px;
+        padding: 12px;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: rgba(255, 255, 255, 0.74);
+      }
+
+      .focus-column h5 {
+        margin: 0;
+        color: var(--teal-dark);
+        font-size: 0.8rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      .focus-item {
+        padding-top: 10px;
+        border-top: 1px solid var(--line);
+      }
+
+      .focus-item strong {
+        display: block;
+        color: var(--ink);
+        font-size: 0.86rem;
+      }
+
+      .focus-item p {
+        margin: 5px 0 0;
+        color: var(--muted);
+        font-size: 0.78rem;
+      }
+
+      table.matrix {
+        width: 100%;
+        min-width: 430px;
+        border-collapse: separate;
+        border-spacing: 5px;
+      }
+
+      .matrix th,
+      .matrix td {
+        width: 48px;
+        height: 42px;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 0.82rem;
+        font-weight: 900;
+      }
+
+      .matrix th {
+        color: var(--muted);
+        background: transparent;
+      }
+
+      .matrix td {
+        border: 1px solid rgba(21, 43, 57, 0.08);
+        color: #14343a;
+      }
+
+      .matrix td.diagonal {
+        background: #e5ebea;
+        color: transparent;
+      }
+
+      .methodology {
+        background: rgba(255, 255, 255, 0.9);
+      }
+
+      .methodology ul {
+        margin: 16px 0 0;
+        padding-left: 20px;
+        color: var(--muted);
+      }
+
+      .footer {
+        padding: 34px 0 42px;
+        border-top: 1px solid var(--line);
+      }
+
+      .footer-copy {
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
+      @media (max-width: 980px) {
+        .hero,
+        .section-heading,
+        .method-grid,
+        .query-grid,
+        .matrix-grid,
+        .separation-card,
+        .comparison-strip,
+        .focus-columns,
+        .topic-header,
+        .metric-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .hypothesis-card {
+          transform: none;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .shell {
+          width: min(100% - 24px, 1180px);
+        }
+
+        .header-shell,
+        .footer-copy {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .brand-logo {
+          width: 180px;
+        }
+
+        .hero {
+          min-height: auto;
+          padding-top: 42px;
+        }
+
+        .topic-body,
+        .topic-header {
+          padding: 20px;
+        }
+
+        .source-list {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell header-shell">
+        <a class="brand" href="https://www.lareferencia.info/" target="_blank" rel="noreferrer">
+          <img class="brand-logo" src="./assets/lareferencia.png" alt="LA Referencia" />
+          <span>Semantic query companion</span>
+        </a>
+        <a class="small-link" href="./index.html">Back to public demo</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="shell hero">
+        <div>
+          <span class="eyebrow">Research-only companion</span>
+          <h1>How queries move through <em>semantic</em> search.</h1>
+          <p class="hero-copy">
+            This research companion follows a simple sequence: start with a short topic query, add a
+            more specific phrase, then adjust that phrase to see whether languages converge more clearly.
+          </p>
+          <p class="hero-copy">
+            The answer is useful but not automatic. A longer phrase can improve relevance while
+            different languages drift toward neighboring branches of the same topic. Each topic below
+            tells that movement as a small, auditable experiment.
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="#topics">Review topics</a>
+            <a class="button secondary" href="#methodology">Read methodology</a>
+          </div>
+        </div>
+        <aside class="hypothesis-card" aria-label="Long query experiment summary">
+          <h3>The working hypothesis</h3>
+          <p class="topic-copy">
+            More context should help semantic search find a more precise subfield. The test is
+            whether that precision also keeps different languages pointing toward comparable records.
+          </p>
+          <div class="score-strip" id="global-summary"></div>
+        </aside>
+      </section>
+
+      <section class="section shell">
+        <div class="section-heading">
+          <h2>The experiment, in plain language.</h2>
+          <p class="section-intro">
+            This is not a generic benchmark. It is a guided reading of four topics, using captured
+            rankings, editorial judgments, coincidence matrices and abstracts to explain what changed
+            from one query formulation to the next.
+          </p>
+        </div>
+        <div class="method-grid">
+          <article class="method-card">
+            <h3>Short topic query</h3>
+            <p>
+              The initial query is intentionally compact. It gives a broad, high-recall view of the
+              topic across languages.
+            </p>
+          </article>
+          <article class="method-card featured">
+            <h3>Long phrase 1</h3>
+            <p>
+              The first long phrase adds subfield detail. It can improve focus, but may also send
+              some languages toward different semantic branches.
+            </p>
+          </article>
+          <article class="method-card">
+            <h3>Long phrase 2</h3>
+            <p>
+              The second long phrase keeps the specificity but restores a clearer shared anchor. We
+              read the impact through hits, matrices and abstract clues.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section shell" id="topics">
+        <div class="section-heading">
+          <h2>Four topic narratives.</h2>
+          <p class="section-intro">
+            Each block follows the same story: start with the original short topic query, test a
+            specific long phrase, inspect where languages separate, then try a more anchored version.
+          </p>
+        </div>
+        <div class="topic-grid" id="topic-grid"></div>
+      </section>
+
+      <section class="section shell" id="methodology">
+        <article class="methodology">
+          <span class="eyebrow">Methodology</span>
+          <h2>How to read this page.</h2>
+          <p>
+            The experiment compares three query formulations for each topic and language: the short
+            topic query from the public demo, a first long phrase, and a second anchored long phrase.
+            Editorial judgments count both clearly relevant and partially relevant records as hits;
+            only clearly unrelated records count as misses.
+          </p>
+          <p>
+            Matrix cells count shared semantic record identifiers between two language rankings. This
+            measures convergence across languages, not relevance by itself. The diagonal is omitted
+            because comparing a language with itself adds no information.
+          </p>
+          <p>
+            The semantic-separation panels highlight the language pairs with the fewest shared
+            records, then show abstract snippets from records found on only one side of that pair.
+            This is the evidence used to explain why a phrase may split across languages.
+          </p>
+          <ul>
+            <li>Observed date is stored in the static payload generated by the research script.</li>
+            <li>The original matrix is copied from the current main demo during generation.</li>
+            <li>This page loads only <code>long-query-demo-candidate.js</code>.</li>
+            <li>Rankings can change as the index, model, or ranking logic evolves.</li>
+          </ul>
+        </article>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="shell footer-copy">
+        <span>LA Referencia semantic multilingual search demo · research companion</span>
+        <a href="./LONG_QUERY_EXPERIMENT.md">Open experiment report</a>
+      </div>
+    </footer>
+
+    <script src="./long-query-demo-candidate.js"></script>
+    <script>
+      const data = window.LONG_QUERY_EXPERIMENT;
+      const heatmapScale = [
+        "#d9674f",
+        "#e47a55",
+        "#ed8f59",
+        "#f2a45e",
+        "#f3ba69",
+        "#f1cf75",
+        "#d7d978",
+        "#b4d675",
+        "#8fcd70",
+        "#69c16b",
+        "#43b568",
+      ];
+
+      const labels = {
+        keyword: "Keyword",
+        semantic: "Semantic",
+        0: "Miss",
+        1: "Partial hit",
+        2: "Clear hit",
+      };
+
+      const escapeHtml = (value = "") =>
+        String(value)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+
+      const signed = (value) => `${value > 0 ? "+" : ""}${Number(value).toFixed(2)}`;
+      const signedCount = (value) => `${value > 0 ? "+" : ""}${Number(value).toFixed(0)}`;
+
+      const changePhrase = (value, up, down, stable, threshold = 0.25) => {
+        if (value > threshold) return up;
+        if (value < -threshold) return down;
+        return stable;
+      };
+
+      const heat = (value) => {
+        if (value === null) return "";
+        const index = Math.max(0, Math.min(10, Number(value)));
+        return `background:${heatmapScale[index]}`;
+      };
+
+      const renderComparisonCard = (label, value) => `
+        <article class="comparison-card">
+          <span>${escapeHtml(label)}</span>
+          <strong>${escapeHtml(value)}</strong>
+        </article>
+      `;
+
+      const renderSourceEvidence = (topic) => `
+        <article class="evidence-card">
+          <h3>Where the phrase family comes from</h3>
+          <p class="topic-copy">
+            The phrase is not invented in isolation. It is built from records already found in the
+            topic area, using titles and abstracts as vocabulary clues.
+          </p>
+          <ol class="source-list">
+            ${topic.sourceEvidence
+              .map(
+                (item) => `
+                  <li>
+                    <a
+                      class="source-record-link"
+                      href="https://search.lareferencia.info/vufind/Record/${encodeURIComponent(item.recordId)}"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      ${escapeHtml(item.recordId)}
+                    </a>
+                    <span class="source-title">${escapeHtml(item.title)}</span>
+                  </li>
+                `,
+              )
+              .join("")}
+          </ol>
+        </article>
+      `;
+
+      const renderPhraseSet = (variant) => `
+        <div class="phrase-set" aria-label="${escapeHtml(variant.label)} multilingual phrase set">
+          ${variant.queries
+            .map(
+              (query) => `
+                <div class="phrase-row">
+                  <span class="phrase-language">${escapeHtml(query.languageCode)} · ${escapeHtml(query.language)}</span>
+                  <span class="phrase-text" dir="${escapeHtml(query.direction)}">${escapeHtml(query.text)}</span>
+                </div>
+              `,
+            )
+            .join("")}
+        </div>
+      `;
+
+      const renderMatrix = (title, matrix) => `
+        <article class="matrix-card">
+          <h4>${escapeHtml(title)}</h4>
+          <p class="matrix-note">Average pair coincidence: <strong>${matrix.average.toFixed(2)}</strong></p>
+          <table class="matrix" aria-label="${escapeHtml(title)}">
+            <thead>
+              <tr>
+                <th></th>
+                ${matrix.languages.map((language) => `<th>${escapeHtml(language.languageCode.toUpperCase())}</th>`).join("")}
+              </tr>
+            </thead>
+            <tbody>
+              ${matrix.rows
+                .map(
+                  (row) => `
+                    <tr>
+                      <th>${escapeHtml(row.languageCode.toUpperCase())}</th>
+                      ${row.values
+                        .map((value) =>
+                          value === null
+                            ? '<td class="diagonal" aria-label="Diagonal omitted"></td>'
+                            : `<td style="${heat(value)}">${value}</td>`,
+                        )
+                        .join("")}
+                    </tr>
+                  `,
+                )
+                .join("")}
+            </tbody>
+          </table>
+        </article>
+      `;
+
+      const renderPair = (pair) => `
+        <div class="pair-item">
+          <span class="pair-languages">${escapeHtml(pair.left)} · ${escapeHtml(pair.right)}</span>
+          <span class="pair-track" aria-hidden="true">
+            <span class="pair-fill" style="width: ${Math.max(8, pair.shared * 10)}%; ${heat(pair.shared)}"></span>
+          </span>
+          <span class="pair-value">${pair.shared}/10</span>
+        </div>
+      `;
+
+      const renderSeparation = (variant) => `
+        <article class="separation-card">
+          <div>
+            <h4>Where languages separate</h4>
+            <p>${escapeHtml(variant.separation.explanation)}</p>
+            <div class="cause-list">
+              ${variant.separation.causes.map((cause) => `<span class="cause-chip">${escapeHtml(cause)}</span>`).join("")}
+            </div>
+          </div>
+          <div>
+            <p class="matrix-note">Lowest shared semantic pairs in this topic</p>
+            <div class="pair-list">
+              ${variant.separation.lowestPairs.map(renderPair).join("")}
+            </div>
+          </div>
+        </article>
+      `;
+
+      const renderThemeChips = (themes = []) => `
+        <div class="theme-list">
+          ${themes.map((theme) => `<span class="theme-chip">${escapeHtml(theme)}</span>`).join("")}
+        </div>
+      `;
+
+      const renderFocusSide = (label, items, reading) => `
+        <div class="focus-column">
+          <h5>${escapeHtml(label)}</h5>
+          <div class="focus-reading">
+            <strong>Editorial reading:</strong>
+            ${escapeHtml(reading?.summary || "The unique records do not expose enough metadata for a precise reading.")}
+            ${renderThemeChips(reading?.themes || [])}
+          </div>
+          ${items
+            .map(
+              (item) => `
+                <article class="focus-item">
+                  <strong>#${item.position} · ${escapeHtml(item.title)}</strong>
+                  <p>${escapeHtml(item.abstractSnippet || item.note || "No abstract snippet exposed by the record.")}</p>
+                </article>
+              `,
+            )
+            .join("")}
+        </div>
+      `;
+
+      const renderFocusEvidence = (variant) => {
+        const pair = variant.separation.focusPair;
+        return `
+          <article class="focus-evidence">
+            <h4>Editorial reading from the most separated pair: ${escapeHtml(pair.left.toUpperCase())} · ${escapeHtml(pair.right.toUpperCase())}</h4>
+            <p class="matrix-note">
+              These are top-10 semantic records found on only one side of that language pair. The
+              editorial reading below is based on visible titles and abstract snippets.
+            </p>
+            <p class="editorial-summary">
+              <strong>Why they separate:</strong> ${escapeHtml(pair.editorialSummary || "The two language rankings select different records within the same topic area.")}
+            </p>
+            <div class="focus-columns">
+              ${renderFocusSide(`${pair.leftLabel} only`, pair.leftOnly, pair.leftReading)}
+              ${renderFocusSide(`${pair.rightLabel} only`, pair.rightOnly, pair.rightReading)}
+            </div>
+          </article>
+        `;
+      };
+
+      const renderTransitionReading = (label, comparison) => {
+        const matrixReading = changePhrase(
+          comparison.matrixDelta,
+          "matrix convergence increased",
+          "matrix convergence decreased",
+          "matrix convergence stayed broadly similar",
+        );
+        const hitReading = changePhrase(
+          comparison.semanticHitDelta,
+          "semantic hits improved",
+          "semantic hits decreased",
+          "semantic hits stayed broadly similar",
+          0.5,
+        );
+        return `${label}: ${matrixReading}; ${hitReading}.`;
+      };
+
+      const renderTopicOutcome = (topic, baseline, divergent, balanced) => {
+        return `
+          <section class="story-step">
+            <span class="step-label">Step 5 · Read the movement</span>
+            <article class="result-panel">
+              <h3>What changed from short to long?</h3>
+              <p class="story-copy">
+                ${escapeHtml(renderTransitionReading("Short topic → long phrase 1", topic.comparison.shortToLong1))}
+                ${escapeHtml(renderTransitionReading("Long phrase 1 → long phrase 2", topic.comparison.long1ToLong2))}
+                ${escapeHtml(renderTransitionReading("Short topic → long phrase 2", topic.comparison.shortToLong2))}
+                The point is not that a longer phrase is automatically better, but that phrase design
+                changes both relevance and cross-language convergence.
+              </p>
+              <div class="comparison-strip">
+                ${renderComparisonCard("Short → long 1 matrix", signed(topic.comparison.shortToLong1.matrixDelta))}
+                ${renderComparisonCard("Long 1 → long 2 matrix", signed(topic.comparison.long1ToLong2.matrixDelta))}
+                ${renderComparisonCard("Short → long 2 matrix", signed(topic.comparison.shortToLong2.matrixDelta))}
+                ${renderComparisonCard("Short → long 1 hits", signed(topic.comparison.shortToLong1.semanticHitDelta))}
+                ${renderComparisonCard("Long 1 → long 2 hits", signed(topic.comparison.long1ToLong2.semanticHitDelta))}
+                ${renderComparisonCard("Short → long 2 hits", signed(topic.comparison.shortToLong2.semanticHitDelta))}
+              </div>
+              <p class="matrix-note">
+                Short query: ${escapeHtml(baseline.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
+                matrix average ${escapeHtml(baseline.matrix.average.toFixed(2))}. Long phrase 1:
+                ${escapeHtml(divergent.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
+                matrix average ${escapeHtml(divergent.matrix.average.toFixed(2))}. Long phrase 2:
+                ${escapeHtml(balanced.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
+                matrix average ${escapeHtml(balanced.matrix.average.toFixed(2))}.
+              </p>
+            </article>
+          </section>
+        `;
+      };
+
+      const renderReviewRows = (query, method) => `
+        <div class="review-table">
+          ${query.results[method]
+            .map((row) => {
+              const badgeClass = row.judgment === 2 ? "hit" : row.judgment === 1 ? "partial" : "";
+              return `
+                <article class="review-item">
+                  <h4>
+                    <span class="badge ${badgeClass}">${labels[row.judgment]}</span>
+                    #${row.position} · ${escapeHtml(row.title)}
+                  </h4>
+                  <p>
+                    <strong>${escapeHtml(row.recordId)}</strong>
+                    ${method === "semantic" && typeof row.score === "number" ? ` · score ${row.score.toFixed(4)}` : ""}
+                    · reviewed from ${escapeHtml(row.reviewBasis)}
+                  </p>
+                  ${row.note ? `<p>${escapeHtml(row.note)}</p>` : ""}
+                </article>
+              `;
+            })
+            .join("")}
+        </div>
+      `;
+
+      const renderQuery = (query) => `
+        <article class="query-card">
+          <div class="query-meta">
+            <span class="language">${escapeHtml(query.language)}</span>
+            <span class="code">${escapeHtml(query.languageCode)}</span>
+          </div>
+          <div class="query-text" dir="${escapeHtml(query.direction)}">${escapeHtml(query.text)}</div>
+          <a class="button" href="${escapeHtml(query.combinedUrl)}" target="_blank" rel="noreferrer">Open live example</a>
+          <div class="metric-row">
+            <span>Keyword Search</span>
+            <strong>${query.metrics.keywordHits}/10 hits</strong>
+          </div>
+          <div class="metric-row semantic">
+            <span>Semantic Search</span>
+            <strong>${query.metrics.semanticHits}/10 hits</strong>
+          </div>
+          <details>
+            <summary>Review editorial judgments based on an AI-assisted pass</summary>
+            <h4>Keyword Search</h4>
+            ${renderReviewRows(query, "keyword")}
+            <h4>Semantic Search</h4>
+            ${renderReviewRows(query, "semantic")}
+          </details>
+        </article>
+      `;
+
+      const renderVariant = (variant, stepLabel, stepCopy) => `
+        <section class="story-step">
+          <span class="step-label">${escapeHtml(stepLabel)}</span>
+          <p class="story-copy">${escapeHtml(stepCopy)}</p>
+          <article class="variant-card ${escapeHtml(variant.id)}">
+            <div>
+              <span class="variant-kicker">${escapeHtml(variant.label)}</span>
+              <h3>${escapeHtml(variant.representativePhrase)}</h3>
+              <p class="topic-copy">${escapeHtml(variant.rationale)}</p>
+            </div>
+            <div class="metric-grid">
+              <article class="metric-card">
+                <span>Semantic hits avg</span>
+                <strong>${variant.summary.semanticHitsAverage.toFixed(2)}/10</strong>
+              </article>
+              <article class="metric-card">
+                <span>Matrix avg</span>
+                <strong>${variant.matrix.average.toFixed(2)}</strong>
+              </article>
+              <article class="metric-card">
+                <span>Lowest pair</span>
+                <strong>${variant.separation.focusPair.shared}/10</strong>
+              </article>
+            </div>
+            ${renderPhraseSet(variant)}
+            ${renderMatrix(`${variant.label} matrix`, variant.matrix)}
+            ${renderSeparation(variant)}
+            ${renderFocusEvidence(variant)}
+            <details>
+              <summary>Open query cards and editorial judgments</summary>
+              <div class="query-grid" style="margin-top: 18px;">
+                ${variant.queries.map(renderQuery).join("")}
+              </div>
+            </details>
+          </article>
+        </section>
+      `;
+
+      const renderTopic = (topic) => {
+        const baseline = topic.baseline;
+        const divergent = topic.variants.find((variant) => variant.id === "divergent");
+        const balanced = topic.variants.find((variant) => variant.id === "balanced");
+        return `
+        <article class="topic-group">
+          <header class="topic-header">
+            <div>
+              <span class="eyebrow">Long-query V3</span>
+              <h2>${escapeHtml(topic.title)}</h2>
+              <p class="topic-copy">
+                This topic follows three query formulations: a short topic label, a first specific
+                long phrase, and a second long phrase designed to keep a clearer shared anchor.
+              </p>
+            </div>
+          </header>
+          <div class="topic-body">
+            <div class="story-flow">
+              <section class="story-step">
+                <span class="step-label">Step 1 · Choose the vocabulary</span>
+                <p class="story-copy">
+                  The experiment starts from records that already express the topic. Those records
+                  provide terms that are likely to have semantic recall in the indexed subset.
+                </p>
+                ${renderSourceEvidence(topic)}
+              </section>
+              ${renderVariant(
+                baseline,
+                "Step 2 · Start with the short topic query",
+                "This is the initial test case from the public demo: a compact topic expression in each language. It shows the broad semantic starting point before adding phrase-level detail.",
+              )}
+              ${renderVariant(
+                divergent,
+                "Step 3 · Test long phrase 1",
+                "The first long phrase intentionally moves into a narrower subfield. This tests whether semantic search can use the extra context, while exposing where languages may branch apart.",
+              )}
+              ${renderVariant(
+                balanced,
+                "Step 4 · Test long phrase 2",
+                "The second long phrase keeps the topic specific but adds or restores a shared anchor. This checks whether the separation is caused by wording rather than by the topic itself.",
+              )}
+              ${renderTopicOutcome(topic, baseline, divergent, balanced)}
+            </div>
+          </div>
+        </article>
+      `;
+      };
+
+      const renderGlobalSummary = () => {
+        const topics = data.topics;
+        const baseline = topics.map((topic) => topic.baseline);
+        const divergent = topics.map((topic) => topic.variants.find((variant) => variant.id === "divergent"));
+        const balanced = topics.map((topic) => topic.variants.find((variant) => variant.id === "balanced"));
+        const averageBaseline = baseline.reduce((sum, variant) => sum + variant.matrix.average, 0) / baseline.length;
+        const averageDivergent = divergent.reduce((sum, variant) => sum + variant.matrix.average, 0) / divergent.length;
+        const averageBalanced = balanced.reduce((sum, variant) => sum + variant.matrix.average, 0) / balanced.length;
+        const averageSemanticHits =
+          balanced.reduce((sum, variant) => sum + variant.summary.semanticHitsAverage, 0) / balanced.length;
+        document.querySelector("#global-summary").innerHTML = `
+          <span><em>Observed</em><strong>${escapeHtml(data.observedAt)}</strong></span>
+          <span><em>Short matrix avg</em><strong>${averageBaseline.toFixed(2)}</strong></span>
+          <span><em>Long 1 matrix avg</em><strong>${averageDivergent.toFixed(2)}</strong></span>
+          <span><em>Long 2 matrix avg</em><strong>${averageBalanced.toFixed(2)}</strong></span>
+          <span><em>Long 2 hits avg</em><strong>${averageSemanticHits.toFixed(2)}/10</strong></span>
+        `;
+      };
+
+      if (!data) {
+        document.querySelector("#topic-grid").innerHTML = "<p>Missing long-query experiment data.</p>";
+      } else {
+        document.querySelector("#topic-grid").innerHTML = data.topics.map(renderTopic).join("");
+        renderGlobalSummary();
+      }
+    </script>
+  </body>
+</html>
