@@ -73,14 +73,9 @@ window.I18N.es = {
       "Este es un piloto sobre un subconjunto indexado, no una evaluación de toda la red LA Referencia. Deposita se usa como conjunto de control temático: confirma que cada tema seleccionado está representado antes de probar consultas multilingües sin filtros de repositorio.",
   },
   topicsSection: {
-    heading: "Cuatro temas, veinticuatro consultas en vivo.",
+    heading: "Cuatro temas, treinta y seis consultas en vivo.",
     intro:
       "Cada tema comienza con una frase original en portugués verificada en Deposita. Cada tarjeta multilingüe abre la comparación sin filtros de tres columnas sobre el subconjunto piloto.",
-  },
-  phrasing: {
-    heading: "Prueba frases simples en inglés.",
-    intro:
-      "La búsqueda semántica también puede reducir el sesgo de palabra exacta dentro de un mismo idioma. Estas alternativas simples usan la misma revisión editorial que los ejemplos multilingües.",
   },
   longQuery: {
     eyebrow: "Experimento complementario",
@@ -89,9 +84,9 @@ window.I18N.es = {
       "Una página complementaria sigue los mismos temas a través de tres formulaciones: la consulta corta del tema, una primera frase más larga que puede separarse semánticamente entre idiomas y una segunda frase diseñada para recuperar convergencia.",
     cta: "Abrir el companion de consultas largas",
     points: [
-      "<strong>Consulta corta:</strong> parte de la línea base de la demo pública.",
-      "<strong>Frase larga 1:</strong> prueba si el contexto adicional mejora el foco semántico.",
-      "<strong>Frase larga 2:</strong> prueba si un anclaje más claro mejora la convergencia.",
+      '<span class="companion-point-title">Consulta corta</span><span class="companion-point-copy">Una etiqueta compacta del tema tomada como línea base de la demo pública.</span><span class="companion-example">climate change</span>',
+      '<span class="companion-point-title">Frase larga 1</span><span class="companion-point-copy">Agrega contexto para probar si el ranking semántico se vuelve más enfocado.</span><span class="companion-example">climate change impacts on ecosystems and communities</span>',
+      '<span class="companion-point-title">Frase larga 2</span><span class="companion-point-copy">Usa un anclaje más claro para probar si los rankings convergen entre idiomas.</span><span class="companion-example">climate change impacts on ecosystems and human settlements</span>',
     ],
   },
   methodology: {
@@ -155,6 +150,8 @@ window.I18N.es = {
     matrixTitle: "Matriz de coincidencia semántica top 10",
     matrixCopy:
       "Cada celda cuenta identificadores de registros compartidos entre dos rankings por idioma. Describe estabilidad del ranking y amplitud de descubrimiento, no calidad de relevancia.",
+    matrixQualityNote:
+      "Una coincidencia baja no es un fallo de relevancia. Un idioma puede recuperar resultados relevantes aunque comparta pocos registros con otro idioma. La matriz mide convergencia entre idiomas y coherencia del ranking; la calidad de relevancia se revisa por separado arriba.",
     matrixLanguageHeader: "Idioma",
     matrixDiagonalAria: "{language} comparado consigo mismo: no aplica",
     matrixCellAria:
@@ -182,10 +179,13 @@ window.I18N.es = {
   },
   languages: {
     en: "Inglés",
+    es: "Español",
+    pt: "Portugués",
     fr: "Francés",
     de: "Alemán",
     it: "Italiano",
     zh: "Chino",
     ja: "Japonés",
+    ar: "Árabe",
   },
 };

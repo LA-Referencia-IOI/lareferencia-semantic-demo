@@ -3,6 +3,7 @@ import vm from "node:vm";
 import { classify, makeNote } from "./editorial-rules.mjs";
 
 const config = JSON.parse(await readFile(new URL("../long-query-experiment-config.json", import.meta.url)));
+const deriveOnly = process.argv.includes("--derive");
 const demoDataSource = await readFile(new URL("../demo-data.js", import.meta.url), "utf8");
 const demoSandbox = { window: {} };
 vm.createContext(demoSandbox);
@@ -266,7 +267,11 @@ const buildMatrix = (queries, method = "semantic") => {
     return { ...language, values };
   });
   const average = pairs.length ? round(pairs.reduce((sum, pair) => sum + pair.shared, 0) / pairs.length) : 0;
-  return { languages: languageMeta, rows, pairs, average };
+  const pairsWithoutArabic = pairs.filter((pair) => pair.left !== "ar" && pair.right !== "ar");
+  const averageWithoutArabic = pairsWithoutArabic.length
+    ? round(pairsWithoutArabic.reduce((sum, pair) => sum + pair.shared, 0) / pairsWithoutArabic.length)
+    : average;
+  return { languages: languageMeta, rows, pairs, average, averageWithoutArabic };
 };
 
 const originalQueriesForTopic = (topicId) => {
@@ -366,18 +371,11 @@ const evidenceRow = (row, records) => {
   };
 };
 
-const summarizeSeparation = (variant, matrix, records) => {
-  const languageByCode = Object.fromEntries(matrix.languages.map((language) => [language.languageCode, language.language]));
-  const pairs = matrix.pairs
-    .map((pair) => ({
-      ...pair,
-      leftLabel: languageByCode[pair.left] ?? pair.left,
-      rightLabel: languageByCode[pair.right] ?? pair.right,
-    }))
-    .sort((left, right) => left.shared - right.shared || left.left.localeCompare(right.left));
-  const focusPair = pairs[0];
-  const leftQuery = variant.queries.find((query) => query.languageCode === focusPair.left);
-  const rightQuery = variant.queries.find((query) => query.languageCode === focusPair.right);
+const isArabicPair = (pair) => pair.left === "ar" || pair.right === "ar";
+
+const buildFocusPair = (variant, pair, records) => {
+  const leftQuery = variant.queries.find((query) => query.languageCode === pair.left);
+  const rightQuery = variant.queries.find((query) => query.languageCode === pair.right);
   const leftIds = new Set(leftQuery.results.semantic.map((row) => row.recordId));
   const rightIds = new Set(rightQuery.results.semantic.map((row) => row.recordId));
   const leftOnly = leftQuery.results.semantic
@@ -388,60 +386,88 @@ const summarizeSeparation = (variant, matrix, records) => {
     .filter((row) => !leftIds.has(row.recordId))
     .slice(0, 3)
     .map((row) => evidenceRow(row, records));
-  const leftReading = editorialReading(variant.topicId, focusPair.leftLabel, leftOnly);
-  const rightReading = editorialReading(variant.topicId, focusPair.rightLabel, rightOnly);
+  const leftReading = editorialReading(variant.topicId, pair.leftLabel, leftOnly);
+  const rightReading = editorialReading(variant.topicId, pair.rightLabel, rightOnly);
+  return {
+    ...pair,
+    editorialSummary: compareEditorialReadings(leftReading, rightReading),
+    leftReading,
+    rightReading,
+    leftOnly,
+    rightOnly,
+  };
+};
+
+const summarizeSeparation = (variant, matrix, records) => {
+  const languageByCode = Object.fromEntries(matrix.languages.map((language) => [language.languageCode, language.language]));
+  const pairs = matrix.pairs
+    .map((pair) => ({
+      ...pair,
+      leftLabel: languageByCode[pair.left] ?? pair.left,
+      rightLabel: languageByCode[pair.right] ?? pair.right,
+    }))
+    .sort((left, right) => left.shared - right.shared || left.left.localeCompare(right.left));
+  const nonArabicPairs = pairs.filter((pair) => !isArabicPair(pair));
+  const arabicPairs = pairs.filter(isArabicPair);
+  const focusPair = nonArabicPairs[0] ?? pairs[0];
+  const arabicFocusPair = arabicPairs[0] ?? null;
   return {
     explanation: variant.semanticSeparation,
     causes: variant.separationCauses ?? [],
     lowestPairs: pairs.slice(0, 4),
+    lowestNonArabicPairs: nonArabicPairs.slice(0, 4),
+    lowestArabicPairs: arabicPairs.slice(0, 4),
     highestPairs: [...pairs].reverse().slice(0, 3),
-    focusPair: {
-      ...focusPair,
-      editorialSummary: compareEditorialReadings(leftReading, rightReading),
-      leftReading,
-      rightReading,
-      leftOnly,
-      rightOnly,
-    },
+    overallLowestPair: pairs[0],
+    focusPair: buildFocusPair(variant, focusPair, records),
+    arabicFocusPair: arabicFocusPair ? buildFocusPair(variant, arabicFocusPair, records) : null,
   };
 };
 
-const capturedTopics = [];
-for (const topic of config.topics) {
-  const variants = [];
-  for (const variant of topic.variants) {
-    const queries = [];
-    for (const query of variant.queries) {
-      queries.push(await captureQuery(query, topic.id, variant.id));
+const captureExperiment = async () => {
+  const capturedTopics = [];
+  for (const topic of config.topics) {
+    const variants = [];
+    for (const variant of topic.variants) {
+      const queries = [];
+      for (const query of variant.queries) {
+        queries.push(await captureQuery(query, topic.id, variant.id));
+      }
+      variants.push({
+        topicId: topic.id,
+        id: variant.id,
+        label: variant.label,
+        representativePhrase: variant.representativePhrase,
+        rationale: variant.rationale,
+        semanticSeparation: variant.semanticSeparation,
+        separationCauses: variant.separationCauses,
+        queries,
+      });
     }
-    variants.push({
-      topicId: topic.id,
-      id: variant.id,
-      label: variant.label,
-      representativePhrase: variant.representativePhrase,
-      rationale: variant.rationale,
-      semanticSeparation: variant.semanticSeparation,
-      separationCauses: variant.separationCauses,
-      queries,
+    capturedTopics.push({
+      id: topic.id,
+      title: topic.title,
+      sourceEvidence: topic.sourceEvidence,
+      baseline: shortBaselineForTopic(topic.id),
+      variants,
     });
   }
-  capturedTopics.push({
-    id: topic.id,
-    title: topic.title,
-    sourceEvidence: topic.sourceEvidence,
-    baseline: shortBaselineForTopic(topic.id),
-    variants,
-  });
-}
 
-const capture = {
-  version: config.version,
-  observedAt: new Date().toISOString().slice(0, 10),
-  topics: capturedTopics,
+  const capture = {
+    version: config.version,
+    observedAt: new Date().toISOString().slice(0, 10),
+    topics: capturedTopics,
+  };
+  capture.records = await captureAbstracts(capturedTopics);
+  return capture;
 };
-capture.records = await captureAbstracts(capturedTopics);
 
-const judgments = {};
+const capture = deriveOnly
+  ? JSON.parse(await readFile(new URL("../long-query-experiment-capture.json", import.meta.url), "utf8"))
+  : await captureExperiment();
+const judgments = deriveOnly
+  ? JSON.parse(await readFile(new URL("../long-query-experiment-judgments.json", import.meta.url), "utf8"))
+  : {};
 const enrichedTopics = capture.topics.map((topic) => {
   const baselineQueries = topic.baseline.queries.map((query) => {
     const enriched = enrichExistingRows(topic.id, query, capture.records, judgments);
@@ -476,23 +502,31 @@ const enrichedTopics = capture.topics.map((topic) => {
   const comparison = {
     shortToLong1: {
       matrixDelta: round(divergent.matrix.average - baseline.matrix.average),
+      matrixDeltaWithoutArabic: round(divergent.matrix.averageWithoutArabic - baseline.matrix.averageWithoutArabic),
       semanticHitDelta: round(divergent.summary.semanticHitsAverage - baseline.summary.semanticHitsAverage),
       lowestPairDelta: (divergent.separation.lowestPairs[0]?.shared ?? 0) - (baseline.separation.lowestPairs[0]?.shared ?? 0),
+      nonArabicLowestPairDelta: (divergent.separation.focusPair?.shared ?? 0) - (baseline.separation.focusPair?.shared ?? 0),
     },
     long1ToLong2: {
       matrixDelta: round(balanced.matrix.average - divergent.matrix.average),
+      matrixDeltaWithoutArabic: round(balanced.matrix.averageWithoutArabic - divergent.matrix.averageWithoutArabic),
       semanticHitDelta: round(balanced.summary.semanticHitsAverage - divergent.summary.semanticHitsAverage),
       lowestPairDelta: (balanced.separation.lowestPairs[0]?.shared ?? 0) - (divergent.separation.lowestPairs[0]?.shared ?? 0),
+      nonArabicLowestPairDelta: (balanced.separation.focusPair?.shared ?? 0) - (divergent.separation.focusPair?.shared ?? 0),
     },
     shortToLong2: {
       matrixDelta: round(balanced.matrix.average - baseline.matrix.average),
+      matrixDeltaWithoutArabic: round(balanced.matrix.averageWithoutArabic - baseline.matrix.averageWithoutArabic),
       semanticHitDelta: round(balanced.summary.semanticHitsAverage - baseline.summary.semanticHitsAverage),
       lowestPairDelta: (balanced.separation.lowestPairs[0]?.shared ?? 0) - (baseline.separation.lowestPairs[0]?.shared ?? 0),
+      nonArabicLowestPairDelta: (balanced.separation.focusPair?.shared ?? 0) - (baseline.separation.focusPair?.shared ?? 0),
     },
   };
   comparison.matrixDelta = comparison.long1ToLong2.matrixDelta;
+  comparison.matrixDeltaWithoutArabic = comparison.long1ToLong2.matrixDeltaWithoutArabic;
   comparison.semanticHitDelta = comparison.long1ToLong2.semanticHitDelta;
   comparison.lowestPairDelta = comparison.long1ToLong2.lowestPairDelta;
+  comparison.nonArabicLowestPairDelta = comparison.long1ToLong2.nonArabicLowestPairDelta;
   return {
     id: topic.id,
     title: topic.title,
@@ -550,17 +584,19 @@ const reportSections = [
   "",
   "Research-only evaluation of how specific multilingual phrases can retrieve more relevant subfield results while changing cross-language convergence. Each topic compares a short topic query, a subfield/divergent long phrase, and a more anchored/balanced long phrase.",
   "",
+  "Because Arabic showed a distinct behavior in several runs, the report uses two convergence readings: the full multilingual matrix average, including Arabic, and a complementary average calculated without Arabic. Arabic remains part of the experiment; the second metric helps inspect whether the remaining languages converge differently once the Arabic-specific behavior is read separately.",
+  "",
   "## Matrix Summary",
   "",
-  "| Topic | Short matrix avg | Long 1 matrix avg | Long 2 matrix avg | Short hits | Long 1 hits | Long 2 hits | Short→Long 2 matrix | Short→Long 2 hits |",
-  "| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |",
+  "| Topic | Short matrix avg | Short avg without Arabic | Long 1 matrix avg | Long 1 avg without Arabic | Long 2 matrix avg | Long 2 avg without Arabic | Short hits | Long 1 hits | Long 2 hits | Short→Long 2 matrix | Short→Long 2 matrix without Arabic | Short→Long 2 hits |",
+  "| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |",
 ];
 
 for (const topic of candidate.topics) {
   const divergent = topic.variants.find((variant) => variant.id === "divergent");
   const balanced = topic.variants.find((variant) => variant.id === "balanced");
   reportSections.push(
-    `| ${topic.title} | ${topic.baseline.matrix.average.toFixed(2)} | ${divergent.matrix.average.toFixed(2)} | ${balanced.matrix.average.toFixed(2)} | ${topic.baseline.summary.semanticHitsAverage.toFixed(2)} | ${divergent.summary.semanticHitsAverage.toFixed(2)} | ${balanced.summary.semanticHitsAverage.toFixed(2)} | ${topic.comparison.shortToLong2.matrixDelta >= 0 ? "+" : ""}${topic.comparison.shortToLong2.matrixDelta.toFixed(2)} | ${topic.comparison.shortToLong2.semanticHitDelta >= 0 ? "+" : ""}${topic.comparison.shortToLong2.semanticHitDelta.toFixed(2)} |`,
+    `| ${topic.title} | ${topic.baseline.matrix.average.toFixed(2)} | ${topic.baseline.matrix.averageWithoutArabic.toFixed(2)} | ${divergent.matrix.average.toFixed(2)} | ${divergent.matrix.averageWithoutArabic.toFixed(2)} | ${balanced.matrix.average.toFixed(2)} | ${balanced.matrix.averageWithoutArabic.toFixed(2)} | ${topic.baseline.summary.semanticHitsAverage.toFixed(2)} | ${divergent.summary.semanticHitsAverage.toFixed(2)} | ${balanced.summary.semanticHitsAverage.toFixed(2)} | ${topic.comparison.shortToLong2.matrixDelta >= 0 ? "+" : ""}${topic.comparison.shortToLong2.matrixDelta.toFixed(2)} | ${topic.comparison.shortToLong2.matrixDeltaWithoutArabic >= 0 ? "+" : ""}${topic.comparison.shortToLong2.matrixDeltaWithoutArabic.toFixed(2)} | ${topic.comparison.shortToLong2.semanticHitDelta >= 0 ? "+" : ""}${topic.comparison.shortToLong2.semanticHitDelta.toFixed(2)} |`,
   );
 }
 
@@ -575,7 +611,7 @@ for (const topic of candidate.topics) {
       "",
       variant.rationale,
       "",
-      `Matrix average: \`${variant.matrix.average.toFixed(2)}\` · Semantic hits average: \`${variant.summary.semanticHitsAverage.toFixed(2)}/10\``,
+      `Matrix average: \`${variant.matrix.average.toFixed(2)}\` · Matrix average without Arabic: \`${variant.matrix.averageWithoutArabic.toFixed(2)}\` · Avg. relevant semantic results @10: \`${variant.summary.semanticHitsAverage.toFixed(2)}/10\``,
       "",
       "Possible causes of separation:",
       "",
@@ -583,12 +619,27 @@ for (const topic of candidate.topics) {
       "",
       `Lowest shared pairs: ${variant.separation.lowestPairs.map((pair) => `${pair.left}-${pair.right}: ${pair.shared}`).join("; ")}`,
       "",
-      `Focus pair: ${variant.separation.focusPair.left}-${variant.separation.focusPair.right} (${variant.separation.focusPair.shared}/10 shared)`,
+      `Non-Arabic focus pair: ${variant.separation.focusPair.left}-${variant.separation.focusPair.right} (${variant.separation.focusPair.shared}/10 shared)`,
       "",
-      `Editorial reading: ${variant.separation.focusPair.editorialSummary}`,
+      `Non-Arabic editorial reading: ${variant.separation.focusPair.editorialSummary}`,
       "",
       `- ${variant.separation.focusPair.leftLabel}: ${variant.separation.focusPair.leftReading.summary}`,
       `- ${variant.separation.focusPair.rightLabel}: ${variant.separation.focusPair.rightReading.summary}`,
+      "",
+      variant.separation.arabicFocusPair
+        ? `Arabic focus pair: ${variant.separation.arabicFocusPair.left}-${variant.separation.arabicFocusPair.right} (${variant.separation.arabicFocusPair.shared}/10 shared)`
+        : "Arabic focus pair: not available",
+      "",
+      variant.separation.arabicFocusPair
+        ? `Arabic-specific editorial reading: ${variant.separation.arabicFocusPair.editorialSummary}`
+        : "",
+      ...(variant.separation.arabicFocusPair
+        ? [
+            "",
+            `- ${variant.separation.arabicFocusPair.leftLabel}: ${variant.separation.arabicFocusPair.leftReading.summary}`,
+            `- ${variant.separation.arabicFocusPair.rightLabel}: ${variant.separation.arabicFocusPair.rightReading.summary}`,
+          ]
+        : []),
       "",
       "| Language | Query | Keyword hits @10 | Semantic hits @10 |",
       "| --- | --- | ---: | ---: |",
@@ -601,11 +652,13 @@ for (const topic of candidate.topics) {
   }
 }
 
-await writeFile(new URL("../long-query-experiment-capture.json", import.meta.url), `${JSON.stringify(capture, null, 2)}\n`);
-await writeFile(
-  new URL("../long-query-experiment-judgments.json", import.meta.url),
-  `${JSON.stringify(judgments, null, 2)}\n`,
-);
+if (!deriveOnly) {
+  await writeFile(new URL("../long-query-experiment-capture.json", import.meta.url), `${JSON.stringify(capture, null, 2)}\n`);
+  await writeFile(
+    new URL("../long-query-experiment-judgments.json", import.meta.url),
+    `${JSON.stringify(judgments, null, 2)}\n`,
+  );
+}
 await writeFile(
   new URL("../long-query-demo-candidate.js", import.meta.url),
   `window.LONG_QUERY_EXPERIMENT = ${JSON.stringify(candidate, null, 2)};\n`,
@@ -613,4 +666,4 @@ await writeFile(
 await writeFile(new URL("../long-query-experiment-review-queue.md", import.meta.url), `${reviewSections.join("\n")}\n`);
 await writeFile(new URL("../LONG_QUERY_EXPERIMENT.md", import.meta.url), `${reportSections.join("\n")}\n`);
 
-console.log("Long query V3 experiment written.");
+console.log(deriveOnly ? "Long query V3 derived artifacts written." : "Long query V3 experiment written.");

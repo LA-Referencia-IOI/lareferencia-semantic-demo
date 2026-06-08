@@ -101,9 +101,9 @@ semantic and hybrid rankings plus abstracts for selected finalists. The generate
 
 ## Long Query Research
 
-The long-query V2 experiment tests whether one representative long phrase per topic, expressed in
-the six public languages, maintains or improves semantic relevance and cross-language ranking
-stability. It is intentionally separate from the public demo.
+The long-query V3 experiment tests whether one representative long phrase per topic, expressed in
+the same nine public languages as the main demo, maintains or improves semantic relevance and
+cross-language ranking stability. It is intentionally separate from the public demo.
 
 ```bash
 npm run research:long-queries

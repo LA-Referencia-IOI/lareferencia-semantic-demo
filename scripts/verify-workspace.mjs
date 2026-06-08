@@ -27,7 +27,6 @@ const requiredHtml = [
   'data-lang-link="es"',
   'data-lang-link="pt"',
   'id="topic-stack"',
-  'id="phrasing-grid"',
   'id="source-list"',
 ];
 for (const token of requiredHtml) {
@@ -52,6 +51,10 @@ run("demo data invariants", process.execPath, [
 
 run("i18n invariants", process.execPath, [
   new URL("validate-i18n.mjs", scriptsUrl).pathname,
+]);
+
+run("long-query invariants", process.execPath, [
+  new URL("validate-long-query-experiment.mjs", scriptsUrl).pathname,
 ]);
 
 console.log("\nWorkspace verification: ok");

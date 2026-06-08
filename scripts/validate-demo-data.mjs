@@ -2,6 +2,7 @@ import { readFile } from "node:fs/promises";
 import vm from "node:vm";
 
 const source = await readFile(new URL("../demo-data.js", import.meta.url), "utf8");
+const config = JSON.parse(await readFile(new URL("../evaluation-config.json", import.meta.url), "utf8"));
 const sandbox = { window: {} };
 vm.createContext(sandbox);
 vm.runInContext(source, sandbox);
@@ -14,7 +15,15 @@ const assert = (condition, message) => {
 };
 
 assert(data.topics.length === 4, "Expected four topics");
-assert(data.topics.every((topic) => topic.queries.length === 6), "Expected six languages per topic");
+assert(data.topics.length === config.topics.length, "Topic count mismatch");
+for (const topic of data.topics) {
+  const configuredTopic = config.topics.find((item) => item.id === topic.id);
+  assert(configuredTopic, `Unexpected topic: ${topic.id}`);
+  assert(
+    topic.queries.length === configuredTopic.queries.length,
+    `${topic.id}: expected ${configuredTopic.queries.length} languages, got ${topic.queries.length}`,
+  );
+}
 assert(data.englishQueries.length === 3, "Expected three English extras");
 assert(Object.values(data.sources).reduce((sum, count) => sum + count, 0) === data.subsetTotal, "Bad source total");
 assert(data.records && Object.keys(data.records).length > 0, "Missing captured record metadata");
@@ -58,7 +67,12 @@ function validateQuery(topicId, query) {
   }
 }
 
-assert(publicUrls.length === 31, `Expected 31 public URLs, got ${publicUrls.length}`);
+const expectedPublicUrlCount =
+  data.topics.length + data.topics.reduce((sum, topic) => sum + topic.queries.length, 0) + data.englishQueries.length;
+assert(
+  publicUrls.length === expectedPublicUrlCount,
+  `Expected ${expectedPublicUrlCount} public URLs, got ${publicUrls.length}`,
+);
 for (const url of publicUrls) {
   assert(url.includes("/Combined/Results?"), `Not a Combined URL: ${url}`);
   assert(url.includes("limit=10"), `Missing limit: ${url}`);

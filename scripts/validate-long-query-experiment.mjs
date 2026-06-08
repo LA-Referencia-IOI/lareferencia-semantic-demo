@@ -19,7 +19,10 @@ vm.runInContext(demoDataSource, demoSandbox);
 const demoData = demoSandbox.window.DEMO_DATA;
 
 const methods = ["keyword", "semantic"];
-const languageCodes = ["en", "fr", "de", "it", "zh", "ja"];
+const languageCodes = config.languages.map((language) => language.languageCode);
+const languageCount = languageCodes.length;
+const matrixPairCount = (languageCount * (languageCount - 1)) / 2;
+const languageByCode = Object.fromEntries(config.languages.map((language) => [language.languageCode, language]));
 const variantIds = ["divergent", "balanced"];
 const epsilon = 0.000001;
 
@@ -42,7 +45,7 @@ assert(config.topics.length === 4, "Expected four configured topics");
 assert(candidate.topics.length === config.topics.length, "Candidate topic count mismatch");
 assert(capture.topics.length === config.topics.length, "Capture topic count mismatch");
 assert(capture.records && Object.keys(capture.records).length > 0, "Missing captured records");
-assert(config.languages.map((item) => item.languageCode).join(",") === languageCodes.join(","), "Configured languages mismatch");
+assert(languageCodes.join(",") === "en,es,pt,fr,de,it,zh,ja,ar", "Configured languages mismatch");
 
 for (const configuredTopic of config.topics) {
   assert(configuredTopic.sourceEvidence.length > 0, `${configuredTopic.id}: missing source evidence`);
@@ -73,8 +76,8 @@ for (const configuredTopic of config.topics) {
     assert(variant.representativePhrase === configuredVariant.representativePhrase, `${topic.id}/${variant.id}: phrase mismatch`);
     assert(variant.semanticSeparation === configuredVariant.semanticSeparation, `${topic.id}/${variant.id}: separation mismatch`);
     assert(JSON.stringify(variant.separationCauses) === JSON.stringify(configuredVariant.separationCauses), `${topic.id}/${variant.id}: causes mismatch`);
-    assert(variant.queries.length === 6, `${topic.id}/${variant.id}: expected six candidate queries`);
-    assert(capturedVariant.queries.length === 6, `${topic.id}/${variant.id}: expected six captured queries`);
+    assert(variant.queries.length === languageCount, `${topic.id}/${variant.id}: expected ${languageCount} candidate queries`);
+    assert(capturedVariant.queries.length === languageCount, `${topic.id}/${variant.id}: expected ${languageCount} captured queries`);
     assert(!JSON.stringify(variant).includes('"hybrid"'), `${topic.id}/${variant.id}: hybrid key must not appear`);
     for (const [index, query] of variant.queries.entries()) {
       const configuredQuery = configuredVariant.queries[index];
@@ -93,6 +96,13 @@ for (const configuredTopic of config.topics) {
   );
   assert(
     Math.abs(
+      topic.comparison.long1ToLong2.matrixDeltaWithoutArabic -
+        round(balanced.matrix.averageWithoutArabic - divergent.matrix.averageWithoutArabic),
+    ) < epsilon,
+    `${topic.id}: bad long1-to-long2 matrix comparison delta without Arabic`,
+  );
+  assert(
+    Math.abs(
       topic.comparison.long1ToLong2.semanticHitDelta -
         round(balanced.summary.semanticHitsAverage - divergent.summary.semanticHitsAverage),
     ) < epsilon,
@@ -102,6 +112,13 @@ for (const configuredTopic of config.topics) {
     Math.abs(topic.comparison.shortToLong1.matrixDelta - round(divergent.matrix.average - topic.baseline.matrix.average)) <
       epsilon,
     `${topic.id}: bad short-to-long1 matrix comparison delta`,
+  );
+  assert(
+    Math.abs(
+      topic.comparison.shortToLong1.matrixDeltaWithoutArabic -
+        round(divergent.matrix.averageWithoutArabic - topic.baseline.matrix.averageWithoutArabic),
+    ) < epsilon,
+    `${topic.id}: bad short-to-long1 matrix comparison delta without Arabic`,
   );
   assert(
     Math.abs(
@@ -117,6 +134,13 @@ for (const configuredTopic of config.topics) {
   );
   assert(
     Math.abs(
+      topic.comparison.shortToLong2.matrixDeltaWithoutArabic -
+        round(balanced.matrix.averageWithoutArabic - topic.baseline.matrix.averageWithoutArabic),
+    ) < epsilon,
+    `${topic.id}: bad short-to-long2 matrix comparison delta without Arabic`,
+  );
+  assert(
+    Math.abs(
       topic.comparison.shortToLong2.semanticHitDelta -
         round(balanced.summary.semanticHitsAverage - topic.baseline.summary.semanticHitsAverage),
     ) < epsilon,
@@ -125,6 +149,10 @@ for (const configuredTopic of config.topics) {
   assert(
     Math.abs(topic.comparison.matrixDelta - topic.comparison.long1ToLong2.matrixDelta) < epsilon,
     `${topic.id}: legacy matrix delta should match long1-to-long2 delta`,
+  );
+  assert(
+    Math.abs(topic.comparison.matrixDeltaWithoutArabic - topic.comparison.long1ToLong2.matrixDeltaWithoutArabic) < epsilon,
+    `${topic.id}: legacy matrix delta without Arabic should match long1-to-long2 delta`,
   );
   assert(
     Math.abs(topic.comparison.semanticHitDelta - topic.comparison.long1ToLong2.semanticHitDelta) < epsilon,
@@ -139,17 +167,17 @@ function validateBaseline(topicId, baseline) {
   assert(baseline.rationale, `${topicId}: missing baseline rationale`);
   assert(baseline.semanticSeparation, `${topicId}: missing baseline separation copy`);
   assert(Array.isArray(baseline.separationCauses) && baseline.separationCauses.length >= 2, `${topicId}: missing baseline causes`);
-  assert(baseline.queries.length === 6, `${topicId}: expected six baseline queries`);
+  assert(baseline.queries.length === languageCount, `${topicId}: expected ${languageCount} baseline queries`);
   assert(baseline.queries.map((query) => query.languageCode).join(",") === languageCodes.join(","), `${topicId}: baseline language order mismatch`);
   for (const query of baseline.queries) validateQuery(topicId, "short", query);
   validateMatrix(topicId, "baseline", baseline.matrix);
   validateSeparation(topicId, "short", baseline.separation, baseline.matrix);
   assert(
-    baseline.summary.keywordHitsAverage === round(baseline.queries.reduce((sum, query) => sum + query.metrics.keywordHits, 0) / 6),
+    baseline.summary.keywordHitsAverage === round(baseline.queries.reduce((sum, query) => sum + query.metrics.keywordHits, 0) / languageCount),
     `${topicId}: bad baseline keyword hit average`,
   );
   assert(
-    baseline.summary.semanticHitsAverage === round(baseline.queries.reduce((sum, query) => sum + query.metrics.semanticHits, 0) / 6),
+    baseline.summary.semanticHitsAverage === round(baseline.queries.reduce((sum, query) => sum + query.metrics.semanticHits, 0) / languageCount),
     `${topicId}: bad baseline semantic hit average`,
   );
 }
@@ -160,7 +188,7 @@ function validateConfiguredVariant(topicId, variant) {
   assert(variant.rationale, `${topicId}/${variant.id}: missing rationale`);
   assert(variant.semanticSeparation, `${topicId}/${variant.id}: missing semantic separation`);
   assert(Array.isArray(variant.separationCauses) && variant.separationCauses.length >= 2, `${topicId}/${variant.id}: missing causes`);
-  assert(variant.queries.length === 6, `${topicId}/${variant.id}: expected six queries`);
+  assert(variant.queries.length === languageCount, `${topicId}/${variant.id}: expected ${languageCount} queries`);
   assert(
     variant.queries.map((query) => query.languageCode).join(",") === languageCodes.join(","),
     `${topicId}/${variant.id}: configured language order mismatch`,
@@ -170,7 +198,7 @@ function validateConfiguredVariant(topicId, variant) {
 function validateQuery(topicId, variantId, query) {
   assert(languageCodes.includes(query.languageCode), `${topicId}/${variantId}/${query.text}: unsupported languageCode`);
   assert(query.language, `${topicId}/${variantId}/${query.text}: missing language`);
-  assert(query.direction === "ltr", `${topicId}/${variantId}/${query.text}: bad direction`);
+  assert(query.direction === languageByCode[query.languageCode].direction, `${topicId}/${variantId}/${query.text}: bad direction`);
   assert(query.combinedUrl.includes("/Combined/Results?"), `${topicId}/${variantId}/${query.text}: not Combined URL`);
   assert(query.combinedUrl.includes("limit=10"), `${topicId}/${variantId}/${query.text}: missing limit`);
   assert(!query.combinedUrl.includes("filter"), `${topicId}/${variantId}/${query.text}: filtered URL`);
@@ -198,14 +226,14 @@ function validateQuery(topicId, variantId, query) {
 
 function validateMatrix(topicId, label, matrix) {
   assert(matrix, `${topicId}/${label}: missing matrix`);
-  assert(matrix.languages.length === 6, `${topicId}/${label}: expected six matrix languages`);
-  assert(matrix.rows.length === 6, `${topicId}/${label}: expected six matrix rows`);
-  assert(matrix.pairs.length === 15, `${topicId}/${label}: expected 15 matrix pairs`);
+  assert(matrix.languages.length === languageCount, `${topicId}/${label}: expected ${languageCount} matrix languages`);
+  assert(matrix.rows.length === languageCount, `${topicId}/${label}: expected ${languageCount} matrix rows`);
+  assert(matrix.pairs.length === matrixPairCount, `${topicId}/${label}: expected ${matrixPairCount} matrix pairs`);
   assert(matrix.languages.map((item) => item.languageCode).join(",") === languageCodes.join(","), `${topicId}/${label}: bad matrix language order`);
   const pairMap = new Map(matrix.pairs.map((pair) => [`${pair.left}:${pair.right}`, pair.shared]));
   matrix.rows.forEach((row, rowIndex) => {
     assert(row.languageCode === languageCodes[rowIndex], `${topicId}/${label}: row language mismatch`);
-    assert(row.values.length === 6, `${topicId}/${label}: bad row value count`);
+    assert(row.values.length === languageCount, `${topicId}/${label}: bad row value count`);
     row.values.forEach((value, columnIndex) => {
       if (rowIndex === columnIndex) {
         assert(value === null, `${topicId}/${label}: diagonal must be omitted`);
@@ -222,6 +250,12 @@ function validateMatrix(topicId, label, matrix) {
   });
   const average = round(matrix.pairs.reduce((sum, pair) => sum + pair.shared, 0) / matrix.pairs.length);
   assert(Math.abs(matrix.average - average) < epsilon, `${topicId}/${label}: bad pair average`);
+  const pairsWithoutArabic = matrix.pairs.filter((pair) => pair.left !== "ar" && pair.right !== "ar");
+  const averageWithoutArabic = round(pairsWithoutArabic.reduce((sum, pair) => sum + pair.shared, 0) / pairsWithoutArabic.length);
+  assert(
+    Math.abs(matrix.averageWithoutArabic - averageWithoutArabic) < epsilon,
+    `${topicId}/${label}: bad pair average without Arabic`,
+  );
 }
 
 function validateSeparation(topicId, variantId, separation, matrix) {
@@ -229,27 +263,21 @@ function validateSeparation(topicId, variantId, separation, matrix) {
   assert(separation.explanation, `${topicId}/${variantId}: missing separation explanation`);
   assert(Array.isArray(separation.causes) && separation.causes.length >= 2, `${topicId}/${variantId}: missing causes`);
   assert(separation.lowestPairs.length === 4, `${topicId}/${variantId}: expected four lowest pairs`);
+  assert(separation.lowestNonArabicPairs.length === 4, `${topicId}/${variantId}: expected four non-Arabic lowest pairs`);
+  assert(separation.lowestArabicPairs.length === 4, `${topicId}/${variantId}: expected four Arabic lowest pairs`);
   assert(separation.highestPairs.length === 3, `${topicId}/${variantId}: expected three highest pairs`);
   assert(separation.focusPair, `${topicId}/${variantId}: missing focus pair`);
-  assert(separation.focusPair.editorialSummary, `${topicId}/${variantId}: missing focus editorial summary`);
-  assert(separation.focusPair.leftReading?.summary, `${topicId}/${variantId}: missing left editorial reading`);
-  assert(separation.focusPair.rightReading?.summary, `${topicId}/${variantId}: missing right editorial reading`);
-  assert(
-    Array.isArray(separation.focusPair.leftReading.themes) && separation.focusPair.leftReading.themes.length > 0,
-    `${topicId}/${variantId}: missing left editorial themes`,
-  );
-  assert(
-    Array.isArray(separation.focusPair.rightReading.themes) && separation.focusPair.rightReading.themes.length > 0,
-    `${topicId}/${variantId}: missing right editorial themes`,
-  );
-  assert(Array.isArray(separation.focusPair.leftOnly), `${topicId}/${variantId}: missing left-only focus evidence`);
-  assert(Array.isArray(separation.focusPair.rightOnly), `${topicId}/${variantId}: missing right-only focus evidence`);
-  assert(separation.focusPair.leftOnly.length > 0, `${topicId}/${variantId}: empty left-only focus evidence`);
-  assert(separation.focusPair.rightOnly.length > 0, `${topicId}/${variantId}: empty right-only focus evidence`);
+  assert(separation.arabicFocusPair, `${topicId}/${variantId}: missing Arabic focus pair`);
+  validateFocusPair(topicId, variantId, "non-Arabic", separation.focusPair);
+  validateFocusPair(topicId, variantId, "Arabic", separation.arabicFocusPair);
   const expectedSortedPairs = [...matrix.pairs].sort(
     (left, right) => left.shared - right.shared || left.left.localeCompare(right.left),
   );
+  const expectedNonArabicPairs = expectedSortedPairs.filter((pair) => pair.left !== "ar" && pair.right !== "ar");
+  const expectedArabicPairs = expectedSortedPairs.filter((pair) => pair.left === "ar" || pair.right === "ar");
   const expectedLowest = expectedSortedPairs.slice(0, 4);
+  const expectedLowestNonArabic = expectedNonArabicPairs.slice(0, 4);
+  const expectedLowestArabic = expectedArabicPairs.slice(0, 4);
   const expectedHighest = [...expectedSortedPairs].reverse().slice(0, 3);
   assert(
     JSON.stringify(separation.lowestPairs.map(({ left, right, shared }) => ({ left, right, shared }))) ===
@@ -261,9 +289,44 @@ function validateSeparation(topicId, variantId, separation, matrix) {
       JSON.stringify(expectedHighest),
     `${topicId}/${variantId}: highest pairs are not derived from matrix`,
   );
-  assert(separation.focusPair.left === expectedLowest[0].left, `${topicId}/${variantId}: focus left mismatch`);
-  assert(separation.focusPair.right === expectedLowest[0].right, `${topicId}/${variantId}: focus right mismatch`);
-  for (const row of [...separation.focusPair.leftOnly, ...separation.focusPair.rightOnly]) {
+  assert(
+    JSON.stringify(separation.lowestNonArabicPairs.map(({ left, right, shared }) => ({ left, right, shared }))) ===
+      JSON.stringify(expectedLowestNonArabic),
+    `${topicId}/${variantId}: non-Arabic lowest pairs are not derived from matrix`,
+  );
+  assert(
+    JSON.stringify(separation.lowestArabicPairs.map(({ left, right, shared }) => ({ left, right, shared }))) ===
+      JSON.stringify(expectedLowestArabic),
+    `${topicId}/${variantId}: Arabic lowest pairs are not derived from matrix`,
+  );
+  assert(separation.overallLowestPair.left === expectedLowest[0].left, `${topicId}/${variantId}: overall lowest left mismatch`);
+  assert(separation.overallLowestPair.right === expectedLowest[0].right, `${topicId}/${variantId}: overall lowest right mismatch`);
+  assert(separation.focusPair.left === expectedNonArabicPairs[0].left, `${topicId}/${variantId}: non-Arabic focus left mismatch`);
+  assert(separation.focusPair.right === expectedNonArabicPairs[0].right, `${topicId}/${variantId}: non-Arabic focus right mismatch`);
+  assert(separation.focusPair.left !== "ar" && separation.focusPair.right !== "ar", `${topicId}/${variantId}: focus pair must not include Arabic`);
+  assert(separation.arabicFocusPair.left === expectedArabicPairs[0].left, `${topicId}/${variantId}: Arabic focus left mismatch`);
+  assert(separation.arabicFocusPair.right === expectedArabicPairs[0].right, `${topicId}/${variantId}: Arabic focus right mismatch`);
+  assert(
+    separation.arabicFocusPair.left === "ar" || separation.arabicFocusPair.right === "ar",
+    `${topicId}/${variantId}: Arabic focus pair must include Arabic`,
+  );
+}
+
+function validateFocusPair(topicId, variantId, label, pair) {
+  assert(pair.editorialSummary, `${topicId}/${variantId}: missing ${label} focus editorial summary`);
+  assert(pair.leftReading?.summary, `${topicId}/${variantId}: missing ${label} left editorial reading`);
+  assert(pair.rightReading?.summary, `${topicId}/${variantId}: missing ${label} right editorial reading`);
+  assert(
+    Array.isArray(pair.leftReading.themes) && pair.leftReading.themes.length > 0,
+    `${topicId}/${variantId}: missing ${label} left editorial themes`,
+  );
+  assert(
+    Array.isArray(pair.rightReading.themes) && pair.rightReading.themes.length > 0,
+    `${topicId}/${variantId}: missing ${label} right editorial themes`,
+  );
+  assert(Array.isArray(pair.leftOnly), `${topicId}/${variantId}: missing ${label} left-only focus evidence`);
+  assert(Array.isArray(pair.rightOnly), `${topicId}/${variantId}: missing ${label} right-only focus evidence`);
+  for (const row of [...pair.leftOnly, ...pair.rightOnly]) {
     assert(row.recordId && row.title, `${topicId}/${variantId}: bad focus evidence row`);
     assert([0, 1, 2].includes(row.judgment), `${topicId}/${variantId}: bad focus evidence judgment`);
     assert("abstractSnippet" in row, `${topicId}/${variantId}: focus evidence missing abstract snippet`);
@@ -297,7 +360,9 @@ function buildMatrix(queries) {
     return { ...language, values };
   });
   const average = round(pairs.reduce((sum, pair) => sum + pair.shared, 0) / pairs.length);
-  return { languages, rows, pairs, average };
+  const pairsWithoutArabic = pairs.filter((pair) => pair.left !== "ar" && pair.right !== "ar");
+  const averageWithoutArabic = round(pairsWithoutArabic.reduce((sum, pair) => sum + pair.shared, 0) / pairsWithoutArabic.length);
+  return { languages, rows, pairs, average, averageWithoutArabic };
 }
 
 function matricesEqual(left, right) {
@@ -305,7 +370,8 @@ function matricesEqual(left, right) {
     left.languages.map((item) => item.languageCode).join(",") === right.languages.map((item) => item.languageCode).join(",") &&
     JSON.stringify(left.rows.map((row) => row.values)) === JSON.stringify(right.rows.map((row) => row.values)) &&
     JSON.stringify(left.pairs) === JSON.stringify(right.pairs) &&
-    Math.abs(left.average - right.average) < epsilon
+    Math.abs(left.average - right.average) < epsilon &&
+    Math.abs(left.averageWithoutArabic - right.averageWithoutArabic) < epsilon
   );
 }
 

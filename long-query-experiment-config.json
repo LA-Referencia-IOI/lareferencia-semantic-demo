@@ -3,11 +3,14 @@
   "baseUrl": "https://search.lareferencia.info/vufind",
   "languages": [
     { "language": "English", "languageCode": "en", "direction": "ltr" },
+    { "language": "Spanish", "languageCode": "es", "direction": "ltr" },
+    { "language": "Portuguese", "languageCode": "pt", "direction": "ltr" },
     { "language": "French", "languageCode": "fr", "direction": "ltr" },
     { "language": "German", "languageCode": "de", "direction": "ltr" },
     { "language": "Italian", "languageCode": "it", "direction": "ltr" },
     { "language": "Chinese", "languageCode": "zh", "direction": "ltr" },
-    { "language": "Japanese", "languageCode": "ja", "direction": "ltr" }
+    { "language": "Japanese", "languageCode": "ja", "direction": "ltr" },
+    { "language": "Arabic", "languageCode": "ar", "direction": "rtl" }
   ],
   "topics": [
     {
@@ -41,11 +44,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "distance tutoring in virtual learning environments" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "tutoría a distancia en entornos virtuales de aprendizaje" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "tutoria a distância em ambientes virtuais de aprendizagem" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "tutorat à distance dans des environnements virtuels d'apprentissage" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Fernbetreuung in virtuellen Lernumgebungen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "tutoraggio a distanza in ambienti virtuali di apprendimento" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "虚拟学习环境中的远程辅导" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境における遠隔指導" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境における遠隔指導" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "الإرشاد عن بعد في بيئات التعلم الافتراضية" }
           ]
         },
         {
@@ -61,11 +67,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "distance education with online tutoring in virtual learning environments" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "educación a distancia con tutoría en línea en entornos virtuales de aprendizaje" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "educação a distância com tutoria online em ambientes virtuais de aprendizagem" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "enseignement à distance avec tutorat en ligne dans des environnements virtuels d'apprentissage" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Fernunterricht mit Online-Betreuung in virtuellen Lernumgebungen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "educazione a distanza con tutoraggio online in ambienti virtuali di apprendimento" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "虚拟学习环境中的在线辅导与远程教育" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境におけるオンライン指導を伴う遠隔教育" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "仮想学習環境におけるオンライン指導を伴う遠隔教育" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "التعليم عن بعد مع الإرشاد عبر الإنترنت في بيئات التعلم الافتراضية" }
           ]
         }
       ]
@@ -101,11 +110,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "type 2 diabetes nursing care, glycemic control and complications" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "cuidados de enfermería para diabetes tipo 2, control glucémico y complicaciones" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "cuidados de enfermagem para diabetes tipo 2, controle glicêmico e complicações" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "soins infirmiers du diabète de type 2, contrôle glycémique et complications" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Pflege bei Typ-2-Diabetes, Blutzuckerkontrolle und Komplikationen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "assistenza infermieristica per il diabete di tipo 2, controllo glicemico e complicanze" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "2型糖尿病护理、血糖控制和并发症" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病の看護ケア、血糖コントロール、合併症" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病の看護ケア、血糖コントロール、合併症" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "رعاية تمريضية لمرض السكري من النوع الثاني، ضبط سكر الدم والمضاعفات" }
           ]
         },
         {
@@ -121,11 +133,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "type 2 diabetes, glycemic control and diabetic complications" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "diabetes tipo 2, control glucémico y complicaciones diabéticas" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "diabetes tipo 2, controle glicêmico e complicações diabéticas" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "diabète de type 2, contrôle glycémique et complications diabétiques" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Typ-2-Diabetes, Blutzuckerkontrolle und diabetische Komplikationen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diabete di tipo 2, controllo glicemico e complicanze diabetiche" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "2型糖尿病、血糖控制和糖尿病并发症" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病、血糖コントロール、糖尿病合併症" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "2型糖尿病、血糖コントロール、糖尿病合併症" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "السكري من النوع الثاني، ضبط سكر الدم ومضاعفات السكري" }
           ]
         }
       ]
@@ -161,11 +176,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "human rights, dignity and democratic justice" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "derechos humanos, dignidad y justicia democrática" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "direitos humanos, dignidade e justiça democrática" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "droits humains, dignité et justice démocratique" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Menschenrechte, Würde und demokratische Gerechtigkeit" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diritti umani, dignità e giustizia democratica" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "人权、尊严与民主正义" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権、尊厳、民主的正義" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権、尊厳、民主的正義" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "حقوق الإنسان والكرامة والعدالة الديمقراطية" }
           ]
         },
         {
@@ -181,11 +199,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "human rights and democratic institutions" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "derechos humanos e instituciones democráticas" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "direitos humanos e instituições democráticas" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "droits humains et institutions démocratiques" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Menschenrechte und demokratische Institutionen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "diritti umani e istituzioni democratiche" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "人权与民主制度" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権と民主的制度" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "人権と民主的制度" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "حقوق الإنسان والمؤسسات الديمقراطية" }
           ]
         }
       ]
@@ -221,11 +242,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "climate change impacts on ecosystems and communities" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "impactos del cambio climático en los ecosistemas y las comunidades" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "impactos das mudanças climáticas nos ecossistemas e nas comunidades" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "impacts du changement climatique sur les écosystèmes et les communautés" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Auswirkungen des Klimawandels auf Ökosysteme und Gemeinschaften" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "impatti del cambiamento climatico sugli ecosistemi e sulle comunità" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "气候变化对生态系统和社区的影响" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と地域社会に与える影響" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と地域社会に与える影響" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "آثار تغير المناخ على النظم البيئية والمجتمعات" }
           ]
         },
         {
@@ -241,11 +265,14 @@
           ],
           "queries": [
             { "language": "English", "languageCode": "en", "direction": "ltr", "text": "climate change impacts on ecosystems and human settlements" },
+            { "language": "Spanish", "languageCode": "es", "direction": "ltr", "text": "impactos del cambio climático en los ecosistemas y los asentamientos humanos" },
+            { "language": "Portuguese", "languageCode": "pt", "direction": "ltr", "text": "impactos das mudanças climáticas nos ecossistemas e nos assentamentos humanos" },
             { "language": "French", "languageCode": "fr", "direction": "ltr", "text": "impacts du changement climatique sur les écosystèmes et les établissements humains" },
             { "language": "German", "languageCode": "de", "direction": "ltr", "text": "Auswirkungen des Klimawandels auf Ökosysteme und menschliche Siedlungen" },
             { "language": "Italian", "languageCode": "it", "direction": "ltr", "text": "impatti del cambiamento climatico sugli ecosistemi e sugli insediamenti umani" },
             { "language": "Chinese", "languageCode": "zh", "direction": "ltr", "text": "气候变化对生态系统和人类住区的影响" },
-            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と人間の居住地に与える影響" }
+            { "language": "Japanese", "languageCode": "ja", "direction": "ltr", "text": "気候変動が生態系と人間の居住地に与える影響" },
+            { "language": "Arabic", "languageCode": "ar", "direction": "rtl", "text": "آثار تغير المناخ على النظم البيئية والمستوطنات البشرية" }
           ]
         }
       ]

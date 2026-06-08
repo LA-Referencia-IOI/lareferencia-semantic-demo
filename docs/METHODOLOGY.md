@@ -37,8 +37,7 @@ The query manifest is `evaluation-config.json`. It currently contains:
 
 - four public topics: distance education, diabetes, human rights and climate change;
 - one Portuguese control phrase per topic;
-- six multilingual queries per topic: English, French, German, Italian, Chinese and Japanese;
-- three additional simple English phrases for distance education.
+- nine multilingual queries per topic: English, Spanish, Portuguese, French, German, Italian, Chinese, Japanese and Arabic.
 
 The Portuguese phrase appears as a control and as an unfiltered baseline link. It is not included in
 the multilingual coincidence matrix.
@@ -115,10 +114,10 @@ The matrix describes ranking stability and discovery breadth. It is not a releva
 ## Research-Only Long Query Evidence
 
 `LONG_QUERY_EXPERIMENT.md` evaluates whether one representative long phrase per topic, expressed in
-the same six public languages, maintains or improves semantic relevance and cross-language ranking
+the same nine public languages, maintains or improves semantic relevance and cross-language ranking
 stability. This evidence is captured and judged separately from `demo-data.js`.
 
-The research-only V2 experiment captures only Keyword Search and Semantic Search. Keyword is a
+The research-only V3 experiment captures only Keyword Search and Semantic Search. Keyword is a
 contextual relevance reference; Semantic Search is the focus. For each topic, the generated payload
 stores the original semantic matrix recalculated from the current `demo-data.js` plus the new
 long-query semantic matrix, so the companion page can compare both without loading the public demo

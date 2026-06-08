@@ -9,11 +9,14 @@
       "controlPt": "educação a distância",
       "queries": [
         ["English", "en", "distance education", "ltr"],
+        ["Spanish", "es", "educación a distancia", "ltr"],
+        ["Portuguese", "pt", "educação a distância", "ltr"],
         ["French", "fr", "enseignement à distance", "ltr"],
         ["German", "de", "Fernunterricht", "ltr"],
         ["Italian", "it", "istruzione a distanza", "ltr"],
         ["Chinese", "zh", "远程教育", "ltr"],
-        ["Japanese", "ja", "遠隔教育", "ltr"]
+        ["Japanese", "ja", "遠隔教育", "ltr"],
+        ["Arabic", "ar", "التعليم عن بعد", "rtl"]
       ]
     },
     {
@@ -23,11 +26,14 @@
       "controlPt": "diabetes",
       "queries": [
         ["English", "en", "diabetes", "ltr"],
+        ["Spanish", "es", "diabetes", "ltr"],
+        ["Portuguese", "pt", "diabetes", "ltr"],
         ["French", "fr", "diabète", "ltr"],
         ["German", "de", "Diabetes", "ltr"],
         ["Italian", "it", "diabete", "ltr"],
         ["Chinese", "zh", "糖尿病", "ltr"],
-        ["Japanese", "ja", "糖尿病", "ltr"]
+        ["Japanese", "ja", "糖尿病", "ltr"],
+        ["Arabic", "ar", "السكري", "rtl"]
       ]
     },
     {
@@ -37,11 +43,14 @@
       "controlPt": "direitos humanos",
       "queries": [
         ["English", "en", "human rights", "ltr"],
+        ["Spanish", "es", "derechos humanos", "ltr"],
+        ["Portuguese", "pt", "direitos humanos", "ltr"],
         ["French", "fr", "droits humains", "ltr"],
         ["German", "de", "Menschenrechte", "ltr"],
         ["Italian", "it", "diritti umani", "ltr"],
         ["Chinese", "zh", "人权", "ltr"],
-        ["Japanese", "ja", "人権", "ltr"]
+        ["Japanese", "ja", "人権", "ltr"],
+        ["Arabic", "ar", "حقوق الإنسان", "rtl"]
       ]
     },
     {
@@ -51,17 +60,20 @@
       "controlPt": "mudanças climáticas",
       "queries": [
         ["English", "en", "climate change", "ltr"],
+        ["Spanish", "es", "cambio climático", "ltr"],
+        ["Portuguese", "pt", "mudanças climáticas", "ltr"],
         ["French", "fr", "changement climatique", "ltr"],
         ["German", "de", "Klimawandel", "ltr"],
         ["Italian", "it", "cambiamento climatico", "ltr"],
         ["Chinese", "zh", "气候变化", "ltr"],
-        ["Japanese", "ja", "気候変動", "ltr"]
+        ["Japanese", "ja", "気候変動", "ltr"],
+        ["Arabic", "ar", "تغير المناخ", "rtl"]
       ]
     }
   ],
   "englishQueries": [
-    ["English", "en", "online learning", "ltr", "distance-education"],
-    ["English", "en", "remote learning", "ltr", "distance-education"],
+    ["English", "en", "distance learning", "ltr", "distance-education"],
+    ["English", "en", "online education", "ltr", "distance-education"],
     ["English", "en", "virtual education", "ltr", "distance-education"]
   ]
 }

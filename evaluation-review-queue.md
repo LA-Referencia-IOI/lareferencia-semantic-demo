@@ -34,6 +34,26 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The abstract confirms a telework and human-resources focus, not distance education.
 
+### Related hit · UY_db996e3019ebbc401b116f7948110062
+
+**Title:** De la presencialidad a la distancia: modelos para la incorporación del e-learning en la universidad
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_db996e3019ebbc401b116f7948110062/Description
+
+**Abstract:** Este artículo discute un marco de referencia para la conceptualización y evaluación de modelos de e-learning en educación superior. Las modalidades "presencial" y "a distancia" han sido concebidas históricamente como los modelos educativos por excelencia conceptualizados como mutuamente contrapuestos. Sin embargo, las tecnologías de e-learning, posibilitan nuevos modelos educativos que combinan la presencialidad y la distancia de distintas maneras. Sobre la base de la experiencia de la Universidad ORT Uruguay, planteamos un continuo a lo largo del cual aparecen modelos educativos en los que el e-learning y el aula presencial se complementan para lograr distintos objetivos. Las dimensiones pedagógicas, tecnológicas y económicas de estos modelos son abordadas en este artículo.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_33b87dfc08bf52d8a45758b2a7ebd487
+
+**Title:** A Autorregulação da Aprendizagem o Processo Avaliativo por Intermédio da Webquest
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_33b87dfc08bf52d8a45758b2a7ebd487/Description
+
+**Abstract:** A presente pesquisa tem como objetivo analisar as contribuições da WebQuest no processo da autorregulação da aprendizagem presente nos espaços escolares, contribuindo tanto para uma aprendizagem significativa quanto para o protagonismo dos estudantes. A metodologia utilizada pautou-se numa Pesquisa Bibliográfica, realizada a partir de livros, periódicos, dissertações e teses de diferentes autores. Nossa pesquisa está subdividida em três partes. Na primeira, contextualizamos a WebQuest e a autorregulação da aprendizagem à partir da perspectiva do psicólogo Albert Bandura. Segunda, tratamos da utilização da metodologia WebQuest no âmbito escolar e bem como do papel do professor mediador neste contexto. Na última, refletimos sobre a autorregulação da aprendizagem e suas contribuições como agente ativo e consciente da aprendizagem Ao longo da explanação apresentamos não só os avanços tecnológicos mas também a Teoria Social Cognitiva (TSC) – ambos auxiliam das práticas pedagógicas em sala de aula, por intermédio das interações aluno-professor e professor-aluno. Essas interações têm com intuito de construir em sala de aula, os vários saberes com o uso das Tecnologias Digitais da Informação e Comunicação (TDICs). Estas levam os discentes a um processo de ensino-aprendizagem mais eficiente, dinâmico e interativo, forma de contribuir para com uma construção crítica e reflexiva de uma aprendizagem significativa. Os resultados da presente pesquisa apontaram um grau elevado de autoeficácia no desenvolvimento de artigos de divulgação científica, redigidos pelos próprios alunos, baseados na TSC e pautados nas TDICs.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
 ### Miss · Deposita_438f9cab9685537c9e64e21302a97d50
 
 **Title:** Competências cognitivas e socioemocionais: formação de docentes para contemplar a diversidade na rede pública da cidade de São Paulo
@@ -234,16 +254,6 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The title and abstract do not establish a distance education focus.
 
-### Miss · Ridi_4b0d41dfb0716fba611688f08be379a3
-
-**Title:** O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_4b0d41dfb0716fba611688f08be379a3/Description
-
-**Abstract:** This research investigates the philosophical foundations of Information Science, framed as a human and social science. It develops from a perspective that shifts the analysis of Information Science from a philosophy of language to a philosophy of the human being based on the philosophy of Xavier Zubiri and his theory of sentient intelligence and reality, as well as his studies on the human being. The methodological structure involves an exploratory and descriptive bibliographic research, analyzing works by several authors in the field, with emphasis on those who analyze the field from an Ibero-American perspective and those who think about the field from a documental and neodocumentalist vision. The study arrives at the concept of documentality and, after descriptive syntheses, analyzes the theoretical framework in a triangulation with the philosopher Zubiri. The aim of the research is to demonstrate the philosophical bases for a philosophical anthropology of Information Science, using the foundations of the thought and philosophy of Xavier Zubiri, especially regarding his intellectual strength in questioning the relationship between science and technique, and in his philosophy of intelligence and reality focusing on epistemological, ontological and methodological aspects, from a documental and realist perspective. To this end, epistemological (Information Science as a social science), ontological (the document as the object of study of Information Science) and methodological (Zubiri's philosophical anthropology with philosophical perspectives aligned with the epistemological and ontological assumptions proposed for Information Science) elements were described. The main results are: (1) Regarding the epistemological foundations, the epistemological basis proposed in the thesis suggests that the Philosophy of Information Science can be seen as a philosophical anthropology. This implies that the understanding of information goes beyond the focus on language, and there may be more fundamental elements related to the sentient intelligence of the human being. (2) Regarding the ontological foundations, the research not only adheres to the Zubiriana thesis that the human being is an animal of realities, but also highlights the human being's capacity to document reality. In other words, it establishes an intrinsic relationship between the human being (an animal that documents reality) and the document, indicating that Information Science is, essentially, a "social science of the document". (3) The philosophical perspective proposed by the thesis highlights Information Science as an applied social science, whose focus on the document implies an approach that recognizes and studies the human being in its individual, social and historical dimensions. The thesis stands out in its originality by suggesting the inclusion of philosophical anthropology as a way of thinking alternative to language, presented as a unique contribution to the field. The proposed approach also emphasizes the importance of a deep dialogue between social epistemology and social ontology, which suggests an integration between the document and the human being, overcoming hermeneutic, physical or cognitivist paradigms, offering, via philosophical anthropology, an alternative way of thinking about the Philosophy of Information Science.
-
-**Current note:** The title concerns information philosophy, not distance education.
-
 ### Miss · UY_dbbd0a8c94b34b9e548da2c460964668
 
 **Title:** NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics
@@ -253,6 +263,16 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 **Abstract:** Xenarthrans – anteaters, sloths, and armadillos – have essential functions for ecosystem maintenance, such as insect control and nutrient cycling, playing key roles as ecosystem engineers. Because of habitat loss and fragmentation, hunting pressure, and conflicts with 24 domestic dogs, these species have been threatened locally, regionally, or even across their full distribution ranges. The Neotropics harbor 21 species of armadillos, ten anteaters, and six sloths. Our dataset includes the families Chlamyphoridae (13), Dasypodidae (7), Myrmecophagidae (3), Bradypodidae (4), and Megalonychidae (2). We have no occurrence data on Dasypus pilosus (Dasypodidae). Regarding Cyclopedidae, until recently, only one species was recognized, but new genetic studies have revealed that the group is represented by seven species. In this data-paper, we compiled a total of 42,528 records of 31 species, represented by occurrence and quantitative data, totaling 24,847 unique georeferenced records. The geographic range is from the south of the USA, Mexico, and Caribbean countries at the northern portion of the Neotropics, to its austral distribution in Argentina, Paraguay, Chile, and Uruguay. Regarding anteaters, Myrmecophaga tridactyla has the most records (n=5,941), and Cyclopes sp. has the fewest (n=240). The armadillo species with the most data is Dasypus novemcinctus (n=11,588), and the least recorded for Calyptophractus retusus (n=33). With regards to sloth species, Bradypus variegatus has the most records (n=962), and Bradypus pygmaeus has the fewest (n=12). Our main objective with Neotropical Xenarthrans is to make occurrence and quantitative data available to facilitate more ecological research, particularly if we integrate the xenarthran data with other datasets of Neotropical Series which will become available very soon (i.e. Neotropical Carnivores, Neotropical Invasive Mammals, and Neotropical Hunters and Dogs). Therefore, studies on trophic cascades, hunting pressure, habitat loss, fragmentation effects, species invasion, and climate change effects will be possible with the Neotropical Xenarthrans dataset.
 
 **Current note:** The title and abstract do not establish a distance education focus.
+
+### Miss · Ridi_4b0d41dfb0716fba611688f08be379a3
+
+**Title:** O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_4b0d41dfb0716fba611688f08be379a3/Description
+
+**Abstract:** This research investigates the philosophical foundations of Information Science, framed as a human and social science. It develops from a perspective that shifts the analysis of Information Science from a philosophy of language to a philosophy of the human being based on the philosophy of Xavier Zubiri and his theory of sentient intelligence and reality, as well as his studies on the human being. The methodological structure involves an exploratory and descriptive bibliographic research, analyzing works by several authors in the field, with emphasis on those who analyze the field from an Ibero-American perspective and those who think about the field from a documental and neodocumentalist vision. The study arrives at the concept of documentality and, after descriptive syntheses, analyzes the theoretical framework in a triangulation with the philosopher Zubiri. The aim of the research is to demonstrate the philosophical bases for a philosophical anthropology of Information Science, using the foundations of the thought and philosophy of Xavier Zubiri, especially regarding his intellectual strength in questioning the relationship between science and technique, and in his philosophy of intelligence and reality focusing on epistemological, ontological and methodological aspects, from a documental and realist perspective. To this end, epistemological (Information Science as a social science), ontological (the document as the object of study of Information Science) and methodological (Zubiri's philosophical anthropology with philosophical perspectives aligned with the epistemological and ontological assumptions proposed for Information Science) elements were described. The main results are: (1) Regarding the epistemological foundations, the epistemological basis proposed in the thesis suggests that the Philosophy of Information Science can be seen as a philosophical anthropology. This implies that the understanding of information goes beyond the focus on language, and there may be more fundamental elements related to the sentient intelligence of the human being. (2) Regarding the ontological foundations, the research not only adheres to the Zubiriana thesis that the human being is an animal of realities, but also highlights the human being's capacity to document reality. In other words, it establishes an intrinsic relationship between the human being (an animal that documents reality) and the document, indicating that Information Science is, essentially, a "social science of the document". (3) The philosophical perspective proposed by the thesis highlights Information Science as an applied social science, whose focus on the document implies an approach that recognizes and studies the human being in its individual, social and historical dimensions. The thesis stands out in its originality by suggesting the inclusion of philosophical anthropology as a way of thinking alternative to language, presented as a unique contribution to the field. The proposed approach also emphasizes the importance of a deep dialogue between social epistemology and social ontology, which suggests an integration between the document and the human being, overcoming hermeneutic, physical or cognitivist paradigms, offering, via philosophical anthropology, an alternative way of thinking about the Philosophy of Information Science.
+
+**Current note:** The title concerns information philosophy, not distance education.
 
 ### Miss · UY_c2d5a86dee383cfee08da86725197352
 
@@ -316,6 +336,16 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
+### Miss · UY_90cb5df4691194f32bee1e536463eac3
+
+**Title:** El uso crónico de medicamentos
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_90cb5df4691194f32bee1e536463eac3/Description
+
+**Abstract:** _No abstract exposed by the record._
+
+**Current note:** The title is only about chronic medication use and the record exposes no abstract establishing diabetes.
+
 ## human-rights
 
 ### Related hit · UY_39a49e6a7e021b629eb5e8aabe61aa5f
@@ -355,6 +385,16 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_5934653201fbf42594d451ec87996bdf/Description
 
 **Abstract:** The distinction between the human body and the animal body is one of the interpretative key aspects of what distinguishes the human being from the rest of the living beings. In the early 1970s, the accusation of speciesism arose against those who proposed differential treatment of human beings, above other animal species. Speciesism would be a form of discrimination akin to racism or sexism, and therefore unfair. For some time now, the social influence of this current of thought has been continuously increasing, even changing the relationship with the animal world. However, this position violates human dignity in one way or another, at least in cases such as with the most vulnerable. This is why we will try to argue why the arguments of speciesism do not hold. The human person possesses a particular dignity, not for reasons of species, but because being treated in advance as a person, we respond with characteristics that demonstrate the ability to possess that moral status. This argument, taken from Timothy Chappell, is based on the proleptic treatment of the person. Based on this idea, we will attempt to respond to the specific arguments of anti-speciesism and demonstrate why the human person deserves a different moral treatment than other living beings.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_1624fd3f75c2baf9ba3d581cefee4edc
+
+**Title:** Análise da literatura das humanidades digitais: uma proposta bibliométrica para descrição de seu escopo e congruência conceitual
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_1624fd3f75c2baf9ba3d581cefee4edc/Description
+
+**Abstract:** This study aims to build and visualize bibliometric maps from a literature review on digital humanities. The main objective of this research was to elaborate a mapping of the field through the construction of graphs for analysis of bibliometrics metrics. A reading of these data was implemented using the VOSviewer software to build a diagnosis of the scope of digital humanities. The analysis focused on the data which provide subsidies for a thematic-conceptual description and the domain of digital humanities when analyzing keywords, authors and journals. It seeks a sensitive notion of what can reveal the influence of the production of academic literature on the composition of digital humanities. It applies an analysis based on three pillars of bibliometric studies: authors, journals and keywords of retrieved academic articles. It outlines a scope analysis of the digital humanities domain based on bibliometric research. It clarifies the constitution of an incipient and complex domain through the analysis of the characteristics printed in the literature and only through it available. It combines concepts about bibliometric approaches with analysis based on visualization tools, legitimizing practices concerning digital humanities as a tool for knowledge of the field itself. It pursues a categorization capable of not only revealing details of its scope, but also providing elements indicative of which themes influence the area. It indicates the influence of other disciplines in the digital humanities and visualizes clearly which terms appear with greater recurrence. It lists the most recurrent terms in the literature, breaking down this list into terms indicated by the authors and those indicated by the database indexes. It compares these data in order to achieve a thematic-conceptual expressiveness of a field considered interdisciplinary and hybrid. It categorizes the product of these data to conclude, in addition to an organic thematic-conceptual description, a diagnosis of the digital humanities domain.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -550,6 +590,56 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
+### Miss · UY_6aeaaa7fd958388c3a838a899e9901ee
+
+**Title:** Illegal migration and weather shocks
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_6aeaaa7fd958388c3a838a899e9901ee/Description
+
+**Abstract:** Incluye Bibliografía.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Related hit · UY_4aed639e6a0b71b472f76da70a731eba
+
+**Title:** Reconocimiento y medición de derechos de emisión de carbono
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_4aed639e6a0b71b472f76da70a731eba/Description
+
+**Abstract:** Incluye Bibliografía
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_1360ebddc22861ea9b824a8b7264c894
+
+**Title:** An Analysis of Hydrodynamic Models and a Proposal of Cultural Change based on predictions : The case of the Rio Grande do Sul Flood, Brazil
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_1360ebddc22861ea9b824a8b7264c894/Description
+
+**Abstract:** The largest episode of extreme climate crisis in Brazil, the floods and inundations in the state of Rio Grande do Sul-RGS in May 2024, have highlighted the urgent need to rethink urban infrastructure and research priorities in contexts of lack of access to knowledge and disorganized territorial planning. The main objective of this study is to analyze the relationship between flood management and the implementation of structural and non-structural measures. Through a systematic literature review, solutions based on hydrodynamic models with potential application to prevent and mitigate floods in urban environments are identified. Likewise, a critical evaluation of the strategies employed during the major flood in Rio Grande do Sul is carried out, proposing more effective and sustainable alternatives. The RGS also faces cultural problems with a cascading effect—serious attempts at separatism from the rest of Brazil and constant acts of machismo and racism, with several deaths, due to the belief of superiority—that impact crisis management. Based on this approach, the following research question is posed: What role does culture play in knowledge management about floods and drainage, especially in relation to the use of hydrodynamic models? This question gives rise to the proposal of an integrated Cultural Intelligence, Knowledge Management, and Social Participation model, aimed at optimizing the design and implementation of flood control plans. Initially, a comparative analysis of the CRESTv2.1, HEC-RAS, MIKE 21, and cGAN-Flood models was considered, and the application of the Hydropol2D forecasting model was considered. However, important limitations were identified, such as the omission of the effects of agricultural activity on hydrological dynamics. Consequently, it is suggested to replace Hydropol2D with the SWAT+ (Soil and Water Assessment Tool) model, in combination with the groundwater module (GWFlow), which allows a more precise simulation of surface and subsurface hydrological processes. This integrated tool not only offers greater capacity to assess the impact of land uses and agricultural practices, but also improves the accuracy in modeling urban drainage scenarios. Keywords: cultural change, knowledge management, hydrodynamic models, organizational intelligence, SWAT+ GWFlow, urban planning.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_966ad28ffff49f0964ebf8452bae7243
+
+**Title:** Políticas públicas em combate à seca no município de Croatá–CE (1983-1996)
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_966ad28ffff49f0964ebf8452bae7243/Description
+
+**Abstract:** Ao longo da história, o problema com o estigma da seca sempre foi característica marcante do semiárido brasileiro, região cujos impactos oriundos dos longos períodos de estiagem são frequentes. No decorrer da história, surgiram diversas medidas para o gerenciamento das secas, que tinham o objetivo de “combater” suas origens e/ou consequências, principalmente, aquelas de ordem socioeconômica. Nessa perspectiva, refletindo sobre as iniciativas de “combate” do fenômeno, este estudo objetiva discutir e identificar o período desta transição paradigmática, no âmbito das políticas públicas, analisando, sobretudo, as eventuais mudanças entre as duas perspectivas, no que tange ao “lidar” com o fenômeno das secas, criando e adotando tecnologias para conviver com a situação climática, pois combater um fator natural fica bem mais difícil, pois não se pode combater o que não se pode mudar, sendo assim, criam-se políticas de convivência com o semiárido.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_ec49a30d7e45247c34fe4b5c64e6341f
+
+**Title:** Dinâmicas sociais e turismo: o veraneio contemporâneo no litoral norte do Rio Grande do Sul
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_ec49a30d7e45247c34fe4b5c64e6341f/Description
+
+**Abstract:** Esse artigo destina-se à discussão sobre o turismo no litoral norte do Rio Grande do Sul, em perspectiva interdisciplinar, teórica e histórica. Fatores climáticos, logísticos, de transportes e comunicação, transição demográfica, mudanças na composição e tamanho das famílias são relacionados à reflexão necessária sobre o caráter sazonal do turismo no modelo usual de segundas residências. Por meio de revisão bibliográfica não sistemática explora aspectos acerca do turismo doméstico de sol e praia na região, e entabula discussão sobre as mudanças comportamentais no hábito de veraneio dos gaúchos, com a proposta de descrever pontos de inflexão que tornam possível compreensões atualizadas e necessárias. O discurso convencional e estatísticas oficiais sobre o turismo de verão são apenas a parte visível desse fenômeno social, abaixo da linha d’água, o corpo de práticas tem um volume maior, diverso e complexo e articula-se à especulação imobiliária, às políticas de incentivo público, e às novas temporalidades influenciadas pelo mundo virtual dentre outras transformações socioculturais vigentes. As temporadas de férias de verão se tornam cada vez mais curtas, com evidência maior de movimento pendular de visitantes do que permanência; e se por um lado o sonho de possuir uma casa de praia própria começa a perder o brilho, cada vez mais os outrora veranistas optam por estabelecer residência permanente na região, especialmente os mais idosos. O velho veraneio entra em ocaso, e na falta de vocábulo mais específico, boas-vindas à agenda de pesquisa sobre o veraneio contemporâneo, que dura o ano todo.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
 ### Miss · UY_d222dff5a50925ec431eafa9ce8c8d2c
 
 **Title:** Evaluation of site-specific management practices to reduce the heterogeneity in grapevine vigor, yield, and grape composition
@@ -600,26 +690,6 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The title concerns social and project changes, and the record exposes no abstract establishing climate change.
 
-### Miss · UY_6aeaaa7fd958388c3a838a899e9901ee
-
-**Title:** Illegal migration and weather shocks
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_6aeaaa7fd958388c3a838a899e9901ee/Description
-
-**Abstract:** Incluye Bibliografía.
-
-**Current note:** The title and abstract do not establish a climate change focus.
-
-### Related hit · UY_4aed639e6a0b71b472f76da70a731eba
-
-**Title:** Reconocimiento y medición de derechos de emisión de carbono
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_4aed639e6a0b71b472f76da70a731eba/Description
-
-**Abstract:** Incluye Bibliografía
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
 ### Related hit · UY_b98722ee9702e7be1163efc2c90efac8
 
 **Title:** East Asian warm season temperature variations over the past two millennia
@@ -630,165 +700,65 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
+### Related hit · UY_7dd8628e9353d4441441a94dd728b00e
+
+**Title:** Emisiones de gases de efecto invernadero
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_7dd8628e9353d4441441a94dd728b00e/Description
+
+**Abstract:** Incluye Bibliografía
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_0ac6861ed45b9f13dba36c22d5870fd8
+
+**Title:** A stochastic precipitation generator conditioned by a climate index.
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_0ac6861ed45b9f13dba36c22d5870fd8/Description
+
+**Abstract:** This work presents a stochastic daily precipitation generator that incorporates a climate index to reflect the associated, seasonally varying, influence on simulated precipitation statistics. The weather generator is based on a first-order, two-state Markov chain to simulate the occurrence of daily precipitation and a gamma distribution to compute the nonzero daily precipitation amounts. Therefore, it has four parameters that are, in turn, allowed to vary daily following an autoregressive linear model in Gaussian space that simulates the parameters’ deviations from their climatological seasonal cycle. This model is forced by the independently predicted evolution of a climate index and captures how the model parameters and, therefore, precipitation are gradually shifted by the associated climate signal. In this case, the Niño-3.4 index is used to account for the influence of the El Niño–Southern Oscillation (ENSO) phenomenon on precipitation in Uruguay. However, the methodology is general and could be readily transferable to indices of other climate modes or downscaling algorithms for seasonal climate prediction. The results show that the proposed methodology successfully captures the ENSO signal on precipitation, including its seasonality. In doing so, it greatly reduces the underestimation of the seasonal and interannual precipitation variability, a well-known limitation of standard weather generators termed the “overdispersion” phenomenon. This work opens interesting opportunities for the application of seasonal climate forecasts in several process-based models (e.g., crop, hydrological, electric power system, water resources), which may be used to inform the decision-making and planning processes to manage climate-related risks.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
 ## english-extra
 
-### Miss · Deposita_473f71bada9dcedbb21a414d3f58b651
+### Related hit · Deposita_01d2d94a42b9273b5089d28cb61824f1
 
-**Title:** Leadership Development of Technology Students through Experiential Learning
+**Title:** Distância Entre Curvas Algébricas: Uma Discussão para o Ensino Médio
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_473f71bada9dcedbb21a414d3f58b651/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_01d2d94a42b9273b5089d28cb61824f1/Description
 
-**Abstract:** In a world where technology is changing every single detail of our societies, schools, and organizations in a skyrocketing speed, it is worrying that the way we develop our leaders is improving so slowly. With numerous studies showing that leadership is one of the factors that impact the most on software projects’ success, it is worrying that more than $14B are spent yearly with leadership development and, still, most organizations believe they are not being effective. One of the most efficient methodologies for leadership development inside companies is the Experiential Learning from David Kolb, but it still has some problems in gaining traction inside universities due to their difficulty of simulating practical experiences. Many different approaches have been tried with various results and little standardization is perceived on the way they are used. For this reason, this study proposes a framework for using group activities as a means to help technology students practice leadership skills. A first pilot was executed with pleasant results and feedback from students, but more experiments are necessary to ensure its application for other skills and contexts.
-
-**Current note:** The abstract concerns experiential leadership training, not online learning.
-
-### Miss · Deposita_a7f09ac48ffe2a9e0e182b27ad089b4d
-
-**Title:** Discalculia: como utilizar a ludicidade a favor do professor e do aluno
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_a7f09ac48ffe2a9e0e182b27ad089b4d/Description
-
-**Abstract:** O ser humano, desde muito cedo, elabora suas primeiras noções matemáticas que podem ser melhor observadas pelos professores em sala de aula. A matemática é composta por quatro eixos: tratamento de informações, números e operações, grandezas e medidas, espaço e forma. Segundo os RCN’s (Referencial Curricular Nacional), que compreendem a Educação Infantil (BRASIL, 1998) e o 1º do Ensino Fundamental, são trabalhados apenas os três últimos. A primeira, tratamento de informações, é inserida somente a partir do 2º ano do Ensino Fundamental, conforme os PCN’s. Durante a Educação Infantil, é possível averiguar se o aluno possui alguma anormalidade presente nas avaliações contínuas feitas pelos professores em um ou mais destes eixos, de modo a detectar previamente algum distúrbio de aprendizagem. Obviamente, o estudo profundo de cada caso deve ser feito por um psicopedagogo. A discalculia é um desses distúrbios que representa entre 3% a 6% das crianças que estão em idade escolar. Por isso, os docentes e responsáveis devem atentar-se aos sinais emitidos pelas crianças.
-
-**Current note:** The abstract concerns dyscalculia teaching strategies, not online learning.
-
-### Related hit · UY_00295c55845e168d1cc8314dd7d4fdf6
-
-**Title:** YOUNG PEOPLE AND VIRTUAL COMMUNITIES. NEW WAYS OF LEARNING AND OF SOCIAL PARTICIPATION IN THE DIGITAL SOCIETY
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_00295c55845e168d1cc8314dd7d4fdf6/Description
-
-**Abstract:** This paper is based on a research project developed in Spain, where we explored how and what young people learn in virtual communities. Although the term virtual community has been broadly used to approach online social interactions, it has generated several academic debates. Nevertheless, it is a useful term to define a social network made up mostly of young people who share an interest and choose to interact online with others to discuss, exchange, show their creations to the world, and promote certain values. As researchers on Sociology and Education, we find this phenomenon especially intriguing. We wonder why young people engage in virtual communities, why they should spend so much time interacting with others online and what benefits they consider they have. Our hypothesis is that it has to do with a shared sense of belonging to a community and the possibilities young people find to create opportunities to learn with and from each other. The results of this article are based on the analysis of seven case studies conducted in virtual communities, and they address two main questions: what leads young people to participate in virtual communities and how is learning and social participation promoted through virtual communities.
+**Abstract:** O presente trabalho teve como problema de investigação o ensino da Distância entre Curvas Planas Fechadas, no Ensino Médio, por meio da conexão entre conceitos diferentes e abstratos com objetos que são estudados nesse nível escolar. Dessa forma, foram propostos a introdução de noções básicas sobre Topologia no Ensino Básico. Distância entre Curvas Algébricas Planas Fechadas foi o centro de interesse. A questão que moveu esta pesquisa foi: Como colocar uma Distância entre Curvas? Para uma transposição didática, buscou-se relacionar saberes básicos presentes em alunos do Ensino Médio a uma noção abstrata de Distância entre Curvas no plano. A Ąm de ampliar a investigação central, delimitaram-se outras duas perguntas que podem complementar a primeira: O que é Distância? Como utilizar a noção intuitiva de Distância no plano para colocar uma Distância entre objetos que estão no plano? Metodologicamente, esta pesquisa baseou-se em estudos bibliográĄcos e na elaboração de sequências didáticas, utilizando ferramentas tecnológicas educacionais, com o propósito de otimizar e assegurar a aprendizagem deste assunto, mesmo estando no Ensino Básico. Os Resultados desta pesquisa apontam que há ligação entre Curvas Algébricas Planas, espaço das Curvas, espaço métrico, Distância de Hausdorff e Distâncias entre Curvas, que, se trabalhados de forma articulada pelo professor, pode levar o aluno a associar o conceito de Distância entre Conjuntos em um espaço métrico à Distância entre Curvas planas Fechadas. A partir disso, conclui-se que, embora tenham sido consideradas condições ideais para o processo de ensino e aprendizagem, como a existência de programas de computador ao alcance do professor e dos alunos, é possível o trabalho dessa temática complexa no Ensino Médio, auxiliando o desenvolvimento de diversas noções matemáticas.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Miss · Deposita_3dffba39cde2d6de74d6f15afcd4fd77
+### Related hit · Ridi_976e7c66b569a71840f2e8f1765799f5
 
-**Title:** Perspectives on the Feasibility and Adoption of Fully Homomorphic Encryption - A Fully Homomorphic Encryption Application on Spam Detection with Machine Learning Models
+**Title:** Comunicação da informação em redes virtuais de aprendizagem
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_3dffba39cde2d6de74d6f15afcd4fd77/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_976e7c66b569a71840f2e8f1765799f5/Description
 
-**Abstract:** The general adoption of cloud computing resulted in frequent security incidents, including data breaches in both the public and private sectors. Cloud service providers operate without transparency, fail to comply with regulations, and exploit private data for targeted advertising and training artificial intelligence models. The major tech companies have also been found to collaborate with intelligence agencies to illegally surveil individuals and governments by sharing private data, such as email communications. This study analyses the feasibility of Fully Homomorphic Encryption (FHE) as a solution to these security and privacy concerns, focusing on spam detection and email providers as representative subjects in the universe of outsourced computations on users’ private data. FHE maintains data privacy by enabling computations while the data is still encrypted, but it demands substantial computing and memory resources. The development of FHE-based applications is complex, requiring advanced knowledge of mathematical and cryptographic concepts. This work assesses the feasibility of FHE through experiments in spam detection by implementing Fully Homomorphic Encryption Spam Detector (FHE-SD), an application using the Concrete-ML libraries, which abstracts the complexity of FHE and simplifies its adoption. The experimental environment is a device with limited hardware resources, chosen to test if FHE can function without specialized hardware. For meaningful results, FHE-SD supports spam detection using machine learning algorithms, which are commonly used for spam detection. Four machine learning models are implemented in FHE-SD, in their FHE and on-clear versions, enabling various metrics and performance comparisons against traditional approaches.
-
-**Current note:** The abstract concerns encryption and spam-detection machine learning, not online learning.
-
-### Miss · UY_cfc3d00a35b9ed1a20f9f538f2578ca3
-
-**Title:** Professional learning communities in initial teacher education in Uruguay: social network analysis
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_cfc3d00a35b9ed1a20f9f538f2578ca3/Description
-
-**Abstract:** This research addresses a network analysis in three teacher education centers for teachers and professors in Uruguay to determine the degree to which they function in professional communities according to four aspects: innovation initiatives, information exchange, digital inclusion, and collaboration in planning. The study is based on a previous categorization regarding the level of digital inclusion for deep learning on the basis of an online survey applied to 32 principals of public teacher education centers (high, medium, and low levels). One case was identified at each level, taking into account the geographic characteristics and the type of teacher education center. In each case, information-gathering techniques were applied: in-depth interviews, surveys for the network analysis, and focus groups. Results show that in all three cases, professional learning communities lite (as defined by Dufour &amp; Reeves, 2016). In two of the centers, those with the higher rate of digital inclusion for learning, there is a diversity in the actors who form the ties that make up the networks. Last, the innovation network is the weakest in terms of the number and variety of the ties.
-
-**Current note:** The abstract concerns professional learning communities, not online learning.
-
-### Related hit · Deposita_42dffcb9ddff927a262f9ff166f505fc
-
-**Title:** O Google Classroom no contexto de um curso de formação para docentes do ensino superior
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_42dffcb9ddff927a262f9ff166f505fc/Description
-
-**Abstract:** No âmbito educacional, existem atualmente diversas opções de software que podem desenvolver atividades voltadas para o ensino, especificamente no gerenciamento de cursos e disciplinas. O uso do Google Classroom, por exemplo, vem agregando e apoiando esse novo mundo de software educacionais. Assim, a presente pesquisa tem por objetivo compreender a percepção do professor em relação ao Google Classroom a partir de um curso de formação para docentes do ensino superior. A fundamentação teórica que embasou a análise da pesquisa contemplou o uso das tecnologias no ensino, ensino híbrido, inovação, formação docente e a relação do Classroom com a pandemia de 2020. O caminho desenvolvido e inspirador para o percurso metodológico foi apoiado nos elementos da pesquisa-ação de Thiollent e análise de conteúdo de Bardin. Os dados foram selecionados a partir da aplicação de dois questionários a professores do ensino superior, por meio de um curso de formação. Assim, interpreta-se que os resultados evidenciaram que a pesquisa contribuiu para a resolução do problema que orientou a coleta de dados, bem como ampliou a gama de conhecimento sobre o tema, visto que os docentes no início do curso sentiram dificuldades em manusear o aplicativo, porém, durante a formação, aperfeiçoaram o uso do Google Classroom como forma de metodologia ativa para suas aulas, tornando essencial auxiliar os alunos na construção do conhecimento, de maneira que eles se sentissem motivados e conseguissem superar suas dificuldades, principalmente em relação aos conteúdos. A pesquisa geral teve como produto final o Curso de Formação para Docentes do Ensino Superior.
+**Abstract:** Contemporary society is based on two pillars: information and knowledge, supported by digital technologies. It brings the necessity of a new attitude and the acquisition of new skills by the users, mainly in the process of communicating the information. This new attitudes and skills result in a search for continuous learning and in the use of intellectual technologies. This process occurs in every single level of contemporary society, involving activities such as training and capability improvement and, mainly, production and management of information. In this sense, learning virtual networks are fundamental to facilitate the communication of information in a society whose structure is becoming more and more distant of hierarchy. This digital network is presented in a new channel of communication of information: the cyberspace. In this process, professors and professionals of information are seen as facilitation agents; on the other side, in learning virtual networks, a professional of information can also be a manager of virtual environment
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Miss · UY_79da2c45915479090e23fa7675a61bc1
+### Related hit · Ridi_230a949e21d71c9f862da96f80cf9f30
 
-**Title:** Learning for Optimization with Virtual Savant
+**Title:** Aprendizagem organizacional em bibliotecas universitárias: um estudo de caso da rede YDUQS
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_79da2c45915479090e23fa7675a61bc1/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_230a949e21d71c9f862da96f80cf9f30/Description
 
-**Abstract:** Optimization problems arising in multiple fields of study demand efficient algorithms that can exploit modern parallel computing platforms. The remarkable development of machine learning offers an opportunity to incorporate learning into optimization algorithms to efficiently solve large and complex problems. This thesis explores Virtual Savant, a paradigm that combines machine learning and parallel computing to solve optimization problems. Virtual Savant is inspired in the Savant Syndrome, a mental condition where patients excel at a specific ability far above the average. In analogy to the Savant Syndrome, Virtual Savant extracts patterns from previously-solved instances to learn how to solve a given optimization problem in a massively-parallel fashion. In this thesis, Virtual Savant is applied to three optimization problems related to software engineering, task scheduling, and public transportation. The efficacy of Virtual Savant is evaluated in different computing platforms and the experimental results are compared against exact and approximate solutions for both synthetic and realistic instances of the studied problems. Results show that Virtual Savant can find accurate solutions, effectively scale in the problem dimension, and take advantage of the availability of multiple computing resources.
-
-**Current note:** Virtual Savant is an optimization system, not a virtual-education setting.
-
-### Related hit · UY_e00a894592ba0d4360e00a83f3382ebb
-
-**Title:** Utilización de servicios web para adaptabilidad de e-cursos
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e00a894592ba0d4360e00a83f3382ebb/Description
-
-**Abstract:** Este trabajo se centra en estudiar los servicios web desde el punto de vista de Objetos de Aprendizaje y su aplicación para lograr adaptabilidad, buscando a la vez, formas sencillas de ser utilizados desde la plataforma Moodle, la plataforma para gestión de e-Cursos más utilizada dentro de la Universidad de la República. Además el trabajo aporta mecanismos para la recuperación de metadatos de interés educativo y pedagógico. El diseño instruccional de un curso en la plataforma Moodle permitió realizar una prueba de concepto del uso de actividades instruccionales como forma de recolectar metadatos y asociarlos a los Objetos de Aprendizaje en la propia instancia de aprendizaje. Por otro lado permitió validar una implementación del estándar para integración de Web Services en los LMS.
+**Abstract:** Organizational learning plays a fundamental role in the development and modernization of university libraries, especially in large institutions such as the YDUQS network. In view of technological transformations and new demands in higher education, it is essential to implement strategies that strengthen the continuous training of librarians and promote innovation in the organizational environment. In this context, the research investigates the application of organizational learning (OL) practices in a network of Brazilian university libraries. This is a single case study with descriptive and exploratory objectives. It adopts bibliographic, documentary and field research as methods. From the point of view of data analysis and result demonstration, it follows a qualitative and quantitative approach. Furthermore, this is action research, based on the concept of improving the practices discussed in the study. It discusses the organizational learning practices developed in the network investigated. It proposes guidelines for a structured organizational learning program aimed at the libraries of the YDUQS network, focusing on professional qualification, sharing of good practices and building an organizational culture oriented towards continuous learning. The program proposal was structured in essential stages, including organizational diagnosis, definition of key competencies, planning of training actions, implementation of in-person and distance training, impact assessment and creation of mechanisms to ensure the sustainability and continuity of the learning process. In addition, technological resources and active methodologies were considered to enhance the dissemination of knowledge among professionals in the network. It presents the librarian as a professional capable of developing organizational learning, including influencing knowledge management (KM) practices in the organizational context. Furthermore, it shows that innovation is a preponderant factor for the development of an organizational learning culture in these environments. The results indicate that a well-structured organizational learning program can contribute significantly to improving the services provided by libraries, ensuring greater efficiency in information management and in the mediation of academic knowledge. It is concluded that the institutionalization of organizational learning in university libraries - and, in this case, in the case of the YDUQS library network - is a fundamental strategy for facing the contemporary challenges of higher education, promoting a collaborative, innovative environment aligned with the needs of users.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · UY_64168130568b51b611d7f02fcd286827
+### Miss · UY_57a619f94329e5c3a97e252cf953d637
 
-**Title:** Tecnologías digitales y aprendizajes visibles
+**Title:** Conjunto de datos de: Water-quality data imputation with a high percentage of missing values: a machine learning approach
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_64168130568b51b611d7f02fcd286827/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_57a619f94329e5c3a97e252cf953d637/Description
 
-**Abstract:** Este trabajo es una divulgación de la tesis de doctorado en sociología de Susana Lamschtein de la Facultad de Ciencias Sociales, Universidad de la República, Tecnologías digitales y aprendizajes visibles. Habilidades asociadas al uso de las tecnologías digitales en los estudiantes de la enseñanza secundaria pública de Montevideo (2017). Las políticas de un computador por niño en la educación formal han destacado la necesidad de apuntar a las habilidades para el siglo XXI, que trascienden las habilidades digitales operativas básicas. La educación debe preparar a los jóvenes, generando capacidades para la resolución de problemas, con el apalancamiento de las tecnologías de la información y la comunicación (tic). Cuando se llevó adelante esta investigación, en el año 2014, en el sistema educativo uruguayo se había avanzado fundamentalmente en la provisión de infraestructura tecnológica, pero las actividades educativas mediadas por tecnologías alcanzaban solamente a un pequeño porcentaje de los estudiantes. Para este trabajo se aplicó una encuesta en línea y una prueba de habilidades digitales informacionales. Además, se relevaron las calificaciones de una muestra aleatoria representativa de los estudiantes de tercer año de educación secundaria pública de Uruguay que asistían a centros educativos en turnos diurnos. La investigación en la que se basa esta publicación tuvo como objetivo el estudio de la asociación entre dos tipos específicos de aprendizajes: las habilidades curriculares y las habilidades digitales informacionales, con usos específicos de las tic. La hipótesis sobre la que se trabajó fue que cuando hay una conexión de sentido entre el tipo de uso de las tecnologías y el tipo de desempeño medido, es posible observar aprendizajes asociados a dicho uso.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · Ridi_c812ff0b8ba0ffca6b782f06daa8ba35
-
-**Title:** Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_c812ff0b8ba0ffca6b782f06daa8ba35/Description
-
-**Abstract:** This research had as objective discovery how is the use of Web in the learning / teaching process in the public schools of Contagem city. It started with a bibliography research which contributed with co-related researches. After that a quiz was applied to teachers and students of two units of Fundação de Ensino de Contagem. This quiz had two parts, one applied in the school another one on-line. Then some teachers were invited to participate of an interview that had a purpose to understand which difficulties they encountered in applying the Web in scholar works. With the data obtained in the research some quantitative and qualitative analyses became possible and the research identified the students and teachers profile, how teachers and students understand Web concept, what are the most common Web services for then and how they use the Web. This research obtained as result the form that Web 2.0 resources are used, what applications are most used, the place students use it and if there are any pedagogical use actually.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Miss · UY_15a4774311a89cc26417459ecb9c3d3e
-
-**Title:** A machine learning approach to model leaf area index in Eucalyptus plantations using high-resolution satellite imagery and airborne laser scanner data.
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_15a4774311a89cc26417459ecb9c3d3e/Description
-
-**Abstract:** ABSTRACT. - As a forest structural parameter, leaf area index (LAI) is crucial for efficient intensive plantation management. Leaf area is responsible for the energy absorption needed for photosynthetic production and transpiration, both affecting growth. Currently, LAI can be estimated either by remote-sensing methods or ground-based methods. However, unlike ground-based methods, remote estimation provides a cost-effective and ecologically significant advance. The aim of our study was to evaluate whether machine learning algorithms can be used to quantify LAI, using either optical remote sensing or LiDAR metrics in Eucalyptus dunnii and Eucalyptus grandis stands. First, empirical relationships between LAI and remote-sensing data using LiDAR metrics and multispectral high-resolution satellite metrics, were assessed. Selected variables for LAI estimation were: forest canopy cover, laser penetration index, canopy relief ratio (from among the LiDAR data), the green normalized difference vegetation index, and normalized difference vegetation index (from among spectral vegetation indices). We compared the accuracy of three machine learning algorithms: artificial neural networks (ANN), random forest (RF) and support vector regression (SVR). The coefficient of determination ranged from 0.60, for ANN, to 0.84, for SVR. The SVR regression methods showed the best performance in terms of overall model accuracy and RMSE (0.60). The results show that the remote sensing data applied through machine learning algorithms provide an effective method to estimate LAI in eucalypt plantations. The methodology proposed is directly applicable for operational forest planning at the landscape level. © 2021, Editura Silvica. All rights reserved.
-
-**Current note:** The title and abstract do not establish a english extra focus.
-
-### Miss · UY_bf921930c35d6e2cd1f9a137f9464b57
-
-**Title:** Assessing Sirex noctilio Fabricius (Hymenoptera: Siricidae) damage in pine plantations using remote sensing and predictive machine learning models.
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_bf921930c35d6e2cd1f9a137f9464b57/Description
-
-**Abstract:** ABSTRACT.- Early detection and monitoring of invasive forest pests are crucial for effective pest management, particularly in preventing large-scale damage, reducing eradication costs, and improving overall control effectiveness. This study investigates the potential of machine learning models and remote sensing at various spatiotemporal scales to assess forest damage caused by the woodwasp Sirex noctilio in pine plantations. A Random Forest (RF) model was applied to analyze Planetscope satellite images of Sirex-affected areas in Neuquén, Argentina. The model's results were validated through accuracy analysis and the Kappa method to ensure robustness. Our findings demonstrate that the RF model accurately classified Sirex damage levels, with classification accuracy improving progressively over time (overall accuracy of 87% for five severity categories and 98% for two severity categories). This allowed for a clearer distinction between healthy and Sirex-infested trees, as well as a more refined categorization of damage severity. This study highlights the potential of machine learning models to accurately assess tree health and quantify pest damage in plantation forests, offering valuable tools for large-scale pest monitoring. © 2025 by the authors. Licensee MDPI, Basel, Switzerland.
-
-**Current note:** The title and abstract do not establish a english extra focus.
-
-### Miss · UY_445353da41e8b9425369292dfc546dbe
-
-**Title:** A machine-learning based ConvLSTM architecture for NDVI forecasting.
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_445353da41e8b9425369292dfc546dbe/Description
-
-**Abstract:** Abstract:Normalized difference vegetation index (NDVI) is an essential remote measurement for agricultural studies because of its strong correlation with crop growth and yield. Accurate and comprehensive NDVI forecasts thus provide effective future projections of crop yield for precise agricultural planning and budgeting. Previous recurrent neural network (RNN) based forecasting methodologies have only performed single-pixel or large-area-average NDVI predictions. We present an alternative RNN-based deep-learning architecture, the convolutional long short-term memory (ConvLSTM), to supply much more comprehensive and detailed NDVI forecasts. In this paper, a single ConvLSTM is capable of 10,000-pixel field-level NDVI predictions, providing a more practical methodology for agricultural producers than single-pixel studies. We compare our model to the parametric crop growth model (PCGM), another multipixel field-level NDVI forecasting technique. We test each model over the same set of soybean crop field pixels with the root mean square error (RMSE) metric. The training configuration of each model is defined by the number of seasons of historical data used for weight optimization. When the best training configuration of the model found is used, the ConvLSTM obtains an RMSE of 0.0782, outperforming the PCGM?s RMSE of 0.0989 (an improvement of 0.0207 in precision represents a large gain in the accuracy of production volume prediction when projected into large production areas). Finally, by comparing the ConvLSTM predictions with the ground truth data over the entire target region rather than just the soybean crop pixels, we discover that the ConvLSTM can also predict NDVI values over the nonsoybean crop as effectively. © 2020 The Authors.
-
-**Current note:** The title and abstract do not establish a english extra focus.
-
-### Miss · UY_6dcca1e6cba84d80e826746c2f6a5e7e
-
-**Title:** Beyond assimilation of leaf area index: Leveraging additional spectral information using machine learning for site-specific soybean yield prediction.
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_6dcca1e6cba84d80e826746c2f6a5e7e/Description
-
-**Abstract:** ABSTRACT.- Assimilating external observations of crop state in cropping system models is essential for making spatially explicit predictions of crop variables relevant in precision agriculture. Satellite-based leaf area index (LAI) estimates have been the most frequent variable used as a proxy of actual crop growth. However, additional information beyond LAI, like canopy N content, water content, and structure, can be retrieved from satellite observations. Including such variables by data assimilation directly is difficult because many crop models do not have corresponding state variables or the relationship between the observations and the process that regulates crop growth is unclear. Therefore, other approaches are required to include such information. In this study, we investigate the improvement in the predicted yield and feature impact on model outputs by using a hybrid approach that combines observations from Sentinel-1 and 2 time-series with the outputs from a process-based model embedded in a data assimilation framework and uses the Gradient-boosted trees regressor (GBTR) as predictive model. We used two regions with soybean fields: the US (13 K points) and Uruguay (400 K points). We found an advantage when using the GBTR as the predictive model (reduced RRMSE by ~16%) compared to data assimilation. Adding the vegetation indices had a marginal improvement (reduced RRMSE by ~1%), while the impact of adding reflectance and backscatter values was negative. The satellite-based features had a very small importance score, while features' impact on prediction was predominantly unclear, explaining the marginal predictive power added by satellite-based features. We found that features from the reproductive stages had the highest importance, while the importance of an index related to drought stress (NMDI) across the growing season provided insights for further improvement of data assimilation methods. However, more studies are required to better disentangle pathways towards further improvement in constraining crop models by ingesting satellite observations. © 2024
-
-**Current note:** The title and abstract do not establish a english extra focus.
-
-### Related hit · Ridi_e5268efde83fc523e224385f450e545e
-
-**Title:** Os reflexos da pandemia de covid-19 na atuação das Bibliotecas Universitárias e as condições de ensino: o caso dos estudantes de ações afirmativas do curso de Biblioteconomia do es...
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_e5268efde83fc523e224385f450e545e/Description
-
-**Abstract:** The period of social isolation experienced due to the COVID-19 pandemic brought numerous challenges to the educational system with increased access to digital devices and the internet in the teaching process. Thus, new methodological adaptations were implemented, so that teaching and learning did not stop, adopting the Emergency Remote Teaching model. Within this scenario, the present thesis aims to analyze the perception of Library Science students – from UFRJ, UNIRIO, and UFF – resulting from affirmative actions on access to information and knowledge during the period of the COVID-19 pandemic, in the context of university libraries of the Federal Universities of the state of Rio de Janeiro. This is an applied research, with a qualitative and quantitative approach, with exploratory objectives. To this end, bibliographical research– as a technique for understanding the relevance of the topic to be studied – and documentary research were adopted, using diverse and dispersed primary sources, made available through official documents, newspapers, statistical tables, newspapers, magazines, reports, live experiences, etc. These helped to build the theoretical framework based on the concepts of inequality, info-exclusion, mediation, university library and social infrastructure, establishing a connection between affirmative action students and the impacts of the pandemic on the performance of university libraries and the teaching and learning process. As a data collection instrument, a questionnaire was applied to Library Science students at federal universities in the state of Rio de Janeiro. The study made it possible to observe that university libraries mobilized themselves to serve users. As for students, the results obtained through the application of the questionnaire point to the difficulties faced by them, their perception of the actions of university libraries, and the fears experienced during the pandemic. Thus, the hypothesis raised – that students who entered university through affirmative action policies encountered greater difficulties in the teaching and learning process in the face of the new scenario imposed by ERE – can be confirmed.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Miss · UY_3a0be3aea03b152fe45dc45cfa463bf1
-
-**Title:** A chlorophyll-a algorithm for Landsat-8 based on mixture density networks
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_3a0be3aea03b152fe45dc45cfa463bf1/Description
-
-**Abstract:** Material suplementario disponible en:
+**Abstract:** The monitoring of surface-water quality followed by water-quality modeling and analysis is essential for generating effective strategies in water resource management. However, water-quality studies are limited by the lack of complete and reliable data sets on surface-water-quality variables. These deficiencies are particularly noticeable in developing countries. This work focuses on surface-water-quality data from Santa Lucía Chico river (Uruguay), a mixed lotic and lentic river system. Data collected at six monitoring stations are publicly available at https://www.dinama.gub.uy/oan/datos-abiertos/calidad-agua/. The high temporal and spatial variability that characterizes water-quality variables and the high rate of missing values (between 50% and 70%) raises significant challenges. To deal with missing values, we applied several statistical and machine-learning imputation methods. The competing algorithms implemented belonged to both univariate and multivariate imputation methods (inverse distance weighting (IDW), Random Forest Regressor (RFR), Ridge (R), Bayesian Ridge (BR), AdaBoost (AB), Huber Regressor (HR), Support Vector Regressor (SVR), and K-nearest neighbors Regressor (KNNR)). IDW outperformed the others, achieving a very good performance (NSE greater than 0.8) in most cases. In this dataset, we include the original and imputed values for the following variables: - Water temperature (Tw) - Dissolved oxygen (DO) - Electrical conductivity (EC) - pH - Turbidity (Turb) - Nitrite (NO2-) - Nitrate (NO3-) - Total Nitrogen (TN) Each variable is identified as [STATION] VARIABLE FULL NAME (VARIABLE SHORT NAME) [UNIT METRIC]. More details about the study area, the original datasets, and the methodology adopted can be found in our paper https://www.mdpi.com/2071-1050/13/11/6318. If you use this dataset in your work, please cite our paper: Rodríguez, R.; Pastorini, M.; Etcheverry, L.; Chreties, C.; Fossati, M.; Castro, A.; Gorgoglione, A. Water-Quality Data Imputation with a High Percentage of Missing Values: A Machine Learning Approach. Sustainability 2021, 13, 6318. https://doi.org/10.3390/su13116318
 
 **Current note:** The title and abstract do not establish a english extra focus.
 
@@ -802,36 +772,6 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** The abstract confirms a telework and human-resources focus, not remote learning.
 
-### Related hit · UY_3ea7181f3196724783fa8fb98195c005
-
-**Title:** Laboratorios remotos: Nuevas perspectivas para su uso en la educación científica
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_3ea7181f3196724783fa8fb98195c005/Description
-
-**Abstract:** La pandemia de COVID-19 ha impuesto desafíos a los sistemas educativos. En particular, la instauración de una enseñanza remota de emergencia interpela la enseñanza de las ciencias naturales respecto a la realización de actividades experimentales. Estas actividades son centrales para el aprendizaje de procedimientos intelectuales y sensoriomotores propios del área. La necesidad de repensar la enseñanza de las ciencias en estos escenarios educativos ha devenido en el modelo de laboratorio extendido, el cual re- define al laboratorio como un híbrido experimental ubicuo, donde diferentes dispositivos, estrategias y recursos interactúan entre sí de forma sinérgica. Entre los diferentes elementos que se ponen en juego en el modelo están los laboratorios remotos (LR), que son una clara alternativa que per- mite el trabajo riguroso con la complejidad e incertidumbre del dato empírico, así como con la toma de decisiones por parte de los estudiantes y los aprendizajes de los procedimientos propios del quehacer científico. Los LR son recursos tecnológicos que integran software y hardware para configurar una experiencia real a la que se accede a distancia, a través de internet. Los LR pueden clasificarse en laboratorios remotos en tiempo real y laboratorios remotos diferidos. En los próximos años se avizora que estos sean incorporados masivamente en el ecosistema educativo, a fin de complementar las diversas actividades experimentales propuestas en el modelo del laboratorio extendido. El planteamiento de un modelo que permite la integración del componente experimental dentro de los procesos pedagógicos representa un paso hacia la mejora de la comprensión de conceptos y teorías por medio del trabajo experimental.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · UY_f67e3194eacfff90b436e28369f0c012
-
-**Title:** The explanations of physics teacher in classes with remote laboratories.
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_f67e3194eacfff90b436e28369f0c012/Description
-
-**Abstract:** This paper presents a qualitative descriptive study on the explanations of three university physics’ teachers in kinematics classes with remote labs. Real experimental activities can be carried out remotely using these devices. Methodology included non-participant observation, audio recordings and transcriptions of classes that implemented a remote lab. The transcriptions of classes were analysed using Content Analysis and pre-constructed dimensions and categories. The results showed that teachers used guided strategies, recognized the ease of use of remote laboratories and their versatility to teach concepts and procedures, and understood them as a replacement for the hands-on labs. This work constitutes a contribution to the study of remote experimentation in science education, introducing the particular perspective of the teacher as an important user of this type of device because they determine the mode of remote labs inclusion in the educational proposals.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · UY_532642bda01b39d6b2f10a552762be1f
-
-**Title:** Laboratorios remotos en la educación en física: la percepción de los estudiantes
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_532642bda01b39d6b2f10a552762be1f/Description
-
-**Abstract:** En este trabajo se presentan los resultados de una investigación exploratoria, con pretensiones descriptivas, sobre la percepción de los estudiantes de un curso de Física de primer año universitario sobre el uso de laboratorios remotos en un contexto de enseñanza remota de emergencia. Se estudiaron dimensiones como la satisfacción, la percepción de aprendizaje y la usabilidad de estos dispositivos. Lo que se registra es que hay una percepción ampliamente positiva sobre la usabilidad, un grado elevado de satisfacción en su uso, y que tiene un alto impacto en lo que refiere al aprendizaje de procedimientos como la elaboración de gráficos y la gestión de datos. Sin embargo, la opinión acerca de que estos laboratorios puedan apoyar la comprensión de otros contenidos del curso, no parece ser tan contundente, lo cual invita a repensar la propuesta de enseñanza objeto de la pesquisa.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
 ### Related hit · Ridi_8d1c8eef1f5a757da37b931b72d15661
 
 **Title:** Treinamento SEER a distância: uma estratégia para repasse de tecnologia
@@ -842,23 +782,133 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 
 **Current note:** Distance training is related, but narrower than the educational topic.
 
-### Related hit · UY_14ad9a1ec362d0f884587eb6f2a26f1d
+### Related hit · UY_3ea7181f3196724783fa8fb98195c005
 
-**Title:** Conocimientos del profesorado universitario sobre la enseñanza de la química con laboratorios remotos
+**Title:** Laboratorios remotos: Nuevas perspectivas para su uso en la educación científica
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_14ad9a1ec362d0f884587eb6f2a26f1d/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_3ea7181f3196724783fa8fb98195c005/Description
 
-**Abstract:** El trabajo presenta un estudio exploratorio cuyo objetivo es describir y caracterizar el conocimiento declarativo sobre la enseñanza de Valoración Ácido Base con Laboratorios Remotos de un grupo de nueve profesores de química de la Universidad de Buenos Aires. Estos dispositivos permiten realizar actividades experimentales reales remotamente en cualquier momento y desde cualquier lugar. La metodología incluyó el diseño de un cuestionario de preguntas abiertas. Para la revisión de datos se recorrió a algunos aspectos del análisis del contenido y a categorías generadas de acuerdo a los lineamientos de la teoría fundamentada. Los principales resultados mostraron que los profesores sostienen aproximaciones didácticas vinculadas a los protocolos tipo receta y a la mimesis, que consideran intuitivos a los Laboratorios Remotos y que priorizan la enseñanza de los contenidos conceptuales. A modo de conclusión puede decirse que los profesores conciben el trabajo con laboratorios remotos de manera similar a los trabajos prácticos tradicionales. Como perspectiva se plantea que queda inaugurada una línea de investigación, centrada en el conocimiento del profesorado, que deberá incorporar nuevas y variadas estrategias metodológicas.
+**Abstract:** La pandemia de COVID-19 ha impuesto desafíos a los sistemas educativos. En particular, la instauración de una enseñanza remota de emergencia interpela la enseñanza de las ciencias naturales respecto a la realización de actividades experimentales. Estas actividades son centrales para el aprendizaje de procedimientos intelectuales y sensoriomotores propios del área. La necesidad de repensar la enseñanza de las ciencias en estos escenarios educativos ha devenido en el modelo de laboratorio extendido, el cual re- define al laboratorio como un híbrido experimental ubicuo, donde diferentes dispositivos, estrategias y recursos interactúan entre sí de forma sinérgica. Entre los diferentes elementos que se ponen en juego en el modelo están los laboratorios remotos (LR), que son una clara alternativa que per- mite el trabajo riguroso con la complejidad e incertidumbre del dato empírico, así como con la toma de decisiones por parte de los estudiantes y los aprendizajes de los procedimientos propios del quehacer científico. Los LR son recursos tecnológicos que integran software y hardware para configurar una experiencia real a la que se accede a distancia, a través de internet. Los LR pueden clasificarse en laboratorios remotos en tiempo real y laboratorios remotos diferidos. En los próximos años se avizora que estos sean incorporados masivamente en el ecosistema educativo, a fin de complementar las diversas actividades experimentales propuestas en el modelo del laboratorio extendido. El planteamiento de un modelo que permite la integración del componente experimental dentro de los procesos pedagógicos representa un paso hacia la mejora de la comprensión de conceptos y teorías por medio del trabajo experimental.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · UY_b3e061188b598ad7c90b9cf8b4cfadd9
+### Related hit · UY_64168130568b51b611d7f02fcd286827
 
-**Title:** Laboratorios remotos para recuperar la actividad experimental
+**Title:** Tecnologías digitales y aprendizajes visibles
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b3e061188b598ad7c90b9cf8b4cfadd9/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_64168130568b51b611d7f02fcd286827/Description
 
-**Abstract:** La enseñanza de las ciencias naturales, durante la Educación Remota de Emergencia producto de la pandemia de COVID-19, se vio particularmente interpelada por la dificultad de acceso al laboratorio y al equipamiento específico necesario para la realización de actividades experimentales. En este trabajo se realiza un estudio de carácter descriptivo del uso de Laboratorios Remotos en una propuesta de enseñanza de Química y Física en la universidad, indagando en la autopercepción de aprendizaje de los estudiantes. Para esto, se utilizó un cuestionario con preguntas tipo Likert y se analizaron los momentos del día donde los estudiantes utilizaban estos dispositivos. Los resultados muestran que el 56% de los usos registrados ocurrieron fuera del horario de las asignaturas, y que los estudiantes valoran lo que los Laboratorios Remotos pueden ofrecer para su aprendizaje en lo que respecta al quehacer experimental, mas no los consideran útiles para resolver problemas y ejercicios de lápiz y papel.
+**Abstract:** Este trabajo es una divulgación de la tesis de doctorado en sociología de Susana Lamschtein de la Facultad de Ciencias Sociales, Universidad de la República, Tecnologías digitales y aprendizajes visibles. Habilidades asociadas al uso de las tecnologías digitales en los estudiantes de la enseñanza secundaria pública de Montevideo (2017). Las políticas de un computador por niño en la educación formal han destacado la necesidad de apuntar a las habilidades para el siglo XXI, que trascienden las habilidades digitales operativas básicas. La educación debe preparar a los jóvenes, generando capacidades para la resolución de problemas, con el apalancamiento de las tecnologías de la información y la comunicación (tic). Cuando se llevó adelante esta investigación, en el año 2014, en el sistema educativo uruguayo se había avanzado fundamentalmente en la provisión de infraestructura tecnológica, pero las actividades educativas mediadas por tecnologías alcanzaban solamente a un pequeño porcentaje de los estudiantes. Para este trabajo se aplicó una encuesta en línea y una prueba de habilidades digitales informacionales. Además, se relevaron las calificaciones de una muestra aleatoria representativa de los estudiantes de tercer año de educación secundaria pública de Uruguay que asistían a centros educativos en turnos diurnos. La investigación en la que se basa esta publicación tuvo como objetivo el estudio de la asociación entre dos tipos específicos de aprendizajes: las habilidades curriculares y las habilidades digitales informacionales, con usos específicos de las tic. La hipótesis sobre la que se trabajó fue que cuando hay una conexión de sentido entre el tipo de uso de las tecnologías y el tipo de desempeño medido, es posible observar aprendizajes asociados a dicho uso.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · Deposita_473f71bada9dcedbb21a414d3f58b651
+
+**Title:** Leadership Development of Technology Students through Experiential Learning
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_473f71bada9dcedbb21a414d3f58b651/Description
+
+**Abstract:** In a world where technology is changing every single detail of our societies, schools, and organizations in a skyrocketing speed, it is worrying that the way we develop our leaders is improving so slowly. With numerous studies showing that leadership is one of the factors that impact the most on software projects’ success, it is worrying that more than $14B are spent yearly with leadership development and, still, most organizations believe they are not being effective. One of the most efficient methodologies for leadership development inside companies is the Experiential Learning from David Kolb, but it still has some problems in gaining traction inside universities due to their difficulty of simulating practical experiences. Many different approaches have been tried with various results and little standardization is perceived on the way they are used. For this reason, this study proposes a framework for using group activities as a means to help technology students practice leadership skills. A first pilot was executed with pleasant results and feedback from students, but more experiments are necessary to ensure its application for other skills and contexts.
+
+**Current note:** The abstract concerns experiential leadership training, not online learning.
+
+### Related hit · UY_896eb76e6116276d2006c557b59bce03
+
+**Title:** Online Meetings in Early Childhood Education: A Bonding and Educational Experience in Times of COVID-19
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_896eb76e6116276d2006c557b59bce03/Description
+
+**Abstract:** The purpose of this article is to report a bonding and educational experience focused on the use of new technologies, specifically video calls, with children in early education. It is a case study focused on the experience of using Skype with children from 2 to 3 years old. These online meetings were held weekly for three months due to the situation caused by the covid-19 pandemic, which involved confinement measures and school closures. From an autoethnographic study, based on observation and data collection in a diary, the results develop a series of topic proposals that facilitate interaction and bonding among classmates through a screen, in this case due to the exceptional circumstances. It is concluded that through these online meetings it was possible to maintain contact, share experiences and develop skills in a virtual environment of positive interaction.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_b80c0ab4b32525cfbe5a56dcdcaf6987
+
+**Title:** Challenges and opportunities for teacher professional development in Uruguay
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b80c0ab4b32525cfbe5a56dcdcaf6987/Description
+
+**Abstract:** Continuing teacher education is a necessary component of educational systems capable of attending to the demands and educational challenges in a fast–changing world. However, several barriers obstruct teachers' participation in professional development initiatives, particularly in Latin America. The incorporation of ICT in its design may help to overcome certain obstacles. This paper proposes, based on a case study of public secondary education in Uruguay, to (1) explore the obstacles that teachers encounter regarding their participation in initiatives of lifelong professional learning and (2) collect elements that should be considered when designing an online initiative, for it to be considered useful and valid. Fifty-four teachers from 2 secondary schools in Montevideo (59,2 %) and two schools in the country's interior (40,8 %) participated in focus group discussions. Using a thematic framework analysis approach, we established emerging themes referring to the potential of lifelong learning, preferred pedagogical strategies, time investment, teamwork, encounters with others, and specific preferences regarding digital tools and activities. Beyond the concrete recommendations regarding the design of professional development initiatives for teachers incorporating ICT that can be drawn from this study, it also contributes elements for understanding the processes that affect the participation and adherence of teachers in formal professional development activities, contextualized within the structural challenges faced by the teacher profession in the region.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_7df291b1b313ac6b0089e503c4872904
+
+**Title:** Student protagonism in the 9th year of education fundamental in Petrolina- PE: the design thinking approach as a pedagogical strategy
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_7df291b1b313ac6b0089e503c4872904/Description
+
+**Abstract:** Nos últimos anos, a tecnologia tornou-se uma presença constante nas vidas das pessoas, permeando todos os aspectos, incluindo os âmbitos profissional, educacional e cultural. Esse avanço tecnológico tem impulsionado a criação de novas abordagens em diversas áreas do conhecimento. O Design Thinking foi selecionado como objeto de pesquisa devido às etapas que podem desenvolver habilidades criativas, colaborativas e críticas para a resolução de desafios no ambiente escolar. O objetivo geral do estudo consistiu na investigação da aplicação do Design Thinking para promover o protagonismo dos alunos, avaliando sua efetividade, desafios e impactos na aprendizagem, bem como estimular o engajamento ativo dos estudantes do 9º ano do Ensino Fundamental. Quanto à metodologia, a pesquisa bibliográfica utilizou buscadores de trabalhos científicos por meio do Catálogo de Teses e Dissertações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), das bibliotecas eletrônicas da Scientific Electronic Library Online (SciElo) e da Harvard Library. Além disso, a pesquisa de campo empregou um formulário com perguntas estruturadas criado por meio do Google Forms para o público-alvo que foram os estudantes dos 9º anos do Ensino Fundamental. Com base nos resultados obtidos, observou-se um considerável interesse dos estudantes em utilizar a tecnologia e explorar o protagonismo estudantil na educação. Diante disso, uma equipe de estudantes foi formada para desenvolver um projeto pedagógico com foco nos princípios do Design Thinking. Portanto, espera-se que este estudo possa contribuir para a compreensão da importância da tecnologia e do protagonismo estudantil na educação contemporânea, bem como para demonstrar como a abordagem do Design Thinking pode ser uma valiosa ferramenta para promover a participação ativa dos alunos.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_cfc3d00a35b9ed1a20f9f538f2578ca3
+
+**Title:** Professional learning communities in initial teacher education in Uruguay: social network analysis
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_cfc3d00a35b9ed1a20f9f538f2578ca3/Description
+
+**Abstract:** This research addresses a network analysis in three teacher education centers for teachers and professors in Uruguay to determine the degree to which they function in professional communities according to four aspects: innovation initiatives, information exchange, digital inclusion, and collaboration in planning. The study is based on a previous categorization regarding the level of digital inclusion for deep learning on the basis of an online survey applied to 32 principals of public teacher education centers (high, medium, and low levels). One case was identified at each level, taking into account the geographic characteristics and the type of teacher education center. In each case, information-gathering techniques were applied: in-depth interviews, surveys for the network analysis, and focus groups. Results show that in all three cases, professional learning communities lite (as defined by Dufour &amp; Reeves, 2016). In two of the centers, those with the higher rate of digital inclusion for learning, there is a diversity in the actors who form the ties that make up the networks. Last, the innovation network is the weakest in terms of the number and variety of the ties.
+
+**Current note:** The abstract concerns professional learning communities, not online learning.
+
+### Related hit · Deposita_18983aae5ccb27223c37b7c93f148322
+
+**Title:** Protagonismo estudantil no 9º ano do ensino fundamental em Petrolina- PE: a abordagem do design thinking como uma estratégia pedagógica
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_18983aae5ccb27223c37b7c93f148322/Description
+
+**Abstract:** Nos últimos anos, a tecnologia tornou-se uma presença constante nas vidas das pessoas, permeando todos os aspectos, incluindo os âmbitos profissional, educacional e cultural. Esse avanço tecnológico tem impulsionado a criação de novas abordagens em diversas áreas do conhecimento. O Design Thinking foi selecionado como objeto de pesquisa devido às etapas que podem desenvolver habilidades criativas, colaborativas e críticas para a resolução de desafios no ambiente escolar. O objetivo geral do estudo consistiu na investigação da aplicação do Design Thinking para promover o protagonismo dos alunos, avaliando sua efetividade, desafios e impactos na aprendizagem, bem como estimular o engajamento ativo dos estudantes do 9º ano do Ensino Fundamental. Quanto à metodologia, a pesquisa bibliográfica utilizou buscadores de trabalhos científicos por meio do Catálogo de Teses e Dissertações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), das bibliotecas eletrônicas da Scientific Electronic Library Online (SciElo) e da Harvard Library. Além disso, a pesquisa de campo empregou um formulário com perguntas estruturadas criado por meio do Google Forms para o público-alvo que foram os estudantes dos 9º anos do Ensino Fundamental. Com base nos resultados obtidos, observou-se um considerável interesse dos estudantes em utilizar a tecnologia e explorar o protagonismo estudantil na educação. Diante disso, uma equipe de estudantes foi formada para desenvolver um projeto pedagógico com foco nos princípios do Design Thinking. Portanto, espera-se que este estudo possa contribuir para a compreensão da importância da tecnologia e do protagonismo estudantil na educação contemporânea, bem como para demonstrar como a abordagem do Design Thinking pode ser uma valiosa ferramenta para promover a participação ativa dos alunos.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_42dffcb9ddff927a262f9ff166f505fc
+
+**Title:** O Google Classroom no contexto de um curso de formação para docentes do ensino superior
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_42dffcb9ddff927a262f9ff166f505fc/Description
+
+**Abstract:** No âmbito educacional, existem atualmente diversas opções de software que podem desenvolver atividades voltadas para o ensino, especificamente no gerenciamento de cursos e disciplinas. O uso do Google Classroom, por exemplo, vem agregando e apoiando esse novo mundo de software educacionais. Assim, a presente pesquisa tem por objetivo compreender a percepção do professor em relação ao Google Classroom a partir de um curso de formação para docentes do ensino superior. A fundamentação teórica que embasou a análise da pesquisa contemplou o uso das tecnologias no ensino, ensino híbrido, inovação, formação docente e a relação do Classroom com a pandemia de 2020. O caminho desenvolvido e inspirador para o percurso metodológico foi apoiado nos elementos da pesquisa-ação de Thiollent e análise de conteúdo de Bardin. Os dados foram selecionados a partir da aplicação de dois questionários a professores do ensino superior, por meio de um curso de formação. Assim, interpreta-se que os resultados evidenciaram que a pesquisa contribuiu para a resolução do problema que orientou a coleta de dados, bem como ampliou a gama de conhecimento sobre o tema, visto que os docentes no início do curso sentiram dificuldades em manusear o aplicativo, porém, durante a formação, aperfeiçoaram o uso do Google Classroom como forma de metodologia ativa para suas aulas, tornando essencial auxiliar os alunos na construção do conhecimento, de maneira que eles se sentissem motivados e conseguissem superar suas dificuldades, principalmente em relação aos conteúdos. A pesquisa geral teve como produto final o Curso de Formação para Docentes do Ensino Superior.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_a4db5767c14d28b9a519f0440232d001
+
+**Title:** Una experiencia de un curso online sobre Recursos Educativos Abiertos en el Marco del Programa de Apoyo al Sector Educativo del Mercosur
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_a4db5767c14d28b9a519f0440232d001/Description
+
+**Abstract:** REMAR (Red Mercosur para la accesibilidad y la generación colaborativa de Recursos Educativos Abiertos) es una iniciativa para la formación y consolidación de una red de docentes. Para lograr este objetivo el proyecto REMAR propone una serie de cuatro talleres de trabajo conjunto como un espacio virtual de comunicación donde los docentes de la región interesados en el tema de formación inclusiva puedan compartir experiencias y disponer de herramientas que faciliten el uso y el desarrollo de contenidos educativos abiertos y accesibles. En este artículo se describe la experiencia del primer taller sobre recursos educativos abiertos y se analizan los principales resultados obtenidos.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_a4572f6078b7825f4b2d102061cd0b62
+
+**Title:** Uso didáctico de software educativo e Internet para estudiantes de formación docente en el Área de las Ciencias Biológicas
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_a4572f6078b7825f4b2d102061cd0b62/Description
+
+**Abstract:** El grupo está integrado por jóvenes que en promedio tienen 18 años y pertenecen a los Departamentos de Rivera, Cerro Largo y Tacuarembó. Constituyen una clase homogénea, muy interesada y activa, dispuesta a emprender tareas novedosas y a aplicar los conocimientos adquiridos en las clases de Introducción a la Didáctica adaptadas a la Ciencia. El presente trabajo adhiere a la idea de educación como práctica social y al aula como lugar específico donde habitualmente se desarrolla esa práctica. Desde el lugar y tarea planteados, se sostiene que "espacios de aula" pueden ser múltiples y variados, así como los instrumentos utilizados para la enseñanza de la disciplina. Sin embargo en este trabajo docente en el Sistema ANEP, se observa que el tiempo es una dimensión que estructura fuertemente la labor que a su vez es estructurada por él.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_c812ff0b8ba0ffca6b782f06daa8ba35
+
+**Title:** Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_c812ff0b8ba0ffca6b782f06daa8ba35/Description
+
+**Abstract:** This research had as objective discovery how is the use of Web in the learning / teaching process in the public schools of Contagem city. It started with a bibliography research which contributed with co-related researches. After that a quiz was applied to teachers and students of two units of Fundação de Ensino de Contagem. This quiz had two parts, one applied in the school another one on-line. Then some teachers were invited to participate of an interview that had a purpose to understand which difficulties they encountered in applying the Web in scholar works. With the data obtained in the research some quantitative and qualitative analyses became possible and the research identified the students and teachers profile, how teachers and students understand Web concept, what are the most common Web services for then and how they use the Web. This research obtained as result the form that Web 2.0 resources are used, what applications are most used, the place students use it and if there are any pedagogical use actually.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_447b4f2db451f2d83bf71c91f9460671
+
+**Title:** Propuesta de plan de negocio : plataforma online para centros educativos.
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_447b4f2db451f2d83bf71c91f9460671/Description
+
+**Abstract:** En los últimos años las organizaciones a nivel mundial han desarrollado nuevas estrategias para relacionarse con sus clientes, apoyados por los beneficios que traen las tecnologías de la información. Plataformas informáticas, páginas web, aplicaciones para dispositivos móviles y redes sociales, son simplemente algunos de los sistemas que se utilizan con la finalidad de afianzar los vínculos y proveer servicios a los usuarios. Estas herramientas, que han tomado una relevancia mayor con la pandemia del Covid-19, las vemos en varias industrias, inclusive en Uruguay y con desarrollos locales. Sin embargo, en el sector educativo se constata que hay un importante espacio a explotar. El mercado presenta plataformas con fines pedagógicos que sin duda han revolucionado las formas de enseñar, pero hoy en día los Centros Educativos cumplen una función mucho más amplia y los usuarios tienen cada vez más expectativas. Es por ello que esta tesis tiene como finalidad proponer un modelo de negocios que consiste en el desarrollo de una plataforma online, que genere un vínculo más estrecho y eficiente entre las instituciones educativas de primera infancia y primaria, con los padres de los niños. Luego de haber realizado todos los análisis de este trabajo, se puede comprobar que la propuesta generaría un valor agregado para todas las partes del sistema educativo y arrojaría resultados económicos interesantes para quien desarrolle el negocio. Asimismo, las posibilidades de expansión son amplias y diversas, lo que significa que la propuesta es muy atractiva.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -881,16 +931,6 @@ Review all partial hits and misses after each recapture. Abstracts are included 
 **Abstract:** The COVID-19 pandemic challenged teachers and educational institutions to continue developing their pedagogical work despite the closure of their facilities, seeking alternatives for it. This article seeks to understand how a group of Chilean nursery school teachers adapt their professional actions to the demands of the pandemic. This article is part of a broader qualitative study, of a narrative nature, and focuses on the experiences of six professional practicing educators, through semi-structured interviews, which were studied through a thematic analysis. Four main themes were found to constitute challenges for their professional learning: (1) uncertainty and coexistence of roles, (2) the mastery of technologies for remote learning, (3) the relationship with families and (4) pedagogical tensions around virtual teaching in early childhood contexts. These four categories are articulated around the need to train and accompany educators to provide better responses to teaching in contexts of uncertainty, while at the same time the need to recognize the work of early childhood educators for our society emerges.
 
 **Current note:** The abstract concerns early-childhood educators during COVID-19, but does not establish online learning.
-
-### Related hit · Ridi_976e7c66b569a71840f2e8f1765799f5
-
-**Title:** Comunicação da informação em redes virtuais de aprendizagem
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_976e7c66b569a71840f2e8f1765799f5/Description
-
-**Abstract:** Contemporary society is based on two pillars: information and knowledge, supported by digital technologies. It brings the necessity of a new attitude and the acquisition of new skills by the users, mainly in the process of communicating the information. This new attitudes and skills result in a search for continuous learning and in the use of intellectual technologies. This process occurs in every single level of contemporary society, involving activities such as training and capability improvement and, mainly, production and management of information. In this sense, learning virtual networks are fundamental to facilitate the communication of information in a society whose structure is becoming more and more distant of hierarchy. This digital network is presented in a new channel of communication of information: the cyberspace. In this process, professors and professionals of information are seen as facilitation agents; on the other side, in learning virtual networks, a professional of information can also be a manager of virtual environment
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
 ### Related hit · UY_db58fb90e07a65ae9d1ae5f193e2d56a
 

@@ -73,14 +73,9 @@ window.I18N.en = {
       "This is a pilot over an indexed subset, not an evaluation of the complete LA Referencia network. Deposita is used as a thematic control set: it confirms that each selected topic is represented before multilingual queries are tested without repository filters.",
   },
   topicsSection: {
-    heading: "Four topics, twenty-four live queries.",
+    heading: "Four topics, thirty-six live queries.",
     intro:
       "Each topic starts with an original Portuguese phrase verified in Deposita. Every multilingual card opens the unfiltered three-column comparison over the pilot subset.",
-  },
-  phrasing: {
-    heading: "Try simple English phrasing.",
-    intro:
-      "Semantic search can also reduce exact-word bias within one language. These simple alternatives use the same editorial review as the multilingual examples.",
   },
   longQuery: {
     eyebrow: "Companion experiment",
@@ -89,9 +84,9 @@ window.I18N.en = {
       "A companion page follows the same topics through three query formulations: the short topic query, a first longer phrase that may separate semantically across languages, and a second phrase designed to recover convergence.",
     cta: "Open the long-query companion",
     points: [
-      "<strong>Short query:</strong> starts from the public demo baseline.",
-      "<strong>Long phrase 1:</strong> tests whether extra context improves semantic focus.",
-      "<strong>Long phrase 2:</strong> tests whether a clearer anchor improves convergence.",
+      '<span class="companion-point-title">Short query</span><span class="companion-point-copy">A compact topic label from the public demo baseline.</span><span class="companion-example">climate change</span>',
+      '<span class="companion-point-title">Long phrase 1</span><span class="companion-point-copy">Adds context to test whether the semantic ranking becomes more focused.</span><span class="companion-example">climate change impacts on ecosystems and communities</span>',
+      '<span class="companion-point-title">Long phrase 2</span><span class="companion-point-copy">Uses a clearer anchor to test whether rankings converge across languages.</span><span class="companion-example">climate change impacts on ecosystems and human settlements</span>',
     ],
   },
   methodology: {
@@ -155,6 +150,8 @@ window.I18N.en = {
     matrixTitle: "Semantic top 10 coincidence matrix",
     matrixCopy:
       "Each cell counts shared record identifiers between two language rankings. This describes ranking stability and discovery breadth, not relevance quality.",
+    matrixQualityNote:
+      "Low coincidence is not a relevance failure. A language can retrieve relevant results while sharing few records with another language. The matrix measures cross-language convergence and ranking coherence; relevance quality is reviewed separately above.",
     matrixLanguageHeader: "Language",
     matrixDiagonalAria: "{language} compared with itself: not applicable",
     matrixCellAria:
@@ -182,10 +179,13 @@ window.I18N.en = {
   },
   languages: {
     en: "English",
+    es: "Spanish",
+    pt: "Portuguese",
     fr: "French",
     de: "German",
     it: "Italian",
     zh: "Chinese",
     ja: "Japanese",
+    ar: "Arabic",
   },
 };

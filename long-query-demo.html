@@ -328,30 +328,39 @@
       .story-step {
         position: relative;
         display: grid;
-        gap: 16px;
+        gap: 18px;
       }
 
       .step-label {
-        display: inline-flex;
-        width: fit-content;
+        display: flex;
+        width: 100%;
         align-items: center;
-        gap: 8px;
-        padding: 7px 10px;
-        border-radius: 999px;
-        background: var(--teal-soft);
+        gap: 12px;
+        padding: 12px 0 14px;
+        border-bottom: 1px solid rgba(35, 128, 131, 0.18);
         color: var(--teal-dark);
-        font-size: 0.72rem;
+        font-size: clamp(1.12rem, 2vw, 1.55rem);
         font-weight: 900;
-        letter-spacing: 0.08em;
+        letter-spacing: -0.025em;
         text-transform: uppercase;
       }
 
-      .step-label::before {
-        width: 8px;
-        height: 8px;
-        border-radius: 50%;
+      .step-number {
+        display: inline-flex;
+        min-width: 74px;
+        align-items: center;
+        justify-content: center;
+        padding: 7px 10px;
+        border-radius: 999px;
+        color: #ffffff;
         background: var(--orange);
-        content: "";
+        font-size: 0.72rem;
+        font-weight: 950;
+        letter-spacing: 0.12em;
+      }
+
+      .step-title {
+        color: var(--ink);
       }
 
       .story-copy {
@@ -705,6 +714,42 @@
         font-size: 0.82rem;
       }
 
+      .matrix-average-strip {
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        margin: 8px 0 14px;
+      }
+
+      .matrix-average-strip span {
+        padding: 10px 12px;
+        border: 1px solid rgba(0, 127, 128, 0.13);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.78);
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 900;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .matrix-average-strip strong {
+        display: block;
+        margin-top: 3px;
+        color: var(--teal-dark);
+        font-size: 1.15rem;
+        letter-spacing: -0.03em;
+        text-transform: none;
+      }
+
+      .matrix-quality-note {
+        margin: 12px 0 0;
+        padding-top: 12px;
+        border-top: 1px solid rgba(35, 128, 131, 0.16);
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
       .separation-card {
         display: grid;
         gap: 20px;
@@ -783,7 +828,21 @@
 
       .focus-evidence {
         display: grid;
+        gap: 18px;
+      }
+
+      .focus-panel {
+        display: grid;
         gap: 12px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        background: rgba(255, 255, 255, 0.78);
+      }
+
+      .focus-panel.arabic {
+        border-color: rgba(226, 116, 59, 0.24);
+        background: linear-gradient(135deg, rgba(255, 240, 231, 0.62), rgba(255, 255, 255, 0.86));
       }
 
       .editorial-summary,
@@ -1060,6 +1119,13 @@
             because comparing a language with itself adds no information.
           </p>
           <p>
+            Arabic showed a distinct behavior in several runs, so this companion reports two
+            convergence readings: the full multilingual matrix average, including Arabic, and a
+            complementary average calculated without Arabic. The second metric does not remove Arabic
+            from the experiment; it helps inspect whether the remaining languages converge differently
+            once the Arabic-specific behavior is read separately.
+          </p>
+          <p>
             The semantic-separation panels highlight the language pairs with the fewest shared
             records, then show abstract snippets from records found on only one side of that pair.
             This is the evidence used to explain why a phrase may split across languages.
@@ -1182,7 +1248,10 @@
       const renderMatrix = (title, matrix) => `
         <article class="matrix-card">
           <h4>${escapeHtml(title)}</h4>
-          <p class="matrix-note">Average pair coincidence: <strong>${matrix.average.toFixed(2)}</strong></p>
+          <div class="matrix-average-strip">
+            <span>Full matrix average<strong>${matrix.average.toFixed(2)}</strong></span>
+            <span>Average without Arabic<strong>${matrix.averageWithoutArabic.toFixed(2)}</strong></span>
+          </div>
           <table class="matrix" aria-label="${escapeHtml(title)}">
             <thead>
               <tr>
@@ -1209,6 +1278,12 @@
                 .join("")}
             </tbody>
           </table>
+          <p class="matrix-quality-note">
+            Low coincidence is not a relevance failure. A language can retrieve relevant results while sharing few records with another language. The matrix measures cross-language convergence and ranking coherence; relevance quality is reviewed separately above.
+          </p>
+          <p class="matrix-quality-note">
+            Arabic showed a distinct behavior in several runs. For that reason, the page reports the full matrix average and a complementary average without Arabic; Arabic remains visible in the matrix and is read separately below.
+          </p>
         </article>
       `;
 
@@ -1232,9 +1307,15 @@
             </div>
           </div>
           <div>
-            <p class="matrix-note">Lowest shared semantic pairs in this topic</p>
+            <p class="matrix-note">Lowest shared semantic pairs in this topic, including Arabic</p>
             <div class="pair-list">
               ${variant.separation.lowestPairs.map(renderPair).join("")}
+            </div>
+          </div>
+          <div>
+            <p class="matrix-note">Lowest shared pairs without Arabic</p>
+            <div class="pair-list">
+              ${variant.separation.lowestNonArabicPairs.map(renderPair).join("")}
             </div>
           </div>
         </article>
@@ -1267,11 +1348,11 @@
         </div>
       `;
 
-      const renderFocusEvidence = (variant) => {
-        const pair = variant.separation.focusPair;
+      const renderFocusPanel = (title, pair, className = "") => {
+        if (!pair) return "";
         return `
-          <article class="focus-evidence">
-            <h4>Editorial reading from the most separated pair: ${escapeHtml(pair.left.toUpperCase())} · ${escapeHtml(pair.right.toUpperCase())}</h4>
+          <section class="focus-panel ${escapeHtml(className)}">
+            <h4>${escapeHtml(title)}: ${escapeHtml(pair.left.toUpperCase())} · ${escapeHtml(pair.right.toUpperCase())}</h4>
             <p class="matrix-note">
               These are top-10 semantic records found on only one side of that language pair. The
               editorial reading below is based on visible titles and abstract snippets.
@@ -1283,9 +1364,19 @@
               ${renderFocusSide(`${pair.leftLabel} only`, pair.leftOnly, pair.leftReading)}
               ${renderFocusSide(`${pair.rightLabel} only`, pair.rightOnly, pair.rightReading)}
             </div>
-          </article>
+          </section>
         `;
       };
+
+      const renderFocusEvidence = (variant) => `
+        <article class="focus-evidence">
+          ${renderFocusPanel("Editorial reading from the most separated non-Arabic pair", variant.separation.focusPair)}
+          <p class="matrix-quality-note">
+            Arabic is reported separately because its script, tokenization, multilingual embedding behavior, and indexed evidence can make it behave differently from the other language pairs. This keeps the Arabic signal visible without letting it hide other cross-language separations.
+          </p>
+          ${renderFocusPanel("Arabic-specific editorial reading", variant.separation.arabicFocusPair, "arabic")}
+        </article>
+      `;
 
       const renderTransitionReading = (label, comparison) => {
         const matrixReading = changePhrase(
@@ -1301,13 +1392,29 @@
           "semantic hits stayed broadly similar",
           0.5,
         );
-        return `${label}: ${matrixReading}; ${hitReading}.`;
+        const nonArabicReading = changePhrase(
+          comparison.matrixDeltaWithoutArabic,
+          "non-Arabic convergence increased",
+          "non-Arabic convergence decreased",
+          "non-Arabic convergence stayed broadly similar",
+        );
+        return `${label}: ${matrixReading}; ${nonArabicReading}; ${hitReading}.`;
+      };
+
+      const renderStepLabel = (label) => {
+        const [step, title] = label.split(" · ");
+        return `
+          <span class="step-label">
+            <span class="step-number">${escapeHtml(step)}</span>
+            <span class="step-title">${escapeHtml(title ?? "")}</span>
+          </span>
+        `;
       };
 
       const renderTopicOutcome = (topic, baseline, divergent, balanced) => {
         return `
           <section class="story-step">
-            <span class="step-label">Step 5 · Read the movement</span>
+            ${renderStepLabel("Step 5 · Read the movement")}
             <article class="result-panel">
               <h3>What changed from short to long?</h3>
               <p class="story-copy">
@@ -1319,19 +1426,25 @@
               </p>
               <div class="comparison-strip">
                 ${renderComparisonCard("Short → long 1 matrix", signed(topic.comparison.shortToLong1.matrixDelta))}
+                ${renderComparisonCard("Short → long 1 without Arabic", signed(topic.comparison.shortToLong1.matrixDeltaWithoutArabic))}
                 ${renderComparisonCard("Long 1 → long 2 matrix", signed(topic.comparison.long1ToLong2.matrixDelta))}
+                ${renderComparisonCard("Long 1 → long 2 without Arabic", signed(topic.comparison.long1ToLong2.matrixDeltaWithoutArabic))}
                 ${renderComparisonCard("Short → long 2 matrix", signed(topic.comparison.shortToLong2.matrixDelta))}
+                ${renderComparisonCard("Short → long 2 without Arabic", signed(topic.comparison.shortToLong2.matrixDeltaWithoutArabic))}
                 ${renderComparisonCard("Short → long 1 hits", signed(topic.comparison.shortToLong1.semanticHitDelta))}
                 ${renderComparisonCard("Long 1 → long 2 hits", signed(topic.comparison.long1ToLong2.semanticHitDelta))}
                 ${renderComparisonCard("Short → long 2 hits", signed(topic.comparison.shortToLong2.semanticHitDelta))}
               </div>
               <p class="matrix-note">
                 Short query: ${escapeHtml(baseline.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
-                matrix average ${escapeHtml(baseline.matrix.average.toFixed(2))}. Long phrase 1:
+                full matrix average ${escapeHtml(baseline.matrix.average.toFixed(2))} and
+                average without Arabic ${escapeHtml(baseline.matrix.averageWithoutArabic.toFixed(2))}. Long phrase 1:
                 ${escapeHtml(divergent.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
-                matrix average ${escapeHtml(divergent.matrix.average.toFixed(2))}. Long phrase 2:
+                full matrix average ${escapeHtml(divergent.matrix.average.toFixed(2))} and
+                average without Arabic ${escapeHtml(divergent.matrix.averageWithoutArabic.toFixed(2))}. Long phrase 2:
                 ${escapeHtml(balanced.summary.semanticHitsAverage.toFixed(2))}/10 semantic hits,
-                matrix average ${escapeHtml(balanced.matrix.average.toFixed(2))}.
+                full matrix average ${escapeHtml(balanced.matrix.average.toFixed(2))} and
+                average without Arabic ${escapeHtml(balanced.matrix.averageWithoutArabic.toFixed(2))}.
               </p>
             </article>
           </section>
@@ -1390,7 +1503,7 @@
 
       const renderVariant = (variant, stepLabel, stepCopy) => `
         <section class="story-step">
-          <span class="step-label">${escapeHtml(stepLabel)}</span>
+          ${renderStepLabel(stepLabel)}
           <p class="story-copy">${escapeHtml(stepCopy)}</p>
           <article class="variant-card ${escapeHtml(variant.id)}">
             <div>
@@ -1399,16 +1512,20 @@
               <p class="topic-copy">${escapeHtml(variant.rationale)}</p>
             </div>
             <div class="metric-grid">
+            <article class="metric-card">
+              <span>Avg. relevant semantic results @10</span>
+              <strong>${variant.summary.semanticHitsAverage.toFixed(2)}/10</strong>
+            </article>
               <article class="metric-card">
-                <span>Semantic hits avg</span>
-                <strong>${variant.summary.semanticHitsAverage.toFixed(2)}/10</strong>
-              </article>
-              <article class="metric-card">
-                <span>Matrix avg</span>
+                <span>Full matrix avg</span>
                 <strong>${variant.matrix.average.toFixed(2)}</strong>
               </article>
               <article class="metric-card">
-                <span>Lowest pair</span>
+                <span>Avg without Arabic</span>
+                <strong>${variant.matrix.averageWithoutArabic.toFixed(2)}</strong>
+              </article>
+              <article class="metric-card">
+                <span>Lowest non-Arabic pair</span>
                 <strong>${variant.separation.focusPair.shared}/10</strong>
               </article>
             </div>
@@ -1445,7 +1562,7 @@
           <div class="topic-body">
             <div class="story-flow">
               <section class="story-step">
-                <span class="step-label">Step 1 · Choose the vocabulary</span>
+                ${renderStepLabel("Step 1 · Choose the vocabulary")}
                 <p class="story-copy">
                   The experiment starts from records that already express the topic. Those records
                   provide terms that are likely to have semantic recall in the indexed subset.
@@ -1482,6 +1599,8 @@
         const averageBaseline = baseline.reduce((sum, variant) => sum + variant.matrix.average, 0) / baseline.length;
         const averageDivergent = divergent.reduce((sum, variant) => sum + variant.matrix.average, 0) / divergent.length;
         const averageBalanced = balanced.reduce((sum, variant) => sum + variant.matrix.average, 0) / balanced.length;
+        const averageBalancedWithoutArabic =
+          balanced.reduce((sum, variant) => sum + variant.matrix.averageWithoutArabic, 0) / balanced.length;
         const averageSemanticHits =
           balanced.reduce((sum, variant) => sum + variant.summary.semanticHitsAverage, 0) / balanced.length;
         document.querySelector("#global-summary").innerHTML = `
@@ -1489,6 +1608,7 @@
           <span><em>Short matrix avg</em><strong>${averageBaseline.toFixed(2)}</strong></span>
           <span><em>Long 1 matrix avg</em><strong>${averageDivergent.toFixed(2)}</strong></span>
           <span><em>Long 2 matrix avg</em><strong>${averageBalanced.toFixed(2)}</strong></span>
+          <span><em>Long 2 avg without Arabic</em><strong>${averageBalancedWithoutArabic.toFixed(2)}</strong></span>
           <span><em>Long 2 hits avg</em><strong>${averageSemanticHits.toFixed(2)}/10</strong></span>
         `;
       };

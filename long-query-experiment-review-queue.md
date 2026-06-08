@@ -42,6 +42,30 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The abstract confirms a telework and human-resources focus, not distance education.
 
+### Related hit · UY_db996e3019ebbc401b116f7948110062
+
+**Title:** De la presencialidad a la distancia: modelos para la incorporación del e-learning en la universidad
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_db996e3019ebbc401b116f7948110062/Description
+
+**Abstract:** Este artículo discute un marco de referencia para la conceptualización y evaluación de modelos de e-learning en educación superior. Las modalidades "presencial" y "a distancia" han sido concebidas históricamente como los modelos educativos por excelencia conceptualizados como mutuamente contrapuestos. Sin embargo, las tecnologías de e-learning, posibilitan nuevos modelos educativos que combinan la presencialidad y la distancia de distintas maneras. Sobre la base de la experiencia de la Universidad ORT Uruguay, planteamos un continuo a lo largo del cual aparecen modelos educativos en los que el e-learning y el aula presencial se complementan para lograr distintos objetivos. Las dimensiones pedagógicas, tecnológicas y económicas de estos modelos son abordadas en este artículo.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_33b87dfc08bf52d8a45758b2a7ebd487
+
+**Title:** A Autorregulação da Aprendizagem o Processo Avaliativo por Intermédio da Webquest
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_33b87dfc08bf52d8a45758b2a7ebd487/Description
+
+**Abstract:** A presente pesquisa tem como objetivo analisar as contribuições da WebQuest no processo da autorregulação da aprendizagem presente nos espaços escolares, contribuindo tanto para uma aprendizagem significativa quanto para o protagonismo dos estudantes. A metodologia utilizada pautou-se numa Pesquisa Bibliográfica, realizada a partir de livros, periódicos, dissertações e teses de diferentes autores. Nossa pesquisa está subdividida em três partes. Na primeira, contextualizamos a WebQuest e a autorregulação da aprendizagem à partir da perspectiva do psicólogo Albert Bandura. Segunda, tratamos da utilização da metodologia WebQuest no âmbito escolar e bem como do papel do professor mediador neste contexto. Na última, refletimos sobre a autorregulação da aprendizagem e suas contribuições como agente ativo e consciente da aprendizagem Ao longo da explanação apresentamos não só os avanços tecnológicos mas também a Teoria Social Cognitiva (TSC) – ambos auxiliam das práticas pedagógicas em sala de aula, por intermédio das interações aluno-professor e professor-aluno. Essas interações têm com intuito de construir em sala de aula, os vários saberes com o uso das Tecnologias Digitais da Informação e Comunicação (TDICs). Estas levam os discentes a um processo de ensino-aprendizagem mais eficiente, dinâmico e interativo, forma de contribuir para com uma construção crítica e reflexiva de uma aprendizagem significativa. Os resultados da presente pesquisa apontaram um grau elevado de autoeficácia no desenvolvimento de artigos de divulgação científica, redigidos pelos próprios alunos, baseados na TSC e pautados nas TDICs.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
 ### Miss · Deposita_438f9cab9685537c9e64e21302a97d50
 
 **Title:** Competências cognitivas e socioemocionais: formação de docentes para contemplar a diversidade na rede pública da cidade de São Paulo
@@ -270,18 +294,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title and abstract do not establish a distance education focus.
 
-### Miss · Ridi_4b0d41dfb0716fba611688f08be379a3
-
-**Title:** O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_4b0d41dfb0716fba611688f08be379a3/Description
-
-**Abstract:** This research investigates the philosophical foundations of Information Science, framed as a human and social science. It develops from a perspective that shifts the analysis of Information Science from a philosophy of language to a philosophy of the human being based on the philosophy of Xavier Zubiri and his theory of sentient intelligence and reality, as well as his studies on the human being. The methodological structure involves an exploratory and descriptive bibliographic research, analyzing works by several authors in the field, with emphasis on those who analyze the field from an Ibero-American perspective and those who think about the field from a documental and neodocumentalist vision. The study arrives at the concept of documentality and, after descriptive syntheses, analyzes the theoretical framework in a triangulation with the philosopher Zubiri. The aim of the research is to demonstrate the philosophical bases for a philosophical anthropology of Information Science, using the foundations of the thought and philosophy of Xavier Zubiri, especially regarding his intellectual strength in questioning the relationship between science and technique, and in his philosophy of intelligence and reality focusing on epistemological, ontological and methodological aspects, from a documental and realist perspective. To this end, epistemological (Information Science as a social science), ontological (the document as the object of study of Information Science) and methodological (Zubiri's philosophical anthropology with philosophical perspectives aligned with the epistemological and ontological assumptions proposed for Information Science) elements were described. The main results are: (1) Regarding the epistemological foundations, the epistemological basis proposed in the thesis suggests that the Philosophy of Information Science can be seen as a philosophical anthropology. This implies that the understanding of information goes beyond the focus on language, and there may be more fundamental elements related to the sentient intelligence of the human being. (2) Regarding the ontological foundations, the research not only adheres to the Zubiriana thesis that the human being is an animal of realities, but also highlights the human being's capacity to document reality. In other words, it establishes an intrinsic relationship between the human being (an animal that documents reality) and the document, indicating that Information Science is, essentially, a "social science of the document". (3) The philosophical perspective proposed by the thesis highlights Information Science as an applied social science, whose focus on the document implies an approach that recognizes and studies the human being in its individual, social and historical dimensions. The thesis stands out in its originality by suggesting the inclusion of philosophical anthropology as a way of thinking alternative to language, presented as a unique contribution to the field. The proposed approach also emphasizes the importance of a deep dialogue between social epistemology and social ontology, which suggests an integration between the document and the human being, overcoming hermeneutic, physical or cognitivist paradigms, offering, via philosophical anthropology, an alternative way of thinking about the Philosophy of Information Science.
-
-**Current note:** The title concerns information philosophy, not distance education.
-
 ### Miss · UY_dbbd0a8c94b34b9e548da2c460964668
 
 **Title:** NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics
@@ -293,6 +305,18 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** Xenarthrans – anteaters, sloths, and armadillos – have essential functions for ecosystem maintenance, such as insect control and nutrient cycling, playing key roles as ecosystem engineers. Because of habitat loss and fragmentation, hunting pressure, and conflicts with 24 domestic dogs, these species have been threatened locally, regionally, or even across their full distribution ranges. The Neotropics harbor 21 species of armadillos, ten anteaters, and six sloths. Our dataset includes the families Chlamyphoridae (13), Dasypodidae (7), Myrmecophagidae (3), Bradypodidae (4), and Megalonychidae (2). We have no occurrence data on Dasypus pilosus (Dasypodidae). Regarding Cyclopedidae, until recently, only one species was recognized, but new genetic studies have revealed that the group is represented by seven species. In this data-paper, we compiled a total of 42,528 records of 31 species, represented by occurrence and quantitative data, totaling 24,847 unique georeferenced records. The geographic range is from the south of the USA, Mexico, and Caribbean countries at the northern portion of the Neotropics, to its austral distribution in Argentina, Paraguay, Chile, and Uruguay. Regarding anteaters, Myrmecophaga tridactyla has the most records (n=5,941), and Cyclopes sp. has the fewest (n=240). The armadillo species with the most data is Dasypus novemcinctus (n=11,588), and the least recorded for Calyptophractus retusus (n=33). With regards to sloth species, Bradypus variegatus has the most records (n=962), and Bradypus pygmaeus has the fewest (n=12). Our main objective with Neotropical Xenarthrans is to make occurrence and quantitative data available to facilitate more ecological research, particularly if we integrate the xenarthran data with other datasets of Neotropical Series which will become available very soon (i.e. Neotropical Carnivores, Neotropical Invasive Mammals, and Neotropical Hunters and Dogs). Therefore, studies on trophic cascades, hunting pressure, habitat loss, fragmentation effects, species invasion, and climate change effects will be possible with the Neotropical Xenarthrans dataset.
 
 **Current note:** The title and abstract do not establish a distance education focus.
+
+### Miss · Ridi_4b0d41dfb0716fba611688f08be379a3
+
+**Title:** O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_4b0d41dfb0716fba611688f08be379a3/Description
+
+**Abstract:** This research investigates the philosophical foundations of Information Science, framed as a human and social science. It develops from a perspective that shifts the analysis of Information Science from a philosophy of language to a philosophy of the human being based on the philosophy of Xavier Zubiri and his theory of sentient intelligence and reality, as well as his studies on the human being. The methodological structure involves an exploratory and descriptive bibliographic research, analyzing works by several authors in the field, with emphasis on those who analyze the field from an Ibero-American perspective and those who think about the field from a documental and neodocumentalist vision. The study arrives at the concept of documentality and, after descriptive syntheses, analyzes the theoretical framework in a triangulation with the philosopher Zubiri. The aim of the research is to demonstrate the philosophical bases for a philosophical anthropology of Information Science, using the foundations of the thought and philosophy of Xavier Zubiri, especially regarding his intellectual strength in questioning the relationship between science and technique, and in his philosophy of intelligence and reality focusing on epistemological, ontological and methodological aspects, from a documental and realist perspective. To this end, epistemological (Information Science as a social science), ontological (the document as the object of study of Information Science) and methodological (Zubiri's philosophical anthropology with philosophical perspectives aligned with the epistemological and ontological assumptions proposed for Information Science) elements were described. The main results are: (1) Regarding the epistemological foundations, the epistemological basis proposed in the thesis suggests that the Philosophy of Information Science can be seen as a philosophical anthropology. This implies that the understanding of information goes beyond the focus on language, and there may be more fundamental elements related to the sentient intelligence of the human being. (2) Regarding the ontological foundations, the research not only adheres to the Zubiriana thesis that the human being is an animal of realities, but also highlights the human being's capacity to document reality. In other words, it establishes an intrinsic relationship between the human being (an animal that documents reality) and the document, indicating that Information Science is, essentially, a "social science of the document". (3) The philosophical perspective proposed by the thesis highlights Information Science as an applied social science, whose focus on the document implies an approach that recognizes and studies the human being in its individual, social and historical dimensions. The thesis stands out in its originality by suggesting the inclusion of philosophical anthropology as a way of thinking alternative to language, presented as a unique contribution to the field. The proposed approach also emphasizes the importance of a deep dialogue between social epistemology and social ontology, which suggests an integration between the document and the human being, overcoming hermeneutic, physical or cognitivist paradigms, offering, via philosophical anthropology, an alternative way of thinking about the Philosophy of Information Science.
+
+**Current note:** The title concerns information philosophy, not distance education.
 
 ### Miss · UY_c2d5a86dee383cfee08da86725197352
 
@@ -378,18 +402,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · Deposita_33b87dfc08bf52d8a45758b2a7ebd487
-
-**Title:** A Autorregulação da Aprendizagem o Processo Avaliativo por Intermédio da Webquest
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_33b87dfc08bf52d8a45758b2a7ebd487/Description
-
-**Abstract:** A presente pesquisa tem como objetivo analisar as contribuições da WebQuest no processo da autorregulação da aprendizagem presente nos espaços escolares, contribuindo tanto para uma aprendizagem significativa quanto para o protagonismo dos estudantes. A metodologia utilizada pautou-se numa Pesquisa Bibliográfica, realizada a partir de livros, periódicos, dissertações e teses de diferentes autores. Nossa pesquisa está subdividida em três partes. Na primeira, contextualizamos a WebQuest e a autorregulação da aprendizagem à partir da perspectiva do psicólogo Albert Bandura. Segunda, tratamos da utilização da metodologia WebQuest no âmbito escolar e bem como do papel do professor mediador neste contexto. Na última, refletimos sobre a autorregulação da aprendizagem e suas contribuições como agente ativo e consciente da aprendizagem Ao longo da explanação apresentamos não só os avanços tecnológicos mas também a Teoria Social Cognitiva (TSC) – ambos auxiliam das práticas pedagógicas em sala de aula, por intermédio das interações aluno-professor e professor-aluno. Essas interações têm com intuito de construir em sala de aula, os vários saberes com o uso das Tecnologias Digitais da Informação e Comunicação (TDICs). Estas levam os discentes a um processo de ensino-aprendizagem mais eficiente, dinâmico e interativo, forma de contribuir para com uma construção crítica e reflexiva de uma aprendizagem significativa. Os resultados da presente pesquisa apontaram um grau elevado de autoeficácia no desenvolvimento de artigos de divulgação científica, redigidos pelos próprios alunos, baseados na TSC e pautados nas TDICs.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
 ### Related hit · Deposita_bbe0694704e62891376e6ee8e5d4bccb
 
 **Title:** Antropologia da inclusão religiosa judaica: conversão ao judaísmo online: a incorporação dos rituais religiosos judaicos em ambiências virtuais
@@ -423,6 +435,138 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_64168130568b51b611d7f02fcd286827/Description
 
 **Abstract:** Este trabajo es una divulgación de la tesis de doctorado en sociología de Susana Lamschtein de la Facultad de Ciencias Sociales, Universidad de la República, Tecnologías digitales y aprendizajes visibles. Habilidades asociadas al uso de las tecnologías digitales en los estudiantes de la enseñanza secundaria pública de Montevideo (2017). Las políticas de un computador por niño en la educación formal han destacado la necesidad de apuntar a las habilidades para el siglo XXI, que trascienden las habilidades digitales operativas básicas. La educación debe preparar a los jóvenes, generando capacidades para la resolución de problemas, con el apalancamiento de las tecnologías de la información y la comunicación (tic). Cuando se llevó adelante esta investigación, en el año 2014, en el sistema educativo uruguayo se había avanzado fundamentalmente en la provisión de infraestructura tecnológica, pero las actividades educativas mediadas por tecnologías alcanzaban solamente a un pequeño porcentaje de los estudiantes. Para este trabajo se aplicó una encuesta en línea y una prueba de habilidades digitales informacionales. Además, se relevaron las calificaciones de una muestra aleatoria representativa de los estudiantes de tercer año de educación secundaria pública de Uruguay que asistían a centros educativos en turnos diurnos. La investigación en la que se basa esta publicación tuvo como objetivo el estudio de la asociación entre dos tipos específicos de aprendizajes: las habilidades curriculares y las habilidades digitales informacionales, con usos específicos de las tic. La hipótesis sobre la que se trabajó fue que cuando hay una conexión de sentido entre el tipo de uso de las tecnologías y el tipo de desempeño medido, es posible observar aprendizajes asociados a dicho uso.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_bc4d4f594285a88f8e24836e031770fd
+
+**Title:** Enseñanza sin aroma
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_bc4d4f594285a88f8e24836e031770fd/Description
+
+**Abstract:** Incluye bibliografía y anexos
+
+**Current note:** The title and abstract do not establish a distance education focus.
+
+### Related hit · UY_668026daac62e3e34631ce453f4aacf3
+
+**Title:** Los entornos virtuales de aprendizaje y sus usos en la enseñanza universitaria : estado de situación y buenas prácticas en las Facultades de Química e Ingeniería de la Universidad...
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_668026daac62e3e34631ce453f4aacf3/Description
+
+**Abstract:** El entorno virtual de aprendizaje (EVA) de la Universidad de la República existe desde el año 2008. El número de docentes y estudiantes que los utilizan ha ido creciendo exponencialmente. Esta investigación propuso conocer los usos de los EVAs de las facultades de Química (FQ) e Ingeniería (FI) e identificar buenas prácticas para ponerlas a disposición del colectivo docente. Los ejes de esta investigación fueron las modalidades de uso (presencial, semipresencial o a distancia), categorizaciones posibles que tienen en cuenta los diferentes recursos y/o actividades empleados, la comunicación, la formación docente y las “buenas prácticas” de trabajo en EVAs. El diseño de la investigación tuvo un abordaje cuali-cuantitativo. En su aspecto cuantitativo se realizaron observaciones de los recursos y actividades que contenían los cursos de ambos EVAs. Los resultados cuantitativos mostraron que en ambas facultades los EVAs son en general un recurso de apoyo para cursos presenciales de grado. En FI se utilizan más actividades que en FQ. En el caso de los foros estos aparecen en un 60% de los cursos de FI y en un 34% de los cursos de FQ. Un gran porcentaje de los cursos de FQ son repositorios de materiales, los cuales básicamente contienen documentos. En FI aparecen con más fuerza cursos que además de documentos poseen foros de discusión y/o tareas. Para profundizar el análisis se trabajó de un modo cualitativo sobre tres cursos, dos de FQ y uno de FI. Se realizaron observaciones de los materiales en el EVA y de clases presenciales de dichos cursos y se realizaron entrevistas a docentes y estudiantes. En estos tres cursos las actividades más valoradas por docentes y estudiantes son la descarga de materiales, el foro de novedades y los foros. Aparecen diferentes formas de emplear los recursos tecnológicos y las estrategias de comunicación, lo cual está estrechamente relacionado con el modelo pedagógico en el que puede encuadrarse cada curso. Los docentes ven necesario formarse en cuanto a las posibilidades de la tecnología y su vinculación a la práctica pedagógica de cada una de las disciplinas que dictan. Se seleccionaron aspectos que aparecen en los tres cursos trabajados en esta tesis y que pueden entenderse como buenas prácticas de trabajo en los EVA.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_f0adc6cedf2fc304a48e1eb99289330c
+
+**Title:** Informe final del proyecto: Monitor y evaluación de uso de las plataformas educativas
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_f0adc6cedf2fc304a48e1eb99289330c/Description
+
+**Abstract:** El sistema educativo ha incorporado nuevas tecnologías que colaboran en el proceso de aprendizaje. Dentro de los cambios tecnológicos se encuentran una variedad de plataformas educativas y entornos virtuales de aprendizaje que generan una gran cantidad de datos a nivel individual de estudiantes y docentes, los cuales son esenciales para evaluar el uso de las plataformas y la educación tanto presencial como a distancia. Para transformar los datos en información relevante para el análisis y la toma de decisiones es fundamental el preprocesamiento de los mismos, la elaboración de indicadores, resúmenes, visualizaciones y modelado estadístico. El objetivo general del proyecto es desarrollar herramientas estadísticas que permitan evaluar y monitorear el uso de plataformas educativas como CREA que colaboren en la elaboración de políticas educativas y la toma de decisiones basadas en evidencia. Siendo muy importante su análisis en el contexto de pandemia donde el uso de las plataformas se incrementó considerablemente. Este objetivo general se llevó adelante en tres líneas de acción: 1. Monitor de uso de la plataforma CREA con datos 2018-2021 implementado en una aplicación web donde la información se resume a distintos niveles de análisis en base al indicador de compromiso definido también en el proyecto. 2. Análisis de la evolución del uso de la plataforma CREA antes y durante los años de pandemia tanto para docentes como estudiantes y se estudian los principales factores que explican su variabilidad. 3. Finalmente, se vincula el uso de las plataformas con el desempeño estudiantil. En esta línea se trabajó con modelos predictivos que vinculan el uso de la plataforma Little Bridge y CREA con los resultados de las pruebas adaptativas de Inglés. Se ajustan modelos predictivos a nivel de alumnos, clases y para alumnos de sexto año donde se cuenta con una meta de egreso establecida por Políticas Lingüísticas de ANEP.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_0eff43df9879859d9aa194d32639143f
+
+**Title:** Are you there? Representation and co-presence in virtual worlds
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_0eff43df9879859d9aa194d32639143f/Description
+
+**Abstract:** Social interaction in virtual worlds is experienced through practices that require digital representation forms of those who participate in them. Through an ethnographic observation in the virtual environment Second Life, we would contribute to the understanding of some relationships between the resources through the users are shown to others and encourage a sense of co-presence. We identify and characterize seven categories of relationship between co-presence and representation. These categories show us technical conditions proper to the environment, and interaction strategies of the participants in two axes: temporary resources management (participation rates) and spatial occupied (co-presence diversified). Finally, the strategies of on line co-presence enlarge the human ubiquity sense. These are core skills for the new reticular and multi scenic social forms.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_dfd705ebce8eba13e037cc3d09fc613f
+
+**Title:** La promoción de competencias en información a través de plataformas virtuales. El caso del Entorno Virtual de Aprendizaje en la Universidad de la República
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_dfd705ebce8eba13e037cc3d09fc613f/Description
+
+**Abstract:** Se propone investigar las posibilidades de las plataformas virtuales de aprendizaje como entornos favorables para la promoción de competencias en información. Para este estudio se toma como referente el caso del Entorno Virtual de Aprendizaje (EVA) de la Universidad de la República (UdelaR) y se analiza desde el marco conceptual de la alfabetización en información. Las plataformas virtuales de aprendizaje tienen un uso extendido en la educación universitaria, su utilización pone de manifiesto la posibilidad de nuevas formas de aprender, situando al estudiante como protagonista del proceso de aprendizaje. Con esto se producen nuevas interrogantes en torno al proceso de enseñanza aprendizaje que involucran diferentes aspectos. En base a los postulados de la Ciencia de la Información, esta investigación se centra en los asuntos vinculados a las plataformas virtuales (como nuevo contexto en el que se enseña y se aprende) y la alfabetización en información, desde la perspectiva del desarrollo de competencias en información mediadas por el uso de estas plataformas. Se analizan las características de las competencias en información y se proponen estrategias para el desarrollo de las mismas en entornos virtuales. Se utiliza una metodología de corte cualitativo realizando una triangulación entre relevamiento bibliográfico y sistematización de experiencias de alfabetización en información en entornos virtuales, entrevistas y un estudio de caso. Tomando como base la investigación documental sobre los temas medulares y transversales al problema se proponen categorías de análisis (las cuales representan a las competencias en información) que son contrastadas a través de un estudio de caso con la plataforma EVA. Este análisis se complementa con la realización de entrevistas a informantes calificados vinculados a la plataforma de aprendizaje de la Universidad de la República. Al mismo tiempo se lleva a cabo un relevamiento y sistematización de las principales características de las experiencias nacionales e internacionales de alfabetización en información en entornos virtuales. Como resultados se destacan una serie de características de las plataformas virtuales de aprendizaje que pueden favorecer el desarrollo de competencias en información utilizando a las mismas como mediadoras y generando contenidos que contemplen las particularidades de estos entornos. A la vez se constata lanecesidad de que las bibliotecas universitarias estén presentes en los entornos virtuales de aprendizajes. Se espera que los resultados de la investigación, los cuales especifican alternativas para la promoción de una serie de competencias en información, constituyan insumos de utilidad para la generación de programas de alfabetización en información a través de entornos virtuales. A la vez la obtención de nuevos elementos teóricos en el área de alfabetización en información contribuirá a la formación de los futuros profesionales de la información que contarán con una visión nacional del problema en el contexto de la Universidad de la República. Más específicamente en el área de actuación de la Facultad de Información y Comunicación se pretende contribuir con el desarrollo de la línea de investigación en Alfabetización en Información, llevada adelante en el marco del PRODIC.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_e37dd98208701932e33101c2a14331ad
+
+**Title:** La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e37dd98208701932e33101c2a14331ad/Description
+
+**Abstract:** Este trabajo surge a partir de una investigación sobre los relatos de docentes y estudiantes acerca de la interacción educativa en un liceo de Ciclo Básico de Montevideo (Proyecto Liceos con tutorías). Las tutorías se conciben como una nueva modalidad de fortalecimiento de los procesos de enseñanza y aprendizaje, donde “acompañar y guiar a los estudiantes con profesores tutores (…) a fin de mejorar la calidad de los aprendizajes” (ANEP/CES, 2013). Constituyen formatos de apoyo, y se trabaja con un grupo pequeño de estudiantes. En este artículo nos centramos en los sentidos y significados que los estudiantes y docentes construyen sobre la interacción (en las aulas y en las tutorías) y sobre sus concepciones acerca de la tarea educativa como tarea posible/ no posible. Los referentes teóricos son la concepción socio-constructivista del aprendizaje (Vigotsky, 2003) y la concepción dialógica del lenguaje (Gabbiani y Madfes, 2006). Hacemos referencia también a aportes sobre el tema de los vínculos en el aprendizaje desde la psicopedagogìa (Fernández, 2000) y desde la Psicología y Educación (Casullo, 2003). Realizamos entrevistas a docentes y estudiantes. Las entrevistas fueron grabadas y luego efectuamos la transcripción y el trabajo de análisis.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_9497658e546f575474d3c4b7b322e72f
+
+**Title:** Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_9497658e546f575474d3c4b7b322e72f/Description
+
+**Abstract:** En plena transformación hacia la sociedad del conocimiento, el sistema educativo, en todos sus niveles, se ve retado a convertirse en un espacio capaz de promover procesos de enseñanza y aprendizaje acordes con las nuevas necesidades. En el contexto universitario, el aprendizaje centrado en el estudiante, eje de todas las reformas internacionales, plantea que el papel de la universidad no es tanto instruir como generar espacios ricos que promuevan el aprendizaje de los estudiantes, mediante la participación activa y el trabajo autónomo, para conocerse como aprendices y aprender a gestionar su propio aprendizaje a lo largo de la vida. La universidad entendida como una formación inicial para una práctica profesional de por vida desapareció hace tiempo
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_21d768eb18b8313d92bd5ef5111e80a3
+
+**Title:** Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_21d768eb18b8313d92bd5ef5111e80a3/Description
+
+**Abstract:** Artículo original.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_d4016faa04642873e3d746d3ecf98111
+
+**Title:** Tutorías entre Pares en la Facultad de Humanidades y Ciencias de la Educación
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_d4016faa04642873e3d746d3ecf98111/Description
+
+**Abstract:** Las Tutorías entre pares (TEP) tienen una larga historia. Podemos rastrear sus orígenes a fines del siglo xvii con el origen de los sistemas nacionales de educación, como una estrategia de enseñanza que permitiera enfrentar las dificultades que planteaba la enseñanza de masas.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_94a2997549879f5fce3a766c6a3aad3e
+
+**Title:** Prácticas de tutoría pedagógica: funcionamiento, percepciones de estudiantes y educadores en un centro educativo
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_94a2997549879f5fce3a766c6a3aad3e/Description
+
+**Abstract:** El objetivo principal de esta investigación es conocer cómo funciona la tutoría pedagógica en el sector de secundaria de una institución educativa a través de la opinión y percepción de sus actores: estudiantes, profesores y educadores referentes, que acompañan el proceso de aprendizaje de los alumnos, a quienes se nombra tutores. El tipo de estudio realizado es descriptivo, analizando los datos desde una perspectiva cuantitativa y cualitativa. Los instrumentos utilizados son: cuestionario a profesores y estudiantes, entrevista en profundidad a tutores y focus group con estudiantes que culminan el bachillerato. Los datos obtenidos muestran la existencia de un acompañamiento pedagógico importante a través de variadas prácticas que se llevan a cabo y la necesidad de organizar, sistematizar y explicitar este acompañamiento para mejorar su efectividad e incidencia en el aprendizaje del alumnado. El análisis realizado arroja una diferencia significativa entre la autopercepción docente de la tutoría pedagógica realizada y la percepción de los estudiantes respecto a la tutoría recibida de los profesores. Se instala entonces la necesidad de revisar y seguir construyendo el rol tutor de los profesores en la institución. Por otro lado, los hallazgos de este estudio confirman varios aspectos claves que, de acuerdo al estado del arte sobre la tutoría pedagógica, son esenciales para la calidad y efectividad de la misma: La importancia del vínculo y la empatía, el abordaje en equipo y el alcance de su instrumentación a todos los estudiantes en su trayectoria educativa.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_230a949e21d71c9f862da96f80cf9f30
+
+**Title:** Aprendizagem organizacional em bibliotecas universitárias: um estudo de caso da rede YDUQS
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_230a949e21d71c9f862da96f80cf9f30/Description
+
+**Abstract:** Organizational learning plays a fundamental role in the development and modernization of university libraries, especially in large institutions such as the YDUQS network. In view of technological transformations and new demands in higher education, it is essential to implement strategies that strengthen the continuous training of librarians and promote innovation in the organizational environment. In this context, the research investigates the application of organizational learning (OL) practices in a network of Brazilian university libraries. This is a single case study with descriptive and exploratory objectives. It adopts bibliographic, documentary and field research as methods. From the point of view of data analysis and result demonstration, it follows a qualitative and quantitative approach. Furthermore, this is action research, based on the concept of improving the practices discussed in the study. It discusses the organizational learning practices developed in the network investigated. It proposes guidelines for a structured organizational learning program aimed at the libraries of the YDUQS network, focusing on professional qualification, sharing of good practices and building an organizational culture oriented towards continuous learning. The program proposal was structured in essential stages, including organizational diagnosis, definition of key competencies, planning of training actions, implementation of in-person and distance training, impact assessment and creation of mechanisms to ensure the sustainability and continuity of the learning process. In addition, technological resources and active methodologies were considered to enhance the dissemination of knowledge among professionals in the network. It presents the librarian as a professional capable of developing organizational learning, including influencing knowledge management (KM) practices in the organizational context. Furthermore, it shows that innovation is a preponderant factor for the development of an organizational learning culture in these environments. The results indicate that a well-structured organizational learning program can contribute significantly to improving the services provided by libraries, ensuring greater efficiency in information management and in the mediation of academic knowledge. It is concluded that the institutionalization of organizational learning in university libraries - and, in this case, in the case of the YDUQS library network - is a fundamental strategy for facing the contemporary challenges of higher education, promoting a collaborative, innovative environment aligned with the needs of users.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -531,18 +675,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e90958162f42dbe8a664ea0761231ae2/Description
 
 **Abstract:** La pandemia causada por el SARS-CoV-2 impactó en la forma en la cual se desarrollaban todas las actividades de nuestras vidas. En Uruguay, desde el 13 de marzo, cuando se confirmaron los primeros casos, se decretó el estado de emergencia sanitaria y el sistema educativo fue uno de los aspectos más radicalmente trastocados. La Facultad de Psicología de la Universidad de la República, como comunidad educativa, pudo sobrellevar las adversidades y lograr, en muy poco tiempo, una respuesta real para mantener el dictado de los cursos de manera virtual. Una vez finalizado el primer semestre, resulta de real importancia conocer cómo se vivenció la experiencia y qué valoración tienen concretamente los docentes y los estudiantes. La población de estudio del relevamiento se compone de estudiantes y docentes de la Facultad de Psicología, el relevamiento fue realizado entre el 8 y el 22 de julio de 2020, a través de formularios online diseñados por el ProREn (Programa de Renovación de la Enseñanza). Se obtuvo una muestra de 693 estudiantes y 55 docentes. Se realizaron análisis descriptivos de dimensiones comunes a ambos cuestionarios. Las valoraciones generales muestran que el pasaje, de forma abrupta, hacia la virtualidad tuvo buenos resultados. No obstante, se observan diferencias en los relatos sobre los aspectos más vivenciales que traen docentes y estudiantes que nos advierten sobre los aspectos más vulnerables de cada población.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · UY_668026daac62e3e34631ce453f4aacf3
-
-**Title:** Los entornos virtuales de aprendizaje y sus usos en la enseñanza universitaria : estado de situación y buenas prácticas en las Facultades de Química e Ingeniería de la Universidad...
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_668026daac62e3e34631ce453f4aacf3/Description
-
-**Abstract:** El entorno virtual de aprendizaje (EVA) de la Universidad de la República existe desde el año 2008. El número de docentes y estudiantes que los utilizan ha ido creciendo exponencialmente. Esta investigación propuso conocer los usos de los EVAs de las facultades de Química (FQ) e Ingeniería (FI) e identificar buenas prácticas para ponerlas a disposición del colectivo docente. Los ejes de esta investigación fueron las modalidades de uso (presencial, semipresencial o a distancia), categorizaciones posibles que tienen en cuenta los diferentes recursos y/o actividades empleados, la comunicación, la formación docente y las “buenas prácticas” de trabajo en EVAs. El diseño de la investigación tuvo un abordaje cuali-cuantitativo. En su aspecto cuantitativo se realizaron observaciones de los recursos y actividades que contenían los cursos de ambos EVAs. Los resultados cuantitativos mostraron que en ambas facultades los EVAs son en general un recurso de apoyo para cursos presenciales de grado. En FI se utilizan más actividades que en FQ. En el caso de los foros estos aparecen en un 60% de los cursos de FI y en un 34% de los cursos de FQ. Un gran porcentaje de los cursos de FQ son repositorios de materiales, los cuales básicamente contienen documentos. En FI aparecen con más fuerza cursos que además de documentos poseen foros de discusión y/o tareas. Para profundizar el análisis se trabajó de un modo cualitativo sobre tres cursos, dos de FQ y uno de FI. Se realizaron observaciones de los materiales en el EVA y de clases presenciales de dichos cursos y se realizaron entrevistas a docentes y estudiantes. En estos tres cursos las actividades más valoradas por docentes y estudiantes son la descarga de materiales, el foro de novedades y los foros. Aparecen diferentes formas de emplear los recursos tecnológicos y las estrategias de comunicación, lo cual está estrechamente relacionado con el modelo pedagógico en el que puede encuadrarse cada curso. Los docentes ven necesario formarse en cuanto a las posibilidades de la tecnología y su vinculación a la práctica pedagógica de cada una de las disciplinas que dictan. Se seleccionaron aspectos que aparecen en los tres cursos trabajados en esta tesis y que pueden entenderse como buenas prácticas de trabajo en los EVA.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -702,39 +834,15 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · UY_21d768eb18b8313d92bd5ef5111e80a3
+### Related hit · UY_283a358a1fa5ef6789a95a0c1d8a91a9
 
-**Title:** Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_21d768eb18b8313d92bd5ef5111e80a3/Description
-
-**Abstract:** Artículo original.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · UY_e37dd98208701932e33101c2a14331ad
-
-**Title:** La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes
+**Title:** La interactividad en ambientes multirreferenciales de aprendizaje
 
 **Review basis:** title+abstract
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e37dd98208701932e33101c2a14331ad/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_283a358a1fa5ef6789a95a0c1d8a91a9/Description
 
-**Abstract:** Este trabajo surge a partir de una investigación sobre los relatos de docentes y estudiantes acerca de la interacción educativa en un liceo de Ciclo Básico de Montevideo (Proyecto Liceos con tutorías). Las tutorías se conciben como una nueva modalidad de fortalecimiento de los procesos de enseñanza y aprendizaje, donde “acompañar y guiar a los estudiantes con profesores tutores (…) a fin de mejorar la calidad de los aprendizajes” (ANEP/CES, 2013). Constituyen formatos de apoyo, y se trabaja con un grupo pequeño de estudiantes. En este artículo nos centramos en los sentidos y significados que los estudiantes y docentes construyen sobre la interacción (en las aulas y en las tutorías) y sobre sus concepciones acerca de la tarea educativa como tarea posible/ no posible. Los referentes teóricos son la concepción socio-constructivista del aprendizaje (Vigotsky, 2003) y la concepción dialógica del lenguaje (Gabbiani y Madfes, 2006). Hacemos referencia también a aportes sobre el tema de los vínculos en el aprendizaje desde la psicopedagogìa (Fernández, 2000) y desde la Psicología y Educación (Casullo, 2003). Realizamos entrevistas a docentes y estudiantes. Las entrevistas fueron grabadas y luego efectuamos la transcripción y el trabajo de análisis.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
-### Related hit · UY_9497658e546f575474d3c4b7b322e72f
-
-**Title:** Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_9497658e546f575474d3c4b7b322e72f/Description
-
-**Abstract:** En plena transformación hacia la sociedad del conocimiento, el sistema educativo, en todos sus niveles, se ve retado a convertirse en un espacio capaz de promover procesos de enseñanza y aprendizaje acordes con las nuevas necesidades. En el contexto universitario, el aprendizaje centrado en el estudiante, eje de todas las reformas internacionales, plantea que el papel de la universidad no es tanto instruir como generar espacios ricos que promuevan el aprendizaje de los estudiantes, mediante la participación activa y el trabajo autónomo, para conocerse como aprendices y aprender a gestionar su propio aprendizaje a lo largo de la vida. La universidad entendida como una formación inicial para una práctica profesional de por vida desapareció hace tiempo
+**Abstract:** El sujeto actual habita en un entorno en el que predomina la forma multimedial de comunicación, cargada de estímulos auditivos y visuales, de colores, sonidos e imágenes. Es un desafío reflexionar sobre estos procesos apuntando a comprender su significación en la construcción del sujeto que aprende. El problema de la investigación reside en identificar procesos educativos en sintonía con la emergencia de la interactividad, considerándola una nueva dimensión comunicacional en las relaciones con el saber y la construcción del conocimiento. La hipótesis supone que en ambientes en los que predomina la mediación telemática existe mayor complejidad al modificarse las formas de construir conocimiento y las relaciones vivenciales con el saber. El objetivo de este trabajo es mostrar los avances encontrados identificando los procesos educativos en sintonía con la interactividad como una nueva dimensión comunicacional en las relaciones con el saber y la construcción del conocimiento en ambientes multirreferenciales de aprendizaje. Para comprender el fenómeno, se utiliza la etnometodología multirreferencial y multilocal, y el concepto que emerge es una interactividad como acción mediada que depende enteramente de la presencia del otro y se acompaña de dos características que derivan de la acción: la iniciativa o el deseo de innovación y el hacer plural.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -759,6 +867,18 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_c812ff0b8ba0ffca6b782f06daa8ba35/Description
 
 **Abstract:** This research had as objective discovery how is the use of Web in the learning / teaching process in the public schools of Contagem city. It started with a bibliography research which contributed with co-related researches. After that a quiz was applied to teachers and students of two units of Fundação de Ensino de Contagem. This quiz had two parts, one applied in the school another one on-line. Then some teachers were invited to participate of an interview that had a purpose to understand which difficulties they encountered in applying the Web in scholar works. With the data obtained in the research some quantitative and qualitative analyses became possible and the research identified the students and teachers profile, how teachers and students understand Web concept, what are the most common Web services for then and how they use the Web. This research obtained as result the form that Web 2.0 resources are used, what applications are most used, the place students use it and if there are any pedagogical use actually.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_6fea5f22d35dc0188d9644864ec4735c
+
+**Title:** Você tem um novo par: as affordances na construção da interação e da interatividade no Tinder
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_6fea5f22d35dc0188d9644864ec4735c/Description
+
+**Abstract:** Os relacionamentos na pós-modernidade têm ganhado novo território comunicativo com a popularização dos Sites de Relacionamento no espaço virtual da Internet, tendo em vista os indivíduos participarem mais do ciberespaço que do convívio face a face no mundo real. Por esse motivo, este estudo apresenta a comunicação baseada pelo uso da web como mediadora das transformações e das realizações humanas, desenvolvendo-se no compartilhamento de mensagens, ideias e emoções, assim como se observa na Teoria das Affordances uma possibilidade de compreender o design de construção dos espaços virtuais e perceber a atuação dos usuários ao dar significado aos artefatos simbólicos por meio da linguagem afetiva. Dessa forma, esta pesquisa objetiva investigar os mecanismos de interação e interatividade disponíveis no aplicativo Tinder, a fim de buscar explicações sobre as ações dos usuários durante o acesso à sua estrutura e suas construções identitárias pela busca e efetivação de pares em virtude do ato de “dar match”. O embasamento teórico está alicerçado na percepção das affordances nos diversos ambientes, em Gibson (1977, [1986] 2015), Greeno (1994), van Lier (2000, 2002, 2004, 2008), Norman (2008, 2010), Broch (2010), Santos Costa (2013), Silva (2015, 2020) e Calzoni (2022), com base nos modelos de análise elencados por Gaver (1991), Norman (2006), Kim e Hong (2012) e Pucillo e Cascini (2014). Além disso, conceitos como o de Modernidade Líquida em Bauman (2001, 2004), de Cibercultura e Ciberespaço em Recuero (2012), de Sites de Redes Sociais em Boyd e Ellison (2007), Recuero (2009, 2010) e Primo et al. (2017), de interação em Bakhtin [1979] (2011), de interação e interatividade em Primo (2003, 2008) e de Multimodalidade em Kress (2010) e Kress e van Leeuwen ([1996] 2021) foram utilizados amplamente neste estudo. A metodologia adotada quanto ao objetivo da pesquisa foi a exploratória, com abordagem qualitativa do problema, desenvolvida no ciberespaço por um observador participante e envolvendo a triangulação entre o método netnográfico em Kozinets (2014) e a Análise de Conteúdo em Bardin [1977] (2016), utilizando a técnica de análise categorial ou temática para interpretação das descrições da seção “Sobre mim” do Tinder e das respostas ao questionário de pesquisa. A amostra foi composta por 10 (dez) usuários efetivos do Tinder. Os resultados evidenciaram que, mesmo intuitivamente, os usuários do Tinder conseguem projetar os seus propósitos comunicativos, ao agirem sobre as possibilidades de ação durante o uso do app, tanto na interação como na interatividade. Além disso, ficou evidente que o app consegue apresentar uma diversidade de recursos que proporcionam interatividade aos usuários, principalmente para cumprir o objetivo de buscas por outros usuários em decorrência do ato de “dar match” na conta gratuita do Tinder. Logo, as percepções das affordances dos objetos tecnológicos do Tinder, uma vez projetadas pelos designers, não são assimiladas igualmente pelos utentes durante a usabilidade do app.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -869,18 +989,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** The rapid growth of the urban population generates an increase the demand for goods and services, and the distribution operations to meet their requirements. In these cases, the infrastructure in logistics operations with the adequate loading and unloading operations, the delivery management, the regulations, the ways, the regulations and the public spaces layout for human activities, represents a challenge for the goods distribution in the cities. The loading and unloading docks are public or private parking spaces for the efficient supply and inverse logistics supply operations, in the distribution centers and points of distribution by vehicles of different classes, according the operation characteristics of the products and services. These zones facilitate the delivery of goods, reduce the impact on traffic congestion and the environmental sustainability of the city. This paper characterizes the logistics infrastructure in the commercial zone of Chosica, located in the district of Lurigancho-Chosica, department of Lima, Peru. This paper presents the city characteristics with the absence of a freight loading and unloading policies and proposes the integration of initiatives to improve the goods distribution in the area. The methodology used for the characterization of Chosica was the methodology of square kilometer (km2) proposed by the Massachusetts Institute of Technology (MIT) with the commercial inventory (load generators), regulations and roads; and the observation and analysis of its dynamics and behavior on the densest front with its disruptions, deliveries and vehicles. According to the conditions characterization of this commercial zone and its cargo generation, public policies and best practices for urban development and city sustainability are proposed. The results show a deficiency in the infrastructure and the physical facilities for an efficient operation of supply chain flows, their influences on transportation, inventory and supply from the perspective of logistics operators with an inefficient distribution of goods, reflected in the price. The proposals for loads and deliveries of goods management present the multimodal use of the urban space and the review of each front in order to maintain a balance between the supply of the commerce and the demand of the citizens, the mobility of the city ​​and the sustainability of this environment created by the human being.
 
 **Current note:** The title and abstract do not establish a distance education focus.
-
-### Related hit · Deposita_6fea5f22d35dc0188d9644864ec4735c
-
-**Title:** Você tem um novo par: as affordances na construção da interação e da interatividade no Tinder
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_6fea5f22d35dc0188d9644864ec4735c/Description
-
-**Abstract:** Os relacionamentos na pós-modernidade têm ganhado novo território comunicativo com a popularização dos Sites de Relacionamento no espaço virtual da Internet, tendo em vista os indivíduos participarem mais do ciberespaço que do convívio face a face no mundo real. Por esse motivo, este estudo apresenta a comunicação baseada pelo uso da web como mediadora das transformações e das realizações humanas, desenvolvendo-se no compartilhamento de mensagens, ideias e emoções, assim como se observa na Teoria das Affordances uma possibilidade de compreender o design de construção dos espaços virtuais e perceber a atuação dos usuários ao dar significado aos artefatos simbólicos por meio da linguagem afetiva. Dessa forma, esta pesquisa objetiva investigar os mecanismos de interação e interatividade disponíveis no aplicativo Tinder, a fim de buscar explicações sobre as ações dos usuários durante o acesso à sua estrutura e suas construções identitárias pela busca e efetivação de pares em virtude do ato de “dar match”. O embasamento teórico está alicerçado na percepção das affordances nos diversos ambientes, em Gibson (1977, [1986] 2015), Greeno (1994), van Lier (2000, 2002, 2004, 2008), Norman (2008, 2010), Broch (2010), Santos Costa (2013), Silva (2015, 2020) e Calzoni (2022), com base nos modelos de análise elencados por Gaver (1991), Norman (2006), Kim e Hong (2012) e Pucillo e Cascini (2014). Além disso, conceitos como o de Modernidade Líquida em Bauman (2001, 2004), de Cibercultura e Ciberespaço em Recuero (2012), de Sites de Redes Sociais em Boyd e Ellison (2007), Recuero (2009, 2010) e Primo et al. (2017), de interação em Bakhtin [1979] (2011), de interação e interatividade em Primo (2003, 2008) e de Multimodalidade em Kress (2010) e Kress e van Leeuwen ([1996] 2021) foram utilizados amplamente neste estudo. A metodologia adotada quanto ao objetivo da pesquisa foi a exploratória, com abordagem qualitativa do problema, desenvolvida no ciberespaço por um observador participante e envolvendo a triangulação entre o método netnográfico em Kozinets (2014) e a Análise de Conteúdo em Bardin [1977] (2016), utilizando a técnica de análise categorial ou temática para interpretação das descrições da seção “Sobre mim” do Tinder e das respostas ao questionário de pesquisa. A amostra foi composta por 10 (dez) usuários efetivos do Tinder. Os resultados evidenciaram que, mesmo intuitivamente, os usuários do Tinder conseguem projetar os seus propósitos comunicativos, ao agirem sobre as possibilidades de ação durante o uso do app, tanto na interação como na interatividade. Além disso, ficou evidente que o app consegue apresentar uma diversidade de recursos que proporcionam interatividade aos usuários, principalmente para cumprir o objetivo de buscas por outros usuários em decorrência do ato de “dar match” na conta gratuita do Tinder. Logo, as percepções das affordances dos objetos tecnológicos do Tinder, uma vez projetadas pelos designers, não são assimiladas igualmente pelos utentes durante a usabilidade do app.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
 ### Miss · UY_b772477a167108ee9b4f5c7eb5e0f2bc
 
@@ -1088,6 +1196,138 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title and abstract do not establish a diabetes focus.
 
+### Miss · UY_8f5f06bbbd2eeaa9510c2cb2c9d5043e
+
+**Title:** MANAGEMENT AND KNOWLEDGE ABOUT BLOOD PRODUCTS OF A GROUP OF PROFESSIONAL NURSING AT A HOSPITAL IN MA
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_8f5f06bbbd2eeaa9510c2cb2c9d5043e/Description
+
+**Abstract:** Blood transfusion is a common practice in the hospital setting in which the role of nursing is essential, specific knowledge being necessary to avoid risks and complications. The aim of this work was to study the knowledge and management on blood products with a group of nurses on blood products. To do this, we conducted a cross-sectional study using a previously validated questionnaire with 25 items and two possible answers to each question. The questionnaire included questions on pre and post transfusion knowledge as well as several actions to take during the technique in the case of complications. The average age of the sample was 45.23 years, with 45% o them men. 44.4% worked in rotating shifts, 68.3% had temporary contracts and 22.8% had specific training in blood products. A descriptive analysis of the data was performed, and also a bivariate analysis that found significant differences based on gender, type of contract, professional experience and specific training. In general, knowledge of blood products is acceptable, although there are some shortcomings that should be remedied.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_23239764542cdc0cf97febf2c75a6728
+
+**Title:** MORTALIDAD MATERNA EN LA GESTANTE WAYÚU DE URIBIA, DEPARTAMENTO DE LA GUAJIRA, COLOMBIA. ESTUDIO DESCRIPTIVO AÑO 2016
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_23239764542cdc0cf97febf2c75a6728/Description
+
+**Abstract:** La tendencia de mortalidad materna en el municipio de Uribia, Departamento de la Guajira, Colombia, ha mostrado un ascenso vertiginoso. Si bien existen esfuerzos por mejorar la cobertura en la atención del parto institucional en el municipio, el parto domiciliario, que es una práctica cultural habitual de poblaciones indígenas como la Wayúu, sigue siendo, por diversas razones, la primera opción para un número significativo de mujeres Wayúu. Esta práctica cultural expone a las mujeres a complicaciones durante la atención del parto que, de no ser remitidas a tiempo a un centro hospitalario, conducen a una muerte materna. La presente investigación tuvo como objetivo describir el comportamiento de la mortalidad materna en la gestante Wayúu del municipio de Uribia en el periodo comprendido entre el primero de enero del 2010 al 31 de diciembre del 2016. Los resultados de este estudio muestran cómo las prácticas tradicionales de parto, el difícil acceso a los servicios de salud y la edad de la madre son factores que contribuyen a aumentar la tasa de mortalidad materna y esto, a su vez, revela la vulnerabilidad social y de salud a la que está expuesta esta comunidad indígena. La investigación concluyó además que la hemorragia posparto fue la principal causa de mortalidad materna en la gestante Wayuu del municipio de Uribia, durante el período estudiado. La atención domiciliaria del parto, realizada por madres, abuelas o hermanas mayores, puede ser un factor desencadenante de este tipo de complicaciones obstétricas que, si no son atendidas adecuadamente, pueden conducir a la muerte de la madre.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_ea9484882aa251544d99215b3ac986a7
+
+**Title:** PHILOSOPHICAL VIEW OF HUMAN CARE IN THE WOMAN IN THE CLIMACTERIC STAGE
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_ea9484882aa251544d99215b3ac986a7/Description
+
+**Abstract:** Middle-aged women, although they may have concluded with the biological reproductive cycle, maintain an important social role that is expressed through their active participation in community life, without abandoning the responsibilities assumed in the home and family, which it contributes to the exacerbation of climacteric symptoms in intensity and frequency, in correspondence with social determinants because of their sex. On the other hand, the living conditions of women have undergone significant changes in the last decades: the progressive increase of opportunities for labor insertion, birth control, reduction of fertility, improvement in the effectiveness of preventive measures, increase in life expectancy, reduction of gender barriers, changes in social roles, all of which must be considered in their health care. Therefore it is necessary to focus the care from a philosophical perceptive that allows us to perform it in an integral way, without setting aside emotional, spiritual and psychosocial aspects. The primary care service is essential to provide a source of care that has continuity, coordination, and that covers in a global way the health needs of people. Whatever the type of transition, it implies from the nursing staff the need to know the beliefs and practices in each one of the transitional situations of the person in order to offer a culturally congruent care. This implies knowing how humans adapt to the transition, and how the environment affects that adaptation. This importance derives from the fact that nursing seeks to maximize the strengths and potentials of people
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_e7393ce83bd261f6f0b5f4e2dead7166
+
+**Title:** Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e7393ce83bd261f6f0b5f4e2dead7166/Description
+
+**Abstract:** https://rue.fenf.edu.uy/index.php/rue
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_fcac50019600623b23de0cd5f4d42053
+
+**Title:** COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_fcac50019600623b23de0cd5f4d42053/Description
+
+**Abstract:** Hypoxic ischemic encephalopathy, secondary to asphyxia during childbirth, remains an important cause of postnatal death and permanent neurological deficit in the world. Nursing interventions continue as the pillar of the treatment, allowing some comfort to the patient. The study aimed to implement the nursing process in the care of a pediatric patient with brain damage as a consequence of perinatal asphyxia. We conducted a clinical case study in a Pediatric Intensive Unit in Durango, Mexico, in November and December 2017. The data was obtained after the evaluation and presented in the nursing process in its phases of history, evolution, diagnosis, planning of the interventions and results obtained. We emphasize the importance of the process as a focus of the nurse's work, capable of enabling the development of evidence-based care and also to enhance its credibility.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_1cff21c68cc0bb40d6a1d886b3bafaf0
+
+**Title:** Discapacidad en la niñez y la adolescencia : una visión desde el cuidado de enfermería
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_1cff21c68cc0bb40d6a1d886b3bafaf0/Description
+
+**Abstract:** Discapacidad en la niñez y la adolescencia es una publicación que aborda la población de niños, niñas y adolescentes portadores de patologías discapacitantes, con un enfoque integral. Es una herramienta para el estudio y el trabajo del equipo de salud. Surge a partir de un curso de formación permanente realizado por la Cátedra Salud del Niño, Niña y Adolescente de la Facultad de Enfermería y contó con la financiación de la Comisión Sectorial de Educación Permanente para su publicación.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_0cb54d40a6bdcdb049dd365ce175271c
+
+**Title:** NURSING CARE OF THE NEURO-CRITICAL PATIENT WITH INTRACRANIAL PRESSURE MONITORING.
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_0cb54d40a6bdcdb049dd365ce175271c/Description
+
+**Abstract:** The aim of this study is to create a standardized nursing-care plan, based on the best scientific evidence that works as a guide for the care of the neuro-critical patient with intracranial pressure monitoring in the intensive care unit. The methodology used is the revision of 59 clinical cases and the process performed to the patients with monitoring for more than ten years of professional practice experience in the Intensive Care Unit. Five basic altered needs were identified according to the Virginia Henderson model, for which seven diagnostic labels were created with their respective interventions and care. We conclude that the Nursing Process allows the nursing discipline to provide care in a rational, logical, and systematic way, preventing the variability in assistance and establishing a common language in caring for the neuro-critical patients.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_73d4b2ee8863214fb9d8bbd13ef2f1f1
+
+**Title:** Cuidados para prevenção de lesão por pressão realizada por enfermeiros em um hospital de ensino
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_73d4b2ee8863214fb9d8bbd13ef2f1f1/Description
+
+**Abstract:** https://rue.fenf.edu.uy/index.php/rue
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_99a8375d9f91fe2482be19a584d0c2ad
+
+**Title:** NURSING MODELS AND THEORIES: SUPPORT FOR PALLIATIVE CARE
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_99a8375d9f91fe2482be19a584d0c2ad/Description
+
+**Abstract:** Care is the foundation of the Nursing Science and can be conceptualized as all actions that help preserve and maintain life. It originates in the need for human survival in adverse circumstances, and while it is inherent to the species, it has been differentiated by gender. Family care, food, clothing and affection needs have been historically linked to women; in the case of men, care was related to acts requiring physical strength and achieving food through hunting and fishing work. Modern Nursing took since its origins care practice as the basis of their discipline, being approached from various aspects, in which it is included; care, research, teaching and management. Care is a specific part of the culture, values ​​and beliefs of people, placing concern for others as the pillar of human existence. Caring is a way of living and of being in relationship with others, to habit in the world, which is essential for any adaptation.From the perspective of Nursing in Palliative Care, there are various models of approaches to a holistic intervention, which combine physical, social, psychological and spiritual aspects that bring care to the family and society. The objective of this article is to identify the use and application of nursing models and theories in palliative care.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_9e582b0bbba22b12eaa3d567cc313ba2
+
+**Title:** Abordaje integral de enfermería en una paciente con enfermedad crónica y malformaciones: a propósito de un caso
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_9e582b0bbba22b12eaa3d567cc313ba2/Description
+
+**Abstract:** El Proceso Enfermero (PE) como instrumento metodológico de los cuidados enfermeros permite un abordaje integral de las personas en cualquier nivel de atención y en cualquier contexto. El objetivo del siguiente trabajo fue describir los cuidados de enfermería destinados a la atención de una paciente con necesidades especiales: enfermedad crónica y malformaciones. La implementación del PE permitió articular el abordaje interdisciplinario entre diferentes prestadores de Salud. Se valoró el déficit de autocuidado a través de la perspectiva de Dorothea Orem, postura que permitió visualizar necesidades, intereses y problemas de la paciente y su familia, e implementar un plan de cuidados para cubrir sus necesidades básicas mejorando la calidad de vida, el afrontamiento del duelo.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_a436ec9d1a30902726c476979aacacfc
+
+**Title:** Experiencia de Enfermería asistencial en el manejo del Prolapso Genital Neonatal
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_a436ec9d1a30902726c476979aacacfc/Description
+
+**Abstract:** http://rue.fenf.edu.uy/index.php/rue
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
 ### Miss · Deposita_76698c4c5846ac2fc682bb7f0024a27c
 
 **Title:** From organizational silence to structured debate about work : effects on the safety and on the organization.
@@ -1157,18 +1397,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_261cd5eaf1b415644a0eb24a34df9fff/Description
 
 **Abstract:** Les inhibiteurs de la calcineurine (ICN) sont les immunosuppresseurs les plus employés en transplantation d organe et, malgré leur toxicité et leur efficacité imparfaite, ils resteront les premiéres options thérapeutiques dans un avenir proche. Leurs effets présentent une large variabilité intra- et inter-individuelle, qui n est pas expliquée par les différences de doses, de concentrations ou d aires sous la courbe des concentrations en fonction du temps, ce qui limite les bénéfices du suivi thérapeutique pharmacologique et suggére que d autres facteurs contribuent á la variabilité de la réponse. Comme les ICN ciblent la fonction des lymphocytes T (LT), la concentration des ICN dans les LT a été étudiée comme marqueur intermédiaire de la fonction immunitaire. Effectivement, les concentrations intra-lymphocytaires de TAC chez des transplantés hépatiques montraient une plus forte association avec le rejet aigu que les concentrations dans le sang total, probablement parce qu elles intégrent la variabilité inter-individuelle d entrée du médicament dans les LT. De la mme maniére, des études antérieures ont montré que les concentrations intra-hépatiques de TAC étaient trés bien corrélées avec les scores de rejet de Banff, alors que les concentrations résiduelles dans le sang ne l étaient pas. Les deux pourraient représenter des biomarqueurs pharmacocinétiques intéressants, quoique difficiles á mesurer. Pour se qualifier comme index d activité immunosuppressive des ICN, un biomarqueur pharmacodynamique (PD) devrait tre directement affecté par l activité du médicament, c'est-á-dire ne pas tre trop éloigné de la cible du médicament et en mme temps proche de ses effets cliniques. Comme de nombreuses preuves accréditent le concept que la suppression des LT est le mécanisme clé par lequel les ICN induisent une immunosuppression permettant de prévenir le rejet cellulaire, la fonction et l activation des LT sont des candidats séduisants pour les stratégies de suivi PD. Toutefois, á ce jour aucun biomarqueur PD ne présente tous les prérequis idéaux, c'est-á-dire est á la fois non-invasif, fiable, sensible, spécifique, reproductible et disponible rapidement. Afin d identifier des biomarqueurs PD trés spécifiques de l inhibition de la calcineurine et reflétant une part importante de la variabilité inter-individuelle, nos travaux avaient pour objectifs d explorer la pharmacodynamie des ICN, la force et la variabilité de la Ofelia Noceti Penza | Thése de doctorat | Université de Limoges | 2015 9 of 298 transmission du signal le long de l axe calcineurine, ainsi que les étapes oú les sources de variabilité PD internes (génétiques) ou externes sont les plus influentes. Dans ce but, nous avons mesuré simultanément la translocation de NFAT1 dans le noyaux des cellules mononuclées du sang périphérique (PBMC) (NFTA1 étant l isoforme prédominante de NFAT dans les LT quiescents ou activés), l expression intracellulaire d IL-2 dans les sous-populations lymphocytaires CD3+, CD4+ et CD8+, et l expression membranaire de CD25 (IL-2R ), un marqueur de surface de l activation des LT. Un essai clinique non-interventionnel a été mis en place chez des volontaires sains (VS), des patients inscrits en liste d attente de transplantation hépatique (PLA) et des patients transplantés hépatiques (PTH). Une question différente a été étudiée dans chaque groupe : HS et PLA ont été inclus pour étudier la réponse des LT au tacrolimus (TAC) exvivo dans des conditions de stimulation, ainsi que les sources génétiques potentielles de variabilité PD, respectivement dans des conditions physiologiques et pathologiques. Les PTH ont été recrutés pour étudier les relations pharmacodynamiques, pharmacogénétiques et pharmacocinétiques dans des situations d administration de tacrolimus ou de ciclosporine, c'est-á-dire d activité PD résiduelle mesurée ex-vivo en conditions de stimulation ou non. Le petit groupe de PTH (n=6) inclus juste avant la transplantation et suivi de faon répétitive pendant la premiére année post-greffe était prévu pour explorer les relations entre PD des ICN et réponses cliniques. L étude chez les VS (n=35) : a exploré la PD du TAC au long de la voie calcineurine en exposant des PBMC ex-vivo au médicament a modélisé la transmission du signal au long de cette voie ; a examiné la variabilité inter-individuelle des paramétres pharmacodynamiques du TAC et a étudié les sources de cette variabilité et leur contribution á chaque étape de la voie calcineurine. De plus, elle nous a permis d évaluer la variabilité analytique de nos techniques ainsi que la variabilité intra-individuelle des paramétres PD du TAC. Les PLA (n = 19) nous ont permis de confirmer les résultats obtenus chez les VS, ainsi que de tester l influence potentielle de leur maladie initiale sur la pharmacodynamie ex-vivo du TAC. Les buts de l étude transversale chez des PTH (n=80) étaient d explorer la variabilité inter-individuelle de la PD des ICN dans des situations cliniques réalistes et les sources pharmacogénétiques potentielles de cette variabilité. Ofelia Noceti Penza | Thése de doctorat | Université de Limoges | 2015 10 of 298 Nous avons mesuré par cytométrie en flux la présence de NFTA1 transloqué dans le noyau des PBMC (qui est trés proche de l activité phosphatase de la calcineurine et probablement plus spécifique que la mesure ; directe de son activité, qui nécessite d inhiber d autres activités phosphatases), ainsi que la fonction (IL-2) et l activation (CD25) des LT comme marqueurs du statut de l immunité cellulaire. Les PBMC ont été séparés par gradient de centrifugation á partir d échantillons de sang total recueillis avant l administration du médicament et á jeun. Des aliquots frais de 106 PBMC dans 100 l de RPMI supplémenté ont été employés pour toutes les analyses. Les PBMC des VS et des PLA ont été exposés ex-vivo pendant 30 min á des concentrations de TAC entre 0 et 50 ng/mL avant chaque mesure. Les mesures de NFAT1 étaient précédées d une stimulation polyclonale par du phorbol 12-myristate 13-acétate (PMA) á 50 ng/mL et du calcium ionophore (I) á 2.5 g/ml, á 37 C dans une atmosphére humidifiée avec 5% CO2 pendant 30 min, pour garantir la translocation de NFAT1 vers le noyau. Aprés deux lavages avec du PBS 1X froid, les cellules étaient incubées dans la glace pendant 30 min avec du tampon de lyse PIPE (pH 7,4 dans le PBS 1X) pour perméabiliser les noyaux cellulaires. Aprés deux nouveaux lavages avec de la BSA á 1% dans le PBS 1X, 50 L d un mélange d anticorps anti-NFAT1 á 5g/ml dans le PBS 1X étaient ajoutés au milieu pour 30 min d incubation dans la glace. Puis des Ig polyclonales á 0,33% marquées au PE (fragment F(ab )2 de chévres anti- IgG(H+L) de souris) étaient ajoutées. Aprés 15 min d incubation dans la glace á l abri de la lumiére, le signal fluorescent résultant des noyaux de PBMC marqués a été mesuré par cytométrie de flux et l intensité de fluorescence moyenne de NFTA1 dans les noyaux isolés utilisée pour les analyses statistiques. La mesure d IL-2 intra-cellulaire a nécessité 5h d activation polyclonale avec du PMA/I et de la bréfeldine á 1 g/ml (pour arrter la sécrétion de protéines) á 37% en atmosphére humidifiée avec 5% de CO2. Les cellules étaient alors : i) marquées avec des marqueurs de surface anti-LT humain (CD3 PerCP-Cy5.5, CD4 FITC, CD8 PE-Cy7); ii) fixées : iii) perméabilisées (IntraPrep) ; iv) marquées avec des anticorps PE de rat anti-IL-2 humains et avec des IgG2a PE de rat comme controle isotypique. Pour la mesure d expression de CD25, des aliquots de PBMC ont été incubés pendant 72h á 37 C et 5% de CO2 en présence de 7,5 g/ml de Concanavaline A dans du RPMI 1640 1X. Ofelia Noceti Penza | Thése de doctorat | Université de Limoges | 2015 11 of 298 Aprés deux lavages additionnels dans le PBS 1X, un marquage direct était réalisé avec : CD3 PerCPCy5.5, CD4 PE, CD8 PE-Cy7 et CD25 APC. L analyse par cytométrie de flux était pratiquée aprés 30 min d incubation dans le noir et deux lavages avec de la BSA dans du PBS 1X. De plus, pour les PLA et PTH, un aliquot de PBMC a été analysé sans stimulation ex-vivo (NS condition) pour NFAT1, IL-2 et CD25. L expression d IL-2 et CD25 a été exprimée en pourcentage de cellules fluorescentes sur le nombre total de cellules CD4+, CD8+ ou CD3+, respectivement. Les cytométres de flux employés pendant ce travail étaient un LSRFortessa et un CantoII (Beckton-Dickinson), chacun équipé de 3 lasers. Les lymphocytes ont été choisis
-
-**Current note:** The title and abstract do not establish a diabetes focus.
-
-### Miss · UY_e7393ce83bd261f6f0b5f4e2dead7166
-
-**Title:** Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e7393ce83bd261f6f0b5f4e2dead7166/Description
-
-**Abstract:** https://rue.fenf.edu.uy/index.php/rue
 
 **Current note:** The title and abstract do not establish a diabetes focus.
 
@@ -1313,18 +1541,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_f8d9fca7180f7c480c43b2f64b2ac14d/Description
 
 **Abstract:** Their frequency is discussed. polnting out lhe gr cnt prepondel'ance of endoscopic and foreign-body injuries. Clinicol diagnosis is rather simple in thc períoratlor1!$ ol cervical c.sophagus, but not so simple in the perforations of thoraclc esophagUIi. Antecedents ond roentg~nography are cssential for the diagnosis. Thc Irt>atment 01 cervical perCorations has been long d.iscus~ sed. hut th~ author is prone 10 perform suraiea} treatmento cxcept in soml'! favourahle, airead)' evolved cases. All thOl'u...:e perforations must be treated by sur¡:!ery because of thcir higher risk. The surgical technique Is discu~sed The eX"llcrience of the aulhor i9 bilsed upon l!'i cases ol traumatlc perCorations due to dlfferent eaus~s. The prognOSis ls diHercnl for each one. In 8 ca.!cs of eel'vical perIoration, thcrc was lOO SG ol cure; In 6 cases ()f lhor&amp;cic perforatlon. there \Val! 66""~ cf mortalily. This is due to thc late dJagnosls ¡md the higher therapeutic diCficulties.
-
-**Current note:** The title and abstract do not establish a diabetes focus.
-
-### Miss · UY_fcac50019600623b23de0cd5f4d42053
-
-**Title:** COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_fcac50019600623b23de0cd5f4d42053/Description
-
-**Abstract:** Hypoxic ischemic encephalopathy, secondary to asphyxia during childbirth, remains an important cause of postnatal death and permanent neurological deficit in the world. Nursing interventions continue as the pillar of the treatment, allowing some comfort to the patient. The study aimed to implement the nursing process in the care of a pediatric patient with brain damage as a consequence of perinatal asphyxia. We conducted a clinical case study in a Pediatric Intensive Unit in Durango, Mexico, in November and December 2017. The data was obtained after the evaluation and presented in the nursing process in its phases of history, evolution, diagnosis, planning of the interventions and results obtained. We emphasize the importance of the process as a focus of the nurse's work, capable of enabling the development of evidence-based care and also to enhance its credibility.
 
 **Current note:** The title and abstract do not establish a diabetes focus.
 
@@ -1496,6 +1712,30 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title and abstract do not establish a diabetes focus.
 
+### Miss · UY_a21379668c97107289c3960595306afe
+
+**Title:** Abuso sexual infantil, trastornos de la conducta alimentaria y su tratamiento
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_a21379668c97107289c3960595306afe/Description
+
+**Abstract:** "Este trabajo aborda las modalidades de tratamientos sistémicos y cognitivos en sujetos que padecieron Abuso Sexual Infantil (ASI) y posteriormente desarrollaron trastornos de la conducta alimentaria, específicamente anorexia y bulimia. Summit (1983) agrupa las acciones familiares y/o judiciales en relación al abuso bajo el nombre de Síndrome de Acomodación al Abuso Sexual Infantil (SAASI). Este incluye cinco etapas: el secreto, el desamparo, el entrampamiento y la acomodación, la revelación tardía y no convincente y por último la retracción. En aquellos casos de desconfianza y negación por parte de la figura materna u otros miembros significativos del grupo familiar ante la develación del abuso, se observa el desarrollo de los trastornos de la alimentación (Losada, 2011). En los niños que presentan trastornos de la conducta alimentaria se observa que hicieron la tentativa de contar el ASI y no fueron escuchados, dando lugar al SAASI y pidiendo ayuda nuevamente pero con su cuerpo portando un trastorno de la conducta alimentaria. Se considera imprescindible el desarrollo de un programa de tratamiento para la comorbilidad entre el abuso sexual infantil y los trastornos de la alimentación, siguiendo el concepto de eclecticismo técnico, inspirado en Lazarus (1992). Se considera relevante que el profesional este abierto a la posibilidad de emplear lo mejor de cada enfoque y escuela para así atender mejor a las diversas necesidades de los pacientes" (Tomado de p. 102)
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_0b87321b168e64bb800da5e402354d0f
+
+**Title:** Surgical treatment of hyperparathyroidism secondary. Preliminary results of cryopreserved glandular tissue viability
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_0b87321b168e64bb800da5e402354d0f/Description
+
+**Abstract:** Case material consists of the preliminary resultsregarding 20 patients operated in Surgical Clinic F&nbsp;of the University Hospital from 1999 through 2001,with diagnosis of secondary hyper parathyroidism.The patients were subje ct to subto ta/parathyroidectomy, with cryo-preservation ofresected gland parenchyma.Consequent thereto the authors review existingbibliography on this condition.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
 ### Miss · Deposita_4a52d7dd9b7cc5c81e776070ff04d1d7
 
 **Title:** O papel do profissional farmacêutico no cuidado da pele: uso de dermocosméticos durante e após o tratamento com isotretinoína
@@ -1517,6 +1757,18 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_1635ab529af1664e7bbcdb63be102a1d/Description
 
 **Abstract:** The case material, consisting of 18 patients who had ingested alíen bodies, is from the Penitentiary Hospitalof Montevideo. Of these patients, only two· had to be laparotomized since the alilé'n bo,;iy had becom<¡i stuck;in the remainder of cases it was spontaneously expelled within a period which ranged between one and 26 days.The authors favour an expectant medica! treatment, assoeiated with clinical and ra,;iiologic control.
+
+**Current note:** The title and abstract do not establish a diabetes focus.
+
+### Miss · UY_09c887bc5e295840cf2a7739416c6454
+
+**Title:** Dupuytren's disease - surgical treatment 2nd. part: complications - remote results - recurrences - surgical tactic
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_09c887bc5e295840cf2a7739416c6454/Description
+
+**Abstract:** Presented at session 7th November 1962
 
 **Current note:** The title and abstract do not establish a diabetes focus.
 
@@ -1567,6 +1819,18 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_5934653201fbf42594d451ec87996bdf/Description
 
 **Abstract:** The distinction between the human body and the animal body is one of the interpretative key aspects of what distinguishes the human being from the rest of the living beings. In the early 1970s, the accusation of speciesism arose against those who proposed differential treatment of human beings, above other animal species. Speciesism would be a form of discrimination akin to racism or sexism, and therefore unfair. For some time now, the social influence of this current of thought has been continuously increasing, even changing the relationship with the animal world. However, this position violates human dignity in one way or another, at least in cases such as with the most vulnerable. This is why we will try to argue why the arguments of speciesism do not hold. The human person possesses a particular dignity, not for reasons of species, but because being treated in advance as a person, we respond with characteristics that demonstrate the ability to possess that moral status. This argument, taken from Timothy Chappell, is based on the proleptic treatment of the person. Based on this idea, we will attempt to respond to the specific arguments of anti-speciesism and demonstrate why the human person deserves a different moral treatment than other living beings.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_1624fd3f75c2baf9ba3d581cefee4edc
+
+**Title:** Análise da literatura das humanidades digitais: uma proposta bibliométrica para descrição de seu escopo e congruência conceitual
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_1624fd3f75c2baf9ba3d581cefee4edc/Description
+
+**Abstract:** This study aims to build and visualize bibliometric maps from a literature review on digital humanities. The main objective of this research was to elaborate a mapping of the field through the construction of graphs for analysis of bibliometrics metrics. A reading of these data was implemented using the VOSviewer software to build a diagnosis of the scope of digital humanities. The analysis focused on the data which provide subsidies for a thematic-conceptual description and the domain of digital humanities when analyzing keywords, authors and journals. It seeks a sensitive notion of what can reveal the influence of the production of academic literature on the composition of digital humanities. It applies an analysis based on three pillars of bibliometric studies: authors, journals and keywords of retrieved academic articles. It outlines a scope analysis of the digital humanities domain based on bibliometric research. It clarifies the constitution of an incipient and complex domain through the analysis of the characteristics printed in the literature and only through it available. It combines concepts about bibliometric approaches with analysis based on visualization tools, legitimizing practices concerning digital humanities as a tool for knowledge of the field itself. It pursues a categorization capable of not only revealing details of its scope, but also providing elements indicative of which themes influence the area. It indicates the influence of other disciplines in the digital humanities and visualizes clearly which terms appear with greater recurrence. It lists the most recurrent terms in the literature, breaking down this list into terms indicated by the authors and those indicated by the database indexes. It compares these data in order to achieve a thematic-conceptual expressiveness of a field considered interdisciplinary and hybrid. It categorizes the product of these data to conclude, in addition to an organic thematic-conceptual description, a diagnosis of the digital humanities domain.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -1776,7 +2040,7 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 ### Related hit · UY_3152d0e63d6ebde7f837822e423ccc80
 
-**Title:** Commentary on the ruling on eutanasia. Action for protection of constitutional rights by Ana Estrada Ugarte, against the Ministry of Health, the Ministry of Justice, and the Peruvian Social Health Insurance....
+**Title:** Commentary on the ruling on eutanasia. Action for protection of constitutional rights by Ana Estrada Ugarte, against the Ministry of Health, the Ministry of Justice, and the Peruvi...
 
 **Review basis:** title+abstract
 
@@ -1882,6 +2146,54 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
+### Related hit · UY_1b7981e99a66c40bb56f5f4d5381770c
+
+**Title:** Judicial Interpretation, Environment and Dignity
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_1b7981e99a66c40bb56f5f4d5381770c/Description
+
+**Abstract:** In the development of the so-called “Environmental Rule of Law”, there is a very interesting feature which takes place directly based on the commitments assumed by judges: the value of human dignity in relation to the care of the environment. In relation to this, the propose of this paper is to demonstrate how in the recent case-law of the Supreme Court of Argentina, which is related to the human right to water and the protection of the hydrological resources, dignity is at the center of interpretive work and it also constitutes a guiding criterion in judicial decision-making.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_b13e439c807db68c795012f3bf00f55f
+
+**Title:** The Globalized Criminal Law of Abstract Endangerment. Challenges for a Legitimate Transnational and Effective Criminal Law System
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b13e439c807db68c795012f3bf00f55f/Description
+
+**Abstract:** Globalization has caused a rise of transnational crime and multinational criminal networks, which require, in return, the development of new rules of law. This article deals with the challenges of criminal law to transform itself as transnationally effective, and to maintain its democratic legitimacy.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_fc9248fb09b5a9d09293061df4dac16e
+
+**Title:** Informação, democracia e regulação de mercados
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_fc9248fb09b5a9d09293061df4dac16e/Description
+
+**Abstract:** A informação é condição para a democracia. As redes são relevantes na produção e difusão de informação. Novas tecnologias e Internet facilitam registro e publicação de informações. A ética da discussão orientada para entendimento implica no agir comunicativo com base em argumentos racionais. A assimetria de informações entre atores nos mercados requer regulação. O mercado funciona geralmente de modo imperfeito, sendo incapaz de apresentar preço e outras condições de oferta socialmente aceitáveis. As agências reguladoras são braços do Estado interferindo nas relações econômicas. Produção, organização, recuperação e difusão de informações são importantes ferramentas de regulação.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Ridi_49c05a87973fa6a1201aef28225def5f
+
+**Title:** Representação, democracia e controle social
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_49c05a87973fa6a1201aef28225def5f/Description
+
+**Abstract:** xxx
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
 ### Related hit · Deposita_c94f883daad472483186c67f7e5aef86
 
 **Title:** Transformação digital na justiça militar: desafios e oportunidades da inteligência artificial
@@ -1905,18 +2217,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** Spatial justice is a relatively recent concept, often associated with David Harvey and Edward Soja. Much of the literature on the topic focuses on understanding social justice issues, but we cannot forget the environmental challenges that are equally important in this discussion. In this way, spatial justice connects the spatial dimension to issues of social and environmental justice, making them inseparable (Brown et al., 2007, p. 27). More recently, environmental justice has evolved to include other species, not just humans, giving rise to the so-called multispecies environmental justice.
 
 **Current note:** The title and abstract do not establish a human rights focus.
-
-### Related hit · Ridi_49c05a87973fa6a1201aef28225def5f
-
-**Title:** Representação, democracia e controle social
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_49c05a87973fa6a1201aef28225def5f/Description
-
-**Abstract:** xxx
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
 ### Miss · Deposita_d5d80acb627886df6c07dd6c4c963b53
 
@@ -2182,15 +2482,27 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · UY_b13e439c807db68c795012f3bf00f55f
+### Related hit · Ridi_b6be3ebb15e8c3e7cb7adba6ffd9c206
 
-**Title:** The Globalized Criminal Law of Abstract Endangerment. Challenges for a Legitimate Transnational and Effective Criminal Law System
+**Title:** Liberdade de expressão, liberdade de imprensa e luta de classes
 
 **Review basis:** title+abstract
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b13e439c807db68c795012f3bf00f55f/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_b6be3ebb15e8c3e7cb7adba6ffd9c206/Description
 
-**Abstract:** Globalization has caused a rise of transnational crime and multinational criminal networks, which require, in return, the development of new rules of law. This article deals with the challenges of criminal law to transform itself as transnationally effective, and to maintain its democratic legitimacy.
+**Abstract:** O objetivo do presente trabalho é desconstruir o caráter mistificador resultante da apropriação das noções de liberdade de expressão e liberdade de imprensa por parte dos grandes conglomerados empresariais de comunicação. O recorte estudado será o editorial do Jornal da Rede Globo em relação à I CONFECOM (Conferência Nacional de Comunicação) realizada em dezembro de 2009, à luz das três posições hipotéticas formuladas por Hall em seu célebre artigo Codificação / Decodificação: decodificação ou leitura hegemônica-preferencial, negociada ou oposicional. Metodologicamente, trata-se de uma pesquisa teórica e documental, de orientação crítica, que tem por base estudos teóricos e documentos legais sobre a liberdade de expressão e imprensa, além da transcrição do Editorial do Jornal Nacional e de anais da CONFECOM.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_962ba6cb0fe3834e65636d03de7f54a4
+
+**Title:** Editorial note. Democracy and Law
+
+**Review basis:** title-only
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_962ba6cb0fe3834e65636d03de7f54a4/Description
+
+**Abstract:** _No abstract exposed by the record._
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -2278,18 +2590,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title and abstract do not establish a human rights focus.
 
-### Related hit · Ridi_fc9248fb09b5a9d09293061df4dac16e
-
-**Title:** Informação, democracia e regulação de mercados
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/Ridi_fc9248fb09b5a9d09293061df4dac16e/Description
-
-**Abstract:** A informação é condição para a democracia. As redes são relevantes na produção e difusão de informação. Novas tecnologias e Internet facilitam registro e publicação de informações. A ética da discussão orientada para entendimento implica no agir comunicativo com base em argumentos racionais. A assimetria de informações entre atores nos mercados requer regulação. O mercado funciona geralmente de modo imperfeito, sendo incapaz de apresentar preço e outras condições de oferta socialmente aceitáveis. As agências reguladoras são braços do Estado interferindo nas relações econômicas. Produção, organização, recuperação e difusão de informações são importantes ferramentas de regulação.
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
 ### Related hit · Ridi_c34e0c1015f8b0b122236c7ab5cb5067
 
 **Title:** Informação e democracia: a reflexão contemporânea da ética e da política
@@ -2311,6 +2611,42 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_ab0595d6c77b0695a60bfb11707a1a77/Description
 
 **Abstract:** Artículo original
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_40c3755966c87ad421ff3edcc118ad73
+
+**Title:** O privado suplantando o público: o sistema único de saúde no município de Nova Hartz - RS
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_40c3755966c87ad421ff3edcc118ad73/Description
+
+**Abstract:** O objetivo do presente trabalho é analisar quais são os elementos ideológicos que conduzem os atores sociais partícipes de um conselho municipal de saúde a se posicionarem de forma favorável a uma crescente terceirização na área de pronto atendimento. Em nosso estudo partimos de uma bibliografia que problematiza o conceito de saúde como um direito humano fundamental. Discorre-se depois sobre direito à saúde em solo brasileiro e as árduas mobilizações do Movimento Sanitário junto ao Sistema Único de Saúde para conseguir sua efetivação de forma descentralizada, integral, participativa e democrática. Entendendo estes pressupostos e ambientando o conceito de ideologia como o conteúdo interpelativo dos pensamentos políticos de indivíduos que se mobilizam no discurso e na ação, pretendemos alcançar o objetivo proposto mediante a análise dos dados obtidos. Os procedimentos metodológicos utilizados são a pesquisa documental junto às atas, as observações participantes das reuniões e as entrevistas semi-estruturadas com os integrantes do Conselho Municipal de Saúde da cidade de Nova Hartz – Rio Grande do Sul – RS.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_9d966e08aa1c39de2afa3c9f229365e9
+
+**Title:** Tres ingredientes para re-pensar la escuela: docentes, formadores y gestión institucional
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_9d966e08aa1c39de2afa3c9f229365e9/Description
+
+**Abstract:** Hoy resulta imposible para las administraciones públicas soslayar el debate sobre las razones que fundamentan el papel central de la gestión institucional y docente en el mejoramiento de los sistemas educativos. ¿Qué impacto tienen las recientes transformaciones del contexto social en los escenarios educativos y en los modelos de gestión institucional? ¿Cómo imaginamos el trabajo del docente y del formador en estas nuevas circunstancias?¿Qué nuevos escenarios educativos son posibles y deseables?Un rápido vistazo a la estadística prospectiva alcanza para comprender la magnitud del desafío que se avecina. Quienes nacen en estos días, se incorporarán a la vida productiva dentro de 20 a 25 años y ejercerán sus labores a lo largo del siglo XXI. ¿Qué mundo encontrarán, en qué condiciones trabajarán, cómo se comunicarán, qué tecnologías usarán, cuáles serán sus expectativas de vida, ingreso y consumo?Lo nuevo, lo específico del siglo XXI, es el papel fundamental que están jugando cada vez más la información y el conocimiento. La producción y distribución de conocimiento pasarán a ocupar un lugar central. Recordemos que el conocimiento acumulado se duplica actualmente cada cinco años1. La Universidad de Harvard demoró 275 años en completar su primer millón de volúmenes pero reunió el último en sólo cinco años. Las revistas científicas han pasado de 10 mil en 1900 a más de 100 mil a inicios de los años 90. A la luz de estos cambios, ¿podrá mantenerse inalterado el rol tradicional de la escuela y el profesor? ¿Qué métodos pedagógicos será necesario adoptar y desarrollar?Una sociedad basada en el conocimiento será más o menos democrática según como defina la distribución de la educación. Si pretendemos garantizar una sociedad con equidad social, con niveles de cohesión, es fundamental que todos reciban una educación de buena calidad porque ésa es la única garantía de que nadie quede marginado en una economía intensiva en conocimiento. En este proceso surgen dos temas de particular importancia: la gestión institucional y los docentes y sus formadores.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_d66df611075ec293d92af80ff7178c09
+
+**Title:** Relaciones laborales y sociedades democráticas en América Latina y Europa
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_d66df611075ec293d92af80ff7178c09/Description
+
+**Abstract:** Editorial
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -2470,18 +2806,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
-### Related hit · UY_d66df611075ec293d92af80ff7178c09
-
-**Title:** Relaciones laborales y sociedades democráticas en América Latina y Europa
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_d66df611075ec293d92af80ff7178c09/Description
-
-**Abstract:** Editorial
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
-
 ### Related hit · UY_3d2574e6abac6bd27879c53d242cd046
 
 **Title:** Mayoría y minorías en democracia
@@ -2529,6 +2853,66 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_67c2a96342030e2584e0c96e5499f9ab/Description
 
 **Abstract:** Using an atmospheric general circulation model coupled to a slab ocean, the effects of ocean heat transport (OHT) on climate are studied by prescribing OHT from 0 to 2 times the present-day values. In agreement with previous studies, an increase in OHT from zero to present-day conditions warms the climate by decreasing the albedo due to reduced sea ice extent and marine stratus cloud cover and by increasing the greenhouse effect through a moistening of the atmosphere. However, when the OHT is further increased, the solution becomes highly dependent on a positive radiative feedback between tropical low clouds and sea surface temperature. The strength of the low cloud–SST feedback combined with the model design may produce solutions that are globally colder than in the control run, mainly due to an unrealistically strong equatorial cooling. Excluding those cases, results indicate that the climate warms only if the OHT increase does not exceed more than 10% of the present-day value in the case of a strong cloud–SST feedback and more than 25% when this feedback is weak. Larger OHT increases lead to a cold state where low clouds cover most of the deep tropics, increasing the tropical albedo and drying the atmosphere. This suggests that the present-day climate is close to a state where the OHT maximizes its warming effects on climate and raises doubts about the possibility that greater OHT in the past may have induced significantly warmer climates than that of today.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_6aeaaa7fd958388c3a838a899e9901ee
+
+**Title:** Illegal migration and weather shocks
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_6aeaaa7fd958388c3a838a899e9901ee/Description
+
+**Abstract:** Incluye Bibliografía.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Related hit · UY_4aed639e6a0b71b472f76da70a731eba
+
+**Title:** Reconocimiento y medición de derechos de emisión de carbono
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_4aed639e6a0b71b472f76da70a731eba/Description
+
+**Abstract:** Incluye Bibliografía
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_1360ebddc22861ea9b824a8b7264c894
+
+**Title:** An Analysis of Hydrodynamic Models and a Proposal of Cultural Change based on predictions : The case of the Rio Grande do Sul Flood, Brazil
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_1360ebddc22861ea9b824a8b7264c894/Description
+
+**Abstract:** The largest episode of extreme climate crisis in Brazil, the floods and inundations in the state of Rio Grande do Sul-RGS in May 2024, have highlighted the urgent need to rethink urban infrastructure and research priorities in contexts of lack of access to knowledge and disorganized territorial planning. The main objective of this study is to analyze the relationship between flood management and the implementation of structural and non-structural measures. Through a systematic literature review, solutions based on hydrodynamic models with potential application to prevent and mitigate floods in urban environments are identified. Likewise, a critical evaluation of the strategies employed during the major flood in Rio Grande do Sul is carried out, proposing more effective and sustainable alternatives. The RGS also faces cultural problems with a cascading effect—serious attempts at separatism from the rest of Brazil and constant acts of machismo and racism, with several deaths, due to the belief of superiority—that impact crisis management. Based on this approach, the following research question is posed: What role does culture play in knowledge management about floods and drainage, especially in relation to the use of hydrodynamic models? This question gives rise to the proposal of an integrated Cultural Intelligence, Knowledge Management, and Social Participation model, aimed at optimizing the design and implementation of flood control plans. Initially, a comparative analysis of the CRESTv2.1, HEC-RAS, MIKE 21, and cGAN-Flood models was considered, and the application of the Hydropol2D forecasting model was considered. However, important limitations were identified, such as the omission of the effects of agricultural activity on hydrological dynamics. Consequently, it is suggested to replace Hydropol2D with the SWAT+ (Soil and Water Assessment Tool) model, in combination with the groundwater module (GWFlow), which allows a more precise simulation of surface and subsurface hydrological processes. This integrated tool not only offers greater capacity to assess the impact of land uses and agricultural practices, but also improves the accuracy in modeling urban drainage scenarios. Keywords: cultural change, knowledge management, hydrodynamic models, organizational intelligence, SWAT+ GWFlow, urban planning.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_966ad28ffff49f0964ebf8452bae7243
+
+**Title:** Políticas públicas em combate à seca no município de Croatá–CE (1983-1996)
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_966ad28ffff49f0964ebf8452bae7243/Description
+
+**Abstract:** Ao longo da história, o problema com o estigma da seca sempre foi característica marcante do semiárido brasileiro, região cujos impactos oriundos dos longos períodos de estiagem são frequentes. No decorrer da história, surgiram diversas medidas para o gerenciamento das secas, que tinham o objetivo de “combater” suas origens e/ou consequências, principalmente, aquelas de ordem socioeconômica. Nessa perspectiva, refletindo sobre as iniciativas de “combate” do fenômeno, este estudo objetiva discutir e identificar o período desta transição paradigmática, no âmbito das políticas públicas, analisando, sobretudo, as eventuais mudanças entre as duas perspectivas, no que tange ao “lidar” com o fenômeno das secas, criando e adotando tecnologias para conviver com a situação climática, pois combater um fator natural fica bem mais difícil, pois não se pode combater o que não se pode mudar, sendo assim, criam-se políticas de convivência com o semiárido.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · Deposita_ec49a30d7e45247c34fe4b5c64e6341f
+
+**Title:** Dinâmicas sociais e turismo: o veraneio contemporâneo no litoral norte do Rio Grande do Sul
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_ec49a30d7e45247c34fe4b5c64e6341f/Description
+
+**Abstract:** Esse artigo destina-se à discussão sobre o turismo no litoral norte do Rio Grande do Sul, em perspectiva interdisciplinar, teórica e histórica. Fatores climáticos, logísticos, de transportes e comunicação, transição demográfica, mudanças na composição e tamanho das famílias são relacionados à reflexão necessária sobre o caráter sazonal do turismo no modelo usual de segundas residências. Por meio de revisão bibliográfica não sistemática explora aspectos acerca do turismo doméstico de sol e praia na região, e entabula discussão sobre as mudanças comportamentais no hábito de veraneio dos gaúchos, com a proposta de descrever pontos de inflexão que tornam possível compreensões atualizadas e necessárias. O discurso convencional e estatísticas oficiais sobre o turismo de verão são apenas a parte visível desse fenômeno social, abaixo da linha d’água, o corpo de práticas tem um volume maior, diverso e complexo e articula-se à especulação imobiliária, às políticas de incentivo público, e às novas temporalidades influenciadas pelo mundo virtual dentre outras transformações socioculturais vigentes. As temporadas de férias de verão se tornam cada vez mais curtas, com evidência maior de movimento pendular de visitantes do que permanência; e se por um lado o sonho de possuir uma casa de praia própria começa a perder o brilho, cada vez mais os outrora veranistas optam por estabelecer residência permanente na região, especialmente os mais idosos. O velho veraneio entra em ocaso, e na falta de vocábulo mais específico, boas-vindas à agenda de pesquisa sobre o veraneio contemporâneo, que dura o ano todo.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
@@ -2591,30 +2975,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** _No abstract exposed by the record._
 
 **Current note:** The title concerns social and project changes, and the record exposes no abstract establishing climate change.
-
-### Miss · UY_6aeaaa7fd958388c3a838a899e9901ee
-
-**Title:** Illegal migration and weather shocks
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_6aeaaa7fd958388c3a838a899e9901ee/Description
-
-**Abstract:** Incluye Bibliografía.
-
-**Current note:** The title and abstract do not establish a climate change focus.
-
-### Related hit · UY_4aed639e6a0b71b472f76da70a731eba
-
-**Title:** Reconocimiento y medición de derechos de emisión de carbono
-
-**Review basis:** title+abstract
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_4aed639e6a0b71b472f76da70a731eba/Description
-
-**Abstract:** Incluye Bibliografía
-
-**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
 
 ### Related hit · UY_b98722ee9702e7be1163efc2c90efac8
 
@@ -2687,6 +3047,150 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** Tribunal: Dr. Marcelo Barreiro, Dr. Matías Arim, Dr. Diego Lercari.
 
 **Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_c5391496e1cdacf1915d62a34ec7c662
+
+**Title:** Informe final del proyecto: Determinantes naturales y antrópicos de la estructura y funcionamiento de las redes tróficas de charcos permanentes
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_c5391496e1cdacf1915d62a34ec7c662/Description
+
+**Abstract:** Los charcos son pequeños ecosistemas lénticos de gran importancia global por sustentar alta biodiversidad y proveer servicios ecosistémicos. Sin embargo, resultan particularmente vulnerables al cambio global y desconocemos gran parte de su funcionamiento en nuestra región. El objetivo de este proyecto fue analizar la estructura y el funcionamiento ecológico de estos sistemas (mediante el estudio de sus redes tróficas) en charcos con bajo impacto y evaluar el impacto de dos factores del cambio global: las invasiones biológicas y la degradación del hábitat. Para esto nos centramos en amenazas que avanzan en la región, la invasión de rana toro (Aquarana catesbiana) y la intensificación agrícola. Mediante un diseño semi-experimental muestreamos estandarizadamente 50 charcos permanentes distribuidos en un gradiente de invasión de la rana toro (n=29), y un gradiente de agricultura en las cuencas (n=21). De cada comunidad analizamos su estructura comunitaria y redes tróficas (a través de isótopos estables y contenido estomacal de los consumidores), cuya variación es contrastada con variables ambientales y del gradiente de impacto. En los sistemas naturales variables locales como la profundidad, tamaño y heterogeneidad, así como el grado de aislamiento a nivel de paisaje determinaron la estructura de las comunidades y la conformación de las redes tróficas, mediado por la riqueza y abundancia de peces. Los sistemas impactados se caracterizaron por una respuesta negativa en el ensamble de anfibios y por una pérdida de redundancia trófica, atributo clave en la estabilidad de los ecosistemas. Nuestros resultados indican que la biodiversidad en estos sistemas depende del mantenimiento de la heterogeneidad en atributos locales y de paisaje, y que los factores de cambio analizados impactan sobre el funcionamiento de las comunidades de charcos.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_c7231496c09360fe2bad2262414339b4
+
+**Title:** Informe final del proyecto: Análisis de la Estructura y Funcionamiento de las Comunidades y Tramas Tróficas Fluviales: Comunidades de peces del Río Queguay como Modelo.
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_c7231496c09360fe2bad2262414339b4/Description
+
+**Abstract:** Las teorías sobre el funcionamiento de ecosistemas fluviales están mayoritariamente basadas en ecosistemas templados y tropicales, pero apuntando a una aplicación global. En ecosistemas subtropicales de nuestra región estos marcos teóricos son escasamente analizados y su aptitud no resulta evidente. En este proyecto investigamos un río de bajo impacto antrópico como el río Queguay, un río pampeano de Uruguay, como base para poner a prueba algunas teorías y caracterizar el funcionamiento de sus comunidades. Se registraron variables ambientales continua y estacionalmente, caracterizando la estructura de las comunidades y redes tróficas de peces (adultos e ictioplancton en un gradiente longitudinal de más de 180 Km). Resultados preliminares denotan fuertes cambios en la composición comunitaria conforme el río fluye hacia su desembocadura. Entre las aproximadamente 120 especies registradas, destaca la presencia de 24 especies no registradas aún para esta cuenca. Los patrones comunitarios y de las tramas tróficas parecen contradecir gran parte de las teorías existentes, sin embargo la riqueza y el largo de las tramas tróficas aumentan consistentemente aguas abajo tal como predicen algunas teorías. Además, el tamaño corporal aparece como fuerte estructurador de las tramas tróficas (apoyando teorías ecológicas), siendo determinante del nivel trófico del depredador tope Hoplias lacerdae. Los ensambles de larvas y huevos indican que la reproducción ocurre en los meses cálidos de primavera y verano y que el área protegida Montes del Queguay es un importante sitio para la reproducción de peces. Esperando establecer una línea de base sobre la estructura y el funcionamiento de ríos pampeanos de Uruguay, aportamos información sobre la diversidad funcional del río Queguay (objeto de conservación en el Litoral Norte). Concomitantemente, aportamos evidencia empírica contextualizada para avanzar hacia teorías globales que faciliten la comprensión del funcionamiento de los ecosistemas fluviales.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Related hit · UY_51152b0e6d53abeafadc5c54a2c29f5c
+
+**Title:** Environmental stressors of the stream functioning in Uruguay. (Biomonitoring based on macroinvertebrate taxonomic and functional structure and leaf litter decomposition process)
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_51152b0e6d53abeafadc5c54a2c29f5c/Description
+
+**Abstract:** Los ecosistemas fluviales son altamente dinámicos y complejos, influenciados por factores climáticos, geomorfológicos y humanos. Estos ecosistemas están interconectados con los ambientes terrestres, dependiendo del flujo recíproco de organismos, materia y energía. Las variaciones en las condiciones ambientales debidas a los estresores antropogénicos pueden seleccionar macroinvertebrados con capacidades de tolerancia específicas o rasgos funcionales, afectando el funcionamiento de los ecosistemas. En los arroyos subtropicales de Uruguay, el efecto de los factores de estrés, como la eliminación de los bosques ribereños o la introducción de plantaciones exóticas como Eucaliptus spp. en las condiciones ecológicas de los ríos, ha sido poco evaluado. Estas actividades pueden afectar a las estructuras comunitarias taxonómicas y funcionales a través de cambios en las condiciones del hábitat y la dependencia de las comunidades acuáticas del subsidio terrestre, afectando a procesos ecológicos como la descomposición de hojarasca. Esta tesis tiene como objetivo estimar los efectos de estos estresores (aforestación de Eucaliptus y de la pérdida de bosques de los ríos) en la condición ecológica de los ecosistemas fluviales, centrándose en los arroyos subtropicales en Uruguay. En el caso de la aforestación de Eucaliptus, la calidad del agua y las métricas de los macroinvertebrados se utilizaron como bioindicadores para identificar los impactos de este uso de la tierra. El estudio también exploró cómo la aforestación puede afectar indirectamente la composición y la diversidad de los rasgos funcionales de los macroinvertebrados a través de cambios en las condiciones del hábitat y la disponibilidad de recursos basales. Para evaluar el impacto de la eliminación de los bosques de las riberas, el estudio se basó en evaluar la descomposición de hojarasca en arroyos y los factores abióticos y bióticos que influyen en este proceso. Mediante el uso de bioindicadores como las métricas relacionadas con la estructura de la comunidad de macroinvertebrados y los parámetros de calidad del agua, el estudio identificó los efectos adversos de la aforestación de Eucaliptus. Sin embargo, estos efectos variaron entre las estaciones verano e invierno, especialmente en relación con las altas concentraciones de NO3-N y NH4-N en agua y una menor proporción (abundancia relativa) de las familias Ephemeroptera-Plecoptera-Trichoptera y Zygoptera en verano, mientras que, en invierno, se observó una mayor conductividad, así como mayores concentraciones de sólidos suspendidos y proporción de los colectores-recolectores. Los enfoques basados en los rasgos funcionales también reflejaron los efectos de los aumentos de la aforestación, mediados por cambios en los recursos basales, especialmente la biomasa de macrófitas. En este caso, encontramos que las macrófitas sumergidas y emergentes desempeñan un papel significativo, albergando macroinvertebrados de tallas pequeñas y atrayendo a los depredadores debido a las complejas estructuras de estas macrófitas. Al analizar el funcionamiento ecológico, el estudio no encontró efectos significativos de la eliminación de la cobertura ribereña en las tasas de descomposición de hojarasca. En este caso, encontramos que la identidad de las especies de hojas influyó más en las tasas de descomposición que los tipos de arroyos, posiblemente ocultando los efectos de los estresores antropogénicos. Sin embargo, la cobertura ribereña amortiguó los efectos de los factores abióticos y bióticos en el procesamiento de la hojarasca. El conocimiento producido por esta tesis contribuye a identificar nuevas vías de investigación y mejorar la comprensión de cómo las comunidades acuáticas y los procesos ecológicos responden a la degradación ambiental causada por los estresores humanos. Los hallazgos de la tesis tienen el potencial de servir de herramienta para el desarrollo de prácticas de gestión encaminadas a prevenir o mitigar los efectos de los estresores antropógenos examinados en este estudio, y posiblemente ampliar la evaluación de otros estresores humanos.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_0583cda9a8877f621969230fc7889c97
+
+**Title:** Informe final del proyecto: Respuestas del sistema cotero La Coronilla-Barra del Chuy a modificaciones en la descarga del Canal Andreoni: bases multidimensionales para cuantificar su resiliencia
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_0583cda9a8877f621969230fc7889c97/Description
+
+**Abstract:** Las playas arenosas constituyen los ecosistemas costeros mayormente impactados por las actividades humanas. La playa comprendida entre La Coronilla y Barra del Chuy (LCBC) en el Departamento de Rocha, es afectada por la descarga persistente de agua dulce del Canal Andreoni. Este canal, destinado a la agricultura, ha afectado los servicios ecosistémicos de soporte básico (biodiversidad), aprovisionamiento (pesca) y culturales (recreación) que provee la playa, impactando en el bienestar humano de la comunidad local. Tras un período de inactividad, recientemente se ha reiniciado el desarrollo de obras hidráulicas en la cuenca del canal, destinadas a reducir el impacto de la descarga de dicho canal en la costa (Decreto Nº 229/004). Este proyecto buscó evaluar las respuestas del ecosistema costero LCBC como resultado de los cambios en el manejo hidrográfico, cuantificando su resiliencia ante la disminución de la intensidad de la descarga del Canal Andreoni. Se desarrolló un análisis de resiliencia multidimensional, evaluando los cambios en el ambiente físico, la biota, y la percepción de actores relevantes, en el marco del sistema social-ecológico costero (SES por su sigla en inglés). Se obtuvo información de campo siguiendo diseños metodológicos actuales para el análisis de impactos ecológicos (análisis de gradientes y contraste entre sitios control e impactados). También se incluyó la evaluación de las percepciones de múltiples actores para contrastar el conocimiento tradicional y el científico referidos a las potenciales mejoras socio-económicas logradas por la implementación de las obras. Los datos ambientales y faunísticos recabados en este proyecto se sumaron a aquellos derivados de una serie histórica única de 40 años generada por el Laboratorio de Ciencias del Mar (UNDECIMAR) de Facultad de Ciencias, permitiendo evaluar las respuestas del sistema ante la disminución de la descarga de agua dulce del Canal Andreoni. Los resultados han generado aportes concretos para la gestión del sitio, basados en ciencia robusta y cuantificable.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_640140f8f7bd1d6b5a68cd6cb06460cb
+
+**Title:** Las arañas en agroecosistemas: bioindicadores terrestres de calidad ambiental
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_640140f8f7bd1d6b5a68cd6cb06460cb/Description
+
+**Abstract:** Las arañas son predadores generalistas en ecosistemas terrestres, ampliamente utilizadas en estudios de biodiversidad. En el último siglo, el paisaje de Uruguay se transformó en un mosaico de áreas formadas por ambientes naturales y agroecosistemas. ¿Qué nivel de cambio se espera hallar en la comunidad de arañas si las áreas de estudio están próximas? ¿Qué porcentaje de especies nativas serán reemplazadas con la plantación? ¿Cómo afecta esto a la biodiversidad local? Se realizó un estudio en cuatro áreas vecinas en INIA Las Brujas, Canelones: un bosque ribereño, un bosque de “Espinillo”, una plantación de Eucalyptus globulus y una pradera artificial de Trifolium pratense y Avena sativa. Las arañas fueron capturadas con trampas de caída, trampas de tronco, segado, batido de follaje y colecta manual nocturna. Un total de 3.023 adultos fueron colectados. La mayor abundancia y riqueza de especies se observó en el bosque ribereño. A pesar de la proximidad de los sitios estudiados, se observó un alto reemplazo de especies, especialmente entre áreas naturales y agroecosistemas. Los protocolos de colecta utilizados podrían ser útiles para evaluar el impacto de agroecosistemas con diferentes tipos de manejos sobre la biodiversidad local y su aplicación en la certificación de calidad ambiental.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_b2c356751026916ab50170e4034f1e87
+
+**Title:** La tecnología y sus implicaciones en el comportamiento humano con su ambiente
+
+**Review basis:** title-only
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b2c356751026916ab50170e4034f1e87/Description
+
+**Abstract:** _No abstract exposed by the record._
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_e9e7029894b03dc7e23372259f2dbc57
+
+**Title:** El ambiente y la estructura comunitaria como determinantes de la estabilidad en comunidades vegetales de charcos temporales
+
+**Review basis:** title-only
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e9e7029894b03dc7e23372259f2dbc57/Description
+
+**Abstract:** _No abstract exposed by the record._
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · Deposita_d07eee2fbc185809216e20693d5b82ce
+
+**Title:** Remanejamento de comunidades ribeirinhas na Amazônia e os reflexos social, econômico e na educação
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_d07eee2fbc185809216e20693d5b82ce/Description
+
+**Abstract:** Estudar a influência do deslocamento territorial das famílias ribeirinhas em seus aspectos sociais e econômicos da comunidade da Vila Nova de Teotônio, foi instigante, considerando que a implantação da Hidrelétrica Santo Antônio, assim como a construção de grandes empreendimentos possibilitam estudar seus impactos por diversas perspectivas. Sabemos que uma das preocupações permanentes que motivam a pesquisa científica é de caráter prático, sobretudo no que diz respeito a conhecer os fatos, os acontecimentos e fenômenos, para tentar estabelecer uma previsão do rumo dos eventos que cercam o homem, na perspectiva de modificá-los. Com essa modificação, o homem pode melhorar sua posição em face ao mundo e criar condições melhores para a vida humana. Pesquisar os efeitos decorrentes da mudança territorial da comunidade objeto do presente estudo é um importante campo de pesquisa, considerando-se que as famílias deslocadas tiveram seus meios de subsistência e dinâmica socioeconômica alterados, proporcionando a possibilidade de análise de passivos sociais e econômicos. A comunidade agregava características de populações tradicionais da Amazônia, como pescar e plantar na várzea para o seu sustento. Em razão do remanejamento, verificou-se ser oportuno apresentar reflexão sobre a incorporações de práticas voltadas para a interação de atores sociais e a promoção do desenvolvimento no novo território. A escolha por pesquisar o remanejamento da comunidade da Vila Nova de Teotônio, deu-se inicialmente por trabalhar a mais de dez e dois anos como profissional da educação no Estado de Rondônia, atuando inicialmente como docente e posteriormente ampliando as atividades como gestor de cursos. Esta vivência possibilitou o desenvolvimento de trabalhos técnicos, educativos e principalmente sociais nas diversas comunidades que foram remanejadas de seus antigos territórios para reassentamentos que acomodaram famílias que foram impactadas pela construção das Usinas Hidrelétricas de Santo Antônio e Jirau em Porto Velho, despertando um interesse significativo por compreender a situação social, econômica e educacional na comunidade. Com isso, nos entregamos a essa tarefa com maior prazer. Prazer maior do que simplesmente, escrever ou produzir textos científicos, sem minimizar estas outras atividades, mas poder contribuir com a sociedade e comunidade acadêmica. Acredita-se que sucesso está relacionado ao empenho e às experiências desenvolvidas ao longo da vida, o que nos municia e aguça o desejo de conhecer as mudanças que o novo ambiente trouxe para a comunidade. Pretendeu-se assim, melhor compreender os comportamentos, as experiências, sentimento dos diversos atores envolvidos com esta abordagem e deque forma a mudança afetou os participantes do estudo. O estudo permitiu fornecer, inclusive, bases para o entendimento de como as ações relacionadas às comunidades estão sendo desenvolvidas na região; e ainda, se estas contribuem para a produção de formação e informação, no sentido de que, se houverem falhas no processo, possam ser revistos, caso necessário, em novos reassentamentos na Amazônia. Com isso, percebe-se a importância de estudos que abordem os impactos nas comunidades ribeirinhas atingidas pelos reservatórios das usinas geradoras de energia, nos levando a uma compreensão sobre esta temática, que têm se tornado, cada vez mais, motivo de preocupação para a sociedade, posto que é um assunto da responsabilidade de todos. Portanto, pretendeu-se com o presente estudo contribuir para o desenvolvimento da comunidade, objeto da presente pesquisa, assim como comunidades de outros lugares que tenham passado pelas mesmas experiências, e até mesmo por construções vindouras.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Related hit · UY_55f3107d40c34bf9acf8ba6c714f4d71
+
+**Title:** Confluence of social perception and environmental habitability in public spaces of indigenous communities of the Manantlán Reserve, Jalisco, Mexico
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_55f3107d40c34bf9acf8ba6c714f4d71/Description
+
+**Abstract:** The social perception and environmental habitability that occurs in the public spaces of indigenous communities of the Sierra de Manantlán, Jalisco, Mexico; they refer to a sense of balance regarding the emotional and physical conditions of its inhabitants. Its social, political, cultural and customs organization mark a unique identity in its communal life. The social perception as a factor of regulation of their way of working, contributes to an efficient and supportive performance towards their own, care and respect towards the ecosystem and an organized mass intervention. The objective of the work was to evaluate the conditions of social perception and environmental habitability of inhabitants in the public spaces of of Ayotitlán and Cuzalapa, Jalisco. The project refers to the mutual interaction between inhabitants of the analyzed communities, for this, interviews were carried out with key actors of the localities and information cards were applied to users on social perception and environmental habitability. Likewise, the measurement variables of the climatic conditions were carried out during the sampling stage of the cold period. Regarding the analysis of the research data, multiple linear regression was used for a Pearson association between the study variables, the meteorological and complementary variables of the applied sampling were examined. According to the results obtained, it is seen that climatic conditions affect the performance of productive activities in public spaces of the inhabitants of Ayotitlán and Cuzalapa, Jalisco, however; their social perception rooted in their beliefs and customs generates links of ecotourism and cultural dynamism, in this way; the study contributes with the municipality of both locations to obtain accurate information regarding this item and can be used for the benefit of society.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_b39ca5cdac40bd3582f33d5b94b3c866
+
+**Title:** Review on ecological interactions of the Cochliomyia hominivorax fly and assessment of the possible impacts of its eradication in Uruguay. [Revisión de las interacciones ecológicas de la mosca Cochliomyia hominivorax y evaluación de los posibles impactos ecológicos de su erradicación en Uruguay]. [Revisão das interações ecológicas da mosca Cochliomyia hominivorax e avaliação dos possíveis impactos ecológicos de sua erradicação no Uruguai].
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b39ca5cdac40bd3582f33d5b94b3c866/Description
+
+**Abstract:** ABSTRACT.- Controlling a pest species raises questions about the harmful effects its eradication could cause in ecosystems. Currently, in Uruguay are being analyzed strategies to eradicate the New World Screwworm (NWS), Cochliomyia hominivorax (Diptera: Calliphoridae), an obligatory ectoparasite that causes myiasis in warm-blooded vertebrates, including humans. The loss of a species implies a risk of secondary extinctions and cascading effects that depend on the ecological function of the species and the capacity of the rest of the species with which it interacts to compensate for its loss. To assess the ecological impact of the NWS eradication, we analyzed its ecological redundancy, its effect as an indirect regulatory agent for other species, and its participation in critical ecosystem functions. We conclude that the NWS presents high functional redundancy in most ecological interactions. It does not play an essential role as a regulatory agent of other species and does not play an important role in critical ecosystem functions. Without ignoring the information gaps that certainly exist about the ecological interactions network of the NWS in Uruguay, we estimate that its eradication is unlikely to cause secondary extinctions or cascading effects in the networks it integrates. In order to timely detect possible impacts during the course of the program, it is recommended to monitor the ecosystems using indicators related to direct and indirect partners in the ecological interactions of the NWS. .-.-.-.-.-.-.-.-.-.-RESUMEN.- El control de una especie plaga genera interrogantes sobre los efectos nocivos que su erradicación podría causar en los ecosistemas. Actualmente, en Uruguay se analizan estrategias para erradicar la mosca de la bichera (MB), Cochliomyia hominivorax (Diptera: Calliphoridae), un ectoparásito obligatorio que causa miasis en vertebrados de sangre caliente, incluidos los humanos. La pérdida de una especie supone un riesgo de extinciones secundarias y efectos en cascada que dependen de la función ecológica de la especie que se pierde y la capacidad del resto de las especies con las que interactúa para compensar su pérdida. Para evaluar el impacto ecológico de la erradicación de la MB analizamos su redundancia ecológica, su efecto como agente regulador indirecto de otras especies y su participación en funciones críticas de los ecosistemas. Concluimos que la MB presenta alta redundancia funcional en la mayoría de sus interacciones ecológicas, no juega un papel importante como agente regulador de otras especies y no juega un papel importante en funciones ecosistémicas críticas. Sin desconocer los vacíos de información que ciertamente existen sobre la red de interacciones ecológicas de la MB en Uruguay, estimamos que es poco probable que su erradicación cause extinciones secundarias o efectos en cascada en las redes de interacciones ecológicas que integra. A fin de detectar oportunamente eventuales impactos durante el curso del programa, se recomienda monitorear los ecosistemas utilizando indicadores relacionados con socios directos e indirectos en las interacciones ecológicas de la MB. .-.-.-.-.-.-.-.-.-.-.-.-.-.-RESUMO.- O controle de uma espécie praga levanta questões sobre os efeitos nocivos que a erradicação pode causar nos ecossistemas. Atualmente, no Uruguai estão sendo analisadas estratégias de controle para erradicar a mosca da bicheira (MB), Cochliomyia hominivorax (Diptera: Calliphoridae), um ectoparasita obrigatório que causa miíase em vertebrados de sangue quente, incluindo o homem. A perda de uma espécie implica um risco de extinções secundárias e efeitos em cascata que dependem da função ecológica da espécie que se perde e da capacidade do resto das espécies com as quais interage para compensar a sua perda. Para avaliar o impacto ecológico da erradicação da MB, analisamos sua redundância ecológica, seu efeito como agente regulador indireto para outras espécies e sua participação em funções críticas do ecossistema. Concluímos que a MB apresenta alta redundância funcional na maioria de suas interações ecológicas, não desempenha um papel importante como agente regulador de outras espécies e não desempenha um papel impor-tante em funções críticas do ecossistema. Sem ignorar as lacunas de informação que certamente existem sobre a rede de interações ecológicas do NWS no Uruguai, estimamos que é improvável que sua erradicação cause extinções secun-dárias ou efeitos em cascata nas redes de interações ecológicas que integra. Para detectar oportunamente possíveis impactos durante o curso do programa, recomendase monitorar os ecossistemas usando indicadores relacionados a parceiros diretos e indiretos nas interações ecológicas da MB. Copyright (c) 2022 Agrociencia Uruguay
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_a8300886ea98aca816e12acc0f65e333
+
+**Title:** Sustainable Strategies in ESOL Teacher Development: Connecting Theory, Practice, and Community
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_a8300886ea98aca816e12acc0f65e333/Description
+
+**Abstract:** This paper discusses sustainable approaches to ESOL (English to Speakers of Other Languages) teacher professional learning that effectively integrate theory, practice, and community engagement for long-term growth and positive impact. As classrooms become increasingly multilingual and diverse due to globalization and rapid technological advancements, it is essential that professional development for teachers is comprehensive, adaptable to various contexts, and deeply embedded within community ecosystems. Such an approach ensures that teachers are equipped with relevant skills and knowledge to meet evolving student needs while fostering a supportive learning environment. The paper highlights several effective strategies, including the creation of professional learning communities, mentorship programs, action research initiatives, and place-based practices. These methods help bridge the gap between research and practice by encouraging authentic, real-world classroom experiences. Additionally, the paper discusses common challenges faced when implementing sustainable teacher development, such as ideological resistance, resource limitations, and systemic barriers within educational institutions. To address these issues, the paper offers recommendations for shaping educational policies, fostering leadership development, and promoting community-driven initiatives. Overall, it emphasizes that sustainable ESOL professional learning requires ongoing collaboration and commitment from all stakeholders to create a resilient and inclusive educational ecosystem that benefits both teachers and learners in the long term.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · Deposita_ea2706aa6b9d590211bb6add36a31690
+
+**Title:** O território usado entre manifestações culturais e firmas transnacionais: O caso da territorialidade da monocultura do arroz na região dos Eixos Rodoferroviários - Maranhão (Brasil)
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_ea2706aa6b9d590211bb6add36a31690/Description
+
+**Abstract:** A presente pesquisa se propôs analisar a territorialidade e reterritorialidade da monocultura do arroz na região dos Eixos Rodoferroviários (centro-norte maranhense), com vistas à demonstrar a importância dos estudos da territorialidade dos fenômenos sociais, ao abordar os aspectos essenciais para se explicar a reterritorialização e a recomposição social. Para se chegar a compreensão das realidades pesquisadas, buscouse uma aproximação com a abordagem qualitativa, tendo como procedimento metodológico o estudo de caso. Deste modo, na área em tela, verificou-se que as metamorfoses territoriais foram intermediadas pelo Estado, principalmente através da adoção de modelos de desenvolvimento para as diferentes agriculturas, com políticas públicas direcionadas, incluindo-se as de crédito, infraestrutura e logística, a favorecer grupos empresariais e, assim, configurar uma agricultura patronal opositora a familiar/campesina. No escopo da investigação se retrata a importância da rizicultura na apropriação/modificação espacial, contemplando diferentes tempos e escalas, mas, sobretudo, enfocando o período de 1970 a 2018, quando se observa a expansão e retração na produção desse cereal, seguindo a lógica capitalista. Até os anos 1980, a região investigada chegou a ser uma das maiores produtoras de arroz do Brasil, mas retraiu nas décadas seguintes e atualmente tem cerca de 90% de sua produção controlada e comercializada por uma empresa transnacional. A modernização dos meios de produção na agricultura provocou impactos nos espaços agrários, com reflexos nos usos do território, e foi, portanto, pautado no afastamento dos modos tradicionais de produção, em favor do moderno e mecanizado, que se processou o desenvolvimento da rizicultura nos Eixos Rodoferroviários, criando e/ou agravando problemas das mais diversas ordens (fundiários, laborais, urbanos, sociais, etc.). A acumulação capitalista e a vigência dos mecanismos institucionais mantém a conformidade da sociedade no status quo, compondo ‘‘geografias’’ que permanecem nas áreas periféricas, onde se fazem necessárias intervenções, nomeadamente, por meio de programas de regulação.
+
+**Current note:** The title and abstract do not establish a climate change focus.
 
 ### Miss · UY_e6af8c8dd9e801e34f15e034735b63ab
 
@@ -2769,18 +3273,6 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_8fe7e4198a51b09491be18c697a2d8d6/Description
 
 **Abstract:** A popularização da Internet e as inovações no campo da Computação dos últimos anos, mais especificamente no que se relaciona ao Big Data e à Inteligência Artificial (IA), apresentam problemáticas para a Educação. Parte de nossas vidas e interações em meios digitais vem sendo desenvolvida em ambientes controlados e gerenciados por algoritmos que se reconfiguram a partir de nossas ações, limitando nossas escolhas, influenciando nossas visões de mundo e a forma como somos socialmente representados, dentro e fora dos ambientes virtuais. Um desafio a ser enfrentado é a formação ética-moral de graduandos que atuam diretamente na produção dessas tecnologias orientadas por dados. Ainda que as Diretrizes Curriculares Nacionais (DCN) para os cursos da Computação recomendem, como parte integrante e fundamental ao longo do processo formativo, o desenvolvimento de "questões éticas, sociais, legais e econômicas", a formação desses agentes morais responsáveis tem sido pouco objeto de estudo na área. Esta tese apresenta uma perspectiva para a formação ética desses profissionais após uma investigação empírica e documental que envolveu cinco cursos superiores da Computação, públicas e particulares, de quatro regiões do Brasil, além de uma universidade norte-americana referência em inovação. Os dados foram produzidos a partir de entrevistas com coordenadores dos cursos e do estudo de seus Projetos Pedagógicos. A pesquisa foi desenvolvida sob abordagem qualitativa orientada pelo paradigma crítico-transformador e recorrendo a análise de conteúdo. O referencial reúne autores alinhados a uma perspectiva problematizadora de educação, como Freire, Arendt, Goergen, e que discutem ética e formação moral sob uma perspectiva histórica não prescritiva, como Goergen, Vázquez, Oliveira e Cortella. Nossa análise aponta a inadequação das abordagens tradicionais para a formação ética na área da Computação, caracterizadas pela oferta ocasional de temas em disciplinas isoladas e pela transmissão de “valores universais” de forma superficial e descontextualizada. Essa abordagem contribuiria pouco para a formação de agentes morais criticamente conscientes das implicações de suas práticas. De fato, estes profissionais são frequentemente submetidos a processos formativos que priorizam valores mercadológicos que distorcem os princípios éticos em prol de interesses econômicos. Para enfrentar esse desafio, é urgente revisitar e reestruturar políticas, pressupostos e práticas educacionais na área da Computação. Este trabalho aponta a necessidade de ajustes nas Diretrizes Curriculares Nacionais (DCN) que favoreça uma reformulação dos Projetos Pedagógicos dos Cursos (PPC) que contemple uma transdisciplinaridade dialógica, representativa dos diferentes sujeitos em seus campos do conhecimento, buscando assegurar que os valores sociais representativos da coletividade permeiem e orientem todo o processo formativo. Enquanto mecanismos normativos representantes do interesse público, as DCN devem criar condições para que os espaços formativos não sejam cooptados por interesses mercadológicos ou de grupos específicos, contrários a uma formação cidadã.
-
-**Current note:** The title and abstract do not establish a climate change focus.
-
-### Miss · UY_b2c356751026916ab50170e4034f1e87
-
-**Title:** La tecnología y sus implicaciones en el comportamiento humano con su ambiente
-
-**Review basis:** title-only
-
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b2c356751026916ab50170e4034f1e87/Description
-
-**Abstract:** _No abstract exposed by the record._
 
 **Current note:** The title and abstract do not establish a climate change focus.
 
@@ -2892,15 +3384,75 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 
 **Current note:** The title and abstract do not establish a climate change focus.
 
-### Miss · UY_e9e7029894b03dc7e23372259f2dbc57
+### Related hit · UY_b4f34416f6b770594262d985c135de69
 
-**Title:** El ambiente y la estructura comunitaria como determinantes de la estabilidad en comunidades vegetales de charcos temporales
+**Title:** Distinguishing the effects of internal and forced atmospheric variability in climate networks
 
-**Review basis:** title-only
+**Review basis:** title+abstract
 
-**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_e9e7029894b03dc7e23372259f2dbc57/Description
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_b4f34416f6b770594262d985c135de69/Description
 
-**Abstract:** _No abstract exposed by the record._
+**Abstract:** The fact that the climate on the earth is a highly complex dynamical system is well-known. In the last few decades great deal of effort has been focused on understanding how climate phenomena in one geographical region affects the climate of other regions. Complex networks are a powerful framework for identifying climate interdependencies. To further exploit the knowledge of the links uncovered via the network analysis (for, e.g., improvements in prediction), a good understanding of the physical mechanisms underlying these links is required. Here we focus on understanding the role of atmospheric variability, and construct climate networks representing internal and forced variability using the output of an ensemble of AGCM runs. A main strength of our work is that we construct the networks using MIOP (mutual information computed from ordinal patterns), which allows the separation of intraseasonal, intraannual and interannual timescales. This gives further insight to the analysis of climatological data. The connectivity of these networks allows us to assess the influence of two main indices, NINO3.4 – one of the indices used to describe ENSO (El Niño–Southern oscillation) – and of the North Atlantic Oscillation (NAO), by calculating the networks from time series where these indices were linearly removed. A main result of our analysis is that the connectivity of the forced variability network is heavily affected by “El Niño”: removing the NINO3.4 index yields a general loss of connectivity; even teleconnections between regions far away from the equatorial Pacific Ocean are lost, suggesting that these regions are not directly linked, but rather, are indirectly interconnected via El Niño, particularly at interannual timescales. On the contrary, on the internal variability network – independent of sea surface temperature (SST) forcing – the links connecting the Labrador Sea with the rest of the world are found to be significantly affected by NAO, with a maximum at intraannual timescales. While the strongest non-local links found are those forced by the ocean, the presence of teleconnections due to internal atmospheric variability is also shown.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Related hit · UY_abd92601c627697f9187e75fd2ec64f4
+
+**Title:** Utilization of Solar Energy for Cooling Applications: a Review
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_abd92601c627697f9187e75fd2ec64f4/Description
+
+**Abstract:** Major portion of energy in the residential sector is consumed to provide the human comfort. The use of conventional energy resources creates the problem of global warming.&nbsp; Due to severe impact of released gases on the environment, there is needed to use the alternative energy resources to maintain the human comfort zone. The use of different solar energy conversion techniques is making a promising contribution to provide the clean energy. The purpose of this study is to provide an overview of recent advancement in the use of solar energy to provide the indoor climate comfort. The use of non-concentrating and concentrating conversion techniques are investigated in detail. The study also discusses about the enticements of solar energy to attract the investment in the merger of solar energy and human comfort industries.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.
+
+### Miss · UY_95eae24435099678516c9d1d9750c96d
+
+**Title:** El papel de la Ciencia en el proceso de Ordenamiento Territorial (y en otras cuestiones vinculadas con problemas ambientales)
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_95eae24435099678516c9d1d9750c96d/Description
+
+**Abstract:** Los aspectos técnicos, políticos y administrativos del Ordenamiento Territorial Rural (OTR) están estrechamente enlazados, y difícilmente se pueden tratar de forma aislada. Incorporar a la Ciencia y a los científicos en el proceso de OTR permite mejorar algunos factores que definen la calidad del proceso (e.g., acceso a la información, percepción de los problemas, etc.), pero no otros (e.g., disputas de valores e intereses o asimetrías de poder). En su condición de conocimiento sistematizado, la Ciencia aporta un “banco de conocimientos” indispensable. A su vez, puede jugar otro papel clave al ofrecer esquemas de pensamiento y acción, en los cuales los criterios de verdad se asocian a evidencias empíricas y lógicas y no al principio de autoridad o al pensamiento mágico. La sociedad y el Sistema de Ciencia y Tecnología (SCyT) deberían identificar los casos en los que la participación es crítica y se requiere superar debates poco informados. La participación de la Ciencia y los científicos es clave cuando se debe disminuir la incertidumbre asociada a la toma de decisiones. Por su parte, se debería evitar la situación, menos reconocida, de forzar la incorporación del SCyT cuando no corresponde. La participación de los científicos tiene que ocurrir en colaboración estrecha con otros actores del proceso. No obstante, su participación en los procesos de OTR enfrenta muchos desafíos y problemas. Una lista no exhaustiva incluye los conflictos de interés, el reduccionismo y la consecución de la inter / trans / multidisplinariedad.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_092909639d71c17b347316d699fa9b60
+
+**Title:** Commentary on Judgments No. 38/2021 of the Family Law Court of the 9th Round and No. 9/2021 of the Family Court of Appeals of the 2nd Round: Right to Housing, Duty of the State
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_092909639d71c17b347316d699fa9b60/Description
+
+**Abstract:** This article analyzes judgment No. 38/2021 dated April 5, 2021, issued by the 9th Shift Family Law Court and judgment No. 9/2021 dated May 3, 2021, issued by the Court of Family Appeals of 2nd Turn, confirming the first instance, with two disagreements. Said sentences resolve the controversy of an amparo action promoted by one of the families of the New Beginning [Nuevo Comienzo] settlement, after the judicial decisions to vacate the occupants of said settlement. The positions adopted by the Family Law Judge of the 9th Round, the majority of the Family Court of Appeals of the 2nd Round and the two discords to said sentence of second instance are analyzed. It concludes that the control of constitutionality and conventionality carried out by the judges allowed arriving at innovative solutions that protect the rights enshrined in the Constitution and in international human rights instruments.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · Deposita_a63b1ded2c8e719f77d5a1f83ac10a33
+
+**Title:** Análise da vulnerabilidade ambiental da bacia hidrográfica do Rio Doce – RN
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/Deposita_a63b1ded2c8e719f77d5a1f83ac10a33/Description
+
+**Abstract:** A Bacia Hidrográfica do Rio Doce – BHRD localiza-se na porção leste do Estado do Rio Grande do Norte. É uma unidade geográfica que vem, ao longo do tempo, apresentando um processo de ocupação desordenada, em suas mais variadas formas. As diversidades de sistemas ambientais existentes fazem dela uma área potencialmente vulnerável a impactos ambientais negativos. Nesse contexto, a presente tese teve como objetivo identificar e mapear as características territoriais e geoambientais e as vulnerabilidades natural e ambiental da Bacia Hidrográfica do Rio Doce – RN, tendo como suporte operacional e metodológico as Geotecnologias de softwares livres. Como resultado, propôs-se uma nova delimitação da BHRD, na qual houve um acréscimo de 2,29% da sua área total oficial, passando de 387,8 km² para 396,7 km². A caracterização geoambiental mostrou que a bacia vem sofrendo ações antrópicas que estão alterando a paisagem local, transformando áreas que, anteriormente, consideradas “preservadas” em áreas impactadas, principalmente próximo aos grandes centros urbanos e na nascente do rio Guajirú. Dentre as atividades mais impactantes, destacam-se o cultivo sazonal, responsável pela retirada da vegetação natural, inclusive matas ciliares, para o cultivo de monoculturas, como a cana de açúcar; as hortaliças, cultivadas no leito maior e menor dos rios Guajiru e Mudo e a produção em áreas de assentamentos rurais, na nascente do rio Guajiru; o cultivo perene, tendo o coco, a banana e o caju como as principais culturas, observado nos leitos dos rios, com ênfase nas áreas onde o rio possui características perene, ou seja, próximo a Lagoa de Extremoz; a expansão urbana em direção ao Rio Mudo, nas proximidades da área urbana de Ceará – Mirim, às margens da Lagoa de Extremoz até a desembocadura e no Rio Guajirú, tendo como referência os povoados e distritos como Serrinha, Massaranduba e as zonas urbanas de Extremoz e Natal.; e a atividade mineradora, nas áreas onde afloram a formação geológica Dona Inês. O resultado dessas atividades na bacia se refletiu nos mapeamentos das vulnerabilidades natural e ambiental. Na vulnerabilidade natural, a média do grau vulnerabilidade chegou ao nível 4, classificado como Medianamente Estável/Vulnerável, equivalente ao valor 2,1, com fortes tendências a se tornar Moderadamente Vulnerável. Isso se dá pela pressão exercida nas áreas urbanas localizadas mais a leste da bacia, onde apresenta uma geologia mais recente, com uma geomorfologia, solos e vegetação alterados pela ação antrópica, mas minimizado pela distribuição mais regular das chuvas. Já para a vulnerabilidade ambiental, os resultados mostraram que a bacia apresenta uma média de nível 2, com valor 2,4, considerado no grau de vulnerabilidade como uma área Moderadamente Vulnerável. Nesse caso, a influência das ações antrópicas no meio fez com que esses valores chegassem a 2,7 em áreas urbanas, diminuindo em direção a porção oeste da bacia. Conclui-se que o atual estágio de uso e ocupação da bacia está chegando ao limite da sustentabilidade. Portanto, a busca de propostas que visem minimizar os impactos negativos gerados pela exploração dos recursos naturais ali existentes, tendo como referência os resultados obtidos na presente tese, assim como outros divulgados na comunidade cientifica, permitirão alcançar a sustentabilidade socioambiental da bacia, mantendo o equilibro morfogênese/pedogênese, como se mostra na análise das vulnerabilidades natural e ambiental.
+
+**Current note:** The title and abstract do not establish a climate change focus.
+
+### Miss · UY_ea9484882aa251544d99215b3ac986a7
+
+**Title:** PHILOSOPHICAL VIEW OF HUMAN CARE IN THE WOMAN IN THE CLIMACTERIC STAGE
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_ea9484882aa251544d99215b3ac986a7/Description
+
+**Abstract:** Middle-aged women, although they may have concluded with the biological reproductive cycle, maintain an important social role that is expressed through their active participation in community life, without abandoning the responsibilities assumed in the home and family, which it contributes to the exacerbation of climacteric symptoms in intensity and frequency, in correspondence with social determinants because of their sex. On the other hand, the living conditions of women have undergone significant changes in the last decades: the progressive increase of opportunities for labor insertion, birth control, reduction of fertility, improvement in the effectiveness of preventive measures, increase in life expectancy, reduction of gender barriers, changes in social roles, all of which must be considered in their health care. Therefore it is necessary to focus the care from a philosophical perceptive that allows us to perform it in an integral way, without setting aside emotional, spiritual and psychosocial aspects. The primary care service is essential to provide a source of care that has continuity, coordination, and that covers in a global way the health needs of people. Whatever the type of transition, it implies from the nursing staff the need to know the beliefs and practices in each one of the transitional situations of the person in order to offer a culturally congruent care. This implies knowing how humans adapt to the transition, and how the environment affects that adaptation. This importance derives from the fact that nursing seeks to maximize the strengths and potentials of people
 
 **Current note:** The title and abstract do not establish a climate change focus.
 
@@ -2939,3 +3491,15 @@ V3 compares three stages: short topic query, long phrase 1 that can separate int
 **Abstract:** En Uruguay, las tasas de empleo de las mujeres han aumentado en las ultimas décadas, guiado principalmente por el aumento de la oferta laboral de las mujeres en pareja. Sin embargo, persiste una brecha de genero significativa en el empleo, lo que señala la necesidad de corregir la selección muestral en estudios empíricos que abordan las brechas salariales. La literatura reciente que estudia las brechas salariales de genero ha destacado la importancia de corregir la selección en el empleo a lo largo de la distribución de ingresos. En este trabajo, mi objetivo es abordar un tema pasado por alto en los estudios del mercado laboral de los países en desarrollo, en particular para Uruguay. Estimo la brecha de genero en los ingresos a lo largo de la distribución, corrigiendo la selección en el empleo y observando su evolución con el tiempo. Basándome en la Encuesta Continua de Hogares para el período 2009-2019, exploro la evolución de la brecha salarial de género corregida por selección a lo largo de la distribución. Para estimar las distribuciones de ingresos por hora corregidas por selección, aplico el modelo de corrección de sesgo de selección cuantilico de tres pasos propuesto por Arellano y Bonhomme (2017). Utilizo una medida de ingresos potenciales fuera del trabajo como instrumento para corregir la selección de hombres y mujeres en el empleo. Los resultados muestran que los patrones de selección varían según el estado civil. Las brechas salariales potenciales son mayores que las brechas salariales sin corregir en toda la distribución del ingresos para las personas que están en pareja, aunque mantienen la tendencia decreciente durante el período estudiado. La diferencia entre ambas distribuciones de ingresos es mayor para los cuantiles de menores ingresos, lo que sugiere la existencia de ”suelos pegajosos”. Por ultimo, al considerar a las personas casadas y en unión libre por separado, encuentro que la selección de las mujeres en el empleo obedece a la selección de las mujeres casadas.
 
 **Current note:** The title and abstract do not establish a climate change focus.
+
+### Related hit · UY_269fe4de2f7cbad5ce5cf4a3378c59d1
+
+**Title:** Impacts of Geopolitics and Policy on Latin American Biodiversity and Water Resources
+
+**Review basis:** title+abstract
+
+**Abstract URL:** https://search.lareferencia.info/vufind/Record/UY_269fe4de2f7cbad5ce5cf4a3378c59d1/Description
+
+**Abstract:** Latin America is a major agricultural producer with important natural resources. Efforts have been made to protect sensitive areas but are hindered by agricultural trade disruptions outside the control of individual countries due to globally integrated crop markets. This analysis assesses the effects of two trade shocks, that is, the war in Ukraine and vehicle decarbonization in the United States (US), on biodiversity and water resources in Latin America. Results show that an increase in maize and wheat exports from the region triggered by the war in Ukraine negatively affects biodiversity in Brazil and leads to cropland expansion into drought-prone areas in Argentina and Chile. For the case of reduced crop exports from Latin America due to US vehicle decarbonization and the corresponding shift away from US maize ethanol, the pressure on arable land in areas of high biodiversity and water stress is eased. As opposed to agricultural carbon emissions, which have global impacts, biodiversity and water issues have a strong local and regional significance. Regulatory frameworks aiming to protect these regions should be forward looking to detect and shield vulnerable areas from future threats. Other changes affecting global agriculture and trade, for example, sustainable aviation fuels in the US or the European Farm-to-Fork policy, need to be anticipated for effective policies in Latin America.
+
+**Current note:** The title or abstract shows a narrower or broader relationship to the topic.

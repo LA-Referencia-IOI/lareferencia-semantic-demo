@@ -58,7 +58,7 @@ designed for future integration but are not loaded by the public page.
 
 | File | Role |
 | --- | --- |
-| `long-query-experiment-config.json` | V2 manifest with six language queries, representative phrases and source evidence. |
+| `long-query-experiment-config.json` | V3 manifest with nine language queries, representative phrases and source evidence. |
 | `long-query-experiment-capture.json` | Raw keyword and semantic rankings plus record abstracts. |
 | `long-query-experiment-judgments.json` | Editorial judgments for captured long-query records. |
 | `long-query-experiment-review-queue.md` | Manual review queue for partial hits and misses. |

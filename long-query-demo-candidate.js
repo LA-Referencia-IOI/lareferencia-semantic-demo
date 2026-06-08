@@ -87,8 +87,8 @@ window.LONG_QUERY_EXPERIMENT = {
                 },
                 {
                   "position": 6,
-                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
-                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "recordId": "Deposita_ec6249920b5e906f9d2899cfadb4bffa",
+                  "title": "Identificação de Perfis e Padrões de Participação dos Estudantes de Cursos a Distância na UFRN por meio de Mineração de Dados",
                   "judgment": 2,
                   "note": "",
                   "source": "title+abstract-rule",
@@ -96,8 +96,8 @@ window.LONG_QUERY_EXPERIMENT = {
                 },
                 {
                   "position": 7,
-                  "recordId": "Deposita_ec6249920b5e906f9d2899cfadb4bffa",
-                  "title": "Identificação de Perfis e Padrões de Participação dos Estudantes de Cursos a Distância na UFRN por meio de Mineração de Dados",
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
                   "judgment": 2,
                   "note": "",
                   "source": "title+abstract-rule",
@@ -236,6 +236,424 @@ window.LONG_QUERY_EXPERIMENT = {
             },
             "metrics": {
               "keywordHits": 8,
+              "semanticHits": 9,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "text": "educación a distancia",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=educaci%C3%B3n%20a%20distancia&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_b26ac32155ab971977bd26894c1bdbd9",
+                  "title": "University faculty beliefs about technologies and education: a correspondence study",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "editorial-override",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_154abe3e5eb7b1521d3edfc6ed61b03c",
+                  "title": "El Diploma en Educación en modalidad a distancia. Evaluación de una experiencia piloto",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_c4f9841a699cef07bad0910cf6d30566",
+                  "title": "Presentación",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "Ridi_7aa76508e449a7307cb7ac9e57327233",
+                  "title": "Autoformação e autovalorização na educação a distância na universidade pública brasileira",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                  "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "Deposita_3cf377175c3ceba83eded8d6877a0e53",
+                  "title": "A influência da psicologia na aprendizagem digital: Adequando os formatos de comunicação",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "Deposita_5d70934ae70430c5642d894da4fa5a54",
+                  "title": "Formação Continuada de Professores: Implicações Pedagógicas de um Curso a Distância",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "Deposita_6556e4befe1ede108dabaab95b5b198f",
+                  "title": "Implementação do Moodle como ferramenta de apoio ao docente no ensino público municipal: contribuições para a educação a distância em IBIÁ-MG",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                  "title": "Educación a distancia vía videoconferencia",
+                  "score": 0.93,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "score": 0.89,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                  "title": "Gestión de la tutoría telemática en educación a distancia",
+                  "score": 0.86,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_9d6be1f154f629a871a0d908a411cbaa",
+                  "title": "La gestión de los recursos humanos a distancia",
+                  "score": 0.86,
+                  "judgment": 0,
+                  "note": "The abstract confirms a telework and human-resources focus, not distance education.",
+                  "source": "editorial-override",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_6123a7c42b48390cf7d811987a27a845",
+                  "title": "La calidad en la EDUCACIÓN a DISTANCIA continúa siendo un tema muy complejo.",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                  "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_154abe3e5eb7b1521d3edfc6ed61b03c",
+                  "title": "El Diploma en Educación en modalidad a distancia. Evaluación de una experiencia piloto",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "Ridi_7aa76508e449a7307cb7ac9e57327233",
+                  "title": "Autoformação e autovalorização na educação a distância na universidade pública brasileira",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_db996e3019ebbc401b116f7948110062",
+                  "title": "De la presencialidad a la distancia: modelos para la incorporación del e-learning en la universidad",
+                  "score": 0.82,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
+              "semanticHits": 9,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "text": "educação a distância",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=educa%C3%A7%C3%A3o%20a%20dist%C3%A2ncia&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "Deposita_5d70934ae70430c5642d894da4fa5a54",
+                  "title": "Formação Continuada de Professores: Implicações Pedagógicas de um Curso a Distância",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_b26ac32155ab971977bd26894c1bdbd9",
+                  "title": "University faculty beliefs about technologies and education: a correspondence study",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "editorial-override",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "Ridi_7aa76508e449a7307cb7ac9e57327233",
+                  "title": "Autoformação e autovalorização na educação a distância na universidade pública brasileira",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                  "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Deposita_3cf377175c3ceba83eded8d6877a0e53",
+                  "title": "A influência da psicologia na aprendizagem digital: Adequando os formatos de comunicação",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                  "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "Deposita_6556e4befe1ede108dabaab95b5b198f",
+                  "title": "Implementação do Moodle como ferramenta de apoio ao docente no ensino público municipal: contribuições para a educação a distância em IBIÁ-MG",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "Deposita_a49459c17b467e4644495ef17743413f",
+                  "title": "Ensino remoto em debate",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "Deposita_33b87dfc08bf52d8a45758b2a7ebd487",
+                  "title": "A Autorregulação da Aprendizagem o Processo Avaliativo por Intermédio da Webquest",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                  "title": "Educación a distancia vía videoconferencia",
+                  "score": 0.91,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "score": 0.88,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                  "title": "Gestión de la tutoría telemática en educación a distancia",
+                  "score": 0.85,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "Ridi_7aa76508e449a7307cb7ac9e57327233",
+                  "title": "Autoformação e autovalorização na educação a distância na universidade pública brasileira",
+                  "score": 0.85,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_9d6be1f154f629a871a0d908a411cbaa",
+                  "title": "La gestión de los recursos humanos a distancia",
+                  "score": 0.85,
+                  "judgment": 0,
+                  "note": "The abstract confirms a telework and human-resources focus, not distance education.",
+                  "source": "editorial-override",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                  "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                  "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_6123a7c42b48390cf7d811987a27a845",
+                  "title": "La calidad en la EDUCACIÓN a DISTANCIA continúa siendo un tema muy complejo.",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_154abe3e5eb7b1521d3edfc6ed61b03c",
+                  "title": "El Diploma en Educación en modalidad a distancia. Evaluación de una experiencia piloto",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
               "semanticHits": 9,
               "keywordReturned": 10,
               "semanticReturned": 10
@@ -650,20 +1068,20 @@ window.LONG_QUERY_EXPERIMENT = {
                 },
                 {
                   "position": 9,
-                  "recordId": "Ridi_4b0d41dfb0716fba611688f08be379a3",
-                  "title": "O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri",
-                  "judgment": 0,
-                  "note": "The title concerns information philosophy, not distance education.",
-                  "source": "editorial-override",
-                  "reviewBasis": "title+abstract"
-                },
-                {
-                  "position": 10,
                   "recordId": "UY_dbbd0a8c94b34b9e548da2c460964668",
                   "title": "NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics",
                   "judgment": 0,
                   "note": "The title and abstract do not establish a distance education focus.",
                   "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "Ridi_4b0d41dfb0716fba611688f08be379a3",
+                  "title": "O humano, o documento e a Filosofia da Ciência da Informação: bases para pensar uma antropologia filosófica a partir da teoria a inteligência e da realidade em Xavier Zubiri",
+                  "judgment": 0,
+                  "note": "The title concerns information philosophy, not distance education.",
+                  "source": "editorial-override",
                   "reviewBasis": "title+abstract"
                 }
               ],
@@ -1012,6 +1430,124 @@ window.LONG_QUERY_EXPERIMENT = {
               "keywordReturned": 0,
               "semanticReturned": 10
             }
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "text": "التعليم عن بعد",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%20%D8%B9%D9%86%20%D8%A8%D8%B9%D8%AF&limit=10",
+            "results": {
+              "keyword": [],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                  "title": "Educación a distancia vía videoconferencia",
+                  "score": 0.89,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "score": 0.86,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_9d6be1f154f629a871a0d908a411cbaa",
+                  "title": "La gestión de los recursos humanos a distancia",
+                  "score": 0.83,
+                  "judgment": 0,
+                  "note": "The abstract confirms a telework and human-resources focus, not distance education.",
+                  "source": "editorial-override",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                  "title": "Gestión de la tutoría telemática en educación a distancia",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                  "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                  "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                  "score": 0.81,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                  "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                  "score": 0.81,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_6123a7c42b48390cf7d811987a27a845",
+                  "title": "La calidad en la EDUCACIÓN a DISTANCIA continúa siendo un tema muy complejo.",
+                  "score": 0.81,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                  "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                  "score": 0.81,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_c2d5a86dee383cfee08da86725197352",
+                  "title": "Hacia una mejor calidad de la enseñanza",
+                  "score": 0.81,
+                  "judgment": 0,
+                  "note": "The title is about teaching quality and the record exposes no abstract establishing distance education.",
+                  "source": "editorial-override",
+                  "reviewBasis": "title-only"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 0,
+              "semanticHits": 8,
+              "keywordReturned": 0,
+              "semanticReturned": 10
+            }
           }
         ],
         "matrix": {
@@ -1022,6 +1558,16 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr"
             },
             {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr"
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr"
+            },
+            {
               "language": "French",
               "languageCode": "fr",
               "direction": "ltr"
@@ -1045,6 +1591,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "language": "Japanese",
               "languageCode": "ja",
               "direction": "ltr"
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl"
             }
           ],
           "rows": [
@@ -1054,11 +1605,46 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 null,
+                9,
+                9,
                 6,
                 5,
                 7,
                 7,
-                5
+                5,
+                7
+              ]
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "values": [
+                9,
+                null,
+                9,
+                6,
+                5,
+                7,
+                7,
+                5,
+                7
+              ]
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "values": [
+                9,
+                9,
+                null,
+                7,
+                5,
+                8,
+                7,
+                5,
+                8
               ]
             },
             {
@@ -1067,11 +1653,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 6,
+                6,
+                7,
                 null,
                 5,
                 8,
                 7,
-                5
+                5,
+                8
               ]
             },
             {
@@ -1081,10 +1670,13 @@ window.LONG_QUERY_EXPERIMENT = {
               "values": [
                 5,
                 5,
+                5,
+                5,
                 null,
                 6,
                 6,
-                5
+                5,
+                6
               ]
             },
             {
@@ -1093,11 +1685,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                7,
+                8,
                 8,
                 6,
                 null,
                 8,
-                5
+                5,
+                10
               ]
             },
             {
@@ -1107,10 +1702,13 @@ window.LONG_QUERY_EXPERIMENT = {
               "values": [
                 7,
                 7,
+                7,
+                7,
                 6,
                 8,
                 null,
-                7
+                7,
+                8
               ]
             },
             {
@@ -1122,12 +1720,41 @@ window.LONG_QUERY_EXPERIMENT = {
                 5,
                 5,
                 5,
+                5,
+                5,
                 7,
+                null,
+                5
+              ]
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "values": [
+                7,
+                7,
+                8,
+                8,
+                6,
+                10,
+                8,
+                5,
                 null
               ]
             }
           ],
           "pairs": [
+            {
+              "left": "en",
+              "right": "es",
+              "shared": 9
+            },
+            {
+              "left": "en",
+              "right": "pt",
+              "shared": 9
+            },
             {
               "left": "en",
               "right": "fr",
@@ -1154,6 +1781,76 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "en",
+              "right": "ar",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "pt",
+              "shared": 9
+            },
+            {
+              "left": "es",
+              "right": "fr",
+              "shared": 6
+            },
+            {
+              "left": "es",
+              "right": "de",
+              "shared": 5
+            },
+            {
+              "left": "es",
+              "right": "it",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "zh",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "ja",
+              "shared": 5
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "fr",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "de",
+              "shared": 5
+            },
+            {
+              "left": "pt",
+              "right": "it",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "zh",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "ja",
+              "shared": 5
+            },
+            {
+              "left": "pt",
+              "right": "ar",
+              "shared": 8
+            },
+            {
               "left": "fr",
               "right": "de",
               "shared": 5
@@ -1174,6 +1871,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "fr",
+              "right": "ar",
+              "shared": 8
+            },
+            {
               "left": "de",
               "right": "it",
               "shared": 6
@@ -1189,6 +1891,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "de",
+              "right": "ar",
+              "shared": 6
+            },
+            {
               "left": "it",
               "right": "zh",
               "shared": 8
@@ -1199,12 +1906,28 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "it",
+              "right": "ar",
+              "shared": 10
+            },
+            {
               "left": "zh",
               "right": "ja",
               "shared": 7
+            },
+            {
+              "left": "zh",
+              "right": "ar",
+              "shared": 8
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 5
             }
           ],
-          "average": 6.13
+          "average": 6.67,
+          "averageWithoutArabic": 6.46
         },
         "separation": {
           "explanation": "Short topic labels are broad. They can retrieve relevant records across languages, but the shared top-10 may reflect the most common records for the topic rather than a narrower research question.",
@@ -1236,36 +1959,103 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightLabel": "Japanese"
             },
             {
-              "left": "fr",
+              "left": "es",
               "right": "de",
               "shared": 5,
-              "leftLabel": "French",
+              "leftLabel": "Spanish",
               "rightLabel": "German"
+            }
+          ],
+          "lowestNonArabicPairs": [
+            {
+              "left": "de",
+              "right": "ja",
+              "shared": 5,
+              "leftLabel": "German",
+              "rightLabel": "Japanese"
+            },
+            {
+              "left": "en",
+              "right": "de",
+              "shared": 5,
+              "leftLabel": "English",
+              "rightLabel": "German"
+            },
+            {
+              "left": "en",
+              "right": "ja",
+              "shared": 5,
+              "leftLabel": "English",
+              "rightLabel": "Japanese"
+            },
+            {
+              "left": "es",
+              "right": "de",
+              "shared": 5,
+              "leftLabel": "Spanish",
+              "rightLabel": "German"
+            }
+          ],
+          "lowestArabicPairs": [
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 5,
+              "leftLabel": "Japanese",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 6,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "en",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "Spanish",
+              "rightLabel": "Arabic"
             }
           ],
           "highestPairs": [
             {
               "left": "it",
-              "right": "zh",
-              "shared": 8,
+              "right": "ar",
+              "shared": 10,
               "leftLabel": "Italian",
-              "rightLabel": "Chinese"
+              "rightLabel": "Arabic"
             },
             {
-              "left": "fr",
-              "right": "it",
-              "shared": 8,
-              "leftLabel": "French",
-              "rightLabel": "Italian"
+              "left": "es",
+              "right": "pt",
+              "shared": 9,
+              "leftLabel": "Spanish",
+              "rightLabel": "Portuguese"
             },
             {
-              "left": "zh",
-              "right": "ja",
-              "shared": 7,
-              "leftLabel": "Chinese",
-              "rightLabel": "Japanese"
+              "left": "en",
+              "right": "pt",
+              "shared": 9,
+              "leftLabel": "English",
+              "rightLabel": "Portuguese"
             }
           ],
+          "overallLowestPair": {
+            "left": "de",
+            "right": "ja",
+            "shared": 5,
+            "leftLabel": "German",
+            "rightLabel": "Japanese"
+          },
           "focusPair": {
             "left": "de",
             "right": "ja",
@@ -1347,13 +2137,95 @@ window.LONG_QUERY_EXPERIMENT = {
                 "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_7d94a2dff2920a6c10d600056d357f7b/Description"
               }
             ]
+          },
+          "arabicFocusPair": {
+            "left": "ja",
+            "right": "ar",
+            "shared": 5,
+            "leftLabel": "Japanese",
+            "rightLabel": "Arabic",
+            "editorialSummary": "Both sides stay partly connected through pandemic adaptation and emergency remote teaching, but they select different records within that branch.",
+            "leftReading": {
+              "themes": [
+                "remote laboratories and science education",
+                "pandemic adaptation and emergency remote teaching",
+                "technology transfer or non-education distance work"
+              ],
+              "summary": "The Japanese side appears to lean toward remote laboratories and science education, pandemic adaptation and emergency remote teaching, and technology transfer or non-education distance work. Examples include \"Laboratorios remotos: Nuevas perspectivas para su uso en la educación científica\" and \"Treinamento SEER a distância: uma estratégia para repasse de tecnologia\"."
+            },
+            "rightReading": {
+              "themes": [
+                "virtual learning environments and platforms",
+                "tutoring and teaching interaction",
+                "pandemic adaptation and emergency remote teaching"
+              ],
+              "summary": "The Arabic side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes\" and \"Modelagem de cursos à distância via Internet à luz da Ciência da Informação\"."
+            },
+            "leftOnly": [
+              {
+                "position": 5,
+                "recordId": "UY_3ea7181f3196724783fa8fb98195c005",
+                "title": "Laboratorios remotos: Nuevas perspectivas para su uso en la educación científica",
+                "judgment": 1,
+                "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                "abstractSnippet": "La pandemia de COVID-19 ha impuesto desafíos a los sistemas educativos. En particular, la instauración de una enseñanza remota de emergencia interpela la enseñanza de las ciencias naturales respecto a la realización de actividades experimentales. Estas activi…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3ea7181f3196724783fa8fb98195c005/Description"
+              },
+              {
+                "position": 6,
+                "recordId": "Ridi_8d1c8eef1f5a757da37b931b72d15661",
+                "title": "Treinamento SEER a distância: uma estratégia para repasse de tecnologia",
+                "judgment": 1,
+                "note": "Distance training is related, but narrower than the educational topic.",
+                "abstractSnippet": "",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_8d1c8eef1f5a757da37b931b72d15661/Description"
+              },
+              {
+                "position": 7,
+                "recordId": "Deposita_7d94a2dff2920a6c10d600056d357f7b",
+                "title": "Educação infantojuvenil em tempos de isolamento social",
+                "judgment": 0,
+                "note": "The abstract describes public educational materials about COVID-19, not distance education.",
+                "abstractSnippet": "Estamos atravessando uma pandemia da COVID-19 causada pelo vírus SARS-CoV-2 que resultou no isolamento social. Esse isolamento aliado às informações midiáticas podem afetar o desenvolvimento emocional das pessoas, uma vez que elas se veem isoladas e com pouco…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_7d94a2dff2920a6c10d600056d357f7b/Description"
+              }
+            ],
+            "rightOnly": [
+              {
+                "position": 6,
+                "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Este trabajo de investigación se ubica en el terreno de la didáctica universitaria, aborda aspectos de la enseñanza y del aprendizaje en ciencias de la salud y en el nivel clínico. Analiza la figura docente en el primer curso a distancia, en modalidad mixta,…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_f4689cb2cd398584aeda670441ef4525/Description"
+              },
+              {
+                "position": 7,
+                "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "This study develops a structured model of distance education taking into consideration the Information Science. It has a conceptual basis on the five principles of Library Science applied to virtual reality. The design of distance education using Internet was…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_f1d3095f0eb278b068f41ed466bf8d29/Description"
+              },
+              {
+                "position": 8,
+                "recordId": "UY_6123a7c42b48390cf7d811987a27a845",
+                "title": "La calidad en la EDUCACIÓN a DISTANCIA continúa siendo un tema muy complejo.",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Se puede argumentar en general que si se pretenden lograr en los programas de educación a distancia, aprendizajes significativos en los estudiantes, habrá preocupación en que su diseño, implementación y evaluación de que sean de mayor calidad. Hoy existe una…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_6123a7c42b48390cf7d811987a27a845/Description"
+              }
+            ]
           }
         },
         "summary": {
-          "semanticHitsTotal": 51,
-          "keywordHitsTotal": 11,
-          "semanticHitsAverage": 8.5,
-          "keywordHitsAverage": 1.83
+          "semanticHitsTotal": 77,
+          "keywordHitsTotal": 31,
+          "semanticHitsAverage": 8.56,
+          "keywordHitsAverage": 3.44
         }
       },
       "shortQueryMatrix": {
@@ -1364,6 +2236,16 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr"
           },
           {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr"
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr"
+          },
+          {
             "language": "French",
             "languageCode": "fr",
             "direction": "ltr"
@@ -1387,6 +2269,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "language": "Japanese",
             "languageCode": "ja",
             "direction": "ltr"
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl"
           }
         ],
         "rows": [
@@ -1396,11 +2283,46 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               null,
+              9,
+              9,
               6,
               5,
               7,
               7,
-              5
+              5,
+              7
+            ]
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "values": [
+              9,
+              null,
+              9,
+              6,
+              5,
+              7,
+              7,
+              5,
+              7
+            ]
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "values": [
+              9,
+              9,
+              null,
+              7,
+              5,
+              8,
+              7,
+              5,
+              8
             ]
           },
           {
@@ -1409,11 +2331,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               6,
+              6,
+              7,
               null,
               5,
               8,
               7,
-              5
+              5,
+              8
             ]
           },
           {
@@ -1423,10 +2348,13 @@ window.LONG_QUERY_EXPERIMENT = {
             "values": [
               5,
               5,
+              5,
+              5,
               null,
               6,
               6,
-              5
+              5,
+              6
             ]
           },
           {
@@ -1435,11 +2363,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              7,
+              8,
               8,
               6,
               null,
               8,
-              5
+              5,
+              10
             ]
           },
           {
@@ -1449,10 +2380,13 @@ window.LONG_QUERY_EXPERIMENT = {
             "values": [
               7,
               7,
+              7,
+              7,
               6,
               8,
               null,
-              7
+              7,
+              8
             ]
           },
           {
@@ -1464,12 +2398,41 @@ window.LONG_QUERY_EXPERIMENT = {
               5,
               5,
               5,
+              5,
+              5,
               7,
+              null,
+              5
+            ]
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "values": [
+              7,
+              7,
+              8,
+              8,
+              6,
+              10,
+              8,
+              5,
               null
             ]
           }
         ],
         "pairs": [
+          {
+            "left": "en",
+            "right": "es",
+            "shared": 9
+          },
+          {
+            "left": "en",
+            "right": "pt",
+            "shared": 9
+          },
           {
             "left": "en",
             "right": "fr",
@@ -1496,6 +2459,76 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "en",
+            "right": "ar",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "pt",
+            "shared": 9
+          },
+          {
+            "left": "es",
+            "right": "fr",
+            "shared": 6
+          },
+          {
+            "left": "es",
+            "right": "de",
+            "shared": 5
+          },
+          {
+            "left": "es",
+            "right": "it",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "zh",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "ja",
+            "shared": 5
+          },
+          {
+            "left": "es",
+            "right": "ar",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "fr",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "de",
+            "shared": 5
+          },
+          {
+            "left": "pt",
+            "right": "it",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "zh",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "ja",
+            "shared": 5
+          },
+          {
+            "left": "pt",
+            "right": "ar",
+            "shared": 8
+          },
+          {
             "left": "fr",
             "right": "de",
             "shared": 5
@@ -1516,6 +2549,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "fr",
+            "right": "ar",
+            "shared": 8
+          },
+          {
             "left": "de",
             "right": "it",
             "shared": 6
@@ -1531,6 +2569,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "de",
+            "right": "ar",
+            "shared": 6
+          },
+          {
             "left": "it",
             "right": "zh",
             "shared": 8
@@ -1541,12 +2584,28 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "it",
+            "right": "ar",
+            "shared": 10
+          },
+          {
             "left": "zh",
             "right": "ja",
             "shared": 7
+          },
+          {
+            "left": "zh",
+            "right": "ar",
+            "shared": 8
+          },
+          {
+            "left": "ja",
+            "right": "ar",
+            "shared": 5
           }
         ],
-        "average": 6.13
+        "average": 6.67,
+        "averageWithoutArabic": 6.46
       },
       "variants": [
         {
@@ -1767,6 +2826,424 @@ window.LONG_QUERY_EXPERIMENT = {
               "metrics": {
                 "keywordHits": 10,
                 "semanticHits": 9,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "tutoría a distancia en entornos virtuales de aprendizaje",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=tutor%C3%ADa%20a%20distancia%20en%20entornos%20virtuales%20de%20aprendizaje&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_9c93cd66629f208b68224eb617cbce82",
+                    "title": "Estudio sobre los factores que inciden sobre las interacciones interpersonales que tienen lugar en escenarios educativos no presenciales basados en inter/intranet",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_bc4d4f594285a88f8e24836e031770fd",
+                    "title": "Enseñanza sin aroma",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a distance education focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_f56fda30ad2386085e7289e1d5a7a4a5",
+                    "title": "Ecosistema de accesibilidad en entornos virtuales. Estudio de un caso en Moodle",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_668026daac62e3e34631ce453f4aacf3",
+                    "title": "Los entornos virtuales de aprendizaje y sus usos en la enseñanza universitaria : estado de situación y buenas prácticas en las Facultades de Química e Ingeniería de la Universidad de la República",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Deposita_5d70934ae70430c5642d894da4fa5a54",
+                    "title": "Formação Continuada de Professores: Implicações Pedagógicas de um Curso a Distância",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_f0adc6cedf2fc304a48e1eb99289330c",
+                    "title": "Informe final del proyecto: Monitor y evaluación de uso de las plataformas educativas",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_0eff43df9879859d9aa194d32639143f",
+                    "title": "Are you there? Representation and co-presence in virtual worlds",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_dfd705ebce8eba13e037cc3d09fc613f",
+                    "title": "La promoción de competencias en información a través de plataformas virtuales. El caso del Entorno Virtual de Aprendizaje en la Universidad de la República",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.91,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_e37dd98208701932e33101c2a14331ad",
+                    "title": "La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes",
+                    "score": 0.85,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_9497658e546f575474d3c4b7b322e72f",
+                    "title": "Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                    "title": "Collaborative recommendations in virtual learning environments.",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_21d768eb18b8313d92bd5ef5111e80a3",
+                    "title": "Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_d4016faa04642873e3d746d3ecf98111",
+                    "title": "Tutorías entre Pares en la Facultad de Humanidades y Ciencias de la Educación",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_94a2997549879f5fce3a766c6a3aad3e",
+                    "title": "Prácticas de tutoría pedagógica: funcionamiento, percepciones de estudiantes y educadores en un centro educativo",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 9,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "tutoria a distância em ambientes virtuais de aprendizagem",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=tutoria%20a%20dist%C3%A2ncia%20em%20ambientes%20virtuais%20de%20aprendizagem&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "Deposita_5d70934ae70430c5642d894da4fa5a54",
+                    "title": "Formação Continuada de Professores: Implicações Pedagógicas de um Curso a Distância",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Deposita_6556e4befe1ede108dabaab95b5b198f",
+                    "title": "Implementação do Moodle como ferramenta de apoio ao docente no ensino público municipal: contribuições para a educação a distância em IBIÁ-MG",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
+                    "title": "Comunicação da informação em redes virtuais de aprendizagem",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Deposita_ec6249920b5e906f9d2899cfadb4bffa",
+                    "title": "Identificação de Perfis e Padrões de Participação dos Estudantes de Cursos a Distância na UFRN por meio de Mineração de Dados",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                    "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Deposita_351041e6853db20b3ef4754a5d4dc18b",
+                    "title": "Formação de professores e o ensino remoto na pandemia em José de Freitas estado do Piauí",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                    "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_a3bddc6e826a794ca157fc6bb0dc0766",
+                    "title": "Perception and satisfaction of Nursing students with virtual education in times of the COVID-19",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_4c1390299ee199e6574d81db86aa9b5e",
+                    "title": "Formative accompaniment service in e-learning: integration between lms and ple (serviço de acompanhamento formativo no e-learning: integração entre lms e ple)",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Ridi_230a949e21d71c9f862da96f80cf9f30",
+                    "title": "Aprendizagem organizacional em bibliotecas universitárias: um estudo de caso da rede YDUQS",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.87,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.86,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                    "title": "Collaborative recommendations in virtual learning environments.",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_42c07f5abef32fec9daf00ed5fdad175",
+                    "title": "Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
+                    "title": "Comunicação da informação em redes virtuais de aprendizagem",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_668026daac62e3e34631ce453f4aacf3",
+                    "title": "Los entornos virtuales de aprendizaje y sus usos en la enseñanza universitaria : estado de situación y buenas prácticas en las Facultades de Química e Ingeniería de la Universidad de la República",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                    "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 10,
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
@@ -2542,6 +4019,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "الإرشاد عن بعد في بيئات التعلم الافتراضية",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A7%D9%84%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%B9%D9%86%20%D8%A8%D8%B9%D8%AF%20%D9%81%D9%8A%20%D8%A8%D9%8A%D8%A6%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                    "title": "Collaborative recommendations in virtual learning environments.",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_42c07f5abef32fec9daf00ed5fdad175",
+                    "title": "Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación",
+                    "score": 0.8,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
+                    "title": "Comunicação da informação em redes virtuais de aprendizagem",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_283a358a1fa5ef6789a95a0c1d8a91a9",
+                    "title": "La interactividad en ambientes multirreferenciales de aprendizaje",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                    "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_9d6be1f154f629a871a0d908a411cbaa",
+                    "title": "La gestión de los recursos humanos a distancia",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The abstract confirms a telework and human-resources focus, not distance education.",
+                    "source": "editorial-override",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 9,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -2552,6 +4147,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -2575,6 +4180,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -2584,11 +4194,46 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  5,
                   7,
                   7,
                   7,
                   7,
+                  7,
+                  8,
                   8
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  5,
+                  null,
+                  5,
+                  5,
+                  5,
+                  8,
+                  5,
+                  5,
+                  5
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  5,
+                  null,
+                  8,
+                  7,
+                  7,
+                  9,
+                  8,
+                  7
                 ]
               },
               {
@@ -2597,11 +4242,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  5,
+                  8,
                   null,
                   6,
                   7,
                   8,
-                  7
+                  7,
+                  6
                 ]
               },
               {
@@ -2610,9 +4258,12 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  5,
+                  7,
                   6,
                   null,
                   6,
+                  8,
                   8,
                   8
                 ]
@@ -2623,11 +4274,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  8,
+                  7,
                   7,
                   6,
                   null,
                   7,
-                  7
+                  7,
+                  6
                 ]
               },
               {
@@ -2636,11 +4290,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  5,
+                  9,
                   8,
                   8,
                   7,
                   null,
-                  8
+                  8,
+                  7
                 ]
               },
               {
@@ -2649,8 +4306,27 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  5,
+                  8,
                   7,
                   8,
+                  7,
+                  8,
+                  null,
+                  8
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  8,
+                  5,
+                  7,
+                  6,
+                  8,
+                  6,
                   7,
                   8,
                   null
@@ -2658,6 +4334,16 @@ window.LONG_QUERY_EXPERIMENT = {
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 5
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 7
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -2684,6 +4370,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 5
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 9
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 6
@@ -2704,6 +4460,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 6
@@ -2719,6 +4480,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 7
@@ -2729,12 +4495,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 8
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 7
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 8
               }
             ],
-            "average": 7.2
+            "average": 6.86,
+            "averageWithoutArabic": 6.86
           },
           "separation": {
             "explanation": "Distance-education records often use overlapping but not identical language: tutoring, videoconference, virtual learning environments, online learning, higher education, and learning platforms. A phrase centered on tutoring can make some languages privilege support practices while others privilege virtual-environment records.",
@@ -2745,35 +4527,102 @@ window.LONG_QUERY_EXPERIMENT = {
             ],
             "lowestPairs": [
               {
-                "left": "de",
-                "right": "it",
-                "shared": 6,
-                "leftLabel": "German",
-                "rightLabel": "Italian"
-              },
-              {
-                "left": "fr",
-                "right": "de",
-                "shared": 6,
-                "leftLabel": "French",
-                "rightLabel": "German"
-              },
-              {
                 "left": "en",
-                "right": "fr",
-                "shared": 7,
+                "right": "es",
+                "shared": 5,
                 "leftLabel": "English",
+                "rightLabel": "Spanish"
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 5,
+                "leftLabel": "Spanish",
+                "rightLabel": "Portuguese"
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 5,
+                "leftLabel": "Spanish",
                 "rightLabel": "French"
               },
               {
-                "left": "en",
+                "left": "es",
                 "right": "de",
-                "shared": 7,
-                "leftLabel": "English",
+                "shared": 5,
+                "leftLabel": "Spanish",
                 "rightLabel": "German"
               }
             ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 5,
+                "leftLabel": "English",
+                "rightLabel": "Spanish"
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 5,
+                "leftLabel": "Spanish",
+                "rightLabel": "Portuguese"
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 5,
+                "leftLabel": "Spanish",
+                "rightLabel": "French"
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 5,
+                "leftLabel": "Spanish",
+                "rightLabel": "German"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 5,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "fr",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "French",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 7,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
+              }
+            ],
             "highestPairs": [
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 9,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Chinese"
+              },
               {
                 "left": "zh",
                 "right": "ja",
@@ -2782,81 +4631,89 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Japanese"
               },
               {
-                "left": "fr",
-                "right": "zh",
-                "shared": 8,
-                "leftLabel": "French",
-                "rightLabel": "Chinese"
-              },
-              {
-                "left": "en",
+                "left": "pt",
                 "right": "ja",
                 "shared": 8,
-                "leftLabel": "English",
+                "leftLabel": "Portuguese",
                 "rightLabel": "Japanese"
               }
             ],
+            "overallLowestPair": {
+              "left": "en",
+              "right": "es",
+              "shared": 5,
+              "leftLabel": "English",
+              "rightLabel": "Spanish"
+            },
             "focusPair": {
-              "left": "de",
-              "right": "it",
-              "shared": 6,
-              "leftLabel": "German",
-              "rightLabel": "Italian",
-              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching, but they select different records within that branch.",
+              "left": "en",
+              "right": "es",
+              "shared": 5,
+              "leftLabel": "English",
+              "rightLabel": "Spanish",
+              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms and tutoring and teaching interaction, but they select different records within that branch.",
               "leftReading": {
                 "themes": [
                   "virtual learning environments and platforms",
                   "tutoring and teaching interaction",
                   "pandemic adaptation and emergency remote teaching"
                 ],
-                "summary": "The German side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Valoraciones docentes sobre la adaptación a la virtualidad en FCS\" and \"Comunicação da informação em redes virtuais de aprendizagem\"."
+                "summary": "The English side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje\" and \"Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?\"."
               },
               "rightReading": {
                 "themes": [
                   "virtual learning environments and platforms",
-                  "tutoring and teaching interaction",
-                  "pandemic adaptation and emergency remote teaching"
+                  "tutoring and teaching interaction"
                 ],
-                "summary": "The Italian side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje\" and \"Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología\"."
+                "summary": "The Spanish side appears to lean toward virtual learning environments and platforms and tutoring and teaching interaction. Examples include \"La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes\" and \"Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje\"."
               },
               "leftOnly": [
                 {
-                  "position": 3,
-                  "recordId": "UY_db58fb90e07a65ae9d1ae5f193e2d56a",
-                  "title": "Valoraciones docentes sobre la adaptación a la virtualidad en FCS",
-                  "judgment": 1,
-                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
-                  "abstractSnippet": "El que sigue es un informe de las valoraciones docentes de la Facultad de Ciencias Sociales, respecto de la situación de adaptación a la virtualidad de los cursos de grado, en virtud de la situación de emergencia sanitaria a partir del 13 de marzo 2020. Estas…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_db58fb90e07a65ae9d1ae5f193e2d56a/Description"
-                },
-                {
                   "position": 5,
-                  "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
-                  "title": "Comunicação da informação em redes virtuais de aprendizagem",
-                  "judgment": 1,
-                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
-                  "abstractSnippet": "Contemporary society is based on two pillars: information and knowledge, supported by digital technologies. It brings the necessity of a new attitude and the acquisition of new skills by the users, mainly in the process of communicating the information. This…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_976e7c66b569a71840f2e8f1765799f5/Description"
-                },
-                {
-                  "position": 7,
-                  "recordId": "UY_9d6be1f154f629a871a0d908a411cbaa",
-                  "title": "La gestión de los recursos humanos a distancia",
-                  "judgment": 0,
-                  "note": "The abstract confirms a telework and human-resources focus, not distance education.",
-                  "abstractSnippet": "A raíz de la pandemia de COVID-19, las empresas se vieron forzadas repentinamente a adaptar su gestión de recursos humanos, irrumpiendo como modalidad de trabajo habitual, el teletrabajo. El presente trabajo tiene como finalidad entender las implicancias de l…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9d6be1f154f629a871a0d908a411cbaa/Description"
-                }
-              ],
-              "rightOnly": [
-                {
-                  "position": 6,
                   "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
                   "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
                   "judgment": 2,
                   "note": "",
                   "abstractSnippet": "Este trabajo de investigación se ubica en el terreno de la didáctica universitaria, abordando aspectos de la enseñanza y del aprendizaje en ciencias de la salud en el nivel clínico. Se analiza la figura docente en el primer curso a distancia para estudiantes…",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9a9fd700dc3b82f6cc164a789fbf1c33/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "El propósito del presente artículo es discutir y analizar los usos y significados que las frases \"educación a distancia\" y \"enseñanza a distancia\" tienen en el discurso pedagógico contemporáneo. Partimos del supuesto que con frecuencia estas frases se utiliza…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9bcd81748c02d2ff7d1ba53f2d21b53f/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_42c07f5abef32fec9daf00ed5fdad175",
+                  "title": "Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "El siguiente proyecto consiste en la planificación, elaboración, aplicación y socialización por parte de alumnos de la carrera magisterial de unidades virtuales en la plataforma Crea 2. Dichas unidades incluyen recursos propios de la plataforma Crea 2, objeto…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_42c07f5abef32fec9daf00ed5fdad175/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 3,
+                  "recordId": "UY_e37dd98208701932e33101c2a14331ad",
+                  "title": "La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Este trabajo surge a partir de una investigación sobre los relatos de docentes y estudiantes acerca de la interacción educativa en un liceo de Ciclo Básico de Montevideo (Proyecto Liceos con tutorías). Las tutorías se conciben como una nueva modalidad de fort…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e37dd98208701932e33101c2a14331ad/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_9497658e546f575474d3c4b7b322e72f",
+                  "title": "Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "En plena transformación hacia la sociedad del conocimiento, el sistema educativo, en todos sus niveles, se ve retado a convertirse en un espacio capaz de promover procesos de enseñanza y aprendizaje acordes con las nuevas necesidades. En el contexto universit…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9497658e546f575474d3c4b7b322e72f/Description"
                 },
                 {
                   "position": 8,
@@ -2866,24 +4723,95 @@ window.LONG_QUERY_EXPERIMENT = {
                   "note": "The title or abstract shows a narrower or broader relationship to the topic.",
                   "abstractSnippet": "Artículo original.",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_21d768eb18b8313d92bd5ef5111e80a3/Description"
-                },
+                }
+              ]
+            },
+            "arabicFocusPair": {
+              "left": "es",
+              "right": "ar",
+              "shared": 5,
+              "leftLabel": "Spanish",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms and tutoring and teaching interaction, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "virtual learning environments and platforms",
+                  "tutoring and teaching interaction"
+                ],
+                "summary": "The Spanish side appears to lean toward virtual learning environments and platforms and tutoring and teaching interaction. Examples include \"La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes\" and \"Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "virtual learning environments and platforms",
+                  "tutoring and teaching interaction"
+                ],
+                "summary": "The Arabic side appears to lean toward virtual learning environments and platforms and tutoring and teaching interaction. Examples include \"Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación\" and \"Comunicação da informação em redes virtuais de aprendizagem\"."
+              },
+              "leftOnly": [
                 {
-                  "position": 9,
+                  "position": 3,
                   "recordId": "UY_e37dd98208701932e33101c2a14331ad",
                   "title": "La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes",
                   "judgment": 1,
                   "note": "The title or abstract shows a narrower or broader relationship to the topic.",
                   "abstractSnippet": "Este trabajo surge a partir de una investigación sobre los relatos de docentes y estudiantes acerca de la interacción educativa en un liceo de Ciclo Básico de Montevideo (Proyecto Liceos con tutorías). Las tutorías se conciben como una nueva modalidad de fort…",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e37dd98208701932e33101c2a14331ad/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_9497658e546f575474d3c4b7b322e72f",
+                  "title": "Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "En plena transformación hacia la sociedad del conocimiento, el sistema educativo, en todos sus niveles, se ve retado a convertirse en un espacio capaz de promover procesos de enseñanza y aprendizaje acordes con las nuevas necesidades. En el contexto universit…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9497658e546f575474d3c4b7b322e72f/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_21d768eb18b8313d92bd5ef5111e80a3",
+                  "title": "Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Artículo original.",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_21d768eb18b8313d92bd5ef5111e80a3/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 5,
+                  "recordId": "UY_42c07f5abef32fec9daf00ed5fdad175",
+                  "title": "Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "El siguiente proyecto consiste en la planificación, elaboración, aplicación y socialización por parte de alumnos de la carrera magisterial de unidades virtuales en la plataforma Crea 2. Dichas unidades incluyen recursos propios de la plataforma Crea 2, objeto…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_42c07f5abef32fec9daf00ed5fdad175/Description"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
+                  "title": "Comunicação da informação em redes virtuais de aprendizagem",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Contemporary society is based on two pillars: information and knowledge, supported by digital technologies. It brings the necessity of a new attitude and the acquisition of new skills by the users, mainly in the process of communicating the information. This…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_976e7c66b569a71840f2e8f1765799f5/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_283a358a1fa5ef6789a95a0c1d8a91a9",
+                  "title": "La interactividad en ambientes multirreferenciales de aprendizaje",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "El sujeto actual habita en un entorno en el que predomina la forma multimedial de comunicación, cargada de estímulos auditivos y visuales, de colores, sonidos e imágenes. Es un desafío reflexionar sobre estos procesos apuntando a comprender su significación e…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_283a358a1fa5ef6789a95a0c1d8a91a9/Description"
                 }
               ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 58,
-            "keywordHitsTotal": 18,
+            "semanticHitsTotal": 87,
+            "keywordHitsTotal": 37,
             "semanticHitsAverage": 9.67,
-            "keywordHitsAverage": 3
+            "keywordHitsAverage": 4.11
           }
         },
         {
@@ -3094,6 +5022,424 @@ window.LONG_QUERY_EXPERIMENT = {
                     "recordId": "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35",
                     "title": "Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem",
                     "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "educación a distancia con tutoría en línea en entornos virtuales de aprendizaje",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=educaci%C3%B3n%20a%20distancia%20con%20tutor%C3%ADa%20en%20l%C3%ADnea%20en%20entornos%20virtuales%20de%20aprendizaje&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_bc4d4f594285a88f8e24836e031770fd",
+                    "title": "Enseñanza sin aroma",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a distance education focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_9c93cd66629f208b68224eb617cbce82",
+                    "title": "Estudio sobre los factores que inciden sobre las interacciones interpersonales que tienen lugar en escenarios educativos no presenciales basados en inter/intranet",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_f0adc6cedf2fc304a48e1eb99289330c",
+                    "title": "Informe final del proyecto: Monitor y evaluación de uso de las plataformas educativas",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_668026daac62e3e34631ce453f4aacf3",
+                    "title": "Los entornos virtuales de aprendizaje y sus usos en la enseñanza universitaria : estado de situación y buenas prácticas en las Facultades de Química e Ingeniería de la Universidad de la República",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_f56fda30ad2386085e7289e1d5a7a4a5",
+                    "title": "Ecosistema de accesibilidad en entornos virtuales. Estudio de un caso en Moodle",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_dfd705ebce8eba13e037cc3d09fc613f",
+                    "title": "La promoción de competencias en información a través de plataformas virtuales. El caso del Entorno Virtual de Aprendizaje en la Universidad de la República",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_a3bddc6e826a794ca157fc6bb0dc0766",
+                    "title": "Perception and satisfaction of Nursing students with virtual education in times of the COVID-19",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_e37dd98208701932e33101c2a14331ad",
+                    "title": "La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_21d768eb18b8313d92bd5ef5111e80a3",
+                    "title": "Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                    "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_9497658e546f575474d3c4b7b322e72f",
+                    "title": "Las tutorías entre pares como estrategia de apoyo y herramienta de transformación de la educación superior : la experiencia del programa de respaldo al aprendizaje",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_4cff6fc65aedfcb9a5e31b2f76f8a089",
+                    "title": "Entornos Virtuales de Aprendizaje: hacia una didáctica del Aula Digital",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 9,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "educação a distância com tutoria online em ambientes virtuais de aprendizagem",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=educa%C3%A7%C3%A3o%20a%20dist%C3%A2ncia%20com%20tutoria%20online%20em%20ambientes%20virtuais%20de%20aprendizagem&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "Deposita_5d70934ae70430c5642d894da4fa5a54",
+                    "title": "Formação Continuada de Professores: Implicações Pedagógicas de um Curso a Distância",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Deposita_ec6249920b5e906f9d2899cfadb4bffa",
+                    "title": "Identificação de Perfis e Padrões de Participação dos Estudantes de Cursos a Distância na UFRN por meio de Mineração de Dados",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Deposita_6556e4befe1ede108dabaab95b5b198f",
+                    "title": "Implementação do Moodle como ferramenta de apoio ao docente no ensino público municipal: contribuições para a educação a distância em IBIÁ-MG",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Deposita_351041e6853db20b3ef4754a5d4dc18b",
+                    "title": "Formação de professores e o ensino remoto na pandemia em José de Freitas estado do Piauí",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Ridi_976e7c66b569a71840f2e8f1765799f5",
+                    "title": "Comunicação da informação em redes virtuais de aprendizagem",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                    "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Deposita_6fea5f22d35dc0188d9644864ec4735c",
+                    "title": "Você tem um novo par: as affordances na construção da interação e da interatividade no Tinder",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Deposita_9ab339afe9f51a091343d46d6475c56e",
+                    "title": "Educação sobre drogas e formação de professores: uma proposta de ensino a distância centrada na redução de danos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_bbe0694704e62891376e6ee8e5d4bccb",
+                    "title": "Antropologia da inclusão religiosa judaica: conversão ao judaísmo online: a incorporação dos rituais religiosos judaicos em ambiências virtuais",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Deposita_3cf377175c3ceba83eded8d6877a0e53",
+                    "title": "A influência da psicologia na aprendizagem digital: Adequando os formatos de comunicação",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.86,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.86,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_4cff6fc65aedfcb9a5e31b2f76f8a089",
+                    "title": "Entornos Virtuales de Aprendizaje: hacia una didáctica del Aula Digital",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                    "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                    "title": "Collaborative recommendations in virtual learning environments.",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                    "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35",
+                    "title": "Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem",
+                    "score": 0.82,
                     "judgment": 1,
                     "note": "The title or abstract shows a narrower or broader relationship to the topic.",
                     "source": "title+abstract-rule",
@@ -3970,6 +6316,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "التعليم عن بعد مع الإرشاد عبر الإنترنت في بيئات التعلم الافتراضية",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%20%D8%B9%D9%86%20%D8%A8%D8%B9%D8%AF%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%B9%D8%A8%D8%B1%20%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%81%D9%8A%20%D8%A8%D9%8A%D8%A6%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_f4689cb2cd398584aeda670441ef4525",
+                    "title": "Enseñanza en la virtualidad. Tutorías entre pares estudiantiles y docentes",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_d772d019977fcda201719f88b6f450d7",
+                    "title": "Aula en línea. Rediseño de prácticas educativas para entornos virtuales",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                    "title": "Collaborative recommendations in virtual learning environments.",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                    "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_224e3e52c5ff6cc7d62008b6ca0433d7",
+                    "title": "Educación a distancia vía videoconferencia",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                    "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35",
+                    "title": "Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_e074fb995b79c398f8d163bcf5237006",
+                    "title": "Gestión de la tutoría telemática en educación a distancia",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_06cdd28fb957103e19328d5cc3b061d7",
+                    "title": "Educação a Distância Aplicada na Prática: Possibilidades em Biologia",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
+                    "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 10,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -3980,6 +6444,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -4003,6 +6477,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -4012,11 +6491,46 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  7,
+                  9,
                   10,
                   6,
                   9,
                   7,
+                  8,
                   8
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  null,
+                  7,
+                  7,
+                  4,
+                  7,
+                  6,
+                  6,
+                  6
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  9,
+                  7,
+                  null,
+                  9,
+                  5,
+                  9,
+                  7,
+                  7,
+                  9
                 ]
               },
               {
@@ -4025,10 +6539,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   10,
+                  7,
+                  9,
                   null,
                   6,
                   9,
                   7,
+                  8,
                   8
                 ]
               },
@@ -4038,11 +6555,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  4,
+                  5,
                   6,
                   null,
                   5,
                   6,
-                  6
+                  6,
+                  5
                 ]
               },
               {
@@ -4051,11 +6571,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   9,
+                  7,
+                  9,
                   9,
                   5,
                   null,
                   7,
-                  7
+                  7,
+                  8
                 ]
               },
               {
@@ -4064,11 +6587,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  6,
+                  7,
                   7,
                   6,
                   7,
                   null,
-                  6
+                  6,
+                  7
                 ]
               },
               {
@@ -4077,8 +6603,27 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  6,
+                  7,
                   8,
                   6,
+                  7,
+                  6,
+                  null,
+                  6
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  8,
+                  6,
+                  9,
+                  8,
+                  5,
+                  8,
                   7,
                   6,
                   null
@@ -4086,6 +6631,16 @@ window.LONG_QUERY_EXPERIMENT = {
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 7
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 9
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -4112,6 +6667,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 4
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 9
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 5
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 9
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 9
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 6
@@ -4132,6 +6757,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 5
@@ -4147,6 +6777,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 5
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 7
@@ -4157,12 +6792,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 6
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 7
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 6
               }
             ],
-            "average": 7.13
+            "average": 7.06,
+            "averageWithoutArabic": 7.04
           },
           "separation": {
             "explanation": "Adding the explicit distance-education anchor can reduce separation by keeping tutoring and virtual-environment records tied to the same educational mode.",
@@ -4173,6 +6824,13 @@ window.LONG_QUERY_EXPERIMENT = {
             ],
             "lowestPairs": [
               {
+                "left": "es",
+                "right": "de",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "German"
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 5,
@@ -4181,24 +6839,77 @@ window.LONG_QUERY_EXPERIMENT = {
               },
               {
                 "left": "de",
+                "right": "ar",
+                "shared": 5,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 5,
+                "leftLabel": "Portuguese",
+                "rightLabel": "German"
+              }
+            ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "German"
+              },
+              {
+                "left": "de",
+                "right": "it",
+                "shared": 5,
+                "leftLabel": "German",
+                "rightLabel": "Italian"
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 5,
+                "leftLabel": "Portuguese",
+                "rightLabel": "German"
+              },
+              {
+                "left": "de",
                 "right": "zh",
                 "shared": 6,
                 "leftLabel": "German",
                 "rightLabel": "Chinese"
-              },
+              }
+            ],
+            "lowestArabicPairs": [
               {
                 "left": "de",
-                "right": "ja",
-                "shared": 6,
+                "right": "ar",
+                "shared": 5,
                 "leftLabel": "German",
-                "rightLabel": "Japanese"
+                "rightLabel": "Arabic"
               },
               {
-                "left": "en",
-                "right": "de",
+                "left": "es",
+                "right": "ar",
                 "shared": 6,
-                "leftLabel": "English",
-                "rightLabel": "German"
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "Japanese",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 7,
+                "leftLabel": "Chinese",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
@@ -4210,27 +6921,115 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "French"
               },
               {
-                "left": "fr",
-                "right": "it",
+                "left": "pt",
+                "right": "ar",
                 "shared": 9,
-                "leftLabel": "French",
-                "rightLabel": "Italian"
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
               },
               {
-                "left": "en",
+                "left": "pt",
                 "right": "it",
                 "shared": 9,
-                "leftLabel": "English",
+                "leftLabel": "Portuguese",
                 "rightLabel": "Italian"
               }
             ],
+            "overallLowestPair": {
+              "left": "es",
+              "right": "de",
+              "shared": 4,
+              "leftLabel": "Spanish",
+              "rightLabel": "German"
+            },
             "focusPair": {
+              "left": "es",
+              "right": "de",
+              "shared": 4,
+              "leftLabel": "Spanish",
+              "rightLabel": "German",
+              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms and tutoring and teaching interaction, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "virtual learning environments and platforms",
+                  "tutoring and teaching interaction"
+                ],
+                "summary": "The Spanish side appears to lean toward virtual learning environments and platforms and tutoring and teaching interaction. Examples include \"La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes\" and \"Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "virtual learning environments and platforms",
+                  "tutoring and teaching interaction",
+                  "pandemic adaptation and emergency remote teaching"
+                ],
+                "summary": "The German side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Collaborative recommendations in virtual learning environments.\" and \"Valoraciones docentes sobre la adaptación a la virtualidad en FCS\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 4,
+                  "recordId": "UY_e37dd98208701932e33101c2a14331ad",
+                  "title": "La interacción educativa en el aula y en los espacios de tutorías. Perspectivas de docentes y estudiantes",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Este trabajo surge a partir de una investigación sobre los relatos de docentes y estudiantes acerca de la interacción educativa en un liceo de Ciclo Básico de Montevideo (Proyecto Liceos con tutorías). Las tutorías se conciben como una nueva modalidad de fort…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e37dd98208701932e33101c2a14331ad/Description"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_21d768eb18b8313d92bd5ef5111e80a3",
+                  "title": "Uso de entornos virtuales de aprendizaje en educación superior. Su impacto en el rendimiento académico exitoso en Histología",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Artículo original.",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_21d768eb18b8313d92bd5ef5111e80a3/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
+                  "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "El propósito del presente artículo es discutir y analizar los usos y significados que las frases \"educación a distancia\" y \"enseñanza a distancia\" tienen en el discurso pedagógico contemporáneo. Partimos del supuesto que con frecuencia estas frases se utiliza…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9bcd81748c02d2ff7d1ba53f2d21b53f/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 4,
+                  "recordId": "UY_d9adc769b7f073d8914aef8701a5eb5a",
+                  "title": "Collaborative recommendations in virtual learning environments.",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Recommender systems are software applications that aim to suggest meaningful and useful items to users chen interacting with large volumes of data such as online multimedia content, news, products, among others. These systems generate personalized recommendat…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d9adc769b7f073d8914aef8701a5eb5a/Description"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_db58fb90e07a65ae9d1ae5f193e2d56a",
+                  "title": "Valoraciones docentes sobre la adaptación a la virtualidad en FCS",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "El que sigue es un informe de las valoraciones docentes de la Facultad de Ciencias Sociales, respecto de la situación de adaptación a la virtualidad de los cursos de grado, en virtud de la situación de emergencia sanitaria a partir del 13 de marzo 2020. Estas…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_db58fb90e07a65ae9d1ae5f193e2d56a/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_42c07f5abef32fec9daf00ed5fdad175",
+                  "title": "Unidades virtuales, objetos de aprendizaje y contextos reales de aplicación",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "El siguiente proyecto consiste en la planificación, elaboración, aplicación y socialización por parte de alumnos de la carrera magisterial de unidades virtuales en la plataforma Crea 2. Dichas unidades incluyen recursos propios de la plataforma Crea 2, objeto…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_42c07f5abef32fec9daf00ed5fdad175/Description"
+                }
+              ]
+            },
+            "arabicFocusPair": {
               "left": "de",
-              "right": "it",
+              "right": "ar",
               "shared": 5,
               "leftLabel": "German",
-              "rightLabel": "Italian",
-              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching, but they select different records within that branch.",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through virtual learning environments and platforms and tutoring and teaching interaction, but they select different records within that branch.",
               "leftReading": {
                 "themes": [
                   "virtual learning environments and platforms",
@@ -4242,10 +7041,9 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightReading": {
                 "themes": [
                   "virtual learning environments and platforms",
-                  "tutoring and teaching interaction",
-                  "pandemic adaptation and emergency remote teaching"
+                  "tutoring and teaching interaction"
                 ],
-                "summary": "The Italian side appears to lean toward virtual learning environments and platforms, tutoring and teaching interaction, and pandemic adaptation and emergency remote teaching. Examples include \"Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem\" and \"Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje\"."
+                "summary": "The Arabic side appears to lean toward virtual learning environments and platforms and tutoring and teaching interaction. Examples include \"Modelagem de cursos à distância via Internet à luz da Ciência da Informação\" and \"Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?\"."
               },
               "leftOnly": [
                 {
@@ -4278,62 +7076,70 @@ window.LONG_QUERY_EXPERIMENT = {
               ],
               "rightOnly": [
                 {
-                  "position": 5,
-                  "recordId": "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35",
-                  "title": "Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem",
-                  "judgment": 1,
-                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
-                  "abstractSnippet": "This research had as objective discovery how is the use of Web in the learning / teaching process in the public schools of Contagem city. It started with a bibliography research which contributed with co-related researches. After that a quiz was applied to te…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_c812ff0b8ba0ffca6b782f06daa8ba35/Description"
+                  "position": 4,
+                  "recordId": "Ridi_f1d3095f0eb278b068f41ed466bf8d29",
+                  "title": "Modelagem de cursos à distância via Internet à luz da Ciência da Informação",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "This study develops a structured model of distance education taking into consideration the Information Science. It has a conceptual basis on the five principles of Library Science applied to virtual reality. The design of distance education using Internet was…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_f1d3095f0eb278b068f41ed466bf8d29/Description"
                 },
                 {
                   "position": 6,
-                  "recordId": "UY_9a9fd700dc3b82f6cc164a789fbf1c33",
-                  "title": "Enseñanza en la virtualidad: el docente y el tutor par, una asociación provechosa para el aprendizaje",
-                  "judgment": 2,
-                  "note": "",
-                  "abstractSnippet": "Este trabajo de investigación se ubica en el terreno de la didáctica universitaria, abordando aspectos de la enseñanza y del aprendizaje en ciencias de la salud en el nivel clínico. Se analiza la figura docente en el primer curso a distancia para estudiantes…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9a9fd700dc3b82f6cc164a789fbf1c33/Description"
-                },
-                {
-                  "position": 7,
                   "recordId": "UY_9bcd81748c02d2ff7d1ba53f2d21b53f",
                   "title": "Enseñanza a distancia y educación a distancia: ¿de qué estamos hablando?",
                   "judgment": 2,
                   "note": "",
                   "abstractSnippet": "El propósito del presente artículo es discutir y analizar los usos y significados que las frases \"educación a distancia\" y \"enseñanza a distancia\" tienen en el discurso pedagógico contemporáneo. Partimos del supuesto que con frecuencia estas frases se utiliza…",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9bcd81748c02d2ff7d1ba53f2d21b53f/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Ridi_c812ff0b8ba0ffca6b782f06daa8ba35",
+                  "title": "Educação em um mundo digital: a utilização de tecnologias web no processo de ensino/aprendizagem",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "This research had as objective discovery how is the use of Web in the learning / teaching process in the public schools of Contagem city. It started with a bibliography research which contributed with co-related researches. After that a quiz was applied to te…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_c812ff0b8ba0ffca6b782f06daa8ba35/Description"
                 }
               ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 60,
-            "keywordHitsTotal": 24,
+            "semanticHitsTotal": 90,
+            "keywordHitsTotal": 43,
             "semanticHitsAverage": 10,
-            "keywordHitsAverage": 4
+            "keywordHitsAverage": 4.78
           }
         }
       ],
       "comparison": {
         "shortToLong1": {
-          "matrixDelta": 1.07,
-          "semanticHitDelta": 1.17,
-          "lowestPairDelta": 1
+          "matrixDelta": 0.19,
+          "matrixDeltaWithoutArabic": 0.4,
+          "semanticHitDelta": 1.11,
+          "lowestPairDelta": 0,
+          "nonArabicLowestPairDelta": 0
         },
         "long1ToLong2": {
-          "matrixDelta": -0.07,
+          "matrixDelta": 0.2,
+          "matrixDeltaWithoutArabic": 0.18,
           "semanticHitDelta": 0.33,
-          "lowestPairDelta": -1
+          "lowestPairDelta": -1,
+          "nonArabicLowestPairDelta": -1
         },
         "shortToLong2": {
-          "matrixDelta": 1,
-          "semanticHitDelta": 1.5,
-          "lowestPairDelta": 0
+          "matrixDelta": 0.39,
+          "matrixDeltaWithoutArabic": 0.58,
+          "semanticHitDelta": 1.44,
+          "lowestPairDelta": -1,
+          "nonArabicLowestPairDelta": -1
         },
-        "matrixDelta": -0.07,
+        "matrixDelta": 0.2,
+        "matrixDeltaWithoutArabic": 0.18,
         "semanticHitDelta": 0.33,
-        "lowestPairDelta": -1
+        "lowestPairDelta": -1,
+        "nonArabicLowestPairDelta": -1
       }
     },
     {
@@ -4369,6 +7175,424 @@ window.LONG_QUERY_EXPERIMENT = {
           {
             "language": "English",
             "languageCode": "en",
+            "direction": "ltr",
+            "text": "diabetes",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=diabetes&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_c6e56080f93b9c936c6bdc22834b6d38",
+                  "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_a5557b048af3ff62e94b4990afb6a41f",
+                  "title": "Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                  "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                  "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_40926e021fe562ec566d9d09e45a4392",
+                  "title": "Diabetes Mellitus tipo 1 y salud bucal: una comparación entre niños diabéticos y no diabéticos uruguayos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                  "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_5ec70c720615d1019f3830df55586682",
+                  "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+                  "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                  "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_6f687a935ae9133d07bf8d561d19db6d",
+                  "title": "Diabetes Mellitus tipo 1 y salud bucal en niños uruguayos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                  "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                  "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                  "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblastos de embriones de rata",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+                  "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                  "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+                  "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                  "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                  "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_c610f871be076dff0379ba6906387347",
+                  "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                  "title": "Atención integral de enfermería al diabético tipo 2",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "text": "diabetes",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=diabetes&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_c6e56080f93b9c936c6bdc22834b6d38",
+                  "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_a5557b048af3ff62e94b4990afb6a41f",
+                  "title": "Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                  "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                  "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_40926e021fe562ec566d9d09e45a4392",
+                  "title": "Diabetes Mellitus tipo 1 y salud bucal: una comparación entre niños diabéticos y no diabéticos uruguayos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                  "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_5ec70c720615d1019f3830df55586682",
+                  "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+                  "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                  "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_6f687a935ae9133d07bf8d561d19db6d",
+                  "title": "Diabetes Mellitus tipo 1 y salud bucal en niños uruguayos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                  "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                  "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                  "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblastos de embriones de rata",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_e3737831e13c2e92e1252efef4486f8f",
+                  "title": "Asociación entre lesiones periapicales y diabetes mellitus.",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                  "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+                  "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                  "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                  "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_c610f871be076dff0379ba6906387347",
+                  "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                  "title": "Atención integral de enfermería al diabético tipo 2",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
             "direction": "ltr",
             "text": "diabetes",
             "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=diabetes&limit=10",
@@ -5437,6 +8661,44 @@ window.LONG_QUERY_EXPERIMENT = {
               "keywordReturned": 0,
               "semanticReturned": 10
             }
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "text": "السكري",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A&limit=10",
+            "results": {
+              "keyword": [],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                  "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                  "score": 0.76,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                  "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+                  "score": 0.75,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 0,
+              "semanticHits": 2,
+              "keywordReturned": 0,
+              "semanticReturned": 2
+            }
           }
         ],
         "matrix": {
@@ -5447,6 +8709,16 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr"
             },
             {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr"
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr"
+            },
+            {
               "language": "French",
               "languageCode": "fr",
               "direction": "ltr"
@@ -5470,6 +8742,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "language": "Japanese",
               "languageCode": "ja",
               "direction": "ltr"
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl"
             }
           ],
           "rows": [
@@ -5479,11 +8756,46 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 null,
+                10,
+                10,
                 6,
                 10,
                 7,
                 7,
-                7
+                7,
+                2
+              ]
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "values": [
+                10,
+                null,
+                10,
+                6,
+                10,
+                7,
+                7,
+                7,
+                2
+              ]
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "values": [
+                10,
+                10,
+                null,
+                6,
+                10,
+                7,
+                7,
+                7,
+                2
               ]
             },
             {
@@ -5492,11 +8804,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 6,
+                6,
+                6,
                 null,
                 6,
                 6,
                 5,
-                5
+                5,
+                1
               ]
             },
             {
@@ -5505,11 +8820,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 10,
+                10,
+                10,
                 6,
                 null,
                 7,
                 7,
-                7
+                7,
+                2
               ]
             },
             {
@@ -5518,11 +8836,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                7,
+                7,
                 6,
                 7,
                 null,
                 5,
-                5
+                5,
+                1
               ]
             },
             {
@@ -5531,11 +8852,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                7,
+                7,
                 5,
                 7,
                 5,
                 null,
-                10
+                10,
+                2
               ]
             },
             {
@@ -5544,15 +8868,44 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                7,
+                7,
                 5,
                 7,
                 5,
                 10,
+                null,
+                2
+              ]
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "values": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                1,
+                2,
+                2,
                 null
               ]
             }
           ],
           "pairs": [
+            {
+              "left": "en",
+              "right": "es",
+              "shared": 10
+            },
+            {
+              "left": "en",
+              "right": "pt",
+              "shared": 10
+            },
             {
               "left": "en",
               "right": "fr",
@@ -5579,6 +8932,76 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 7
             },
             {
+              "left": "en",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "es",
+              "right": "pt",
+              "shared": 10
+            },
+            {
+              "left": "es",
+              "right": "fr",
+              "shared": 6
+            },
+            {
+              "left": "es",
+              "right": "de",
+              "shared": 10
+            },
+            {
+              "left": "es",
+              "right": "it",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "zh",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "ja",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "pt",
+              "right": "fr",
+              "shared": 6
+            },
+            {
+              "left": "pt",
+              "right": "de",
+              "shared": 10
+            },
+            {
+              "left": "pt",
+              "right": "it",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "zh",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "ja",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "fr",
               "right": "de",
               "shared": 6
@@ -5599,6 +9022,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "fr",
+              "right": "ar",
+              "shared": 1
+            },
+            {
               "left": "de",
               "right": "it",
               "shared": 7
@@ -5614,6 +9042,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 7
             },
             {
+              "left": "de",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "it",
               "right": "zh",
               "shared": 5
@@ -5624,12 +9057,28 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "it",
+              "right": "ar",
+              "shared": 1
+            },
+            {
               "left": "zh",
               "right": "ja",
               "shared": 10
+            },
+            {
+              "left": "zh",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 2
             }
           ],
-          "average": 6.67
+          "average": 6.06,
+          "averageWithoutArabic": 7.29
         },
         "separation": {
           "explanation": "Short topic labels are broad. They can retrieve relevant records across languages, but the shared top-10 may reflect the most common records for the topic rather than a narrower research question.",
@@ -5641,6 +9090,36 @@ window.LONG_QUERY_EXPERIMENT = {
           "lowestPairs": [
             {
               "left": "fr",
+              "right": "ar",
+              "shared": 1,
+              "leftLabel": "French",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "it",
+              "right": "ar",
+              "shared": 1,
+              "leftLabel": "Italian",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "en",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            }
+          ],
+          "lowestNonArabicPairs": [
+            {
+              "left": "fr",
               "right": "zh",
               "shared": 5,
               "leftLabel": "French",
@@ -5668,6 +9147,36 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightLabel": "Japanese"
             }
           ],
+          "lowestArabicPairs": [
+            {
+              "left": "fr",
+              "right": "ar",
+              "shared": 1,
+              "leftLabel": "French",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "it",
+              "right": "ar",
+              "shared": 1,
+              "leftLabel": "Italian",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "en",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            }
+          ],
           "highestPairs": [
             {
               "left": "zh",
@@ -5677,20 +9186,27 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightLabel": "Japanese"
             },
             {
-              "left": "en",
+              "left": "pt",
               "right": "de",
               "shared": 10,
-              "leftLabel": "English",
+              "leftLabel": "Portuguese",
               "rightLabel": "German"
             },
             {
-              "left": "en",
-              "right": "ja",
-              "shared": 7,
-              "leftLabel": "English",
-              "rightLabel": "Japanese"
+              "left": "es",
+              "right": "de",
+              "shared": 10,
+              "leftLabel": "Spanish",
+              "rightLabel": "German"
             }
           ],
+          "overallLowestPair": {
+            "left": "fr",
+            "right": "ar",
+            "shared": 1,
+            "leftLabel": "French",
+            "rightLabel": "Arabic"
+          },
           "focusPair": {
             "left": "fr",
             "right": "zh",
@@ -5772,12 +9288,74 @@ window.LONG_QUERY_EXPERIMENT = {
                 "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c610f871be076dff0379ba6906387347/Description"
               }
             ]
+          },
+          "arabicFocusPair": {
+            "left": "fr",
+            "right": "ar",
+            "shared": 1,
+            "leftLabel": "French",
+            "rightLabel": "Arabic",
+            "editorialSummary": "The separation looks thematic: one side emphasizes nursing care and primary health care, diabetic foot assessment, and cardiometabolic or walking datasets, while the other emphasizes type 1 diabetes and pediatric health.",
+            "leftReading": {
+              "themes": [
+                "nursing care and primary health care",
+                "diabetic foot assessment",
+                "cardiometabolic or walking datasets"
+              ],
+              "summary": "The French side appears to lean toward nursing care and primary health care, diabetic foot assessment, and cardiometabolic or walking datasets. Examples include \"Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos\" and \"Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde\"."
+            },
+            "rightReading": {
+              "themes": [
+                "type 1 diabetes and pediatric health"
+              ],
+              "summary": "The Arabic side appears to lean toward type 1 diabetes and pediatric health. Examples include \"Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1\"."
+            },
+            "leftOnly": [
+              {
+                "position": 1,
+                "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5e8f3a0a489b4ffdc990322c27d06cef/Description"
+              },
+              {
+                "position": 2,
+                "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+                "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9bda3ec709a12be367b316d04a834b99/Description"
+              },
+              {
+                "position": 3,
+                "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "<p>The dataset includes kinematics data recorded by a Motion Capture System (Vicon Motion System, Oxford, UK) at 100Hz. Data were filtered (fourth-order zero-lag Butterworth low-pass filter with a cutoff frequency of 6 Hz) and exported with Vicon’s Nexus 2.15…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_32a02465662baad1f8c3a5c873bce919/Description"
+              }
+            ],
+            "rightOnly": [
+              {
+                "position": 1,
+                "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Artículo de revisión",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a0c2e97af2f604adeb74bf5d3f1964a9/Description"
+              }
+            ]
           }
         },
         "summary": {
-          "semanticHitsTotal": 60,
-          "keywordHitsTotal": 40,
-          "semanticHitsAverage": 10,
+          "semanticHitsTotal": 82,
+          "keywordHitsTotal": 60,
+          "semanticHitsAverage": 9.11,
           "keywordHitsAverage": 6.67
         }
       },
@@ -5789,6 +9367,16 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr"
           },
           {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr"
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr"
+          },
+          {
             "language": "French",
             "languageCode": "fr",
             "direction": "ltr"
@@ -5812,6 +9400,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "language": "Japanese",
             "languageCode": "ja",
             "direction": "ltr"
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl"
           }
         ],
         "rows": [
@@ -5821,11 +9414,46 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               null,
+              10,
+              10,
               6,
               10,
               7,
               7,
-              7
+              7,
+              2
+            ]
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "values": [
+              10,
+              null,
+              10,
+              6,
+              10,
+              7,
+              7,
+              7,
+              2
+            ]
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "values": [
+              10,
+              10,
+              null,
+              6,
+              10,
+              7,
+              7,
+              7,
+              2
             ]
           },
           {
@@ -5834,11 +9462,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               6,
+              6,
+              6,
               null,
               6,
               6,
               5,
-              5
+              5,
+              1
             ]
           },
           {
@@ -5847,11 +9478,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               10,
+              10,
+              10,
               6,
               null,
               7,
               7,
-              7
+              7,
+              2
             ]
           },
           {
@@ -5860,11 +9494,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              7,
+              7,
               6,
               7,
               null,
               5,
-              5
+              5,
+              1
             ]
           },
           {
@@ -5873,11 +9510,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              7,
+              7,
               5,
               7,
               5,
               null,
-              10
+              10,
+              2
             ]
           },
           {
@@ -5886,15 +9526,44 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              7,
+              7,
               5,
               7,
               5,
               10,
+              null,
+              2
+            ]
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "values": [
+              2,
+              2,
+              2,
+              1,
+              2,
+              1,
+              2,
+              2,
               null
             ]
           }
         ],
         "pairs": [
+          {
+            "left": "en",
+            "right": "es",
+            "shared": 10
+          },
+          {
+            "left": "en",
+            "right": "pt",
+            "shared": 10
+          },
           {
             "left": "en",
             "right": "fr",
@@ -5921,6 +9590,76 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 7
           },
           {
+            "left": "en",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "es",
+            "right": "pt",
+            "shared": 10
+          },
+          {
+            "left": "es",
+            "right": "fr",
+            "shared": 6
+          },
+          {
+            "left": "es",
+            "right": "de",
+            "shared": 10
+          },
+          {
+            "left": "es",
+            "right": "it",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "zh",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "ja",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "pt",
+            "right": "fr",
+            "shared": 6
+          },
+          {
+            "left": "pt",
+            "right": "de",
+            "shared": 10
+          },
+          {
+            "left": "pt",
+            "right": "it",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "zh",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "ja",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "fr",
             "right": "de",
             "shared": 6
@@ -5941,6 +9680,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "fr",
+            "right": "ar",
+            "shared": 1
+          },
+          {
             "left": "de",
             "right": "it",
             "shared": 7
@@ -5956,6 +9700,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 7
           },
           {
+            "left": "de",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "it",
             "right": "zh",
             "shared": 5
@@ -5966,12 +9715,28 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "it",
+            "right": "ar",
+            "shared": 1
+          },
+          {
             "left": "zh",
             "right": "ja",
             "shared": 10
+          },
+          {
+            "left": "zh",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "ja",
+            "right": "ar",
+            "shared": 2
           }
         ],
-        "average": 6.67
+        "average": 6.06,
+        "averageWithoutArabic": 7.29
       },
       "variants": [
         {
@@ -6192,6 +9957,424 @@ window.LONG_QUERY_EXPERIMENT = {
               "metrics": {
                 "keywordHits": 5,
                 "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "cuidados de enfermería para diabetes tipo 2, control glucémico y complicaciones",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=cuidados%20de%20enfermer%C3%ADa%20para%20diabetes%20tipo%202%2C%20control%20gluc%C3%A9mico%20y%20complicaciones&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                    "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_5ec70c720615d1019f3830df55586682",
+                    "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_c6e56080f93b9c936c6bdc22834b6d38",
+                    "title": "TREATMENT ADHERENCE IN ADOLESCENTS WITH DIABETES TYPE 1: APPROACH FROM THE PERSPECTIVE OF ACTORS.",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_8f5f06bbbd2eeaa9510c2cb2c9d5043e",
+                    "title": "MANAGEMENT AND KNOWLEDGE ABOUT BLOOD PRODUCTS OF A GROUP OF PROFESSIONAL NURSING AT A HOSPITAL IN MA",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_23239764542cdc0cf97febf2c75a6728",
+                    "title": "MORTALIDAD MATERNA EN LA GESTANTE WAYÚU DE URIBIA, DEPARTAMENTO DE LA GUAJIRA, COLOMBIA. ESTUDIO DESCRIPTIVO AÑO 2016",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_4dcf962ea5a7abe5f59cf580c07b883e",
+                    "title": "MENTAL HEALTH AND ITS RELATIONSHIP WITH BIOSOCIODEMOGRAPHIC CHARACTERISTICS IN HEMODIALYSED PATIENTS",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_ea9484882aa251544d99215b3ac986a7",
+                    "title": "PHILOSOPHICAL VIEW OF HUMAN CARE IN THE WOMAN IN THE CLIMACTERIC STAGE",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+                    "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+                    "score": 0.83,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+                    "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_fcac50019600623b23de0cd5f4d42053",
+                    "title": "COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA",
+                    "score": 0.8,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_1cff21c68cc0bb40d6a1d886b3bafaf0",
+                    "title": "Discapacidad en la niñez y la adolescencia : una visión desde el cuidado de enfermería",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_0cb54d40a6bdcdb049dd365ce175271c",
+                    "title": "NURSING CARE OF THE NEURO-CRITICAL PATIENT WITH INTRACRANIAL PRESSURE MONITORING.",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_73d4b2ee8863214fb9d8bbd13ef2f1f1",
+                    "title": "Cuidados para prevenção de lesão por pressão realizada por enfermeiros em um hospital de ensino",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_99a8375d9f91fe2482be19a584d0c2ad",
+                    "title": "NURSING MODELS AND THEORIES: SUPPORT FOR PALLIATIVE CARE",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                    "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 7,
+                "semanticHits": 4,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "cuidados de enfermagem para diabetes tipo 2, controle glicêmico e complicações",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=cuidados%20de%20enfermagem%20para%20diabetes%20tipo%202%2C%20controle%20glic%C3%AAmico%20e%20complica%C3%A7%C3%B5es&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                    "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_8f5f06bbbd2eeaa9510c2cb2c9d5043e",
+                    "title": "MANAGEMENT AND KNOWLEDGE ABOUT BLOOD PRODUCTS OF A GROUP OF PROFESSIONAL NURSING AT A HOSPITAL IN MA",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                    "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+                    "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_9bc87965525db879df4d5308a1263d70",
+                    "title": "Abortion from the Perspective of Undergraduate Nursing Students",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_9b2b4d3ec96dd3968496283943d6d20e",
+                    "title": "NURSING CARE PLAN FOR A PATIENT UNDER HIP ARTHROPLASTY FOR FRACTURE.",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_73ea6669708a575b9a455d8a405249f7",
+                    "title": "Nursing intervention in health promotion for people on hemodialysis, disciplinary perspective: Integrative review",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_58434c286714f68e2eee63ab4b8c5f36",
+                    "title": "Construção e avaliação de protocolo de assistência de enfermagem ao paciente idoso com fratura de fêmur",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_ea9484882aa251544d99215b3ac986a7",
+                    "title": "PHILOSOPHICAL VIEW OF HUMAN CARE IN THE WOMAN IN THE CLIMACTERIC STAGE",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.89,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+                    "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+                    "score": 0.82,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+                    "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_0cb54d40a6bdcdb049dd365ce175271c",
+                    "title": "NURSING CARE OF THE NEURO-CRITICAL PATIENT WITH INTRACRANIAL PRESSURE MONITORING.",
+                    "score": 0.8,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_fcac50019600623b23de0cd5f4d42053",
+                    "title": "COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_1cff21c68cc0bb40d6a1d886b3bafaf0",
+                    "title": "Discapacidad en la niñez y la adolescencia : una visión desde el cuidado de enfermería",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_73d4b2ee8863214fb9d8bbd13ef2f1f1",
+                    "title": "Cuidados para prevenção de lesão por pressão realizada por enfermeiros em um hospital de ensino",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_9e582b0bbba22b12eaa3d567cc313ba2",
+                    "title": "Abordaje integral de enfermería en una paciente con enfermedad crónica y malformaciones: a propósito de un caso",
+                    "score": 0.79,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_a436ec9d1a30902726c476979aacacfc",
+                    "title": "Experiencia de Enfermería asistencial en el manejo del Prolapso Genital Neonatal",
+                    "score": 0.78,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 4,
+                "semanticHits": 3,
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
@@ -7240,6 +11423,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "رعاية تمريضية لمرض السكري من النوع الثاني، ضبط سكر الدم والمضاعفات",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9%20%D8%AA%D9%85%D8%B1%D9%8A%D8%B6%D9%8A%D8%A9%20%D9%84%D9%85%D8%B1%D8%B6%20%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D9%88%D8%B9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%8C%20%D8%B6%D8%A8%D8%B7%20%D8%B3%D9%83%D8%B1%20%D8%A7%D9%84%D8%AF%D9%85%20%D9%88%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D8%B9%D9%81%D8%A7%D8%AA&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                    "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_2249cad30c3fd93823d435e9320dba23",
+                    "title": "Medidas antropométricas al nacer, en el primer año y presencia de alteraciones metabólicas que predicen diabetes mellitus II",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr. Manuel Quintela”. Mon...",
+                    "score": 0.78,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_46a23b80b39abbf34730aee25ddb031e",
+                    "title": "X Congreso Uruguayo de Endocrinología, Diabetes y Metabolismo. II Encuentro de Endrocrinología y Diabetes del Cono Sur.",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_f7005c9cb2ad037348c2abb1dc427610",
+                    "title": "Our experience in parenteral feeding",
+                    "score": 0.77,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                    "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_a21379668c97107289c3960595306afe",
+                    "title": "Abuso sexual infantil, trastornos de la conducta alimentaria y su tratamiento",
+                    "score": 0.77,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_0b87321b168e64bb800da5e402354d0f",
+                    "title": "Surgical treatment of hyperparathyroidism secondary. Preliminary results of cryopreserved glandular tissue viability",
+                    "score": 0.77,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_4a8a7ce370195434709076c67854027e",
+                    "title": "Análisis de metilación y expresión génica del gen Socs1 y su relación con el tratamiento de primera elección en la diabetes tipo 2",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 8,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -7250,6 +11551,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -7273,6 +11584,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -7282,11 +11598,46 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  3,
+                  2,
                   6,
                   6,
                   5,
                   6,
-                  7
+                  7,
+                  3
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  3,
+                  null,
+                  8,
+                  5,
+                  3,
+                  6,
+                  2,
+                  3,
+                  2
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  2,
+                  8,
+                  null,
+                  4,
+                  2,
+                  5,
+                  1,
+                  2,
+                  1
                 ]
               },
               {
@@ -7295,11 +11646,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  5,
+                  4,
                   null,
                   6,
                   7,
                   4,
-                  6
+                  6,
+                  4
                 ]
               },
               {
@@ -7308,11 +11662,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  3,
+                  2,
                   6,
                   null,
                   4,
                   6,
-                  7
+                  7,
+                  2
                 ]
               },
               {
@@ -7321,11 +11678,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   5,
+                  6,
+                  5,
                   7,
                   4,
                   null,
                   3,
-                  4
+                  4,
+                  3
                 ]
               },
               {
@@ -7334,11 +11694,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  2,
+                  1,
                   4,
                   6,
                   3,
                   null,
-                  6
+                  6,
+                  3
                 ]
               },
               {
@@ -7347,15 +11710,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  3,
+                  2,
                   6,
                   7,
                   4,
                   6,
+                  null,
+                  2
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  3,
+                  2,
+                  1,
+                  4,
+                  2,
+                  3,
+                  3,
+                  2,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 3
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 2
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -7382,6 +11774,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 3
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 3
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 2
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 3
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 2
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 4
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 2
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 5
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 1
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 2
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 1
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 6
@@ -7402,6 +11864,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 4
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 4
@@ -7417,6 +11884,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 2
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 3
@@ -7427,12 +11899,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 4
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 3
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 6
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 3
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 2
               }
             ],
-            "average": 5.53
+            "average": 4.14,
+            "averageWithoutArabic": 4.61
           },
           "separation": {
             "explanation": "Diabetes can separate into nursing care, glycemic control, diabetic foot, oral health, monitoring, medication effects and vascular complications. When the phrase includes care terminology, some languages may privilege the professional-care branch while others privilege diabetes-specific complications.",
@@ -7443,35 +11931,102 @@ window.LONG_QUERY_EXPERIMENT = {
             ],
             "lowestPairs": [
               {
-                "left": "it",
+                "left": "pt",
                 "right": "zh",
-                "shared": 3,
-                "leftLabel": "Italian",
+                "shared": 1,
+                "leftLabel": "Portuguese",
                 "rightLabel": "Chinese"
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 1,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
               },
               {
                 "left": "de",
-                "right": "it",
-                "shared": 4,
+                "right": "ar",
+                "shared": 2,
                 "leftLabel": "German",
-                "rightLabel": "Italian"
+                "rightLabel": "Arabic"
               },
               {
-                "left": "fr",
+                "left": "en",
+                "right": "pt",
+                "shared": 2,
+                "leftLabel": "English",
+                "rightLabel": "Portuguese"
+              }
+            ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "pt",
                 "right": "zh",
-                "shared": 4,
-                "leftLabel": "French",
+                "shared": 1,
+                "leftLabel": "Portuguese",
                 "rightLabel": "Chinese"
               },
               {
-                "left": "it",
-                "right": "ja",
-                "shared": 4,
-                "leftLabel": "Italian",
-                "rightLabel": "Japanese"
+                "left": "en",
+                "right": "pt",
+                "shared": 2,
+                "leftLabel": "English",
+                "rightLabel": "Portuguese"
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 2,
+                "leftLabel": "Spanish",
+                "rightLabel": "Chinese"
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 2,
+                "leftLabel": "Portuguese",
+                "rightLabel": "German"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 1,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "de",
+                "right": "ar",
+                "shared": 2,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 2,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 2,
+                "leftLabel": "Japanese",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 8,
+                "leftLabel": "Spanish",
+                "rightLabel": "Portuguese"
+              },
               {
                 "left": "fr",
                 "right": "it",
@@ -7485,20 +12040,20 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7,
                 "leftLabel": "English",
                 "rightLabel": "Japanese"
-              },
-              {
-                "left": "de",
-                "right": "ja",
-                "shared": 7,
-                "leftLabel": "German",
-                "rightLabel": "Japanese"
               }
             ],
-            "focusPair": {
-              "left": "it",
+            "overallLowestPair": {
+              "left": "pt",
               "right": "zh",
-              "shared": 3,
-              "leftLabel": "Italian",
+              "shared": 1,
+              "leftLabel": "Portuguese",
+              "rightLabel": "Chinese"
+            },
+            "focusPair": {
+              "left": "pt",
+              "right": "zh",
+              "shared": 1,
+              "leftLabel": "Portuguese",
               "rightLabel": "Chinese",
               "editorialSummary": "Both sides stay partly connected through nursing care and primary health care, but they select different records within that branch.",
               "leftReading": {
@@ -7506,7 +12061,7 @@ window.LONG_QUERY_EXPERIMENT = {
                   "nursing care and primary health care",
                   "diabetic foot assessment"
                 ],
-                "summary": "The Italian side appears to lean toward nursing care and primary health care and diabetic foot assessment. Examples include \"Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde\" and \"COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA\"."
+                "summary": "The Portuguese side appears to lean toward nursing care and primary health care and diabetic foot assessment. Examples include \"Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria\" and \"Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde\"."
               },
               "rightReading": {
                 "themes": [
@@ -7514,11 +12069,20 @@ window.LONG_QUERY_EXPERIMENT = {
                   "cardiometabolic or walking datasets",
                   "vascular, cellular or metabolic complications"
                 ],
-                "summary": "The Chinese side appears to lean toward nursing care and primary health care, cardiometabolic or walking datasets, and vascular, cellular or metabolic complications. Examples include \"Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades\" and \"Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants\"."
+                "summary": "The Chinese side appears to lean toward nursing care and primary health care, cardiometabolic or walking datasets, and vascular, cellular or metabolic complications. Examples include \"Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos\" and \"Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades\"."
               },
               "leftOnly": [
                 {
                   "position": 2,
+                  "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+                  "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a diabetes focus.",
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e7393ce83bd261f6f0b5f4e2dead7166/Description"
+                },
+                {
+                  "position": 3,
                   "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
                   "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
                   "judgment": 2,
@@ -7528,24 +12092,24 @@ window.LONG_QUERY_EXPERIMENT = {
                 },
                 {
                   "position": 4,
-                  "recordId": "UY_fcac50019600623b23de0cd5f4d42053",
-                  "title": "COMPREHENSIVE NURSING CARE IN AN INFANT WITH HYPOXIC ISCHEMICAL ENCEPHALOPATHY RELATED TO PERINATAL ASPHYXIA",
+                  "recordId": "UY_0cb54d40a6bdcdb049dd365ce175271c",
+                  "title": "NURSING CARE OF THE NEURO-CRITICAL PATIENT WITH INTRACRANIAL PRESSURE MONITORING.",
                   "judgment": 0,
                   "note": "The title and abstract do not establish a diabetes focus.",
-                  "abstractSnippet": "Hypoxic ischemic encephalopathy, secondary to asphyxia during childbirth, remains an important cause of postnatal death and permanent neurological deficit in the world. Nursing interventions continue as the pillar of the treatment, allowing some comfort to th…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_fcac50019600623b23de0cd5f4d42053/Description"
-                },
-                {
-                  "position": 5,
-                  "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
-                  "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
-                  "judgment": 2,
-                  "note": "",
-                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_59bd956264f4e9b892255ab42e85a2ea/Description"
+                  "abstractSnippet": "The aim of this study is to create a standardized nursing-care plan, based on the best scientific evidence that works as a guide for the care of the neuro-critical patient with intracranial pressure monitoring in the intensive care unit. The methodology used…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_0cb54d40a6bdcdb049dd365ce175271c/Description"
                 }
               ],
               "rightOnly": [
+                {
+                  "position": 1,
+                  "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                  "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5e8f3a0a489b4ffdc990322c27d06cef/Description"
+                },
                 {
                   "position": 3,
                   "recordId": "UY_a5557b048af3ff62e94b4990afb6a41f",
@@ -7563,24 +12127,95 @@ window.LONG_QUERY_EXPERIMENT = {
                   "note": "",
                   "abstractSnippet": "<p>This dataset contains structured records from individual cardiometabolic test sessions, extracted from original Excel files. Each entry corresponds to one subject and includes both static metadata and dynamic time-series measurements.</p> <p><b>Structure O…",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c610f871be076dff0379ba6906387347/Description"
+                }
+              ]
+            },
+            "arabicFocusPair": {
+              "left": "pt",
+              "right": "ar",
+              "shared": 1,
+              "leftLabel": "Portuguese",
+              "rightLabel": "Arabic",
+              "editorialSummary": "The separation looks thematic: one side emphasizes nursing care and primary health care and diabetic foot assessment, while the other emphasizes type 1 diabetes and pediatric health and vascular, cellular or metabolic complications.",
+              "leftReading": {
+                "themes": [
+                  "nursing care and primary health care",
+                  "diabetic foot assessment"
+                ],
+                "summary": "The Portuguese side appears to lean toward nursing care and primary health care and diabetic foot assessment. Examples include \"Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria\" and \"Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "type 1 diabetes and pediatric health",
+                  "vascular, cellular or metabolic complications"
+                ],
+                "summary": "The Arabic side appears to lean toward type 1 diabetes and pediatric health and vascular, cellular or metabolic complications. Examples include \"Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos\" and \"Medidas antropométricas al nacer, en el primer año y presencia de alteraciones metabólicas que predicen diabetes mellitus II\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 2,
+                  "recordId": "UY_e7393ce83bd261f6f0b5f4e2dead7166",
+                  "title": "Cuidados de enfermería en una usuaria portadora de la enfermedad Creutzfeldt Jakob hereditaria",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a diabetes focus.",
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e7393ce83bd261f6f0b5f4e2dead7166/Description"
                 },
                 {
-                  "position": 6,
-                  "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
-                  "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                  "position": 3,
+                  "recordId": "UY_9bda3ec709a12be367b316d04a834b99",
+                  "title": "Avaliação do pé diabético por profissional de enfermagem na atenção primária em saúde",
                   "judgment": 2,
                   "note": "",
-                  "abstractSnippet": "<p>The dataset includes kinematics data recorded by a Motion Capture System (Vicon Motion System, Oxford, UK) at 100Hz. Data were filtered (fourth-order zero-lag Butterworth low-pass filter with a cutoff frequency of 6 Hz) and exported with Vicon’s Nexus 2.15…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_32a02465662baad1f8c3a5c873bce919/Description"
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9bda3ec709a12be367b316d04a834b99/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_0cb54d40a6bdcdb049dd365ce175271c",
+                  "title": "NURSING CARE OF THE NEURO-CRITICAL PATIENT WITH INTRACRANIAL PRESSURE MONITORING.",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a diabetes focus.",
+                  "abstractSnippet": "The aim of this study is to create a standardized nursing-care plan, based on the best scientific evidence that works as a guide for the care of the neuro-critical patient with intracranial pressure monitoring in the intensive care unit. The methodology used…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_0cb54d40a6bdcdb049dd365ce175271c/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 2,
+                  "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                  "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5e8f3a0a489b4ffdc990322c27d06cef/Description"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_2249cad30c3fd93823d435e9320dba23",
+                  "title": "Medidas antropométricas al nacer, en el primer año y presencia de alteraciones metabólicas que predicen diabetes mellitus II",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Introducción: La DMII presenta prevalencia creciente y no muestra señales de reducción. En los últimos 25 años, han aparecido investigaciones que han cuestionado la determinación de la diabetes desde los factores de riesgo conocidos que ocurren en la vida adu…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_2249cad30c3fd93823d435e9320dba23/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                  "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr. Manuel Quintela”. Mon...",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "La diabetes mellitus (DM) constituye la alteración endocrinológica que con mayor frecuencia complica el embarazo. Se puede presentar como diabetes pregestacional, aquellas pacientes con diagnóstico previo de diabetes mellitus tipo 1 (DM1) y Diabetes Mellitus…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_fa3676d4869e4dbc922ca7aa807dfc96/Description"
                 }
               ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 52,
-            "keywordHitsTotal": 19,
-            "semanticHitsAverage": 8.67,
-            "keywordHitsAverage": 3.17
+            "semanticHitsTotal": 67,
+            "keywordHitsTotal": 30,
+            "semanticHitsAverage": 7.44,
+            "keywordHitsAverage": 3.33
           }
         },
         {
@@ -7790,6 +12425,424 @@ window.LONG_QUERY_EXPERIMENT = {
                     "position": 10,
                     "recordId": "UY_954c4102430d205045f54590dff8fc7f",
                     "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "diabetes tipo 2, control glucémico y complicaciones diabéticas",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=diabetes%20tipo%202%2C%20control%20gluc%C3%A9mico%20y%20complicaciones%20diab%C3%A9ticas&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                    "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_35e803efd27fe946b272e1f5ee2a164f",
+                    "title": "Spontaneous biliodigestive fistulas and their complications",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                    "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                    "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_43987ec1d6bf48063d796fe94c454839",
+                    "title": "Enfermedad renal y diabetes: ¿qué aporta finerenona?",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_6f687a935ae9133d07bf8d561d19db6d",
+                    "title": "Diabetes Mellitus tipo 1 y salud bucal en niños uruguayos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_40926e021fe562ec566d9d09e45a4392",
+                    "title": "Diabetes Mellitus tipo 1 y salud bucal: una comparación entre niños diabéticos y no diabéticos uruguayos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_6eec44eee6d07d2f73990a146b840a08",
+                    "title": "Tratamiento de heridas en pie diabético con terapia de presión negativa",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                    "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+                    "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_c610f871be076dff0379ba6906387347",
+                    "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_d386a54cd1312cfa2d301c1e1e2f886a",
+                    "title": "Novedades sobre el riesgo de alteraciones pancreáticas graves vinculadas al uso de los incretino miméticos para el tratamiento de la diabetes tipo 2",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                    "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_c17574d9773e5e0e6bcc1f88b07a033f",
+                    "title": "Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfunction in diabetes",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                    "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "diabetes tipo 2, controle glicêmico e complicações diabéticas",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=diabetes%20tipo%202%2C%20controle%20glic%C3%AAmico%20e%20complica%C3%A7%C3%B5es%20diab%C3%A9ticas&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_7e04be072f33bec72c9cf4d4313d1438",
+                    "title": "Avaliação de risco dos pés de pessoas com diabetes mellitus residentes de um bairro de Pelotas, Rio Grande do Sul, Brasil",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_dd47a1c53830d881645281d9e8462b4e",
+                    "title": "Tendencias en la utilización de medicamentos, control glicémico y frecuencia de hipoglicemias en el período 2006-2013.",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_01f1f0f00722753a8973117fcb923761",
+                    "title": "CARING OF FEET OF PEOPLE WITH DIABETES MELLITUS: PROTECTIVE ACTIONS LINKED TO HEALTH PROMOTION",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_43987ec1d6bf48063d796fe94c454839",
+                    "title": "Enfermedad renal y diabetes: ¿qué aporta finerenona?",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_6f687a935ae9133d07bf8d561d19db6d",
+                    "title": "Diabetes Mellitus tipo 1 y salud bucal en niños uruguayos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_40926e021fe562ec566d9d09e45a4392",
+                    "title": "Diabetes Mellitus tipo 1 y salud bucal: una comparación entre niños diabéticos y no diabéticos uruguayos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_df4a953a47c6b0b9a5c16138f960a9dd",
+                    "title": "Evaluación de la enfermedad periodontal e hiperglucemia asociados con diabetes mellitus tipo 2 en pacientes del estado de Durango, México.",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_35e803efd27fe946b272e1f5ee2a164f",
+                    "title": "Spontaneous biliodigestive fistulas and their complications",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                    "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+                    "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_d386a54cd1312cfa2d301c1e1e2f886a",
+                    "title": "Novedades sobre el riesgo de alteraciones pancreáticas graves vinculadas al uso de los incretino miméticos para el tratamiento de la diabetes tipo 2",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_dd47a1c53830d881645281d9e8462b4e",
+                    "title": "Tendencias en la utilización de medicamentos, control glicémico y frecuencia de hipoglicemias en el período 2006-2013.",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_c610f871be076dff0379ba6906387347",
+                    "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                    "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_59bd956264f4e9b892255ab42e85a2ea",
+                    "title": "Escala de Clasificación Wagner-Merrit: una herramienta valiosa para la valoración en enfermería del pie diabético",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_c17574d9773e5e0e6bcc1f88b07a033f",
+                    "title": "Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfunction in diabetes",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_fa3676d4869e4dbc922ca7aa807dfc96",
+                    "title": "Protocolo de colocación sistema monitoreo continuo de glucosa en pacientes con diabetes tipo 1 y embarazo 2024 en la Maternidad del Hospital de Clínicas “Dr....",
                     "score": 0.79,
                     "judgment": 2,
                     "note": "",
@@ -8849,6 +13902,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "السكري من النوع الثاني، ضبط سكر الدم ومضاعفات السكري",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D9%88%D8%B9%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%8C%20%D8%B6%D8%A8%D8%B7%20%D8%B3%D9%83%D8%B1%20%D8%A7%D9%84%D8%AF%D9%85%20%D9%88%D9%85%D8%B6%D8%A7%D8%B9%D9%81%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_5e8f3a0a489b4ffdc990322c27d06cef",
+                    "title": "Percepción y conocimiento de Diabetes tipo 2 y riesgo de diabesidad en adultos",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_954c4102430d205045f54590dff8fc7f",
+                    "title": "Atención integral de enfermería al diabético tipo 2",
+                    "score": 0.78,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_5c1cca6a393ce6459d9bcebc5df6f285",
+                    "title": "Inhibidores del cotransportador sodio-glucosa tipo 2 y diabetes mellitus tipo I. Revisión de uso en esta indicación off label",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                    "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_a5557b048af3ff62e94b4990afb6a41f",
+                    "title": "Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_2249cad30c3fd93823d435e9320dba23",
+                    "title": "Medidas antropométricas al nacer, en el primer año y presencia de alteraciones metabólicas que predicen diabetes mellitus II",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_c610f871be076dff0379ba6906387347",
+                    "title": "Breath-by-breath cardiometabolic data during walking in type 2 diabetes and control participants",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_09c887bc5e295840cf2a7739416c6454",
+                    "title": "Dupuytren's disease - surgical treatment 2nd. part: complications - remote results - recurrences - surgical tactic",
+                    "score": 0.77,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a diabetes focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_a0c2e97af2f604adeb74bf5d3f1964a9",
+                    "title": "Crecimiento y desarrollo de niños y jóvenes con diabetes mellitus tipo 1",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_46a23b80b39abbf34730aee25ddb031e",
+                    "title": "X Congreso Uruguayo de Endocrinología, Diabetes y Metabolismo. II Encuentro de Endrocrinología y Diabetes del Cono Sur.",
+                    "score": 0.77,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 9,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -8859,6 +14030,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -8882,6 +14063,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -8892,10 +14078,45 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   null,
                   9,
+                  10,
+                  9,
                   8,
                   10,
                   5,
-                  5
+                  5,
+                  3
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  9,
+                  null,
+                  9,
+                  8,
+                  8,
+                  9,
+                  6,
+                  6,
+                  3
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  10,
+                  9,
+                  null,
+                  9,
+                  8,
+                  10,
+                  5,
+                  5,
+                  3
                 ]
               },
               {
@@ -8904,11 +14125,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   9,
+                  8,
+                  9,
                   null,
                   7,
                   9,
                   6,
-                  5
+                  5,
+                  4
                 ]
               },
               {
@@ -8917,11 +14141,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  8,
+                  8,
                   7,
                   null,
                   8,
                   7,
-                  7
+                  7,
+                  5
                 ]
               },
               {
@@ -8931,10 +14158,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   10,
                   9,
+                  10,
+                  9,
                   8,
                   null,
                   5,
-                  5
+                  5,
+                  3
                 ]
               },
               {
@@ -8944,10 +14174,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   5,
                   6,
+                  5,
+                  6,
                   7,
                   5,
                   null,
-                  8
+                  8,
+                  7
                 ]
               },
               {
@@ -8956,15 +14189,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   5,
+                  6,
+                  5,
                   5,
                   7,
                   5,
                   8,
+                  null,
+                  5
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  3,
+                  3,
+                  3,
+                  4,
+                  5,
+                  3,
+                  7,
+                  5,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 9
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 10
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -8991,6 +14253,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 3
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 9
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 9
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 3
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 9
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 10
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 5
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 5
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 3
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 7
@@ -9011,6 +14343,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 4
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 8
@@ -9026,6 +14363,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 5
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 5
@@ -9036,12 +14378,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 3
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 8
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 7
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 5
               }
             ],
-            "average": 6.93
+            "average": 6.64,
+            "averageWithoutArabic": 7.36
           },
           "separation": {
             "explanation": "Keeping the disease anchor explicit can reduce drift toward generic care while still allowing several diabetes subfields to appear.",
@@ -9051,6 +14409,36 @@ window.LONG_QUERY_EXPERIMENT = {
               "Remaining separation can still reflect valid diabetes branches such as diabetic foot, monitoring and vascular complications."
             ],
             "lowestPairs": [
+              {
+                "left": "en",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "English",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
+              }
+            ],
+            "lowestNonArabicPairs": [
               {
                 "left": "en",
                 "right": "zh",
@@ -9080,7 +14468,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Chinese"
               }
             ],
+            "lowestArabicPairs": [
+              {
+                "left": "en",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "English",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 3,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Arabic"
+              }
+            ],
             "highestPairs": [
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 10,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Italian"
+              },
               {
                 "left": "en",
                 "right": "it",
@@ -9089,20 +14514,20 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Italian"
               },
               {
-                "left": "fr",
-                "right": "it",
-                "shared": 9,
-                "leftLabel": "French",
-                "rightLabel": "Italian"
-              },
-              {
                 "left": "en",
-                "right": "fr",
-                "shared": 9,
+                "right": "pt",
+                "shared": 10,
                 "leftLabel": "English",
-                "rightLabel": "French"
+                "rightLabel": "Portuguese"
               }
             ],
+            "overallLowestPair": {
+              "left": "en",
+              "right": "ar",
+              "shared": 3,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            },
             "focusPair": {
               "left": "en",
               "right": "zh",
@@ -9182,35 +14607,124 @@ window.LONG_QUERY_EXPERIMENT = {
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_2249cad30c3fd93823d435e9320dba23/Description"
                 }
               ]
+            },
+            "arabicFocusPair": {
+              "left": "en",
+              "right": "ar",
+              "shared": 3,
+              "leftLabel": "English",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through vascular, cellular or metabolic complications, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "type 1 diabetes and pediatric health",
+                  "cardiometabolic or walking datasets",
+                  "vascular, cellular or metabolic complications"
+                ],
+                "summary": "The English side appears to lean toward type 1 diabetes and pediatric health, cardiometabolic or walking datasets, and vascular, cellular or metabolic complications. Examples include \"Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfunction in diabetes\" and \"Salud bucal y diabetes. Un abordaje bidireccional\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "nursing care and primary health care",
+                  "vascular, cellular or metabolic complications"
+                ],
+                "summary": "The Arabic side appears to lean toward nursing care and primary health care and vascular, cellular or metabolic complications. Examples include \"Inhibidores del cotransportador sodio-glucosa tipo 2 y diabetes mellitus tipo I. Revisión de uso en esta indicación off label\" and \"Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 2,
+                  "recordId": "UY_c17574d9773e5e0e6bcc1f88b07a033f",
+                  "title": "Macro- and microvascular complications of diabetes : studies on NFAT (Nuclear Factor of Activated T-cells) as a novel target for the treatment of atherosclerosis and vascular dysfunction in diabetes",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c17574d9773e5e0e6bcc1f88b07a033f/Description"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_291c7b02a2958908b5c007b49f6e747c",
+                  "title": "Salud bucal y diabetes. Un abordaje bidireccional",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Artículo de divulgación",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_291c7b02a2958908b5c007b49f6e747c/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_32a02465662baad1f8c3a5c873bce919",
+                  "title": "Open Kinematic Dataset of Walking at Different Speeds in Type 2 Diabetes and Control Participants",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "<p>The dataset includes kinematics data recorded by a Motion Capture System (Vicon Motion System, Oxford, UK) at 100Hz. Data were filtered (fourth-order zero-lag Butterworth low-pass filter with a cutoff frequency of 6 Hz) and exported with Vicon’s Nexus 2.15…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_32a02465662baad1f8c3a5c873bce919/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 3,
+                  "recordId": "UY_5c1cca6a393ce6459d9bcebc5df6f285",
+                  "title": "Inhibidores del cotransportador sodio-glucosa tipo 2 y diabetes mellitus tipo I. Revisión de uso en esta indicación off label",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5c1cca6a393ce6459d9bcebc5df6f285/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_a2f6abb1b19777a036a172eaae094328",
+                  "title": "Diabetes mellitus: cambios morfológicos, muerte celular y alteraciones del citoesqueleto de actina inducidos por hiperglucemia e hiperlipidemia en la línea celular H9c2 de mioblast...",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a2f6abb1b19777a036a172eaae094328/Description"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_a5557b048af3ff62e94b4990afb6a41f",
+                  "title": "Autocuidado e rede de suporte às pessoas com diabetes: habilidades adaptativas e adversidades",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "https://rue.fenf.edu.uy/index.php/rue",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a5557b048af3ff62e94b4990afb6a41f/Description"
+                }
+              ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 59,
-            "keywordHitsTotal": 31,
-            "semanticHitsAverage": 9.83,
-            "keywordHitsAverage": 5.17
+            "semanticHitsTotal": 88,
+            "keywordHitsTotal": 51,
+            "semanticHitsAverage": 9.78,
+            "keywordHitsAverage": 5.67
           }
         }
       ],
       "comparison": {
         "shortToLong1": {
-          "matrixDelta": -1.14,
-          "semanticHitDelta": -1.33,
-          "lowestPairDelta": -2
+          "matrixDelta": -1.92,
+          "matrixDeltaWithoutArabic": -2.68,
+          "semanticHitDelta": -1.67,
+          "lowestPairDelta": 0,
+          "nonArabicLowestPairDelta": -4
         },
         "long1ToLong2": {
-          "matrixDelta": 1.4,
-          "semanticHitDelta": 1.16,
-          "lowestPairDelta": 2
+          "matrixDelta": 2.5,
+          "matrixDeltaWithoutArabic": 2.75,
+          "semanticHitDelta": 2.34,
+          "lowestPairDelta": 2,
+          "nonArabicLowestPairDelta": 4
         },
         "shortToLong2": {
-          "matrixDelta": 0.26,
-          "semanticHitDelta": -0.17,
-          "lowestPairDelta": 0
+          "matrixDelta": 0.58,
+          "matrixDeltaWithoutArabic": 0.07,
+          "semanticHitDelta": 0.67,
+          "lowestPairDelta": 2,
+          "nonArabicLowestPairDelta": 0
         },
-        "matrixDelta": 1.4,
-        "semanticHitDelta": 1.16,
-        "lowestPairDelta": 2
+        "matrixDelta": 2.5,
+        "matrixDeltaWithoutArabic": 2.75,
+        "semanticHitDelta": 2.34,
+        "lowestPairDelta": 2,
+        "nonArabicLowestPairDelta": 4
       }
     },
     {
@@ -9334,10 +14848,10 @@ window.LONG_QUERY_EXPERIMENT = {
                 },
                 {
                   "position": 10,
-                  "recordId": "UY_ba09f0f7dc4a82f3104dd05c12587b7b",
-                  "title": "The harmonization of rights: basis for an alternative proposal to “conflictivism\"",
-                  "judgment": 2,
-                  "note": "",
+                  "recordId": "Ridi_1624fd3f75c2baf9ba3d581cefee4edc",
+                  "title": "Análise da literatura das humanidades digitais: uma proposta bibliométrica para descrição de seu escopo e congruência conceitual",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
                   "source": "title+abstract-rule",
                   "reviewBasis": "title+abstract"
                 }
@@ -9447,6 +14961,424 @@ window.LONG_QUERY_EXPERIMENT = {
             },
             "metrics": {
               "keywordHits": 9,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "text": "derechos humanos",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=derechos%20humanos&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_ba09f0f7dc4a82f3104dd05c12587b7b",
+                  "title": "The harmonization of rights: basis for an alternative proposal to “conflictivism\"",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_65bf7f73c8cfe0042a61767bb1663e69",
+                  "title": "Environment, Human Rights and Procedural Aspects. The jurisdictional role in environmental matters in Uruguay",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_192c173aa2cd69051d1fbde907c23a78",
+                  "title": "The effectiveness and materiality of the right to education in light of Gonzales Lluy et al. V. Ecuador. Inter-American Court of Human Rights, ruling from September 1st, 2015",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_fda5f398f508a4844fdecdfbeedf688c",
+                  "title": "The United States as a melting pot of cultures: universality of human rights",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_50ca889405ea45d5b89a410ce5018076",
+                  "title": "Intersectionality and the case of the Employees of the Santo Antônio de Jesus Fireworks Factory and their Relatives vs. Brazil: a jurisprudential analysis",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_52e4c8bbbb9a695d6a57f07496c16ad8",
+                  "title": "El control de convencionalidad: un concepto de creación jurisprudencial",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_39a49e6a7e021b629eb5e8aabe61aa5f",
+                  "title": "Designing the Urban Coexistence: Challenging Speciesism for Equitable Spaces Beyond Human Boundaries",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_044a70b01279a63589615ff6374d653b",
+                  "title": "Democracy, political intolerance and human rights: a reflective view from contemporary Brazilian reality",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_189a4fcc79a5606272a4b791f0f8f9ca",
+                  "title": "Impugnación de actos jurisdiccionales ante el sistema interamericano de protección de los derechos humanos",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_5b8cbb7231cd791b055ff087d6660fd1",
+                  "title": "Relaciones actuales entre el Derecho Internacional de los Derechos Humanos y el Derecho del Trabajo",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_f0355c2b13de3943e31e18e8a5129f32",
+                  "title": "Los derechos de la familia",
+                  "score": 0.84,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+                  "title": "El derecho a la información",
+                  "score": 0.84,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                  "title": "Contaminación sonora y derechos humanos.",
+                  "score": 0.84,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                  "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_d09db2c41bab6988948928faa1b5e35f",
+                  "title": "Los delitos de lesa humanidad",
+                  "score": 0.83,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                  "title": "La fraternidad y los derechos humanos",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_b0800a87d0c1564b6501933595c4c22f",
+                  "title": "Abuso del derecho de información",
+                  "score": 0.82,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                  "title": "El derecho y la justicia",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                  "title": "El Tribunal Penal Internacional y los derechos humanos",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_9cb5ef142d5a68c078cf8869eb67bef5",
+                  "title": "Derecho humano a un medio ambiente sano",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "text": "direitos humanos",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=direitos%20humanos&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "Deposita_e48f69f12badd05225de8507b6326282",
+                  "title": "Os Direitos Humanos na perspectiva crítica de “O Direito Achado na Rua”",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "Ridi_9077951daec801080bf7b262eba89a1a",
+                  "title": "Conflitos contemporâneos: direitos humanos e solidariedade",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_ba09f0f7dc4a82f3104dd05c12587b7b",
+                  "title": "The harmonization of rights: basis for an alternative proposal to “conflictivism\"",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_65bf7f73c8cfe0042a61767bb1663e69",
+                  "title": "Environment, Human Rights and Procedural Aspects. The jurisdictional role in environmental matters in Uruguay",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_192c173aa2cd69051d1fbde907c23a78",
+                  "title": "The effectiveness and materiality of the right to education in light of Gonzales Lluy et al. V. Ecuador. Inter-American Court of Human Rights, ruling from September 1st, 2015",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Deposita_60b440815117f4408e5aadf0271d6ea3",
+                  "title": "Educação e Direitos Humanos: diálogos interdisciplinares",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "Deposita_8e5ddabdd3e44da411062752200a2951",
+                  "title": "Educação em direitos humanos e juventudes na América Latina: um panorama entre Argentina, Brasil e Chile",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "Deposita_9504b690c4e8dabc4112264f47835fe8",
+                  "title": "Internacionalidade da previdência social: os acordos internacionais de previdência social sob a ótica dos direitos humanos na aplicabilidade do direito comparado",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_fda5f398f508a4844fdecdfbeedf688c",
+                  "title": "The United States as a melting pot of cultures: universality of human rights",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "Deposita_9fb871ab1494fda2eaea5cf44d9f4338",
+                  "title": "Fascismo, direitos humanos e democracia na visão de George Orwell",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+                  "title": "El derecho a la información",
+                  "score": 0.84,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_f0355c2b13de3943e31e18e8a5129f32",
+                  "title": "Los derechos de la familia",
+                  "score": 0.84,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                  "title": "Contaminación sonora y derechos humanos.",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                  "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                  "score": 0.83,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_d09db2c41bab6988948928faa1b5e35f",
+                  "title": "Los delitos de lesa humanidad",
+                  "score": 0.83,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_b0800a87d0c1564b6501933595c4c22f",
+                  "title": "Abuso del derecho de información",
+                  "score": 0.82,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                  "title": "La fraternidad y los derechos humanos",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                  "title": "El Tribunal Penal Internacional y los derechos humanos",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                  "title": "El derecho y la justicia",
+                  "score": 0.82,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_9cb5ef142d5a68c078cf8869eb67bef5",
+                  "title": "Derecho humano a un medio ambiente sano",
+                  "score": 0.81,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
               "semanticHits": 10,
               "keywordReturned": 10,
               "semanticReturned": 10
@@ -10142,6 +16074,104 @@ window.LONG_QUERY_EXPERIMENT = {
               "keywordReturned": 0,
               "semanticReturned": 10
             }
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "text": "حقوق الإنسان",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%AD%D9%82%D9%88%D9%82%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86&limit=10",
+            "results": {
+              "keyword": [],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_fee8099c9d23b2d61bc6ae58044382eb",
+                  "title": "El derecho a la información",
+                  "score": 0.78,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                  "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                  "score": 0.78,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_f0355c2b13de3943e31e18e8a5129f32",
+                  "title": "Los derechos de la familia",
+                  "score": 0.78,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                  "title": "El derecho y la justicia",
+                  "score": 0.77,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_b0800a87d0c1564b6501933595c4c22f",
+                  "title": "Abuso del derecho de información",
+                  "score": 0.76,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                  "title": "Contaminación sonora y derechos humanos.",
+                  "score": 0.76,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_d09db2c41bab6988948928faa1b5e35f",
+                  "title": "Los delitos de lesa humanidad",
+                  "score": 0.76,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                  "title": "La fraternidad y los derechos humanos",
+                  "score": 0.75,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 0,
+              "semanticHits": 8,
+              "keywordReturned": 0,
+              "semanticReturned": 8
+            }
           }
         ],
         "matrix": {
@@ -10152,6 +16182,16 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr"
             },
             {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr"
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr"
+            },
+            {
               "language": "French",
               "languageCode": "fr",
               "direction": "ltr"
@@ -10175,6 +16215,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "language": "Japanese",
               "languageCode": "ja",
               "direction": "ltr"
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl"
             }
           ],
           "rows": [
@@ -10184,9 +16229,44 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 null,
+                10,
+                10,
                 9,
                 8,
                 10,
+                8,
+                8,
+                8
+              ]
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "values": [
+                10,
+                null,
+                10,
+                9,
+                8,
+                10,
+                8,
+                8,
+                8
+              ]
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "values": [
+                10,
+                10,
+                null,
+                9,
+                8,
+                10,
+                8,
                 8,
                 8
               ]
@@ -10197,9 +16277,12 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 9,
+                9,
+                9,
                 null,
                 7,
                 9,
+                8,
                 8,
                 8
               ]
@@ -10210,11 +16293,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 8,
+                8,
+                8,
                 7,
                 null,
                 8,
                 9,
-                9
+                9,
+                7
               ]
             },
             {
@@ -10223,9 +16309,12 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 10,
+                10,
+                10,
                 9,
                 8,
                 null,
+                8,
                 8,
                 8
               ]
@@ -10237,10 +16326,13 @@ window.LONG_QUERY_EXPERIMENT = {
               "values": [
                 8,
                 8,
+                8,
+                8,
                 9,
                 8,
                 null,
-                9
+                9,
+                8
               ]
             },
             {
@@ -10250,14 +16342,43 @@ window.LONG_QUERY_EXPERIMENT = {
               "values": [
                 8,
                 8,
+                8,
+                8,
                 9,
                 8,
                 9,
+                null,
+                7
+              ]
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "values": [
+                8,
+                8,
+                8,
+                8,
+                7,
+                8,
+                8,
+                7,
                 null
               ]
             }
           ],
           "pairs": [
+            {
+              "left": "en",
+              "right": "es",
+              "shared": 10
+            },
+            {
+              "left": "en",
+              "right": "pt",
+              "shared": 10
+            },
             {
               "left": "en",
               "right": "fr",
@@ -10284,6 +16405,76 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 8
             },
             {
+              "left": "en",
+              "right": "ar",
+              "shared": 8
+            },
+            {
+              "left": "es",
+              "right": "pt",
+              "shared": 10
+            },
+            {
+              "left": "es",
+              "right": "fr",
+              "shared": 9
+            },
+            {
+              "left": "es",
+              "right": "de",
+              "shared": 8
+            },
+            {
+              "left": "es",
+              "right": "it",
+              "shared": 10
+            },
+            {
+              "left": "es",
+              "right": "zh",
+              "shared": 8
+            },
+            {
+              "left": "es",
+              "right": "ja",
+              "shared": 8
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "fr",
+              "shared": 9
+            },
+            {
+              "left": "pt",
+              "right": "de",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "it",
+              "shared": 10
+            },
+            {
+              "left": "pt",
+              "right": "zh",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "ja",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "ar",
+              "shared": 8
+            },
+            {
               "left": "fr",
               "right": "de",
               "shared": 7
@@ -10304,6 +16495,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 8
             },
             {
+              "left": "fr",
+              "right": "ar",
+              "shared": 8
+            },
+            {
               "left": "de",
               "right": "it",
               "shared": 8
@@ -10319,6 +16515,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 9
             },
             {
+              "left": "de",
+              "right": "ar",
+              "shared": 7
+            },
+            {
               "left": "it",
               "right": "zh",
               "shared": 8
@@ -10329,12 +16530,28 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 8
             },
             {
+              "left": "it",
+              "right": "ar",
+              "shared": 8
+            },
+            {
               "left": "zh",
               "right": "ja",
               "shared": 9
+            },
+            {
+              "left": "zh",
+              "right": "ar",
+              "shared": 8
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 7
             }
           ],
-          "average": 8.4
+          "average": 8.44,
+          "averageWithoutArabic": 8.64
         },
         "separation": {
           "explanation": "Short topic labels are broad. They can retrieve relevant records across languages, but the shared top-10 may reflect the most common records for the topic rather than a narrower research question.",
@@ -10344,6 +16561,36 @@ window.LONG_QUERY_EXPERIMENT = {
             "Language-specific indexed vocabulary"
           ],
           "lowestPairs": [
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "fr",
+              "right": "de",
+              "shared": 7,
+              "leftLabel": "French",
+              "rightLabel": "German"
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "Japanese",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "de",
+              "right": "it",
+              "shared": 8,
+              "leftLabel": "German",
+              "rightLabel": "Italian"
+            }
+          ],
+          "lowestNonArabicPairs": [
             {
               "left": "fr",
               "right": "de",
@@ -10373,29 +16620,66 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightLabel": "Chinese"
             }
           ],
-          "highestPairs": [
+          "lowestArabicPairs": [
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "Japanese",
+              "rightLabel": "Arabic"
+            },
             {
               "left": "en",
-              "right": "it",
-              "shared": 10,
+              "right": "ar",
+              "shared": 8,
               "leftLabel": "English",
-              "rightLabel": "Italian"
+              "rightLabel": "Arabic"
             },
             {
-              "left": "zh",
-              "right": "ja",
-              "shared": 9,
-              "leftLabel": "Chinese",
-              "rightLabel": "Japanese"
-            },
-            {
-              "left": "fr",
-              "right": "it",
-              "shared": 9,
-              "leftLabel": "French",
-              "rightLabel": "Italian"
+              "left": "es",
+              "right": "ar",
+              "shared": 8,
+              "leftLabel": "Spanish",
+              "rightLabel": "Arabic"
             }
           ],
+          "highestPairs": [
+            {
+              "left": "pt",
+              "right": "it",
+              "shared": 10,
+              "leftLabel": "Portuguese",
+              "rightLabel": "Italian"
+            },
+            {
+              "left": "es",
+              "right": "it",
+              "shared": 10,
+              "leftLabel": "Spanish",
+              "rightLabel": "Italian"
+            },
+            {
+              "left": "es",
+              "right": "pt",
+              "shared": 10,
+              "leftLabel": "Spanish",
+              "rightLabel": "Portuguese"
+            }
+          ],
+          "overallLowestPair": {
+            "left": "de",
+            "right": "ar",
+            "shared": 7,
+            "leftLabel": "German",
+            "rightLabel": "Arabic"
+          },
           "focusPair": {
             "left": "fr",
             "right": "de",
@@ -10476,13 +16760,74 @@ window.LONG_QUERY_EXPERIMENT = {
                 "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3869302e997a1624c158ea916ae2e210/Description"
               }
             ]
+          },
+          "arabicFocusPair": {
+            "left": "de",
+            "right": "ar",
+            "shared": 7,
+            "leftLabel": "German",
+            "rightLabel": "Arabic",
+            "editorialSummary": "Both sides stay partly connected through criminal justice and international courts, but they select different records within that branch.",
+            "leftReading": {
+              "themes": [
+                "criminal justice and international courts",
+                "rights doctrine and constitutional hierarchy"
+              ],
+              "summary": "The German side appears to lean toward criminal justice and international courts and rights doctrine and constitutional hierarchy. Examples include \"La jerarquización de los derechos\" and \"Derecho humano a un medio ambiente sano\"."
+            },
+            "rightReading": {
+              "themes": [
+                "criminal justice and international courts"
+              ],
+              "summary": "The Arabic side appears to lean toward criminal justice and international courts. Examples include \"Los delitos de lesa humanidad\"."
+            },
+            "leftOnly": [
+              {
+                "position": 8,
+                "recordId": "UY_30f0461d1b6daec2f720ddf60cb60c23",
+                "title": "La jerarquización de los derechos",
+                "judgment": 1,
+                "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                "abstractSnippet": "Es frecuente en la jurisprudencia y en la doctrina el planteamiento de los casos constitucionales como conflictos de derechos2. Se suele interpretar que eso es lo que ocurre cuando alguien pide ante un tribunal que se repare la violación de un derecho constit…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_30f0461d1b6daec2f720ddf60cb60c23/Description"
+              },
+              {
+                "position": 9,
+                "recordId": "UY_9cb5ef142d5a68c078cf8869eb67bef5",
+                "title": "Derecho humano a un medio ambiente sano",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Al final de la Segunda Guerra Mundial las principales ptencias del mundo encuetran necesario el establemciento de un orden y equilibrio internacional que busque asegurar el respeto por los Derechos Humanos de los individuos y promueva la paz y la seguirdad in…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9cb5ef142d5a68c078cf8869eb67bef5/Description"
+              },
+              {
+                "position": 10,
+                "recordId": "UY_3869302e997a1624c158ea916ae2e210",
+                "title": "Detención : derechos de la persona detenida",
+                "judgment": 1,
+                "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                "abstractSnippet": "",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3869302e997a1624c158ea916ae2e210/Description"
+              }
+            ],
+            "rightOnly": [
+              {
+                "position": 7,
+                "recordId": "UY_d09db2c41bab6988948928faa1b5e35f",
+                "title": "Los delitos de lesa humanidad",
+                "judgment": 1,
+                "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                "abstractSnippet": "",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d09db2c41bab6988948928faa1b5e35f/Description"
+              }
+            ]
           }
         },
         "summary": {
-          "semanticHitsTotal": 60,
-          "keywordHitsTotal": 13,
-          "semanticHitsAverage": 10,
-          "keywordHitsAverage": 2.17
+          "semanticHitsTotal": 88,
+          "keywordHitsTotal": 33,
+          "semanticHitsAverage": 9.78,
+          "keywordHitsAverage": 3.67
         }
       },
       "shortQueryMatrix": {
@@ -10493,6 +16838,16 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr"
           },
           {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr"
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr"
+          },
+          {
             "language": "French",
             "languageCode": "fr",
             "direction": "ltr"
@@ -10516,6 +16871,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "language": "Japanese",
             "languageCode": "ja",
             "direction": "ltr"
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl"
           }
         ],
         "rows": [
@@ -10525,9 +16885,44 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               null,
+              10,
+              10,
               9,
               8,
               10,
+              8,
+              8,
+              8
+            ]
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "values": [
+              10,
+              null,
+              10,
+              9,
+              8,
+              10,
+              8,
+              8,
+              8
+            ]
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "values": [
+              10,
+              10,
+              null,
+              9,
+              8,
+              10,
+              8,
               8,
               8
             ]
@@ -10538,9 +16933,12 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               9,
+              9,
+              9,
               null,
               7,
               9,
+              8,
               8,
               8
             ]
@@ -10551,11 +16949,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               8,
+              8,
+              8,
               7,
               null,
               8,
               9,
-              9
+              9,
+              7
             ]
           },
           {
@@ -10564,9 +16965,12 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               10,
+              10,
+              10,
               9,
               8,
               null,
+              8,
               8,
               8
             ]
@@ -10578,10 +16982,13 @@ window.LONG_QUERY_EXPERIMENT = {
             "values": [
               8,
               8,
+              8,
+              8,
               9,
               8,
               null,
-              9
+              9,
+              8
             ]
           },
           {
@@ -10591,14 +16998,43 @@ window.LONG_QUERY_EXPERIMENT = {
             "values": [
               8,
               8,
+              8,
+              8,
               9,
               8,
               9,
+              null,
+              7
+            ]
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "values": [
+              8,
+              8,
+              8,
+              8,
+              7,
+              8,
+              8,
+              7,
               null
             ]
           }
         ],
         "pairs": [
+          {
+            "left": "en",
+            "right": "es",
+            "shared": 10
+          },
+          {
+            "left": "en",
+            "right": "pt",
+            "shared": 10
+          },
           {
             "left": "en",
             "right": "fr",
@@ -10625,6 +17061,76 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 8
           },
           {
+            "left": "en",
+            "right": "ar",
+            "shared": 8
+          },
+          {
+            "left": "es",
+            "right": "pt",
+            "shared": 10
+          },
+          {
+            "left": "es",
+            "right": "fr",
+            "shared": 9
+          },
+          {
+            "left": "es",
+            "right": "de",
+            "shared": 8
+          },
+          {
+            "left": "es",
+            "right": "it",
+            "shared": 10
+          },
+          {
+            "left": "es",
+            "right": "zh",
+            "shared": 8
+          },
+          {
+            "left": "es",
+            "right": "ja",
+            "shared": 8
+          },
+          {
+            "left": "es",
+            "right": "ar",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "fr",
+            "shared": 9
+          },
+          {
+            "left": "pt",
+            "right": "de",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "it",
+            "shared": 10
+          },
+          {
+            "left": "pt",
+            "right": "zh",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "ja",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "ar",
+            "shared": 8
+          },
+          {
             "left": "fr",
             "right": "de",
             "shared": 7
@@ -10645,6 +17151,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 8
           },
           {
+            "left": "fr",
+            "right": "ar",
+            "shared": 8
+          },
+          {
             "left": "de",
             "right": "it",
             "shared": 8
@@ -10660,6 +17171,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 9
           },
           {
+            "left": "de",
+            "right": "ar",
+            "shared": 7
+          },
+          {
             "left": "it",
             "right": "zh",
             "shared": 8
@@ -10670,12 +17186,28 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 8
           },
           {
+            "left": "it",
+            "right": "ar",
+            "shared": 8
+          },
+          {
             "left": "zh",
             "right": "ja",
             "shared": 9
+          },
+          {
+            "left": "zh",
+            "right": "ar",
+            "shared": 8
+          },
+          {
+            "left": "ja",
+            "right": "ar",
+            "shared": 7
           }
         ],
-        "average": 8.4
+        "average": 8.44,
+        "averageWithoutArabic": 8.64
       },
       "variants": [
         {
@@ -10895,6 +17427,424 @@ window.LONG_QUERY_EXPERIMENT = {
               },
               "metrics": {
                 "keywordHits": 9,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "derechos humanos, dignidad y justicia democrática",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=derechos%20humanos%2C%20dignidad%20y%20justicia%20democr%C3%A1tica&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_3152d0e63d6ebde7f837822e423ccc80",
+                    "title": "Commentary on the ruling on eutanasia. Action for protection of constitutional rights by Ana Estrada Ugarte, against the Ministry of Health, the Ministry of Justice, and the Peruvi...",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_a439580e33242c97ddfacdd6e672b13c",
+                    "title": "Pensar la comunicación en perspectiva ética",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Deposita_e48f69f12badd05225de8507b6326282",
+                    "title": "Os Direitos Humanos na perspectiva crítica de “O Direito Achado na Rua”",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_3f95a1d345f29015718d3947d9e4d959",
+                    "title": "Derechos humanos, ambiente y dignidad: perspectivas interdisciplinares de la cuestión alimentaria",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_75c5457e70aed2fe6e729ca1d57f5c3d",
+                    "title": "Towards redignifying the Uruguayan prison system: critical perspectives in light of the concept of human dignity",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_5934653201fbf42594d451ec87996bdf",
+                    "title": "Corporeality, prolepsis and dignity. A non-speciesist study of human dignity and animal worth",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_b1c82d4f468e225b1f8e6b8e428515c7",
+                    "title": "Enemy Criminal Law and the unacceptable disregard for the Principle of Human Dignity.",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_1b7981e99a66c40bb56f5f4d5381770c",
+                    "title": "Judicial Interpretation, Environment and Dignity",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_4b5af1e95b27123b1bf6e3abbfac57a4",
+                    "title": "Jorge Nicolás Lafferriere y Helga María Lell (Eds.). La dignidad a debate: Usos del concepto en la jurisprudencia de la Corte Interamericana de Derechos Humanos....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_a544218a57c7a0db796ea0f8e78563bb",
+                    "title": "Patient Perception of Risk Factors That Violate Human Dignity During Hospitalization: A Cross-Sectional Study in a Public Hospital in Tamaulipas, Mexico",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a human rights focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.88,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                    "title": "El derecho y la justicia",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_553bfd8b45acc7e28695bce2e31331b9",
+                    "title": "La dignidad humana como bien jurídico tutelado por el derecho penal",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                    "title": "El Tribunal Penal Internacional y los derechos humanos",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                    "title": "La fraternidad y los derechos humanos",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_bc545c0705386759e5929fcb4c07a225",
+                    "title": "Derecho a la información, derecho al honor y la constitución de la República",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_b43b30e5c9a8952e89045a29c30945bd",
+                    "title": "Human dignity, fundamental rights and constitutional block of rights: an approach from Chile and Latin America.",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_3f95a1d345f29015718d3947d9e4d959",
+                    "title": "Derechos humanos, ambiente y dignidad: perspectivas interdisciplinares de la cuestión alimentaria",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Ridi_9077951daec801080bf7b262eba89a1a",
+                    "title": "Conflitos contemporâneos: direitos humanos e solidariedade",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_e84627817f970fbfc4c64e13aa16f412",
+                    "title": "La ética , la salud y los derechos y deberes del hombre",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 9,
+                "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "direitos humanos, dignidade e justiça democrática",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=direitos%20humanos%2C%20dignidade%20e%20justi%C3%A7a%20democr%C3%A1tica&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_3152d0e63d6ebde7f837822e423ccc80",
+                    "title": "Commentary on the ruling on eutanasia. Action for protection of constitutional rights by Ana Estrada Ugarte, against the Ministry of Health, the Ministry of Justice, and the Peruvi...",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Deposita_60b440815117f4408e5aadf0271d6ea3",
+                    "title": "Educação e Direitos Humanos: diálogos interdisciplinares",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Deposita_e48f69f12badd05225de8507b6326282",
+                    "title": "Os Direitos Humanos na perspectiva crítica de “O Direito Achado na Rua”",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Deposita_47bab31c8f39bb35ab51bfb388368b4d",
+                    "title": "O princípio da dignidade humana como instrumento jurídico de inclusão social",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Deposita_f74134c27885fdfebf579e571a3d5aa5",
+                    "title": "The collection of taxes and the enforcement of fundamental rights - legal-comparative analysis between the Portuguese and Brazilian systems.",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_75c5457e70aed2fe6e729ca1d57f5c3d",
+                    "title": "Towards redignifying the Uruguayan prison system: critical perspectives in light of the concept of human dignity",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Deposita_e8c28b0baea4b765bf08aa05977cada5",
+                    "title": "A insegurança alimentar dos escolares em tempos de pandemia",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_b13e439c807db68c795012f3bf00f55f",
+                    "title": "The Globalized Criminal Law of Abstract Endangerment. Challenges for a Legitimate Transnational and Effective Criminal Law System",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_ca3d90ab16394e5a4e55a417bb2ff0ca",
+                    "title": "The protection of animals by Law: Do animals have rights?",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_39a49e6a7e021b629eb5e8aabe61aa5f",
+                    "title": "Designing the Urban Coexistence: Challenging Speciesism for Equitable Spaces Beyond Human Boundaries",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                    "title": "El derecho y la justicia",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                    "title": "La fraternidad y los derechos humanos",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_bc545c0705386759e5929fcb4c07a225",
+                    "title": "Derecho a la información, derecho al honor y la constitución de la República",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                    "title": "Informação, democracia e regulação de mercados",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                    "title": "El Tribunal Penal Internacional y los derechos humanos",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Ridi_49c05a87973fa6a1201aef28225def5f",
+                    "title": "Representação, democracia e controle social",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_e84627817f970fbfc4c64e13aa16f412",
+                    "title": "La ética , la salud y los derechos y deberes del hombre",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Ridi_9077951daec801080bf7b262eba89a1a",
+                    "title": "Conflitos contemporâneos: direitos humanos e solidariedade",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_553bfd8b45acc7e28695bce2e31331b9",
+                    "title": "La dignidad humana como bien jurídico tutelado por el derecho penal",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
                 "semanticHits": 10,
                 "keywordReturned": 10,
                 "semanticReturned": 10
@@ -11762,6 +18712,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "حقوق الإنسان والكرامة والعدالة الديمقراطية",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%AD%D9%82%D9%88%D9%82%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A9%20%D9%88%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.86,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                    "title": "El derecho y la justicia",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_284b162178b0b133bb40e28e8ba0d4ce",
+                    "title": "Libertad de expresión y protesta social",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_bc545c0705386759e5929fcb4c07a225",
+                    "title": "Derecho a la información, derecho al honor y la constitución de la República",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                    "title": "Informação, democracia e regulação de mercados",
+                    "score": 0.8,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Ridi_49c05a87973fa6a1201aef28225def5f",
+                    "title": "Representação, democracia e controle social",
+                    "score": 0.8,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                    "title": "La fraternidad y los derechos humanos",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Ridi_b6be3ebb15e8c3e7cb7adba6ffd9c206",
+                    "title": "Liberdade de expressão, liberdade de imprensa e luta de classes",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                    "title": "Contaminación sonora y derechos humanos.",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_962ba6cb0fe3834e65636d03de7f54a4",
+                    "title": "Editorial note. Democracy and Law",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 10,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -11772,6 +18840,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -11795,6 +18873,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -11804,10 +18887,45 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  9,
+                  7,
                   8,
                   4,
                   8,
                   7,
+                  6,
+                  4
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  9,
+                  null,
+                  8,
+                  9,
+                  5,
+                  8,
+                  8,
+                  5,
+                  4
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  8,
+                  null,
+                  8,
+                  6,
+                  7,
+                  8,
+                  6,
                   6
                 ]
               },
@@ -11817,10 +18935,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  9,
+                  8,
                   null,
                   5,
                   9,
                   8,
+                  5,
                   5
                 ]
               },
@@ -11831,10 +18952,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   4,
                   5,
+                  6,
+                  5,
                   null,
                   5,
                   7,
-                  7
+                  7,
+                  4
                 ]
               },
               {
@@ -11843,11 +18967,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  8,
+                  7,
                   9,
                   5,
                   null,
                   7,
-                  6
+                  6,
+                  4
                 ]
               },
               {
@@ -11857,10 +18984,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   7,
                   8,
+                  8,
+                  8,
                   7,
                   7,
                   null,
-                  6
+                  6,
+                  5
                 ]
               },
               {
@@ -11870,14 +19000,43 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   6,
                   5,
+                  6,
+                  5,
                   7,
                   6,
                   6,
+                  null,
+                  4
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  4,
+                  4,
+                  6,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 9
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 7
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -11904,6 +19063,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 4
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 9
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 5
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 4
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 5
@@ -11924,6 +19153,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 5
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 5
@@ -11939,6 +19173,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 4
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 7
@@ -11949,12 +19188,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 4
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 6
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 5
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 4
               }
             ],
-            "average": 6.53
+            "average": 6.33,
+            "averageWithoutArabic": 6.86
           },
           "separation": {
             "explanation": "Human-rights language can separate by emphasis. Some languages may pull toward dignity and constitutional rights, while others emphasize democratic institutions, justice, social rights or public guarantees.",
@@ -11964,6 +19219,36 @@ window.LONG_QUERY_EXPERIMENT = {
               "The topic is broad, so high relevance can coexist with lower shared record identifiers."
             ],
             "lowestPairs": [
+              {
+                "left": "de",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "en",
+                "right": "de",
+                "shared": 4,
+                "leftLabel": "English",
+                "rightLabel": "German"
+              },
+              {
+                "left": "en",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "English",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              }
+            ],
+            "lowestNonArabicPairs": [
               {
                 "left": "en",
                 "right": "de",
@@ -11979,18 +19264,48 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Italian"
               },
               {
-                "left": "fr",
+                "left": "es",
                 "right": "de",
                 "shared": 5,
-                "leftLabel": "French",
+                "leftLabel": "Spanish",
                 "rightLabel": "German"
               },
               {
-                "left": "fr",
+                "left": "es",
                 "right": "ja",
                 "shared": 5,
-                "leftLabel": "French",
+                "leftLabel": "Spanish",
                 "rightLabel": "Japanese"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
+                "left": "de",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "en",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "English",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 4,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
@@ -12002,20 +19317,27 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Italian"
               },
               {
-                "left": "fr",
-                "right": "zh",
-                "shared": 8,
-                "leftLabel": "French",
-                "rightLabel": "Chinese"
+                "left": "es",
+                "right": "fr",
+                "shared": 9,
+                "leftLabel": "Spanish",
+                "rightLabel": "French"
               },
               {
                 "left": "en",
-                "right": "it",
-                "shared": 8,
+                "right": "es",
+                "shared": 9,
                 "leftLabel": "English",
-                "rightLabel": "Italian"
+                "rightLabel": "Spanish"
               }
             ],
+            "overallLowestPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 4,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
             "focusPair": {
               "left": "en",
               "right": "de",
@@ -12096,13 +19418,95 @@ window.LONG_QUERY_EXPERIMENT = {
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3cee65e2ee34847f08a6b78bac4e6ced/Description"
                 }
               ]
+            },
+            "arabicFocusPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 4,
+              "leftLabel": "German",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through rights doctrine and constitutional hierarchy and democracy, citizenship and social control, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "rights doctrine and constitutional hierarchy",
+                  "democracy, citizenship and social control",
+                  "legal theory, state and ideology"
+                ],
+                "summary": "The German side appears to lean toward rights doctrine and constitutional hierarchy, democracy, citizenship and social control, and legal theory, state and ideology. Examples include \"Direito e democracia: entre fatos e normas\" and \"La ética , la salud y los derechos y deberes del hombre\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "communication and access to rights",
+                  "rights doctrine and constitutional hierarchy",
+                  "democracy, citizenship and social control"
+                ],
+                "summary": "The Arabic side appears to lean toward communication and access to rights, rights doctrine and constitutional hierarchy, and democracy, citizenship and social control. Examples include \"Libertad de expresión y protesta social\" and \"Derecho a la información, derecho al honor y la constitución de la República\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 5,
+                  "recordId": "Ridi_a6f146a47af2ba3c72658ab7746556dd",
+                  "title": "Direito e democracia: entre fatos e normas",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Os Colóquios Habermas e de Filosofia da informação são encontros intelectuais de grande alegria. Neles encontramos amigos do pensamento crítico que compartilham o interesse e o estudo na linguagem e na informação para entender as sociedades pluralistas contem…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_a6f146a47af2ba3c72658ab7746556dd/Description"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_e84627817f970fbfc4c64e13aa16f412",
+                  "title": "La ética , la salud y los derechos y deberes del hombre",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e84627817f970fbfc4c64e13aa16f412/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_3cee65e2ee34847f08a6b78bac4e6ced",
+                  "title": "Apuntes para una democracia mejor",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Este artículo formula una serie de reflexionessobre la democracia basándose en los déficit y haberes que ha dejado la reciente transición en Chile y buscando caminos de perfeccionamiento. Para ello identifica una serie deproblemas y una serie de desafíos que…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3cee65e2ee34847f08a6b78bac4e6ced/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 3,
+                  "recordId": "UY_284b162178b0b133bb40e28e8ba0d4ce",
+                  "title": "Libertad de expresión y protesta social",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Los autores analizan la libertad de expresión en cuanto ejercicio de uno de los derechos humanos fundamentales de la democracia y su vinculación con la protesta social, que se puede ejercer de forma pacífica y que afecta otros derechos como, por ejemplo, el d…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_284b162178b0b133bb40e28e8ba0d4ce/Description"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_bc545c0705386759e5929fcb4c07a225",
+                  "title": "Derecho a la información, derecho al honor y la constitución de la República",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_bc545c0705386759e5929fcb4c07a225/Description"
+                },
+                {
+                  "position": 5,
+                  "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                  "title": "Informação, democracia e regulação de mercados",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "A informação é condição para a democracia. As redes são relevantes na produção e difusão de informação. Novas tecnologias e Internet facilitam registro e publicação de informações. A ética da discussão orientada para entendimento implica no agir comunicativo…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_fc9248fb09b5a9d09293061df4dac16e/Description"
+                }
+              ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 60,
-            "keywordHitsTotal": 27,
+            "semanticHitsTotal": 90,
+            "keywordHitsTotal": 46,
             "semanticHitsAverage": 10,
-            "keywordHitsAverage": 4.5
+            "keywordHitsAverage": 5.11
           }
         },
         {
@@ -12313,6 +19717,424 @@ window.LONG_QUERY_EXPERIMENT = {
                     "recordId": "UY_ab0595d6c77b0695a60bfb11707a1a77",
                     "title": "Ciudadanía y democracia postransicional en América Latina",
                     "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 9,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "derechos humanos e instituciones democráticas",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=derechos%20humanos%20e%20instituciones%20democr%C3%A1ticas&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_ccd953b1b06af9d004c09f53d16e8821",
+                    "title": "La racionalidad democrática como condición normativa para la aplicación del margen de apreciación nacional en el ámbito del control de convencionalidad....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_6ba0c8c99779a5f47239bf6c561c35f4",
+                    "title": "El multiculturalismo y la autodeterminación en el ámbito de los derechos humanos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_9df9c9208a141290fad676152c0831f7",
+                    "title": "Freedom of expression and democracy in Granier et al. vs. Venezuela",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Deposita_40c3755966c87ad421ff3edcc118ad73",
+                    "title": "O privado suplantando o público: o sistema único de saúde no município de Nova Hartz - RS",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Deposita_9fb871ab1494fda2eaea5cf44d9f4338",
+                    "title": "Fascismo, direitos humanos e democracia na visão de George Orwell",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Ridi_9077951daec801080bf7b262eba89a1a",
+                    "title": "Conflitos contemporâneos: direitos humanos e solidariedade",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Deposita_e48f69f12badd05225de8507b6326282",
+                    "title": "Os Direitos Humanos na perspectiva crítica de “O Direito Achado na Rua”",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_9d966e08aa1c39de2afa3c9f229365e9",
+                    "title": "Tres ingredientes para re-pensar la escuela: docentes, formadores y gestión institucional",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Ridi_2b0c686c33637b44776c4e52b2b58fd2",
+                    "title": "Anais do 20º Colóquio Habermas e 11º Colóquio de Filosofia da Informação / Democracia e tecnologia: regulação da internet e inteligência artificial na esfera pública",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_664a3f95e03a85d6b91629819fc7b941",
+                    "title": "Educación y Derechos Humanos: Modelos a Construir ¿Mirar o Ver?",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                    "title": "El Tribunal Penal Internacional y los derechos humanos",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                    "title": "Informação, democracia e regulação de mercados",
+                    "score": 0.85,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_d66df611075ec293d92af80ff7178c09",
+                    "title": "Relaciones laborales y sociedades democráticas en América Latina y Europa",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Ridi_a6f146a47af2ba3c72658ab7746556dd",
+                    "title": "Direito e democracia: entre fatos e normas",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                    "title": "Contaminación sonora y derechos humanos.",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_3d3cb33f56435b9465bcddbc3e284c43",
+                    "title": "Institutions and non profit organizations",
+                    "score": 0.83,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a human rights focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Ridi_c34e0c1015f8b0b122236c7ab5cb5067",
+                    "title": "Informação e democracia: a reflexão contemporânea da ética e da política",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                    "title": "El derecho y la justicia",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_bc545c0705386759e5929fcb4c07a225",
+                    "title": "Derecho a la información, derecho al honor y la constitución de la República",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 10,
+                "semanticHits": 9,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "direitos humanos e instituições democráticas",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=direitos%20humanos%20e%20institui%C3%A7%C3%B5es%20democr%C3%A1ticas&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "Deposita_9fb871ab1494fda2eaea5cf44d9f4338",
+                    "title": "Fascismo, direitos humanos e democracia na visão de George Orwell",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_ccd953b1b06af9d004c09f53d16e8821",
+                    "title": "La racionalidad democrática como condición normativa para la aplicación del margen de apreciación nacional en el ámbito del control de convencionalidad....",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_9df9c9208a141290fad676152c0831f7",
+                    "title": "Freedom of expression and democracy in Granier et al. vs. Venezuela",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Ridi_9077951daec801080bf7b262eba89a1a",
+                    "title": "Conflitos contemporâneos: direitos humanos e solidariedade",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_6ba0c8c99779a5f47239bf6c561c35f4",
+                    "title": "El multiculturalismo y la autodeterminación en el ámbito de los derechos humanos",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Deposita_40c3755966c87ad421ff3edcc118ad73",
+                    "title": "O privado suplantando o público: o sistema único de saúde no município de Nova Hartz - RS",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_75c5457e70aed2fe6e729ca1d57f5c3d",
+                    "title": "Towards redignifying the Uruguayan prison system: critical perspectives in light of the concept of human dignity",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Deposita_e48f69f12badd05225de8507b6326282",
+                    "title": "Os Direitos Humanos na perspectiva crítica de “O Direito Achado na Rua”",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_b61ec9fbb13a35006f66432238165bfe",
+                    "title": "Private mediation and alternative mechanisms for conflict resolution in Mexico, state of the matter",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Ridi_4348ed482bc69dd700a228264d26e077",
+                    "title": "Lei de Acesso à Informação e Repositórios Governamentais como instrumentos para um modelo aberto de governança",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.9,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                    "title": "Informação, democracia e regulação de mercados",
+                    "score": 0.85,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                    "title": "El Tribunal Penal Internacional y los derechos humanos",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Ridi_a6f146a47af2ba3c72658ab7746556dd",
+                    "title": "Direito e democracia: entre fatos e normas",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_d66df611075ec293d92af80ff7178c09",
+                    "title": "Relaciones laborales y sociedades democráticas en América Latina y Europa",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_3d3cb33f56435b9465bcddbc3e284c43",
+                    "title": "Institutions and non profit organizations",
+                    "score": 0.83,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a human rights focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "Ridi_c34e0c1015f8b0b122236c7ab5cb5067",
+                    "title": "Informação e democracia: a reflexão contemporânea da ética e da política",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_284b162178b0b133bb40e28e8ba0d4ce",
+                    "title": "Libertad de expresión y protesta social",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                    "title": "La fraternidad y los derechos humanos",
+                    "score": 0.83,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Ridi_49c05a87973fa6a1201aef28225def5f",
+                    "title": "Representação, democracia e controle social",
+                    "score": 0.83,
                     "judgment": 1,
                     "note": "The title or abstract shows a narrower or broader relationship to the topic.",
                     "source": "title+abstract-rule",
@@ -13189,6 +21011,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "حقوق الإنسان والمؤسسات الديمقراطية",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%AD%D9%82%D9%88%D9%82%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_95ffcdbe83c9a4c015a54f2fcbc63d80",
+                    "title": "Naciones Unidas, derechos humanos y democracia internacional",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_284b162178b0b133bb40e28e8ba0d4ce",
+                    "title": "Libertad de expresión y protesta social",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "Ridi_fc9248fb09b5a9d09293061df4dac16e",
+                    "title": "Informação, democracia e regulação de mercados",
+                    "score": 0.8,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_3d3cb33f56435b9465bcddbc3e284c43",
+                    "title": "Institutions and non profit organizations",
+                    "score": 0.8,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a human rights focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                    "title": "Contaminación sonora y derechos humanos.",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Ridi_49c05a87973fa6a1201aef28225def5f",
+                    "title": "Representação, democracia e controle social",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
+                    "title": "El derecho y la justicia",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_3bb5d407307abc1037d4a3edac74a88d",
+                    "title": "De identidades y de organizaciones",
+                    "score": 0.78,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a human rights focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_ab0595d6c77b0695a60bfb11707a1a77",
+                    "title": "Ciudadanía y democracia postransicional en América Latina",
+                    "score": 0.78,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_d66df611075ec293d92af80ff7178c09",
+                    "title": "Relaciones laborales y sociedades democráticas en América Latina y Europa",
+                    "score": 0.78,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 8,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -13199,6 +21139,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -13222,6 +21172,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -13231,9 +21186,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  7,
+                  8,
                   8,
                   7,
                   8,
+                  6,
+                  6,
+                  7
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  null,
+                  7,
+                  6,
+                  7,
+                  6,
+                  4,
+                  4,
+                  6
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  8,
+                  7,
+                  null,
+                  8,
+                  7,
+                  9,
+                  7,
                   6,
                   6
                 ]
@@ -13244,11 +21234,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  6,
+                  8,
                   null,
                   8,
                   7,
                   6,
-                  6
+                  6,
+                  7
                 ]
               },
               {
@@ -13257,11 +21250,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  7,
+                  7,
                   8,
                   null,
                   6,
                   5,
-                  5
+                  5,
+                  6
                 ]
               },
               {
@@ -13270,11 +21266,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  6,
+                  9,
                   7,
                   6,
                   null,
                   8,
-                  7
+                  7,
+                  6
                 ]
               },
               {
@@ -13283,11 +21282,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  4,
+                  7,
                   6,
                   5,
                   8,
                   null,
-                  8
+                  8,
+                  6
                 ]
               },
               {
@@ -13296,15 +21298,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  4,
+                  6,
                   6,
                   5,
                   7,
                   8,
+                  null,
+                  6
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  7,
+                  6,
+                  6,
+                  7,
+                  6,
+                  6,
+                  6,
+                  6,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 7
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 8
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -13331,6 +21362,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 4
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 4
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 9
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 8
@@ -13351,6 +21452,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 6
@@ -13366,6 +21472,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 8
@@ -13376,12 +21487,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 8
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 6
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 6
               }
             ],
-            "average": 6.73
+            "average": 6.58,
+            "averageWithoutArabic": 6.68
           },
           "separation": {
             "explanation": "A narrower rights-and-institutions frame may reduce conceptual drift while still retrieving records about democratic governance, international human-rights systems and public guarantees.",
@@ -13392,6 +21519,20 @@ window.LONG_QUERY_EXPERIMENT = {
             ],
             "lowestPairs": [
               {
+                "left": "es",
+                "right": "zh",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Chinese"
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Japanese"
+              },
+              {
                 "left": "de",
                 "right": "zh",
                 "shared": 5,
@@ -13404,23 +21545,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 5,
                 "leftLabel": "German",
                 "rightLabel": "Japanese"
+              }
+            ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Chinese"
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 4,
+                "leftLabel": "Spanish",
+                "rightLabel": "Japanese"
               },
               {
                 "left": "de",
-                "right": "it",
-                "shared": 6,
+                "right": "zh",
+                "shared": 5,
                 "leftLabel": "German",
-                "rightLabel": "Italian"
+                "rightLabel": "Chinese"
               },
               {
-                "left": "en",
-                "right": "zh",
+                "left": "de",
+                "right": "ja",
+                "shared": 5,
+                "leftLabel": "German",
+                "rightLabel": "Japanese"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
+                "left": "de",
+                "right": "ar",
                 "shared": 6,
-                "leftLabel": "English",
-                "rightLabel": "Chinese"
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "Japanese",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 9,
+                "leftLabel": "Portuguese",
+                "rightLabel": "Italian"
+              },
               {
                 "left": "zh",
                 "right": "ja",
@@ -13429,68 +21623,69 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Japanese"
               },
               {
-                "left": "it",
-                "right": "zh",
+                "left": "pt",
+                "right": "fr",
                 "shared": 8,
-                "leftLabel": "Italian",
-                "rightLabel": "Chinese"
-              },
-              {
-                "left": "fr",
-                "right": "de",
-                "shared": 8,
-                "leftLabel": "French",
-                "rightLabel": "German"
+                "leftLabel": "Portuguese",
+                "rightLabel": "French"
               }
             ],
-            "focusPair": {
-              "left": "de",
+            "overallLowestPair": {
+              "left": "es",
               "right": "zh",
-              "shared": 5,
-              "leftLabel": "German",
+              "shared": 4,
+              "leftLabel": "Spanish",
+              "rightLabel": "Chinese"
+            },
+            "focusPair": {
+              "left": "es",
+              "right": "zh",
+              "shared": 4,
+              "leftLabel": "Spanish",
               "rightLabel": "Chinese",
-              "editorialSummary": "Both sides stay partly connected through democracy, citizenship and social control, but they select different records within that branch.",
+              "editorialSummary": "Both sides stay partly connected through rights doctrine and constitutional hierarchy and democracy, citizenship and social control, but they select different records within that branch.",
               "leftReading": {
                 "themes": [
                   "criminal justice and international courts",
-                  "democracy, citizenship and social control",
-                  "legal theory, state and ideology"
+                  "rights doctrine and constitutional hierarchy",
+                  "democracy, citizenship and social control"
                 ],
-                "summary": "The German side appears to lean toward criminal justice and international courts, democracy, citizenship and social control, and legal theory, state and ideology. Examples include \"Institutions and non profit organizations\" and \"El derecho y la justicia\"."
+                "summary": "The Spanish side appears to lean toward criminal justice and international courts, rights doctrine and constitutional hierarchy, and democracy, citizenship and social control. Examples include \"El Tribunal Penal Internacional y los derechos humanos\" and \"Contaminación sonora y derechos humanos.\"."
               },
               "rightReading": {
                 "themes": [
+                  "rights doctrine and constitutional hierarchy",
                   "democracy, citizenship and social control"
                 ],
-                "summary": "The Chinese side appears to lean toward democracy, citizenship and social control. Examples include \"Representação, democracia e controle social\" and \"Relaciones laborales y sociedades democráticas en América Latina y Europa\"."
+                "summary": "The Chinese side appears to lean toward rights doctrine and constitutional hierarchy and democracy, citizenship and social control. Examples include \"Representação, democracia e controle social\" and \"Ciudadanía y democracia postransicional en América Latina\"."
               },
               "leftOnly": [
                 {
                   "position": 2,
+                  "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                  "title": "El Tribunal Penal Internacional y los derechos humanos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_81c2ecad4982627a55997a27741f02d6/Description"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_57b78b543514cb37c011470c5653eee0",
+                  "title": "Contaminación sonora y derechos humanos.",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Investigación realizada para la Defensoría del Vecino de Montevideo. Con el apoyo de AECID en el marco del Proyecto \"Construyendo Ciudadanía\".",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_57b78b543514cb37c011470c5653eee0/Description"
+                },
+                {
+                  "position": 7,
                   "recordId": "UY_3d3cb33f56435b9465bcddbc3e284c43",
                   "title": "Institutions and non profit organizations",
                   "judgment": 0,
                   "note": "The title and abstract do not establish a human rights focus.",
                   "abstractSnippet": "El autor incorpora el concepto de las instituciones económicas como factor clave en la determinación del tamaño y alcance del sector sin fines de lucro, realizando una aproximación empírica al tema a través de un estudio transnacional basado en una muestra de…",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3d3cb33f56435b9465bcddbc3e284c43/Description"
-                },
-                {
-                  "position": 3,
-                  "recordId": "UY_adb1debe28bbfee55f42e9b1661bb332",
-                  "title": "El derecho y la justicia",
-                  "judgment": 2,
-                  "note": "",
-                  "abstractSnippet": "Hace ya muchos años, cuando comenzaba la carrera de abogacía un profesor de la Universidad de la República hizo una encuesta entre el grupo de estudiantes de primer año en relación a cuales eran las&nbsp;razones o motivos que nos habían determinado a&nbsp;est…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_adb1debe28bbfee55f42e9b1661bb332/Description"
-                },
-                {
-                  "position": 6,
-                  "recordId": "Deposita_f367222f274c4fcb6f2bad91ec05298f",
-                  "title": "Marx: estado, direito e ideologia",
-                  "judgment": 1,
-                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
-                  "abstractSnippet": "O presente estudo monográfico pretende elaborar um recorte teórico – de natureza bibliográfica - enfocando as contribuições sociológicas engendradas nas reflexões marxianas - com relação ao papel do chamado “ordenamento jurídico”, que dispõe especificamente d…",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_f367222f274c4fcb6f2bad91ec05298f/Description"
                 }
               ],
               "rightOnly": [
@@ -13504,16 +21699,96 @@ window.LONG_QUERY_EXPERIMENT = {
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_49c05a87973fa6a1201aef28225def5f/Description"
                 },
                 {
-                  "position": 4,
-                  "recordId": "UY_d66df611075ec293d92af80ff7178c09",
-                  "title": "Relaciones laborales y sociedades democráticas en América Latina y Europa",
+                  "position": 5,
+                  "recordId": "UY_ab0595d6c77b0695a60bfb11707a1a77",
+                  "title": "Ciudadanía y democracia postransicional en América Latina",
                   "judgment": 1,
                   "note": "The title or abstract shows a narrower or broader relationship to the topic.",
-                  "abstractSnippet": "Editorial",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_d66df611075ec293d92af80ff7178c09/Description"
+                  "abstractSnippet": "Artículo original",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_ab0595d6c77b0695a60bfb11707a1a77/Description"
                 },
                 {
-                  "position": 5,
+                  "position": 6,
+                  "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                  "title": "La fraternidad y los derechos humanos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "A lo largo de esta investigación sentí muy cerca a algunos autores y sus pensamientos, quienes en su tiempo creyeron en la importancia de desarrollar la fraternidad, tanto en su aspecto teórico, como en la necesidad de vivirla, por ser una categoría clave par…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e8ad0d85ef8bf6b5264c3b213acdf556/Description"
+                }
+              ]
+            },
+            "arabicFocusPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 6,
+              "leftLabel": "German",
+              "rightLabel": "Arabic",
+              "editorialSummary": "The separation looks thematic: one side emphasizes criminal justice and international courts, rights doctrine and constitutional hierarchy, and legal theory, state and ideology, while the other emphasizes democracy, citizenship and social control.",
+              "leftReading": {
+                "themes": [
+                  "criminal justice and international courts",
+                  "rights doctrine and constitutional hierarchy",
+                  "legal theory, state and ideology"
+                ],
+                "summary": "The German side appears to lean toward criminal justice and international courts, rights doctrine and constitutional hierarchy, and legal theory, state and ideology. Examples include \"Marx: estado, direito e ideologia\" and \"La fraternidad y los derechos humanos\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "democracy, citizenship and social control"
+                ],
+                "summary": "The Arabic side appears to lean toward democracy, citizenship and social control. Examples include \"Representação, democracia e controle social\" and \"De identidades y de organizaciones\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 6,
+                  "recordId": "Deposita_f367222f274c4fcb6f2bad91ec05298f",
+                  "title": "Marx: estado, direito e ideologia",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "O presente estudo monográfico pretende elaborar um recorte teórico – de natureza bibliográfica - enfocando as contribuições sociológicas engendradas nas reflexões marxianas - com relação ao papel do chamado “ordenamento jurídico”, que dispõe especificamente d…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Deposita_f367222f274c4fcb6f2bad91ec05298f/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_e8ad0d85ef8bf6b5264c3b213acdf556",
+                  "title": "La fraternidad y los derechos humanos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "A lo largo de esta investigación sentí muy cerca a algunos autores y sus pensamientos, quienes en su tiempo creyeron en la importancia de desarrollar la fraternidad, tanto en su aspecto teórico, como en la necesidad de vivirla, por ser una categoría clave par…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e8ad0d85ef8bf6b5264c3b213acdf556/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_81c2ecad4982627a55997a27741f02d6",
+                  "title": "El Tribunal Penal Internacional y los derechos humanos",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_81c2ecad4982627a55997a27741f02d6/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 6,
+                  "recordId": "Ridi_49c05a87973fa6a1201aef28225def5f",
+                  "title": "Representação, democracia e controle social",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "xxx",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/Ridi_49c05a87973fa6a1201aef28225def5f/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_3bb5d407307abc1037d4a3edac74a88d",
+                  "title": "De identidades y de organizaciones",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a human rights focus.",
+                  "abstractSnippet": "El autor presenta, en la primera parte de su trabajo, los pasos iniciales de una indagación acerca de las identidades colectivas, recurriendo a la noción de identidad social tal como fue formulada por la escuela europea de psicología social, y que pareció con…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_3bb5d407307abc1037d4a3edac74a88d/Description"
+                },
+                {
+                  "position": 9,
                   "recordId": "UY_ab0595d6c77b0695a60bfb11707a1a77",
                   "title": "Ciudadanía y democracia postransicional en América Latina",
                   "judgment": 1,
@@ -13525,32 +21800,40 @@ window.LONG_QUERY_EXPERIMENT = {
             }
           },
           "summary": {
-            "semanticHitsTotal": 55,
-            "keywordHitsTotal": 24,
-            "semanticHitsAverage": 9.17,
-            "keywordHitsAverage": 4
+            "semanticHitsTotal": 81,
+            "keywordHitsTotal": 44,
+            "semanticHitsAverage": 9,
+            "keywordHitsAverage": 4.89
           }
         }
       ],
       "comparison": {
         "shortToLong1": {
-          "matrixDelta": -1.87,
-          "semanticHitDelta": 0,
-          "lowestPairDelta": -3
+          "matrixDelta": -2.11,
+          "matrixDeltaWithoutArabic": -1.78,
+          "semanticHitDelta": 0.22,
+          "lowestPairDelta": -3,
+          "nonArabicLowestPairDelta": -3
         },
         "long1ToLong2": {
-          "matrixDelta": 0.2,
-          "semanticHitDelta": -0.83,
-          "lowestPairDelta": 1
+          "matrixDelta": 0.25,
+          "matrixDeltaWithoutArabic": -0.18,
+          "semanticHitDelta": -1,
+          "lowestPairDelta": 0,
+          "nonArabicLowestPairDelta": 0
         },
         "shortToLong2": {
-          "matrixDelta": -1.67,
-          "semanticHitDelta": -0.83,
-          "lowestPairDelta": -2
+          "matrixDelta": -1.86,
+          "matrixDeltaWithoutArabic": -1.96,
+          "semanticHitDelta": -0.78,
+          "lowestPairDelta": -3,
+          "nonArabicLowestPairDelta": -3
         },
-        "matrixDelta": 0.2,
-        "semanticHitDelta": -0.83,
-        "lowestPairDelta": 1
+        "matrixDelta": 0.25,
+        "matrixDeltaWithoutArabic": -0.18,
+        "semanticHitDelta": -1,
+        "lowestPairDelta": 0,
+        "nonArabicLowestPairDelta": 0
       }
     },
     {
@@ -13778,6 +22061,424 @@ window.LONG_QUERY_EXPERIMENT = {
                   "recordId": "UY_93d7a7e45bcf25948de07262cc69c838",
                   "title": "Climate-driven ‘species-on-the-move’ provide tangible anchors to engage the public on climate change",
                   "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 10,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "text": "cambio climático",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=cambio%20clim%C3%A1tico&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_38ea26594bb53b146f688d9bb86a109a",
+                  "title": "Informe final del proyecto: Comunicación y respuestas al desafío climático",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_ced67ee7099935a3c18fca5b749d24c4",
+                  "title": "Hydrologic analysis of climate change scenarios in Spain",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_16a5faf9594d676854b3776057d7ed73",
+                  "title": "Characterization of the water resources behaviour in a climate change context under indicator",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_21290ef1e7206a2b1d5bb02fdb092dbd",
+                  "title": "Comunicación y respuestas al desafío climático en Uruguay",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_6aeaaa7fd958388c3a838a899e9901ee",
+                  "title": "Illegal migration and weather shocks",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a climate change focus.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_79a32e41de674f2ac2365dade3139bca",
+                  "title": "Psychometric properties and factorial invariance of the Climate Change Attitude Survey in the Chilean population",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_414073b5ba5ea3925961498ed328b567",
+                  "title": "Informe final del proyecto: Impactos del cambio global sobre los ecosistemas antárticos: los pingüinos pygoscélidos como centinelas del Océano Austral",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_110504eb813897ea7dbcc1962a4b4dac",
+                  "title": "Percepción de riesgo en la adaptación al cambio climático en Laguna de Rocha",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_4aed639e6a0b71b472f76da70a731eba",
+                  "title": "Reconocimiento y medición de derechos de emisión de carbono",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_154c7ae61b84e7947b38c45e10192da5",
+                  "title": "Informe final del proyecto: Modelización de los efectos del cambio y la variabilidad climática en la intensificación de las floraciones de cianobacterias tóxicas en el río Uruguay y Río de la Plata",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                  "title": "El efecto invernadero y el clima",
+                  "score": 0.87,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+                  "title": "An assessment of priorities in handling climate change impacts on infrastructures",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_e8bd0f6831ad6af9de3466b4324092f8",
+                  "title": "Cambio climático: una experiencia de indagación guiada",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_13b364e947eb97132e99015b17654365",
+                  "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_a34f9e9311eb67c92dd41929a3fec280",
+                  "title": "Cambio climático y desarrollo sustentable en Uruguay : iniciativas impulsadas para la adaptación y mitigación; y su potencial implementación en el territorio nacional",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_c3a87f7fc6683b9fd69de4a5a82e499d",
+                  "title": "An analysis of climate change and health hazards: results from an international study",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_67c2a96342030e2584e0c96e5499f9ab",
+                  "title": "Climate sensitivity to changes in ocean heat transport",
+                  "score": 0.8,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                  "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                  "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title-only"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                  "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 9,
+              "semanticHits": 10,
+              "keywordReturned": 10,
+              "semanticReturned": 10
+            }
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "text": "mudanças climáticas",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=mudan%C3%A7as%20clim%C3%A1ticas&limit=10",
+            "results": {
+              "keyword": [
+                {
+                  "position": 1,
+                  "recordId": "UY_79a32e41de674f2ac2365dade3139bca",
+                  "title": "Psychometric properties and factorial invariance of the Climate Change Attitude Survey in the Chilean population",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_927fa1e950571ee99f7a60bb0083cf52",
+                  "title": "Trends in international environmental legislation and Uruguay's position",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "Deposita_257dccaded2a03bfbf1182e793c33298",
+                  "title": "Atualização da cheia de projeto e o seu impacto na probabilidade de falha por deslizamento da barragem. Estudo de Caso: UHE Santa Clara.",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "Deposita_607b5b9a58a8ec0b080779ad783f2e2d",
+                  "title": "Educar é um ato de amor",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "Deposita_a906978cd9ddf486a8a72101117fa7d5",
+                  "title": "A política ambiental do Partido Democrata: de Barack Obama a Joe Biden (2009/2022)",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "Deposita_d5dde6ec2c3a559a59a68d73c67452c1",
+                  "title": "Análise da influência dos fenômenos el niño e la niña na ocorrência de eventos climáticos de seca e enchente",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_35bb678a14fcc970dede65893580af71",
+                  "title": "Direct Air Carbon Capture Using Metal-Organic Frameworks (MOFs): Techno-Economic Performance of Temperature Vacuum Swing Adsorption (TVSA) Systems",
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_1360ebddc22861ea9b824a8b7264c894",
+                  "title": "An Analysis of Hydrodynamic Models and a Proposal of Cultural Change based on predictions : The case of the Rio Grande do Sul Flood, Brazil",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "Deposita_966ad28ffff49f0964ebf8452bae7243",
+                  "title": "Políticas públicas em combate à seca no município de Croatá–CE (1983-1996)",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "Deposita_ec49a30d7e45247c34fe4b5c64e6341f",
+                  "title": "Dinâmicas sociais e turismo: o veraneio contemporâneo no litoral norte do Rio Grande do Sul",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                  "title": "El efecto invernadero y el clima",
+                  "score": 0.85,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_67c2a96342030e2584e0c96e5499f9ab",
+                  "title": "Climate sensitivity to changes in ocean heat transport",
+                  "score": 0.8,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 3,
+                  "recordId": "UY_13b364e947eb97132e99015b17654365",
+                  "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 4,
+                  "recordId": "UY_c3a87f7fc6683b9fd69de4a5a82e499d",
+                  "title": "An analysis of climate change and health hazards: results from an international study",
+                  "score": 0.8,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 5,
+                  "recordId": "UY_97b3ee1f58fa57c8291964e87c83f26b",
+                  "title": "Climate change, extreme events and mental health in the Pacific region",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 6,
+                  "recordId": "UY_5055ee0c9ffdfab032e19bfeb8052eab",
+                  "title": "Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+                  "title": "An assessment of priorities in handling climate change impacts on infrastructures",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_e8bd0f6831ad6af9de3466b4324092f8",
+                  "title": "Cambio climático: una experiencia de indagación guiada",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_7e1520e9a426848a939c3a709d587bf8",
+                  "title": "Sensitivity of fishery resources to climate change in the warm‑temperate Southwest Atlantic Ocean",
+                  "score": 0.79,
+                  "judgment": 2,
+                  "note": "",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                  "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                  "score": 0.79,
                   "judgment": 2,
                   "note": "",
                   "source": "title+abstract-rule",
@@ -14509,6 +23210,44 @@ window.LONG_QUERY_EXPERIMENT = {
               "keywordReturned": 0,
               "semanticReturned": 10
             }
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "text": "تغير المناخ",
+            "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%AA%D8%BA%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE&limit=10",
+            "results": {
+              "keyword": [],
+              "semantic": [
+                {
+                  "position": 1,
+                  "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                  "title": "El efecto invernadero y el clima",
+                  "score": 0.8,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                },
+                {
+                  "position": 2,
+                  "recordId": "UY_67c2a96342030e2584e0c96e5499f9ab",
+                  "title": "Climate sensitivity to changes in ocean heat transport",
+                  "score": 0.76,
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "source": "title+abstract-rule",
+                  "reviewBasis": "title+abstract"
+                }
+              ]
+            },
+            "metrics": {
+              "keywordHits": 0,
+              "semanticHits": 2,
+              "keywordReturned": 0,
+              "semanticReturned": 2
+            }
           }
         ],
         "matrix": {
@@ -14519,6 +23258,16 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr"
             },
             {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr"
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr"
+            },
+            {
               "language": "French",
               "languageCode": "fr",
               "direction": "ltr"
@@ -14542,6 +23291,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "language": "Japanese",
               "languageCode": "ja",
               "direction": "ltr"
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl"
             }
           ],
           "rows": [
@@ -14551,11 +23305,46 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 null,
+                6,
+                7,
                 7,
                 9,
                 7,
                 7,
-                5
+                5,
+                2
+              ]
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "values": [
+                6,
+                null,
+                7,
+                8,
+                6,
+                7,
+                6,
+                4,
+                2
+              ]
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "values": [
+                7,
+                7,
+                null,
+                8,
+                7,
+                6,
+                9,
+                7,
+                2
               ]
             },
             {
@@ -14564,11 +23353,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                8,
+                8,
                 null,
                 7,
                 6,
                 7,
-                5
+                5,
+                2
               ]
             },
             {
@@ -14577,11 +23369,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 9,
+                6,
+                7,
                 7,
                 null,
                 8,
                 8,
-                5
+                5,
+                2
               ]
             },
             {
@@ -14590,11 +23385,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                7,
+                6,
                 6,
                 8,
                 null,
                 7,
-                5
+                5,
+                2
               ]
             },
             {
@@ -14603,11 +23401,14 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 7,
+                6,
+                9,
                 7,
                 8,
                 7,
                 null,
-                7
+                7,
+                2
               ]
             },
             {
@@ -14616,15 +23417,44 @@ window.LONG_QUERY_EXPERIMENT = {
               "direction": "ltr",
               "values": [
                 5,
+                4,
+                7,
                 5,
                 5,
                 5,
                 7,
+                null,
+                2
+              ]
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "values": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
                 null
               ]
             }
           ],
           "pairs": [
+            {
+              "left": "en",
+              "right": "es",
+              "shared": 6
+            },
+            {
+              "left": "en",
+              "right": "pt",
+              "shared": 7
+            },
             {
               "left": "en",
               "right": "fr",
@@ -14651,6 +23481,76 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "en",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "es",
+              "right": "pt",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "fr",
+              "shared": 8
+            },
+            {
+              "left": "es",
+              "right": "de",
+              "shared": 6
+            },
+            {
+              "left": "es",
+              "right": "it",
+              "shared": 7
+            },
+            {
+              "left": "es",
+              "right": "zh",
+              "shared": 6
+            },
+            {
+              "left": "es",
+              "right": "ja",
+              "shared": 4
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "pt",
+              "right": "fr",
+              "shared": 8
+            },
+            {
+              "left": "pt",
+              "right": "de",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "it",
+              "shared": 6
+            },
+            {
+              "left": "pt",
+              "right": "zh",
+              "shared": 9
+            },
+            {
+              "left": "pt",
+              "right": "ja",
+              "shared": 7
+            },
+            {
+              "left": "pt",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "fr",
               "right": "de",
               "shared": 7
@@ -14671,6 +23571,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "fr",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "de",
               "right": "it",
               "shared": 8
@@ -14686,6 +23591,11 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "de",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "it",
               "right": "zh",
               "shared": 7
@@ -14696,12 +23606,28 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5
             },
             {
+              "left": "it",
+              "right": "ar",
+              "shared": 2
+            },
+            {
               "left": "zh",
               "right": "ja",
               "shared": 7
+            },
+            {
+              "left": "zh",
+              "right": "ar",
+              "shared": 2
+            },
+            {
+              "left": "ja",
+              "right": "ar",
+              "shared": 2
             }
           ],
-          "average": 6.67
+          "average": 5.67,
+          "averageWithoutArabic": 6.71
         },
         "separation": {
           "explanation": "Short topic labels are broad. They can retrieve relevant records across languages, but the shared top-10 may reflect the most common records for the topic rather than a narrower research question.",
@@ -14711,6 +23637,43 @@ window.LONG_QUERY_EXPERIMENT = {
             "Language-specific indexed vocabulary"
           ],
           "lowestPairs": [
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "en",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "Spanish",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "fr",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "French",
+              "rightLabel": "Arabic"
+            }
+          ],
+          "lowestNonArabicPairs": [
+            {
+              "left": "es",
+              "right": "ja",
+              "shared": 4,
+              "leftLabel": "Spanish",
+              "rightLabel": "Japanese"
+            },
             {
               "left": "de",
               "right": "ja",
@@ -14731,16 +23694,46 @@ window.LONG_QUERY_EXPERIMENT = {
               "shared": 5,
               "leftLabel": "French",
               "rightLabel": "Japanese"
+            }
+          ],
+          "lowestArabicPairs": [
+            {
+              "left": "de",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
             },
             {
-              "left": "it",
-              "right": "ja",
-              "shared": 5,
-              "leftLabel": "Italian",
-              "rightLabel": "Japanese"
+              "left": "en",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "English",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "es",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "Spanish",
+              "rightLabel": "Arabic"
+            },
+            {
+              "left": "fr",
+              "right": "ar",
+              "shared": 2,
+              "leftLabel": "French",
+              "rightLabel": "Arabic"
             }
           ],
           "highestPairs": [
+            {
+              "left": "pt",
+              "right": "zh",
+              "shared": 9,
+              "leftLabel": "Portuguese",
+              "rightLabel": "Chinese"
+            },
             {
               "left": "en",
               "right": "de",
@@ -14749,34 +23742,34 @@ window.LONG_QUERY_EXPERIMENT = {
               "rightLabel": "German"
             },
             {
-              "left": "de",
-              "right": "zh",
+              "left": "pt",
+              "right": "fr",
               "shared": 8,
-              "leftLabel": "German",
-              "rightLabel": "Chinese"
-            },
-            {
-              "left": "de",
-              "right": "it",
-              "shared": 8,
-              "leftLabel": "German",
-              "rightLabel": "Italian"
+              "leftLabel": "Portuguese",
+              "rightLabel": "French"
             }
           ],
-          "focusPair": {
+          "overallLowestPair": {
             "left": "de",
-            "right": "ja",
-            "shared": 5,
+            "right": "ar",
+            "shared": 2,
             "leftLabel": "German",
+            "rightLabel": "Arabic"
+          },
+          "focusPair": {
+            "left": "es",
+            "right": "ja",
+            "shared": 4,
+            "leftLabel": "Spanish",
             "rightLabel": "Japanese",
-            "editorialSummary": "Both sides stay partly connected through ecosystem functioning and protected areas and temperature dynamics and climate signals, but they select different records within that branch.",
+            "editorialSummary": "Both sides stay partly connected through temperature dynamics and climate signals, but they select different records within that branch.",
             "leftReading": {
               "themes": [
                 "infrastructure, settlements and adaptation",
-                "ecosystem functioning and protected areas",
-                "temperature dynamics and climate signals"
+                "temperature dynamics and climate signals",
+                "general climate or greenhouse-effect records"
               ],
-              "summary": "The German side appears to lean toward infrastructure, settlements and adaptation, ecosystem functioning and protected areas, and temperature dynamics and climate signals. Examples include \"An assessment of priorities in handling climate change impacts on infrastructures\" and \"Climate change adaptation responses among riparian settlements: a case study from Bangladesh\"."
+              "summary": "The Spanish side appears to lean toward infrastructure, settlements and adaptation, temperature dynamics and climate signals, and general climate or greenhouse-effect records. Examples include \"An assessment of priorities in handling climate change impacts on infrastructures\" and \"Cambio climático: una experiencia de indagación guiada\"."
             },
             "rightReading": {
               "themes": [
@@ -14784,7 +23777,7 @@ window.LONG_QUERY_EXPERIMENT = {
                 "ecosystem functioning and protected areas",
                 "temperature dynamics and climate signals"
               ],
-              "summary": "The Japanese side appears to lean toward marine, fisheries and Antarctic ecosystems, ecosystem functioning and protected areas, and temperature dynamics and climate signals. Examples include \"Sensitivity of fishery resources to climate change in the warm‑temperate Southwest Atlantic Ocean\" and \"Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)\"."
+              "summary": "The Japanese side appears to lean toward marine, fisheries and Antarctic ecosystems, ecosystem functioning and protected areas, and temperature dynamics and climate signals. Examples include \"Climate change, extreme events and mental health in the Pacific region\" and \"Sensitivity of fishery resources to climate change in the warm‑temperate Southwest Atlantic Ocean\"."
             },
             "leftOnly": [
               {
@@ -14797,25 +23790,34 @@ window.LONG_QUERY_EXPERIMENT = {
                 "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9cd00621e5336520be0fa8cfae45e044/Description"
               },
               {
-                "position": 5,
-                "recordId": "UY_754b1e121730c48ad15abc943519ce40",
-                "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                "position": 3,
+                "recordId": "UY_e8bd0f6831ad6af9de3466b4324092f8",
+                "title": "Cambio climático: una experiencia de indagación guiada",
                 "judgment": 2,
                 "note": "",
-                "abstractSnippet": "As transition areas between aquatic ecosystems and the adjacent terrestrial ones, riparian regions are highly exposed to coastal climate hazards. This article describes how climate change and extreme weather impact vulnerable riparian communities and settleme…",
-                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_754b1e121730c48ad15abc943519ce40/Description"
+                "abstractSnippet": "En esta comunicación se describe una propuesta de desarrollo profesional docente en modalidad de taller, enfocada en el tema cambio climático y basada en la estrategia de indagación guiada. Mediante un enfoque de trabajo en equipo, los educadores participante…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e8bd0f6831ad6af9de3466b4324092f8/Description"
               },
               {
-                "position": 7,
-                "recordId": "UY_7f2899717ddfe9925bfcf2c579e7e9a9",
-                "title": "Climate change scepticism at universities: a global study",
+                "position": 5,
+                "recordId": "UY_a34f9e9311eb67c92dd41929a3fec280",
+                "title": "Cambio climático y desarrollo sustentable en Uruguay : iniciativas impulsadas para la adaptación y mitigación; y su potencial implementación en el territorio nacional",
                 "judgment": 2,
                 "note": "",
-                "abstractSnippet": "This article belongs to the Special Issue Environmental Education for Sustainability",
-                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7f2899717ddfe9925bfcf2c579e7e9a9/Description"
+                "abstractSnippet": "",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_a34f9e9311eb67c92dd41929a3fec280/Description"
               }
             ],
             "rightOnly": [
+              {
+                "position": 4,
+                "recordId": "UY_97b3ee1f58fa57c8291964e87c83f26b",
+                "title": "Climate change, extreme events and mental health in the Pacific region",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Purpose: This paper aims to address a gap in investigating specific impacts of climate change on mental health in the Pacific region, a region prone to extreme events. This paper reports on a study on the connections between climate change, public health, ext…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_97b3ee1f58fa57c8291964e87c83f26b/Description"
+              },
               {
                 "position": 5,
                 "recordId": "UY_7e1520e9a426848a939c3a709d587bf8",
@@ -14826,31 +23828,74 @@ window.LONG_QUERY_EXPERIMENT = {
                 "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_7e1520e9a426848a939c3a709d587bf8/Description"
               },
               {
-                "position": 7,
-                "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
-                "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                "position": 6,
+                "recordId": "UY_5055ee0c9ffdfab032e19bfeb8052eab",
+                "title": "Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses",
                 "judgment": 2,
                 "note": "",
-                "abstractSnippet": "Global environmental change is characterized by changing climate, atmospheric composition and land use. Its impact on ecosystem structure and functioning has been detected throughout the world. While every ecosystem is vulnerable to climate change, the degree…",
-                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_38c3c205ae4ffdc22e68d58d82cbe17d/Description"
-              },
-              {
-                "position": 8,
-                "recordId": "UY_8db45bbdc86f7bfbdc5e3c04d6aa1b0a",
-                "title": "Quantifying changes in spatial patterns of surface air temperature dynamics over several decades",
-                "judgment": 2,
-                "note": "",
-                "abstractSnippet": "We study daily surface air temperature (SAT) reanalysis in a grid over the Earth’s surface to iden- tify and quantify changes in SAT dynamics during the period 1979–2016. By analysing the Hilbert amplitude and frequency we identify the regions where relative…",
-                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_8db45bbdc86f7bfbdc5e3c04d6aa1b0a/Description"
+                "abstractSnippet": "Lakes are ecosystems characterised by a substantial vulnerability to climate change. Their geomorphological features mean that they are particularly exposed to extreme events, which are known to put a significant pressure on fauna, flora and human populations…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5055ee0c9ffdfab032e19bfeb8052eab/Description"
               }
             ]
+          },
+          "arabicFocusPair": {
+            "left": "de",
+            "right": "ar",
+            "shared": 2,
+            "leftLabel": "German",
+            "rightLabel": "Arabic",
+            "editorialSummary": "The separation looks thematic: one side emphasizes infrastructure, settlements and adaptation, ecosystem functioning and protected areas, and temperature dynamics and climate signals, while the other emphasizes broad or weakly specified branch.",
+            "leftReading": {
+              "themes": [
+                "infrastructure, settlements and adaptation",
+                "ecosystem functioning and protected areas",
+                "temperature dynamics and climate signals"
+              ],
+              "summary": "The German side appears to lean toward infrastructure, settlements and adaptation, ecosystem functioning and protected areas, and temperature dynamics and climate signals. Examples include \"An assessment of priorities in handling climate change impacts on infrastructures\" and \"Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries\"."
+            },
+            "rightReading": {
+              "themes": [
+                "broad or weakly specified branch"
+              ],
+              "summary": "The Arabic side appears to lean toward a broad or weakly specified branch of the topic. The visible records do not expose enough title or abstract detail for a precise subtheme."
+            },
+            "leftOnly": [
+              {
+                "position": 2,
+                "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+                "title": "An assessment of priorities in handling climate change impacts on infrastructures",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Climate change (CC) will likely significantly impact the world’s infrastructure significantly. Rising temperatures, increased precipitation, and rising sea levels are all likely to stress critical infrastructures (CI). Rising temperatures can lead to infrastr…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9cd00621e5336520be0fa8cfae45e044/Description"
+              },
+              {
+                "position": 3,
+                "recordId": "UY_13b364e947eb97132e99015b17654365",
+                "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "It is well-known that climate change significantly impacts ecosystems (at the macro-level) and individual species (at the micro-level). Among the former, estuaries are the most vulnerable and affected ecosystems. However, despite the strong relations between…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_13b364e947eb97132e99015b17654365/Description"
+              },
+              {
+                "position": 4,
+                "recordId": "UY_5055ee0c9ffdfab032e19bfeb8052eab",
+                "title": "Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses",
+                "judgment": 2,
+                "note": "",
+                "abstractSnippet": "Lakes are ecosystems characterised by a substantial vulnerability to climate change. Their geomorphological features mean that they are particularly exposed to extreme events, which are known to put a significant pressure on fauna, flora and human populations…",
+                "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5055ee0c9ffdfab032e19bfeb8052eab/Description"
+              }
+            ],
+            "rightOnly": []
           }
         },
         "summary": {
-          "semanticHitsTotal": 59,
-          "keywordHitsTotal": 19,
-          "semanticHitsAverage": 9.83,
-          "keywordHitsAverage": 3.17
+          "semanticHitsTotal": 81,
+          "keywordHitsTotal": 38,
+          "semanticHitsAverage": 9,
+          "keywordHitsAverage": 4.22
         }
       },
       "shortQueryMatrix": {
@@ -14861,6 +23906,16 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr"
           },
           {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr"
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr"
+          },
+          {
             "language": "French",
             "languageCode": "fr",
             "direction": "ltr"
@@ -14884,6 +23939,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "language": "Japanese",
             "languageCode": "ja",
             "direction": "ltr"
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl"
           }
         ],
         "rows": [
@@ -14893,11 +23953,46 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               null,
+              6,
+              7,
               7,
               9,
               7,
               7,
-              5
+              5,
+              2
+            ]
+          },
+          {
+            "language": "Spanish",
+            "languageCode": "es",
+            "direction": "ltr",
+            "values": [
+              6,
+              null,
+              7,
+              8,
+              6,
+              7,
+              6,
+              4,
+              2
+            ]
+          },
+          {
+            "language": "Portuguese",
+            "languageCode": "pt",
+            "direction": "ltr",
+            "values": [
+              7,
+              7,
+              null,
+              8,
+              7,
+              6,
+              9,
+              7,
+              2
             ]
           },
           {
@@ -14906,11 +24001,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              8,
+              8,
               null,
               7,
               6,
               7,
-              5
+              5,
+              2
             ]
           },
           {
@@ -14919,11 +24017,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               9,
+              6,
+              7,
               7,
               null,
               8,
               8,
-              5
+              5,
+              2
             ]
           },
           {
@@ -14932,11 +24033,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              7,
+              6,
               6,
               8,
               null,
               7,
-              5
+              5,
+              2
             ]
           },
           {
@@ -14945,11 +24049,14 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               7,
+              6,
+              9,
               7,
               8,
               7,
               null,
-              7
+              7,
+              2
             ]
           },
           {
@@ -14958,15 +24065,44 @@ window.LONG_QUERY_EXPERIMENT = {
             "direction": "ltr",
             "values": [
               5,
+              4,
+              7,
               5,
               5,
               5,
               7,
+              null,
+              2
+            ]
+          },
+          {
+            "language": "Arabic",
+            "languageCode": "ar",
+            "direction": "rtl",
+            "values": [
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
               null
             ]
           }
         ],
         "pairs": [
+          {
+            "left": "en",
+            "right": "es",
+            "shared": 6
+          },
+          {
+            "left": "en",
+            "right": "pt",
+            "shared": 7
+          },
           {
             "left": "en",
             "right": "fr",
@@ -14993,6 +24129,76 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "en",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "es",
+            "right": "pt",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "fr",
+            "shared": 8
+          },
+          {
+            "left": "es",
+            "right": "de",
+            "shared": 6
+          },
+          {
+            "left": "es",
+            "right": "it",
+            "shared": 7
+          },
+          {
+            "left": "es",
+            "right": "zh",
+            "shared": 6
+          },
+          {
+            "left": "es",
+            "right": "ja",
+            "shared": 4
+          },
+          {
+            "left": "es",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "pt",
+            "right": "fr",
+            "shared": 8
+          },
+          {
+            "left": "pt",
+            "right": "de",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "it",
+            "shared": 6
+          },
+          {
+            "left": "pt",
+            "right": "zh",
+            "shared": 9
+          },
+          {
+            "left": "pt",
+            "right": "ja",
+            "shared": 7
+          },
+          {
+            "left": "pt",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "fr",
             "right": "de",
             "shared": 7
@@ -15013,6 +24219,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "fr",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "de",
             "right": "it",
             "shared": 8
@@ -15028,6 +24239,11 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "de",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "it",
             "right": "zh",
             "shared": 7
@@ -15038,12 +24254,28 @@ window.LONG_QUERY_EXPERIMENT = {
             "shared": 5
           },
           {
+            "left": "it",
+            "right": "ar",
+            "shared": 2
+          },
+          {
             "left": "zh",
             "right": "ja",
             "shared": 7
+          },
+          {
+            "left": "zh",
+            "right": "ar",
+            "shared": 2
+          },
+          {
+            "left": "ja",
+            "right": "ar",
+            "shared": 2
           }
         ],
-        "average": 6.67
+        "average": 5.67,
+        "averageWithoutArabic": 6.71
       },
       "variants": [
         {
@@ -15264,6 +24496,424 @@ window.LONG_QUERY_EXPERIMENT = {
               "metrics": {
                 "keywordHits": 8,
                 "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "impactos del cambio climático en los ecosistemas y las comunidades",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=impactos%20del%20cambio%20clim%C3%A1tico%20en%20los%20ecosistemas%20y%20las%20comunidades&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_414073b5ba5ea3925961498ed328b567",
+                    "title": "Informe final del proyecto: Impactos del cambio global sobre los ecosistemas antárticos: los pingüinos pygoscélidos como centinelas del Océano Austral",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_c5391496e1cdacf1915d62a34ec7c662",
+                    "title": "Informe final del proyecto: Determinantes naturales y antrópicos de la estructura y funcionamiento de las redes tróficas de charcos permanentes",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_c7231496c09360fe2bad2262414339b4",
+                    "title": "Informe final del proyecto: Análisis de la Estructura y Funcionamiento de las Comunidades y Tramas Tróficas Fluviales: Comunidades de peces del Río Queguay como Modelo.",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_5e7a2a1a611d04e8ce8ecb98464cd549",
+                    "title": "Cambios en la dieta de los pingüinos pigoscélidos como indicador de los impactos del cambio climático y las actividades humanas en los ecosistemas marinos de la Península Antártica",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_9984b38c61e6e1cd0405fb97ec9b451c",
+                    "title": "Energy Optimization with Bioinspired Geometric Patterns: Artificial Intelligence in Passive Architectural Design",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_51152b0e6d53abeafadc5c54a2c29f5c",
+                    "title": "Environmental stressors of the stream functioning in Uruguay. (Biomonitoring based on macroinvertebrate taxonomic and functional structure and leaf litter decomposition process)",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_0583cda9a8877f621969230fc7889c97",
+                    "title": "Informe final del proyecto: Respuestas del sistema cotero La Coronilla-Barra del Chuy a modificaciones en la descarga del Canal Andreoni: bases multidimensionales para cuantificar su resiliencia",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_640140f8f7bd1d6b5a68cd6cb06460cb",
+                    "title": "Las arañas en agroecosistemas: bioindicadores terrestres de calidad ambiental",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_33fe25ced10dcd70d2a02da28bcb5165",
+                    "title": "Los servicios ambientales",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_154c7ae61b84e7947b38c45e10192da5",
+                    "title": "Informe final del proyecto: Modelización de los efectos del cambio y la variabilidad climática en la intensificación de las floraciones de cianobacterias tóxicas en el río Uruguay y Río de la Plata",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.85,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.83,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                    "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                    "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+                    "title": "An assessment of priorities in handling climate change impacts on infrastructures",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_e9e7029894b03dc7e23372259f2dbc57",
+                    "title": "El ambiente y la estructura comunitaria como determinantes de la estabilidad en comunidades vegetales de charcos temporales",
+                    "score": 0.81,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 6,
+                "semanticHits": 8,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "impactos das mudanças climáticas nos ecossistemas e nas comunidades",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=impactos%20das%20mudan%C3%A7as%20clim%C3%A1ticas%20nos%20ecossistemas%20e%20nas%20comunidades&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "Deposita_1c6437a99547255a31dbcb71003839f4",
+                    "title": "Ecodinâmica da paisagem paleodunar do médio Rio São Francisco/BA: em defesa das fronteiras agredidas",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Deposita_d07eee2fbc185809216e20693d5b82ce",
+                    "title": "Remanejamento de comunidades ribeirinhas na Amazônia e os reflexos social, econômico e na educação",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_55f3107d40c34bf9acf8ba6c714f4d71",
+                    "title": "Confluence of social perception and environmental habitability in public spaces of indigenous communities of the Manantlán Reserve, Jalisco, Mexico",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "Deposita_257dccaded2a03bfbf1182e793c33298",
+                    "title": "Atualização da cheia de projeto e o seu impacto na probabilidade de falha por deslizamento da barragem. Estudo de Caso: UHE Santa Clara.",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Deposita_a906978cd9ddf486a8a72101117fa7d5",
+                    "title": "A política ambiental do Partido Democrata: de Barack Obama a Joe Biden (2009/2022)",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Deposita_d5dde6ec2c3a559a59a68d73c67452c1",
+                    "title": "Análise da influência dos fenômenos el niño e la niña na ocorrência de eventos climáticos de seca e enchente",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_b39ca5cdac40bd3582f33d5b94b3c866",
+                    "title": "Review on ecological interactions of the Cochliomyia hominivorax fly and assessment of the possible impacts of its eradication in Uruguay. [Revisión de las interacciones ecológicas de la mosca Cochliomyia hominivorax y evaluación de los posibles impactos ecológicos de su erradicación en Uruguay]. [Revisão das interações ecológicas da mosca Cochliomyia hominivorax e avaliação dos possíveis impactos ecológicos de sua erradicação no Uruguai].",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Deposita_607b5b9a58a8ec0b080779ad783f2e2d",
+                    "title": "Educar é um ato de amor",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_a8300886ea98aca816e12acc0f65e333",
+                    "title": "Sustainable Strategies in ESOL Teacher Development: Connecting Theory, Practice, and Community",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "Deposita_ea2706aa6b9d590211bb6add36a31690",
+                    "title": "O território usado entre manifestações culturais e firmas transnacionais: O caso da territorialidade da monocultura do arroz na região dos Eixos Rodoferroviários - Maranhão (Brasil)",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.86,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.82,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                    "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_f52304fd1c0c0a5b8e166c2a54775b27",
+                    "title": "Benthic estuarine communities in Brazil: moving forward to long term studies to assess climate change impacts",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_c3a87f7fc6683b9fd69de4a5a82e499d",
+                    "title": "An analysis of climate change and health hazards: results from an international study",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_97b3ee1f58fa57c8291964e87c83f26b",
+                    "title": "Climate change, extreme events and mental health in the Pacific region",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 6,
+                "semanticHits": 9,
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
@@ -16130,6 +25780,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "آثار تغير المناخ على النظم البيئية والمجتمعات",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D8%A7%D8%AA&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.81,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.8,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                    "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_db044326d84a8bd5e9ba15b5bb5ef872",
+                    "title": "Climate change and zoonoses: a review of concepts, definitions, and bibliometrics",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_b4f34416f6b770594262d985c135de69",
+                    "title": "Distinguishing the effects of internal and forced atmospheric variability in climate networks",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_c3a87f7fc6683b9fd69de4a5a82e499d",
+                    "title": "An analysis of climate change and health hazards: results from an international study",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 9,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -16140,6 +25908,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -16163,6 +25941,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -16172,11 +25955,46 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   null,
+                  6,
+                  6,
                   7,
                   8,
                   8,
                   8,
+                  6,
                   6
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  6,
+                  null,
+                  7,
+                  8,
+                  7,
+                  8,
+                  8,
+                  9,
+                  7
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  6,
+                  7,
+                  null,
+                  8,
+                  6,
+                  8,
+                  7,
+                  8,
+                  7
                 ]
               },
               {
@@ -16185,10 +26003,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  8,
+                  8,
                   null,
                   8,
                   9,
                   9,
+                  8,
                   8
                 ]
               },
@@ -16198,11 +26019,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  7,
+                  6,
                   8,
                   null,
                   8,
                   8,
-                  7
+                  7,
+                  6
                 ]
               },
               {
@@ -16211,11 +26035,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  8,
+                  8,
                   9,
                   8,
                   null,
                   9,
-                  8
+                  8,
+                  7
                 ]
               },
               {
@@ -16224,10 +26051,13 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  8,
+                  7,
                   9,
                   8,
                   9,
                   null,
+                  8,
                   8
                 ]
               },
@@ -16237,15 +26067,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  9,
+                  8,
                   8,
                   7,
                   8,
                   8,
+                  null,
+                  7
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  6,
+                  7,
+                  7,
+                  8,
+                  6,
+                  7,
+                  8,
+                  7,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 6
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 6
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -16272,6 +26131,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 9
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 8
@@ -16292,6 +26221,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 8
@@ -16307,6 +26241,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 7
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 6
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 9
@@ -16317,12 +26256,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 8
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 8
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 7
               }
             ],
-            "average": 7.93
+            "average": 7.53,
+            "averageWithoutArabic": 7.68
           },
           "separation": {
             "explanation": "Climate-change phrases can split between ecological-impact records and records about adaptation, infrastructure, settlements or social exposure. Ambiguous community wording can increase that split.",
@@ -16333,6 +26288,50 @@ window.LONG_QUERY_EXPERIMENT = {
             ],
             "lowestPairs": [
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 6,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Spanish"
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Portuguese"
+              },
+              {
+                "left": "en",
+                "right": "ja",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Japanese"
+              }
+            ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Spanish"
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Portuguese"
+              },
+              {
                 "left": "en",
                 "right": "ja",
                 "shared": 6,
@@ -16340,25 +26339,41 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Japanese"
               },
               {
+                "left": "pt",
+                "right": "de",
+                "shared": 6,
+                "leftLabel": "Portuguese",
+                "rightLabel": "German"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
                 "left": "de",
-                "right": "ja",
-                "shared": 7,
+                "right": "ar",
+                "shared": 6,
                 "leftLabel": "German",
-                "rightLabel": "Japanese"
+                "rightLabel": "Arabic"
               },
               {
                 "left": "en",
-                "right": "fr",
-                "shared": 7,
+                "right": "ar",
+                "shared": 6,
                 "leftLabel": "English",
-                "rightLabel": "French"
+                "rightLabel": "Arabic"
               },
               {
-                "left": "de",
-                "right": "it",
-                "shared": 8,
-                "leftLabel": "German",
-                "rightLabel": "Italian"
+                "left": "es",
+                "right": "ar",
+                "shared": 7,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "it",
+                "right": "ar",
+                "shared": 7,
+                "leftLabel": "Italian",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
@@ -16384,13 +26399,20 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Italian"
               }
             ],
+            "overallLowestPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 6,
+              "leftLabel": "German",
+              "rightLabel": "Arabic"
+            },
             "focusPair": {
               "left": "en",
-              "right": "ja",
+              "right": "es",
               "shared": 6,
               "leftLabel": "English",
-              "rightLabel": "Japanese",
-              "editorialSummary": "Both sides stay partly connected through ecosystem functioning and protected areas and temperature dynamics and climate signals, but they select different records within that branch.",
+              "rightLabel": "Spanish",
+              "editorialSummary": "Both sides stay partly connected through temperature dynamics and climate signals, but they select different records within that branch.",
               "leftReading": {
                 "themes": [
                   "ecosystem functioning and protected areas",
@@ -16401,11 +26423,11 @@ window.LONG_QUERY_EXPERIMENT = {
               },
               "rightReading": {
                 "themes": [
-                  "ecosystem functioning and protected areas",
+                  "infrastructure, settlements and adaptation",
                   "temperature dynamics and climate signals",
                   "public engagement and climate communication"
                 ],
-                "summary": "The Japanese side appears to lean toward ecosystem functioning and protected areas, temperature dynamics and climate signals, and public engagement and climate communication. Examples include \"El efecto invernadero y el clima\" and \"El ambiente y la estructura comunitaria como determinantes de la estabilidad en comunidades vegetales de charcos temporales\"."
+                "summary": "The Spanish side appears to lean toward infrastructure, settlements and adaptation, temperature dynamics and climate signals, and public engagement and climate communication. Examples include \"La tecnología y sus implicaciones en el comportamiento humano con su ambiente\" and \"El efecto invernadero y el clima\"."
               },
               "leftOnly": [
                 {
@@ -16438,7 +26460,16 @@ window.LONG_QUERY_EXPERIMENT = {
               ],
               "rightOnly": [
                 {
-                  "position": 3,
+                  "position": 4,
+                  "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                  "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                  "judgment": 0,
+                  "note": "The title and abstract do not establish a climate change focus.",
+                  "abstractSnippet": "",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_b2c356751026916ab50170e4034f1e87/Description"
+                },
+                {
+                  "position": 5,
                   "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
                   "title": "El efecto invernadero y el clima",
                   "judgment": 1,
@@ -16447,31 +26478,104 @@ window.LONG_QUERY_EXPERIMENT = {
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_ae99a25900d88ac35f79795e1047b5ec/Description"
                 },
                 {
-                  "position": 6,
-                  "recordId": "UY_e9e7029894b03dc7e23372259f2dbc57",
-                  "title": "El ambiente y la estructura comunitaria como determinantes de la estabilidad en comunidades vegetales de charcos temporales",
-                  "judgment": 0,
-                  "note": "The title and abstract do not establish a climate change focus.",
-                  "abstractSnippet": "",
-                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_e9e7029894b03dc7e23372259f2dbc57/Description"
+                  "position": 9,
+                  "recordId": "UY_9cd00621e5336520be0fa8cfae45e044",
+                  "title": "An assessment of priorities in handling climate change impacts on infrastructures",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Climate change (CC) will likely significantly impact the world’s infrastructure significantly. Rising temperatures, increased precipitation, and rising sea levels are all likely to stress critical infrastructures (CI). Rising temperatures can lead to infrastr…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_9cd00621e5336520be0fa8cfae45e044/Description"
+                }
+              ]
+            },
+            "arabicFocusPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 6,
+              "leftLabel": "German",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through temperature dynamics and climate signals, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "ecosystem functioning and protected areas",
+                  "temperature dynamics and climate signals",
+                  "lakes, water levels and policy response"
+                ],
+                "summary": "The German side appears to lean toward ecosystem functioning and protected areas, temperature dynamics and climate signals, and lakes, water levels and policy response. Examples include \"Climate-driven ‘species-on-the-move’ provide tangible anchors to engage the public on climate change\" and \"Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "temperature dynamics and climate signals",
+                  "zoonoses and health impacts",
+                  "public engagement and climate communication"
+                ],
+                "summary": "The Arabic side appears to lean toward temperature dynamics and climate signals, zoonoses and health impacts, and public engagement and climate communication. Examples include \"La tecnología y sus implicaciones en el comportamiento humano con su ambiente\" and \"Climate change and zoonoses: a review of concepts, definitions, and bibliometrics\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 5,
+                  "recordId": "UY_93d7a7e45bcf25948de07262cc69c838",
+                  "title": "Climate-driven ‘species-on-the-move’ provide tangible anchors to engage the public on climate change",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Este artículo fue escrito por 26 autores.",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_93d7a7e45bcf25948de07262cc69c838/Description"
+                },
+                {
+                  "position": 7,
+                  "recordId": "UY_5055ee0c9ffdfab032e19bfeb8052eab",
+                  "title": "Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Lakes are ecosystems characterised by a substantial vulnerability to climate change. Their geomorphological features mean that they are particularly exposed to extreme events, which are known to put a significant pressure on fauna, flora and human populations…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5055ee0c9ffdfab032e19bfeb8052eab/Description"
                 },
                 {
                   "position": 8,
+                  "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                  "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Global environmental change is characterized by changing climate, atmospheric composition and land use. Its impact on ecosystem structure and functioning has been detected throughout the world. While every ecosystem is vulnerable to climate change, the degree…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_38c3c205ae4ffdc22e68d58d82cbe17d/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 4,
                   "recordId": "UY_b2c356751026916ab50170e4034f1e87",
                   "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
                   "judgment": 0,
                   "note": "The title and abstract do not establish a climate change focus.",
                   "abstractSnippet": "",
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_b2c356751026916ab50170e4034f1e87/Description"
+                },
+                {
+                  "position": 8,
+                  "recordId": "UY_db044326d84a8bd5e9ba15b5bb5ef872",
+                  "title": "Climate change and zoonoses: a review of concepts, definitions, and bibliometrics",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Climate change can have a complex impact that also influences human and animal health. For example, climate change alters the conditions for pathogens and vectors of zoonotic diseases. Signs of this are the increasing spread of the West Nile and Usutu viruses…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_db044326d84a8bd5e9ba15b5bb5ef872/Description"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_b4f34416f6b770594262d985c135de69",
+                  "title": "Distinguishing the effects of internal and forced atmospheric variability in climate networks",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "The fact that the climate on the earth is a highly complex dynamical system is well-known. In the last few decades great deal of effort has been focused on understanding how climate phenomena in one geographical region affects the climate of other regions. Co…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_b4f34416f6b770594262d985c135de69/Description"
                 }
               ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 55,
-            "keywordHitsTotal": 19,
-            "semanticHitsAverage": 9.17,
-            "keywordHitsAverage": 3.17
+            "semanticHitsTotal": 81,
+            "keywordHitsTotal": 31,
+            "semanticHitsAverage": 9,
+            "keywordHitsAverage": 3.44
           }
         },
         {
@@ -16692,6 +26796,424 @@ window.LONG_QUERY_EXPERIMENT = {
               "metrics": {
                 "keywordHits": 10,
                 "semanticHits": 10,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Spanish",
+              "languageCode": "es",
+              "direction": "ltr",
+              "text": "impactos del cambio climático en los ecosistemas y los asentamientos humanos",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=impactos%20del%20cambio%20clim%C3%A1tico%20en%20los%20ecosistemas%20y%20los%20asentamientos%20humanos&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_414073b5ba5ea3925961498ed328b567",
+                    "title": "Informe final del proyecto: Impactos del cambio global sobre los ecosistemas antárticos: los pingüinos pygoscélidos como centinelas del Océano Austral",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_5e7a2a1a611d04e8ce8ecb98464cd549",
+                    "title": "Cambios en la dieta de los pingüinos pigoscélidos como indicador de los impactos del cambio climático y las actividades humanas en los ecosistemas marinos de la Península Antártica",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_51152b0e6d53abeafadc5c54a2c29f5c",
+                    "title": "Environmental stressors of the stream functioning in Uruguay. (Biomonitoring based on macroinvertebrate taxonomic and functional structure and leaf litter decomposition process)",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_0583cda9a8877f621969230fc7889c97",
+                    "title": "Informe final del proyecto: Respuestas del sistema cotero La Coronilla-Barra del Chuy a modificaciones en la descarga del Canal Andreoni: bases multidimensionales para cuantificar su resiliencia",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_33fe25ced10dcd70d2a02da28bcb5165",
+                    "title": "Los servicios ambientales",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_154c7ae61b84e7947b38c45e10192da5",
+                    "title": "Informe final del proyecto: Modelización de los efectos del cambio y la variabilidad climática en la intensificación de las floraciones de cianobacterias tóxicas en el río Uruguay y Río de la Plata",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_110504eb813897ea7dbcc1962a4b4dac",
+                    "title": "Percepción de riesgo en la adaptación al cambio climático en Laguna de Rocha",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_abd92601c627697f9187e75fd2ec64f4",
+                    "title": "Utilization of Solar Energy for Cooling Applications: a Review",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_f34d0321e04a6fe6e07bed43ffcdc4d0",
+                    "title": "Ecología de forrajeo de pingüinos Pygoscélidos: ganadores y perdedores frente al cambio global",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_6aeaaa7fd958388c3a838a899e9901ee",
+                    "title": "Illegal migration and weather shocks",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.84,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.84,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.83,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                    "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                    "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_95eae24435099678516c9d1d9750c96d",
+                    "title": "El papel de la Ciencia en el proceso de Ordenamiento Territorial (y en otras cuestiones vinculadas con problemas ambientales)",
+                    "score": 0.8,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_5e7a2a1a611d04e8ce8ecb98464cd549",
+                    "title": "Cambios en la dieta de los pingüinos pigoscélidos como indicador de los impactos del cambio climático y las actividades humanas en los ecosistemas marinos de la Península Antártica",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 8,
+                "semanticHits": 8,
+                "keywordReturned": 10,
+                "semanticReturned": 10
+              }
+            },
+            {
+              "language": "Portuguese",
+              "languageCode": "pt",
+              "direction": "ltr",
+              "text": "impactos das mudanças climáticas nos ecossistemas e nos assentamentos humanos",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=impactos%20das%20mudan%C3%A7as%20clim%C3%A1ticas%20nos%20ecossistemas%20e%20nos%20assentamentos%20humanos&limit=10",
+              "results": {
+                "keyword": [
+                  {
+                    "position": 1,
+                    "recordId": "Deposita_1c6437a99547255a31dbcb71003839f4",
+                    "title": "Ecodinâmica da paisagem paleodunar do médio Rio São Francisco/BA: em defesa das fronteiras agredidas",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "Deposita_ea2706aa6b9d590211bb6add36a31690",
+                    "title": "O território usado entre manifestações culturais e firmas transnacionais: O caso da territorialidade da monocultura do arroz na região dos Eixos Rodoferroviários - Maranhão (Brasil)",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_b39ca5cdac40bd3582f33d5b94b3c866",
+                    "title": "Review on ecological interactions of the Cochliomyia hominivorax fly and assessment of the possible impacts of its eradication in Uruguay. [Revisión de las interacciones ecológicas de la mosca Cochliomyia hominivorax y evaluación de los posibles impactos ecológicos de su erradicación en Uruguay]. [Revisão das interações ecológicas da mosca Cochliomyia hominivorax e avaliação dos possíveis impactos ecológicos de sua erradicação no Uruguai].",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_55f3107d40c34bf9acf8ba6c714f4d71",
+                    "title": "Confluence of social perception and environmental habitability in public spaces of indigenous communities of the Manantlán Reserve, Jalisco, Mexico",
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "Deposita_a906978cd9ddf486a8a72101117fa7d5",
+                    "title": "A política ambiental do Partido Democrata: de Barack Obama a Joe Biden (2009/2022)",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "Deposita_d5dde6ec2c3a559a59a68d73c67452c1",
+                    "title": "Análise da influência dos fenômenos el niño e la niña na ocorrência de eventos climáticos de seca e enchente",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_092909639d71c17b347316d699fa9b60",
+                    "title": "Commentary on Judgments No. 38/2021 of the Family Law Court of the 9th Round and No. 9/2021 of the Family Court of Appeals of the 2nd Round: Right to Housing, Duty of the State",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "Deposita_607b5b9a58a8ec0b080779ad783f2e2d",
+                    "title": "Educar é um ato de amor",
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "Deposita_a63b1ded2c8e719f77d5a1f83ac10a33",
+                    "title": "Análise da vulnerabilidade ambiental da bacia hidrográfica do Rio Doce – RN",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_ea9484882aa251544d99215b3ac986a7",
+                    "title": "PHILOSOPHICAL VIEW OF HUMAN CARE IN THE WOMAN IN THE CLIMACTERIC STAGE",
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.85,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.84,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.82,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                    "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                    "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                    "score": 0.81,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_f52304fd1c0c0a5b8e166c2a54775b27",
+                    "title": "Benthic estuarine communities in Brazil: moving forward to long term studies to assess climate change impacts",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_95eae24435099678516c9d1d9750c96d",
+                    "title": "El papel de la Ciencia en el proceso de Ordenamiento Territorial (y en otras cuestiones vinculadas con problemas ambientales)",
+                    "score": 0.8,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 5,
+                "semanticHits": 8,
                 "keywordReturned": 10,
                 "semanticReturned": 10
               }
@@ -17558,6 +28080,124 @@ window.LONG_QUERY_EXPERIMENT = {
                 "keywordReturned": 0,
                 "semanticReturned": 10
               }
+            },
+            {
+              "language": "Arabic",
+              "languageCode": "ar",
+              "direction": "rtl",
+              "text": "آثار تغير المناخ على النظم البيئية والمستوطنات البشرية",
+              "combinedUrl": "https://search.lareferencia.info/vufind/Combined/Results?lookfor=%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9&limit=10",
+              "results": {
+                "keyword": [],
+                "semantic": [
+                  {
+                    "position": 1,
+                    "recordId": "UY_b7f58af157e45ff7b1682f5b0db931ef",
+                    "title": "Efecto de la urbanización y el cambio climático en los ecosistemas de playas arenosas",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 2,
+                    "recordId": "UY_13b364e947eb97132e99015b17654365",
+                    "title": "Influences of climate change and variability on estuarine ecosystems: an impact study in selected european, south american and asian countries",
+                    "score": 0.82,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 3,
+                    "recordId": "UY_a609bc6d5e9cfaeb01f1f3910de1f93e",
+                    "title": "Efectos de la variabilidad climática y la pesca en ecosistemas costeros de América Latina",
+                    "score": 0.82,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 4,
+                    "recordId": "UY_ae99a25900d88ac35f79795e1047b5ec",
+                    "title": "El efecto invernadero y el clima",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 5,
+                    "recordId": "UY_f7551344cd516b3afc95870f55af4564",
+                    "title": "Las restricciones climáticas en los sistemas ganaderos y el papel de los bosques nativos.",
+                    "score": 0.81,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 6,
+                    "recordId": "UY_b2c356751026916ab50170e4034f1e87",
+                    "title": "La tecnología y sus implicaciones en el comportamiento humano con su ambiente",
+                    "score": 0.81,
+                    "judgment": 0,
+                    "note": "The title and abstract do not establish a climate change focus.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title-only"
+                  },
+                  {
+                    "position": 7,
+                    "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                    "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                    "score": 0.8,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 8,
+                    "recordId": "UY_db044326d84a8bd5e9ba15b5bb5ef872",
+                    "title": "Climate change and zoonoses: a review of concepts, definitions, and bibliometrics",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 9,
+                    "recordId": "UY_269fe4de2f7cbad5ce5cf4a3378c59d1",
+                    "title": "Impacts of Geopolitics and Policy on Latin American Biodiversity and Water Resources",
+                    "score": 0.79,
+                    "judgment": 1,
+                    "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  },
+                  {
+                    "position": 10,
+                    "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                    "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                    "score": 0.79,
+                    "judgment": 2,
+                    "note": "",
+                    "source": "title+abstract-rule",
+                    "reviewBasis": "title+abstract"
+                  }
+                ]
+              },
+              "metrics": {
+                "keywordHits": 0,
+                "semanticHits": 9,
+                "keywordReturned": 0,
+                "semanticReturned": 10
+              }
             }
           ],
           "matrix": {
@@ -17568,6 +28208,16 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr"
               },
               {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr"
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr"
+              },
+              {
                 "language": "French",
                 "languageCode": "fr",
                 "direction": "ltr"
@@ -17591,6 +28241,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "language": "Japanese",
                 "languageCode": "ja",
                 "direction": "ltr"
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl"
               }
             ],
             "rows": [
@@ -17601,9 +28256,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "values": [
                   null,
                   7,
+                  7,
+                  7,
                   8,
                   6,
                   9,
+                  8,
+                  8
+                ]
+              },
+              {
+                "language": "Spanish",
+                "languageCode": "es",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  null,
+                  9,
+                  7,
+                  6,
+                  8,
+                  8,
+                  7,
+                  8
+                ]
+              },
+              {
+                "language": "Portuguese",
+                "languageCode": "pt",
+                "direction": "ltr",
+                "values": [
+                  7,
+                  9,
+                  null,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
                   8
                 ]
               },
@@ -17613,9 +28303,12 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   7,
+                  7,
+                  7,
                   null,
                   8,
                   6,
+                  8,
                   8,
                   8
                 ]
@@ -17626,11 +28319,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  6,
+                  6,
                   8,
                   null,
                   6,
                   8,
-                  8
+                  8,
+                  7
                 ]
               },
               {
@@ -17639,11 +28335,14 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   6,
+                  8,
+                  7,
                   6,
                   6,
                   null,
                   7,
-                  6
+                  6,
+                  7
                 ]
               },
               {
@@ -17654,8 +28353,11 @@ window.LONG_QUERY_EXPERIMENT = {
                   9,
                   8,
                   8,
+                  8,
+                  8,
                   7,
                   null,
+                  9,
                   9
                 ]
               },
@@ -17665,15 +28367,44 @@ window.LONG_QUERY_EXPERIMENT = {
                 "direction": "ltr",
                 "values": [
                   8,
+                  7,
+                  7,
                   8,
                   8,
                   6,
                   9,
+                  null,
+                  8
+                ]
+              },
+              {
+                "language": "Arabic",
+                "languageCode": "ar",
+                "direction": "rtl",
+                "values": [
+                  8,
+                  8,
+                  8,
+                  8,
+                  7,
+                  7,
+                  9,
+                  8,
                   null
                 ]
               }
             ],
             "pairs": [
+              {
+                "left": "en",
+                "right": "es",
+                "shared": 7
+              },
+              {
+                "left": "en",
+                "right": "pt",
+                "shared": 7
+              },
               {
                 "left": "en",
                 "right": "fr",
@@ -17700,6 +28431,76 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "en",
+                "right": "ar",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "pt",
+                "shared": 9
+              },
+              {
+                "left": "es",
+                "right": "fr",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 6
+              },
+              {
+                "left": "es",
+                "right": "it",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "zh",
+                "shared": 8
+              },
+              {
+                "left": "es",
+                "right": "ja",
+                "shared": 7
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "fr",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "de",
+                "shared": 6
+              },
+              {
+                "left": "pt",
+                "right": "it",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "zh",
+                "shared": 8
+              },
+              {
+                "left": "pt",
+                "right": "ja",
+                "shared": 7
+              },
+              {
+                "left": "pt",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "fr",
                 "right": "de",
                 "shared": 8
@@ -17720,6 +28521,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "fr",
+                "right": "ar",
+                "shared": 8
+              },
+              {
                 "left": "de",
                 "right": "it",
                 "shared": 6
@@ -17735,6 +28541,11 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 8
               },
               {
+                "left": "de",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "it",
                 "right": "zh",
                 "shared": 7
@@ -17745,12 +28556,28 @@ window.LONG_QUERY_EXPERIMENT = {
                 "shared": 6
               },
               {
+                "left": "it",
+                "right": "ar",
+                "shared": 7
+              },
+              {
                 "left": "zh",
                 "right": "ja",
                 "shared": 9
+              },
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 9
+              },
+              {
+                "left": "ja",
+                "right": "ar",
+                "shared": 8
               }
             ],
-            "average": 7.47
+            "average": 7.47,
+            "averageWithoutArabic": 7.36
           },
           "separation": {
             "explanation": "Disambiguating communities as human settlements can reduce drift toward generic community or environmental records, while preserving the ecological-social contrast.",
@@ -17775,21 +28602,88 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Italian"
               },
               {
+                "left": "es",
+                "right": "de",
+                "shared": 6,
+                "leftLabel": "Spanish",
+                "rightLabel": "German"
+              },
+              {
                 "left": "fr",
                 "right": "it",
                 "shared": 6,
                 "leftLabel": "French",
                 "rightLabel": "Italian"
+              }
+            ],
+            "lowestNonArabicPairs": [
+              {
+                "left": "de",
+                "right": "it",
+                "shared": 6,
+                "leftLabel": "German",
+                "rightLabel": "Italian"
+              },
+              {
+                "left": "en",
+                "right": "it",
+                "shared": 6,
+                "leftLabel": "English",
+                "rightLabel": "Italian"
+              },
+              {
+                "left": "es",
+                "right": "de",
+                "shared": 6,
+                "leftLabel": "Spanish",
+                "rightLabel": "German"
+              },
+              {
+                "left": "fr",
+                "right": "it",
+                "shared": 6,
+                "leftLabel": "French",
+                "rightLabel": "Italian"
+              }
+            ],
+            "lowestArabicPairs": [
+              {
+                "left": "de",
+                "right": "ar",
+                "shared": 7,
+                "leftLabel": "German",
+                "rightLabel": "Arabic"
               },
               {
                 "left": "it",
-                "right": "ja",
-                "shared": 6,
+                "right": "ar",
+                "shared": 7,
                 "leftLabel": "Italian",
-                "rightLabel": "Japanese"
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "en",
+                "right": "ar",
+                "shared": 8,
+                "leftLabel": "English",
+                "rightLabel": "Arabic"
+              },
+              {
+                "left": "es",
+                "right": "ar",
+                "shared": 8,
+                "leftLabel": "Spanish",
+                "rightLabel": "Arabic"
               }
             ],
             "highestPairs": [
+              {
+                "left": "zh",
+                "right": "ar",
+                "shared": 9,
+                "leftLabel": "Chinese",
+                "rightLabel": "Arabic"
+              },
               {
                 "left": "zh",
                 "right": "ja",
@@ -17798,20 +28692,20 @@ window.LONG_QUERY_EXPERIMENT = {
                 "rightLabel": "Japanese"
               },
               {
-                "left": "en",
-                "right": "zh",
+                "left": "es",
+                "right": "pt",
                 "shared": 9,
-                "leftLabel": "English",
-                "rightLabel": "Chinese"
-              },
-              {
-                "left": "fr",
-                "right": "ja",
-                "shared": 8,
-                "leftLabel": "French",
-                "rightLabel": "Japanese"
+                "leftLabel": "Spanish",
+                "rightLabel": "Portuguese"
               }
             ],
+            "overallLowestPair": {
+              "left": "de",
+              "right": "it",
+              "shared": 6,
+              "leftLabel": "German",
+              "rightLabel": "Italian"
+            },
             "focusPair": {
               "left": "de",
               "right": "it",
@@ -17893,35 +28787,125 @@ window.LONG_QUERY_EXPERIMENT = {
                   "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_0fbd467a2d2a2923318f1f0a8cb154d0/Description"
                 }
               ]
+            },
+            "arabicFocusPair": {
+              "left": "de",
+              "right": "ar",
+              "shared": 7,
+              "leftLabel": "German",
+              "rightLabel": "Arabic",
+              "editorialSummary": "Both sides stay partly connected through ecosystem functioning and protected areas and temperature dynamics and climate signals, but they select different records within that branch.",
+              "leftReading": {
+                "themes": [
+                  "ecosystem functioning and protected areas",
+                  "temperature dynamics and climate signals",
+                  "zoonoses and health impacts"
+                ],
+                "summary": "The German side appears to lean toward ecosystem functioning and protected areas, temperature dynamics and climate signals, and zoonoses and health impacts. Examples include \"Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses\" and \"Climate-driven ‘species-on-the-move’ provide tangible anchors to engage the public on climate change\"."
+              },
+              "rightReading": {
+                "themes": [
+                  "infrastructure, settlements and adaptation",
+                  "ecosystem functioning and protected areas",
+                  "temperature dynamics and climate signals"
+                ],
+                "summary": "The Arabic side appears to lean toward infrastructure, settlements and adaptation, ecosystem functioning and protected areas, and temperature dynamics and climate signals. Examples include \"Climate change adaptation responses among riparian settlements: a case study from Bangladesh\" and \"Impacts of Geopolitics and Policy on Latin American Biodiversity and Water Resources\"."
+              },
+              "leftOnly": [
+                {
+                  "position": 8,
+                  "recordId": "UY_5055ee0c9ffdfab032e19bfeb8052eab",
+                  "title": "Satellite imagery evidence for a multiannual water level decline in Hulun Lake, China, with suggestions to future policy making responses",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Lakes are ecosystems characterised by a substantial vulnerability to climate change. Their geomorphological features mean that they are particularly exposed to extreme events, which are known to put a significant pressure on fauna, flora and human populations…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_5055ee0c9ffdfab032e19bfeb8052eab/Description"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_93d7a7e45bcf25948de07262cc69c838",
+                  "title": "Climate-driven ‘species-on-the-move’ provide tangible anchors to engage the public on climate change",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Este artículo fue escrito por 26 autores.",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_93d7a7e45bcf25948de07262cc69c838/Description"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_c3a87f7fc6683b9fd69de4a5a82e499d",
+                  "title": "An analysis of climate change and health hazards: results from an international study",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Trabajo realizado por otros catorce autores.",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_c3a87f7fc6683b9fd69de4a5a82e499d/Description"
+                }
+              ],
+              "rightOnly": [
+                {
+                  "position": 7,
+                  "recordId": "UY_754b1e121730c48ad15abc943519ce40",
+                  "title": "Climate change adaptation responses among riparian settlements: a case study from Bangladesh",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "As transition areas between aquatic ecosystems and the adjacent terrestrial ones, riparian regions are highly exposed to coastal climate hazards. This article describes how climate change and extreme weather impact vulnerable riparian communities and settleme…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_754b1e121730c48ad15abc943519ce40/Description"
+                },
+                {
+                  "position": 9,
+                  "recordId": "UY_269fe4de2f7cbad5ce5cf4a3378c59d1",
+                  "title": "Impacts of Geopolitics and Policy on Latin American Biodiversity and Water Resources",
+                  "judgment": 1,
+                  "note": "The title or abstract shows a narrower or broader relationship to the topic.",
+                  "abstractSnippet": "Latin America is a major agricultural producer with important natural resources. Efforts have been made to protect sensitive areas but are hindered by agricultural trade disruptions outside the control of individual countries due to globally integrated crop m…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_269fe4de2f7cbad5ce5cf4a3378c59d1/Description"
+                },
+                {
+                  "position": 10,
+                  "recordId": "UY_38c3c205ae4ffdc22e68d58d82cbe17d",
+                  "title": "Disentangling the signal of climatic fluctuations from land use: changes in ecosystem functioning in South American protected areas (1982-2012)",
+                  "judgment": 2,
+                  "note": "",
+                  "abstractSnippet": "Global environmental change is characterized by changing climate, atmospheric composition and land use. Its impact on ecosystem structure and functioning has been detected throughout the world. While every ecosystem is vulnerable to climate change, the degree…",
+                  "abstractUrl": "https://search.lareferencia.info/vufind/Record/UY_38c3c205ae4ffdc22e68d58d82cbe17d/Description"
+                }
+              ]
             }
           },
           "summary": {
-            "semanticHitsTotal": 55,
-            "keywordHitsTotal": 20,
-            "semanticHitsAverage": 9.17,
-            "keywordHitsAverage": 3.33
+            "semanticHitsTotal": 80,
+            "keywordHitsTotal": 33,
+            "semanticHitsAverage": 8.89,
+            "keywordHitsAverage": 3.67
           }
         }
       ],
       "comparison": {
         "shortToLong1": {
-          "matrixDelta": 1.26,
-          "semanticHitDelta": -0.66,
-          "lowestPairDelta": 1
+          "matrixDelta": 1.86,
+          "matrixDeltaWithoutArabic": 0.97,
+          "semanticHitDelta": 0,
+          "lowestPairDelta": 4,
+          "nonArabicLowestPairDelta": 2
         },
         "long1ToLong2": {
-          "matrixDelta": -0.46,
-          "semanticHitDelta": 0,
-          "lowestPairDelta": 0
+          "matrixDelta": -0.06,
+          "matrixDeltaWithoutArabic": -0.32,
+          "semanticHitDelta": -0.11,
+          "lowestPairDelta": 0,
+          "nonArabicLowestPairDelta": 0
         },
         "shortToLong2": {
-          "matrixDelta": 0.8,
-          "semanticHitDelta": -0.66,
-          "lowestPairDelta": 1
+          "matrixDelta": 1.8,
+          "matrixDeltaWithoutArabic": 0.65,
+          "semanticHitDelta": -0.11,
+          "lowestPairDelta": 4,
+          "nonArabicLowestPairDelta": 2
         },
-        "matrixDelta": -0.46,
-        "semanticHitDelta": 0,
-        "lowestPairDelta": 0
+        "matrixDelta": -0.06,
+        "matrixDeltaWithoutArabic": -0.32,
+        "semanticHitDelta": -0.11,
+        "lowestPairDelta": 0,
+        "nonArabicLowestPairDelta": 0
       }
     }
   ]
